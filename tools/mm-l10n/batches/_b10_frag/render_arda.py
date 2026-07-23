@@ -29,7 +29,7 @@ def term(x):
     return "«"+x+"»"  # marker for unmapped, to catch leaks
 def tlist(s):
     s=re.sub(r'\s+(?:and|amd)\s+',',',s.strip().rstrip('.'))
-    s=re.sub(r'\bor\s+',' ',s)
+    s=re.sub(r'\s+or\s+',',',s)
     s=s.replace(' terrain','')
     out=[]; seen=set()
     for t in s.split(','):
@@ -64,9 +64,11 @@ def render(b):
     if not m4: m4=re.search(r'arda will be weakened by\s+(.*?)\.\s*It will', b, re.S)
     if m4: out+=f"其神赐之力会被{tlist(m4.group(1))}削弱。"
     # alignment clause
-    ma=re.search(r'(It will be (?:strengthened|weakened) in [^.]*?lands[^.]*?\.)', b)
+    b2=b.replace('Good or neutral lands','Good or Neutral lands')
+    ma=re.search(r'(It will be (?:strengthened|weakened) in [^.]*?lands[^.]*?\.)', b2)
     if ma:
         al=ma.group(1)
+        al=al.replace('Good or neutral','Good or Neutral')
         al=(al.replace('It will be strengthened in Good lands and weakened in Evil lands.','它在善良土地强化，在邪恶土地削弱。')
               .replace('It will be strengthened in Good or Neutral lands.','它在善良或中立土地强化。')
               .replace('It will be strengthened in Neutral lands and weakened in Good or Evil lands.','它在中立土地强化，在善良或邪恶土地削弱。')
@@ -75,24 +77,37 @@ def render(b):
               .replace('It will be weakened in Good or Evil lands.','它在善良或邪恶土地削弱。')
               .replace('It will be weakened in Good lands, strengthened in Neutral or Evil lands.','它在善良土地削弱，在中立或邪恶土地强化。')
               .replace('It will be weakened in Good and strengthened in Evil lands.','它在善良土地削弱，在邪恶土地强化。')
-              .replace('It will be weakened in Good or Neutral and strengthened in Evil lands.','它在善良或中立土地削弱，在邪恶土地强化。')
+              .replace('It will be weakened in Good or Neutral and strengthened in Evil lands.','它在善良或中立土地削弱，在邪恶土地强化。').replace('It will be weakened in Good or Neutral lands and strengthened in Evil lands.','它在善良或中立土地削弱，在邪恶土地强化。')
               .replace('It will be weakened in Neutral and strengthened in Evil lands.','它在中立土地削弱，在邪恶土地强化。')
               .replace('It will be weakened in Good lands and strengthened in Evil lands.','它在善良土地削弱，在邪恶土地强化。'))
         out+=al
-    # proximity strengthen + weakened
-    mp=re.search(r'strengthened by proximity to\s+(.*?)(?:\.\s*It is weakened by\s+(.*?))?\.?\s*(?:It is str?en?thened|$)', b, re.S)
-    # robust: cut everything from 'proximity to'
+    # proximity: everything from 'proximity to' to end
     idx=b.find('proximity to')
     if idx>=0:
         rest=b[idx+len('proximity to'):]
-        parts=re.split(r'\.\s*It (?:is|was) weakened by\s+|\.\s*It weakened by\s+', rest, maxsplit=1)
-        strong=parts[0]
+        rest=re.sub(r'\\r|\\n|\\t','',rest).strip()
+        # 1) split off optional tail: "It is stren(g)thened near/on ..."
+        tail=""
+        mt=re.search(r'\.\s*It is stren\w*\s+(?:near|on)\s+(.*)$', rest, re.S)
+        if mt:
+            tail=mt.group(1); rest=rest[:mt.start()]
+        # 2) split strong vs weak on either ". It is weakened by" or " and weakened by"
+        ms=re.split(r'[.,]\s*It (?:is |was )?weakened by\s+|\s+and weakened by\s+|\.\s*It weakened by\s+', rest, maxsplit=1)
+        strong=ms[0].strip().rstrip('.')
         out+=f"它会因邻近{tlist(strong)}而强化。"
-        if len(parts)>1:
-            weak=parts[1]
-            # weak may itself contain a trailing 'It is stronger the longer...' etc
-            weak=re.split(r'\.\s*It is (?:stronger|strenthened)|\.\s*It is str', weak)[0]
+        if len(ms)>1:
+            weak=ms[1].strip().rstrip('.')
+            # weak may carry trailing "It is stronger the longer..." (already tail-less here)
+            weak=re.split(r'\.\s*It ', weak)[0].strip().rstrip('.')
             out+=f"它会被{tlist(weak)}削弱。"
+        if tail:
+            tp=re.split(r',?\s*and weakened on\s+', tail, maxsplit=1)
+            near=tp[0].strip().rstrip('.')
+            out+=f"它在临近{tlist(near)}时强化"
+            if len(tp)>1:
+                won=tp[1].strip().rstrip('.')
+                out+=f"，在{tlist(won)}上削弱"
+            out+="。"
     # special fortify tails
     if 'stronger the longer the unit has been fortifying' in b:
         out+="单位在原地驻防越久，其力量越强。"
@@ -100,7 +115,7 @@ def render(b):
         out+="它也会因在一处驻防过久而被削弱。"
     return out
 
-paras=[render(b) for b in bullets]
+paras=[render(b)+'\\r\\n\\r\\n' for b in bullets]
 body='[PARAGRAPH][ICON_BULLET]'.join(['']+paras)  # rejoin with markers, leading marker before first
 # intro (hand): translate separately - keep markers
 INTRO=("[H1]神赐之力[\\\\H1][PARAGRAPH:2]“神赐之力”一词指的是神祇能够授予其祭司与天使的神圣力量。"
@@ -108,7 +123,7 @@ INTRO=("[H1]神赐之力[\\\\H1][PARAGRAPH:2]“神赐之力”一词指的是�
 "[PARAGRAPH]诸神之间的结盟与仇怨，意味着对施法者自身宗教的信仰并非唯一相关因素，因为友善的神祇可能允许施法者的神祇分得一些力量，而崇奉该神之敌者也可能庇护其邻人抵御他的攻击。\\r\\n\\r\\n"
 "[PARAGRAPH] 在本 modmod 中，神赐之力的强度由一系列晋升来表示，这些晋升主要影响法术失误施放的几率。带有某种宗教及神圣晋升的单位，会依据若干因素自动替换这些神赐之力等级的晋升。这些因素包括：施法者所有者的国教，控制该单位所在领土的玩家的国教，该玩家 AI 对每种宗教的偏好，最近城市中存在的宗教，最近城市中的宗教建筑，距各座圣城的距离，以及施法者所在地块或相邻地块上存在的能量或独特景观。\\r\\n\\r\\n\\r\\n"
 "[PARAGRAPH]世上存在独一之子或圣母会，尤其在附近城市中，会削弱所有祭司的神赐之力。一旦圣母会的影响足够强大，圣母会城市或叛教者附近的祭司便会背弃他们的领袖，自身也沦为叛教者。一旦独一之子拥有足够的影响，祭司便可能背弃其信仰、变得反叛，甚至可能自行解散或叛投格利高里。\\r\\n\\r\\n")
-full=INTRO+body+"\\r\\n\\r\\n\\r\\n\t\t"
+full=INTRO+body+"\\r\\n\t\t"
 # check for unmapped term leaks
 leaks=re.findall(r'«[^»]*»',full)
 print("UNMAPPED LEAKS:",set(leaks))
