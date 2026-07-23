@@ -6,7 +6,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_INFO_PANE</Tag>
-		<English>&#x9769;&#x547d;&#x76d1;&#x89c6; &lt;Ctrl+Shift+G&gt;</English>
+		<English>&#x9769;&#x547d;&#x76d1;&#x89c6; &#x26;lt;Ctrl+Shift+G&#x26;gt;</English>
 		<French>Montre de r&#233;volution &lt;Ctrl+Shift+G&gt;</French>
 		<German>Revolutions-&#220;berwachung &lt;Ctrl+Shift+G&gt;</German>
 		<Italian>Consigliere Rivoluzionario &lt;Ctrl+Shift+G&gt;</Italian>

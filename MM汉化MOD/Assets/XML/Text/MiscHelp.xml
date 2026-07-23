@@ -3,7 +3,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_TURNS_UNTIL_50_PERCENT_NATIONALITY</Tag>
-		<English>&#x8ddd; 50% %s1&#x003a; %d2 &#x7684;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x8ddd; 50% %s1&#x26;#x003a; %d2 &#x7684;&#x56de;&#x5408;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOLD_PER_CITY</Tag>

@@ -7,7 +7,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_MISC_SHIFT_ALT_PREPARE_WAR</Tag>
-		<English>&#xff08;&lt;SHIFT>+&lt;ALT> &#x5207;&#x6362;&#x6218;&#x4e89;&#x8ba1;&#x5212;&#xff09;</English>
+		<English>&#xff08;&#x26;lt;SHIFT&#x3e;+&#x26;lt;ALT&#x3e; &#x5207;&#x6362;&#x6218;&#x4e89;&#x8ba1;&#x5212;&#xff09;</English>
 		<French>(&lt;SHIFT>+&lt;ALT> pour commuter le plan de guerre)</French>
 		<German>(&lt;SHIFT>+&lt;ALT> Kriegs-Plan umschalten)</German>
 		<Italian>(&lt;SHIFT>+&lt;ALT> per commutare programma di guerra)</Italian>

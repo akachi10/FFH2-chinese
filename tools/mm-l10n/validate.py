@@ -7,6 +7,8 @@ r"""MM 汉化覆盖包静态校验工具 (M4)。
 
   1. 可解析          —— xml.etree 解析通过（FAIL）
   2. key 集合一致    —— 覆盖包 <Tag> 集合、条数、顺序与基准完全一致（不增/删/重排/重复）（FAIL）
+     2b. 重复 key 内容一致（m-1）—— 覆盖包中同一重复 key（基准本身可含重复,如 Magister 33 个）
+                        各处 English 内容若互不一致 = WARN（基准两两一致时无损,仅告警未来分叉）
   3. 数值占位符守恒  —— 每条 English 的 %s1/%d1/%s2… 数值占位符多重集与基准一致，【大小写敏感】(%d1≠%D1)（FAIL；运行时报错风险）
   4. 方括号标记       —— 口径 v2（含 LINK 方向分档）：
         · 纯排版标记（[NEWLINE]/[TAB]/[PARAGRAPH:N]/[COLOR_*]/[COLOR_REVERT]/[BOLD]/[ICON_*] 等）多重集差异 = WARN（不计退出码）
@@ -282,6 +284,22 @@ def validate_file(over_path, base_path):
             key_details.append("覆盖包存在重复 key: %s" % ", ".join(dup[:10]))
     checks.append(("key集合一致", len(key_details) == 0, key_details))
 
+    # m-1：重复 key 的内容一致性（无条件跑，覆盖「基准本身含重复 key」场景）。
+    #   Magister 文件基准就含 33 个重复 key,覆盖包保序复制后 over_tags==base_tags,
+    #   旧重复检测(嵌在 over_tags!=base_tags 分支内)对此为死代码。此处独立检测:
+    #   覆盖包中同一重复 key 的各处 English 内容若【互不一致】-> WARN
+    #   (基准两两一致时 apply 对同名多块写同一 entity 无损,故 WARN 级即可)。
+    dup_content_details = []
+    eng_by_tag_occurrences = {}
+    for t in over_texts:
+        tg = tag_of(t)
+        eng_by_tag_occurrences.setdefault(tg, []).append(english_content(t))
+    for tg, engs in eng_by_tag_occurrences.items():
+        if len(engs) > 1 and len(set(engs)) > 1:
+            dup_content_details.append(
+                "[%s] 重复 key 出现 %d 次但内容互不一致(%d 种不同 English)"
+                % (tg, len(engs), len(set(engs))))
+
     # 若 key 不一致，逐条比对无法可靠对齐；按 Tag 建映射比对交集
     base_by_tag = {}
     for t in base_texts:
@@ -400,8 +418,9 @@ def validate_file(over_path, base_path):
     checks.append(("改动行纯ASCII", len(ascii_details) == 0, ascii_details[:30]))
     checks.append(("其他语言未触碰", len(lang_details) == 0, lang_details[:30]))
 
-    # WARN 单独返回（不进 checks，不影响退出码）—— 仅纯排版标记差异
-    warnings = ("排版标记多重集不一致", len(warn_details), warn_details[:30])
+    # WARN 单独返回（不进 checks，不影响退出码）—— 纯排版标记差异 + m-1 重复 key 内容分叉
+    all_warn = warn_details + dup_content_details
+    warnings = ("排版标记差异/重复key内容分叉", len(all_warn), all_warn[:40])
     return checks, warnings
 
 

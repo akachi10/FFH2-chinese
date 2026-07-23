@@ -28,7 +28,8 @@ python3 tools/mm-l10n/validate.py
 | 1 | **可解析** | FAIL | `xml.etree` 解析通过 |
 | 2 | **key 集合一致** | FAIL | 覆盖包 `<Tag>` 的集合、条数、**顺序**与基准完全一致（不增/删/重排/重复）|
 | 3 | **数值占位符守恒** | FAIL | 每条 English 的 `%s1`/`%d1`/`%s2`… 数值占位符多重集与基准一致，**大小写敏感**（`%d1`≠`%D1`）。多重集不一致（含大小写差异）= FAIL（运行时报错风险）|
-| 4 | **方括号标记** | WARN / FAIL | **口径 v2（含 LINK 方向分档）**：① 纯排版标记（`[NEWLINE]`/`[TAB]`/`[PARAGRAPH:N]`/`[COLOR_*]`/`[COLOR_REVERT]`/`[BOLD]`/`[ICON_*]` 等）多重集差异 = **WARN**；② LINK 类（`[LINK=*]`/`[\LINK]`/`[/LINK]`）**按方向**：译文相对基准**缺失** LINK = **WARN**（LINK 剥离的正常产物，显示无损）；译文相对基准**多出** LINK = **FAIL**（防后续翻译批引入悬空链接目标）；③ 覆盖包出现**已知合法词表之外**且**基准原文也没有**的未知标记 = **FAIL** |
+| 2b | **重复 key 内容一致**（m-1）| WARN | 覆盖包中同一**重复 key**（基准本身可含重复，如 `Magister_CIV4GameText_FFH2.xml` 有 33 个）各处 English 内容若**互不一致** = WARN。无条件检测（旧版嵌在"key 不一致"分支内对此为死代码）。基准两两一致时 apply 对同名多块写同一内容、无损，故 WARN 级 |
+| 4 | **方括号标记** | WARN / FAIL | **口径 v2（含 LINK 方向分档）**：① 纯排版标记（`[NEWLINE]`/`[TAB]`/`[PARAGRAPH:N]`/`[COLOR_*]`/`[COLOR_REVERT]`/`[BOLD]`/`[ICON_*]` 等）多重集差异 = **WARN**；② LINK 类（`[LINK=*]`/`[\LINK]`/`[/LINK]`）**按方向**：译文相对基准**缺失** LINK = **WARN**（LINK 剥离的正常产物，显示无损）；译文相对基准**多出** LINK = **FAIL**（防后续翻译批引入悬空链接目标）；③ 覆盖包出现**已知合法词表之外**且**基准原文也没有**的未知标记 = **FAIL**；④ **闭合标记退化**（成对族 X∈{H1,H2,BOLD,LINK}：相对基准**缺失 `[\X]`/`[/X]`** 同时**多出裸 `[X]`**）= **FAIL**（转义反斜杠/斜杠被吞的特征签名，破坏成对结构）|
 | 5 | **其他语言未触碰** | FAIL | French/German/Italian/Spanish/**Finnish** 列（含 `<Gender>`/`<Plural>` 子结构）解析后值与基准逐字一致 |
 | 6 | **改动行纯 ASCII** | FAIL | 仅对**相对基准发生改动**（被翻译）的 English 内容要求纯 ASCII——中文必须写成 `&#x` 数字实体（锚点 A1）。判定在**原始字节层**（实体是 ASCII、合法；原始中文字节 >0x7F 才 FAIL）。未改动内容以"与基准一致"为准（检查项 5 覆盖），基准历史既有的非 ASCII（如 CP1252 `\x92`）不判错 |
 | 7 | **实体合法** | FAIL | 所有 `&#x`/`&#` 数字实体可解码，解码后无控制字符（`\t\n\r` 除外）|
@@ -46,6 +47,13 @@ python3 tools/mm-l10n/validate.py
 - **检查项 4**（口径 v2）：纯排版标记重排（`[TAB]`↔`[NEWLINE]` 等）仅 WARN；LINK 类**按方向**——缺失 LINK（剥离）= WARN、多出 LINK（悬空链接风险）= FAIL；引入未知标记 = FAIL。
 - **检查项 6 在原始字节层判定 + 只查改动行**：中文实体（`&#x..;`）是 ASCII，合法；直接写入的原始中文字节才 FAIL。未改动行由检查项 5 保证与基准逐字一致，其历史非 ASCII 不判错。
 - **Finnish 列**：派单清单未列出，但真实基准有 977 条 Finnish；一并纳入"其他语言未触碰"保护。
+
+## 相关工具与开关
+
+- **`apply_translations.py`**：把填好 `chinese` 列的批次 TSV 注入覆盖包 English 列（`to_entities` 实体化 + 校验）。复用 `backfill.py` 的实体/正则函数。`to_entities` 对非 ASCII 及 XML 元字符 `& < >` 均转数字实体（`&#x26;`/`&#x3c;`/`&#x3e;`），保证输出纯 ASCII 且**良构 XML**（M-1 修复；自验：`python3 backfill.py --selftest-entities`）。
+- **`backfill.py`**：M3 官方译文回填（一次性工具）。
+  - ✅ **`--selftest-entities`**：独立自验 `to_entities` 元字符转义往返无损 + XML 良构，**不依赖任何外部路径**，可随时跑。
+  - ⛔ **`--verify`（已废弃 · 勿用）**：名不副实——它并非只读自验，而是**重跑完整回填、覆写全部 111 个输出文件**，且依赖硬编码的 scratch 官方包路径（`backfill.py` 顶部 `OFFICIAL_DIR`，指向会话 `/private/tmp/.../ch041o/Text`）；该路径不存在时直接崩溃。属一次性工具遗留开关，不重构，**请勿使用**。需要独立自验请用 `--selftest-entities`。
 
 ## 红测/绿测（红→绿证据，口径 v2）
 

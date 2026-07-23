@@ -175,16 +175,24 @@ def align_placeholder_case(text, ref_english):
 
 
 def to_entities(text):
-    """把真实中文文本编码为 XML 数字实体形式,保证输出纯 ASCII。
+    """把真实中文文本编码为 XML 数字实体形式,保证输出纯 ASCII 且良构。
 
-    - 非 ASCII 字符 -> &#xXXXX;
-    - '&' 若非既有实体的一部分,转 &amp; (中文译文中一般已无裸 & 需要保护占位符/标记原样)
-    ASCII 可打印字符(含 [ICON_*] %s1 等标记/占位符)原样保留。
+    - 非 ASCII 字符           -> &#xXXXX;
+    - XML 元字符 & < >         -> 数字实体 &#x26; / &#x3c; / &#x3e;
+      (M-1 修:含 "A&B <tag>" 的译文若不转义会写出非良构 XML;用数字实体而非命名实体
+       &amp;/&lt;/&gt; 以与本工具的实体风格一致,且解码时 decode_entities 能正确还原)
+    - 其余 ASCII 可打印字符(含 [ICON_*] %s1 等标记/占位符)原样保留。
+
+    注:当前已生成产物的 English 内层无裸 & < >(收口审查 EXP 扫描命中 0),
+    故本转义不改变任何既有产物字节,仅堵住未来含这些字符的译文写坏 XML 的潜伏路径。
     """
+    xml_meta = {'&': '&#x26;', '<': '&#x3c;', '>': '&#x3e;'}
     out = []
     for ch in text:
         o = ord(ch)
-        if o < 128:
+        if ch in xml_meta:
+            out.append(xml_meta[ch])
+        elif o < 128:
             out.append(ch)
         else:
             out.append('&#x%x;' % o)
@@ -568,9 +576,54 @@ def write_report(stats, total, pending):
     print("报告已写入:", REPORT_PATH)
 
 
+def selftest_entities():
+    """M-1 自验:to_entities 对 XML 元字符 & < > 的转义 —— 往返无损 + 良构 XML。
+
+    不依赖官方包/输出文件,可独立运行:python3 backfill.py --selftest-entities
+    """
+    import xml.etree.ElementTree as ET
+    print("\n===== to_entities 元字符转义自验 (M-1) =====")
+    cases = [
+        "A&B <tag>",                         # 审查报告点名样例
+        "攻击 & 防御",                        # 裸 & 的中文译文
+        "生命值 < 50% 且 生命值 > 10%",       # 裸 < >
+        "选择 [ICON_GOLD] %s1 & <目标>",      # 混标记/占位符/元字符
+        "纯中文无元字符",
+    ]
+    ok = True
+    for src in cases:
+        ent = to_entities(src)
+        # (a) 输出纯 ASCII
+        if any(ord(c) > 127 for c in ent):
+            print("  [FAIL] 非纯 ASCII:", repr(src)); ok = False
+        # (b) 无裸 & < >(元字符必须已实体化)
+        if re.search(r'&(?!#x?[0-9A-Fa-f]+;)', ent) or '<' in ent or '>' in ent:
+            print("  [FAIL] 仍含裸元字符:", repr(ent)); ok = False
+        # (c) 往返无损:decode_entities(ent) == src
+        back = decode_entities(ent)
+        if back != src:
+            print("  [FAIL] 往返不无损: %r -> %r -> %r" % (src, ent, back)); ok = False
+        # (d) 包进 English 后 XML 良构可解析
+        xml = ('<?xml version="1.0"?><Civ4GameText><TEXT><Tag>K</Tag>'
+               '<English>' + ent + '</English></TEXT></Civ4GameText>')
+        try:
+            root = ET.fromstring(xml)
+            got = root.find(".//English").text or ""
+            if got != src:
+                print("  [FAIL] 解析后 English 文本 != 原文: %r != %r" % (got, src)); ok = False
+        except Exception as e:
+            print("  [FAIL] XML 不可解析: %r (%s)" % (ent, e)); ok = False
+    print("元字符转义自验: %s" % ("全部通过 ✅" if ok else "存在失败 ❌"))
+    return ok
+
+
 def main():
+    if "--selftest-entities" in sys.argv:
+        sys.exit(0 if selftest_entities() else 1)
     if "--verify" in sys.argv:
-        # 仅自验:需要重新计算 samples/stats -> 直接跑一遍回填(幂等)
+        # 【已废弃 · 勿用】名不副实:并非只读自验,而是重跑完整回填、覆写全部 111 输出文件,
+        # 且依赖硬编码 scratch 官方包路径(不存在即崩)。详见 README「废弃开关」。保留仅为兼容,
+        # 一次性工具不重构。真正的独立自验请用 --selftest-entities。
         pass
     print("加载官方译文 ...")
     stats, total, verify_samples, pending = backfill()

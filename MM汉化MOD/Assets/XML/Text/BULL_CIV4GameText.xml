@@ -10,7 +10,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_CITY_BAR_CTRL_BASE_VALUES</Tag>
-		<English>[NEWLINE]&#x6309;&#x4f4f; &lt;CTRL&gt; &#x67e5;&#x770b;&#x57fa;&#x7840;&#x6570;&#x503c;&#x3002;</English>
+		<English>[NEWLINE]&#x6309;&#x4f4f; &#x26;lt;CTRL&#x26;gt; &#x67e5;&#x770b;&#x57fa;&#x7840;&#x6570;&#x503c;&#x3002;</English>
 		<German>[NEWLINE][BOLD]&lt;STRG&gt;[\BOLD] dr&#252;cken, um die Basiswerte zu sehen</German>
 		<Italian>[NEWLINE]Tieni premuto &lt;CTRL&gt; per visualizzare i valori base.</Italian>
 		<Spanish>[NEWLINE]Mant&#233;n &lt;CTRL&gt; para ver los valores base.</Spanish>
@@ -774,7 +774,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_SAME_UNITS_TYPE</Tag>
-		<English>[SPACE]&#xff08;&#x6309; &lt;ALT&gt; &#x9009;&#x53d6;&#x5f53;&#x524d;&#x5355;&#x4f4d;&#x7c7b;&#x578b;&#x7684;&#x5168;&#x90e8;&#x5355;&#x4f4d;&#xff09;</English>
+		<English>[SPACE]&#xff08;&#x6309; &#x26;lt;ALT&#x26;gt; &#x9009;&#x53d6;&#x5f53;&#x524d;&#x5355;&#x4f4d;&#x7c7b;&#x578b;&#x7684;&#x5168;&#x90e8;&#x5355;&#x4f4d;&#xff09;</English>
 		<German>[SPACE](&lt;ALT&gt; f&#252;r alle Einheiten des aktiven Einheitentyps)</German>
 		<Italian>[SPACE](&lt;ALT&gt; per tutte le Unit&#224; del tipo dell'Unit&#224; attiva)</Italian>
 		<Spanish>[SPACE](&lt;ALT&gt; para todas las unidades del mismo tipo que la unidad activa)</Spanish>
