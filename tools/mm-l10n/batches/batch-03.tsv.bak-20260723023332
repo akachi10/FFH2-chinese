@@ -1,0 +1,701 @@
+file	key	english	chinese
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_PETER_1	Welcome, [CT_NAME]. I am [OUR_NAME], ruler of all of [OUR_CIV_SHORT]. You will find me a fair man to deal with - cruel, but fair. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_CATHERINE_1	Well hello there, [CT_NAME]. It is a pleasure to meet you at last! I'm always looking for CLOSER relations with other leaders, if you get my drift...	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_ISABELLA_1	Her most righteous majesty, Isabella, beloved of God and protector of the faith, does condescend to greet you, [CT_NAME]. Do tell me: are you a righteous people, or are you fiendish heathens who need to be wiped off of the face of this fair land?	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_1	Stop pestering me!	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_2	I have nothing to say to you.	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_3	Sorry, [CT_NAME], talk does not interest us!	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_4	Go away. We have nothing to discuss.	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_5	Leave me alone!	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_6	I am not interested in hearing any more of your lies. Go away.	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_FRANKLIN_ROOSEVELT_1	[OUR_EMPIRE] does not negotiate with terrorists.	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_WASHINGTON_1	We shall not listen to your insidious lies. Begone!	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_SALADIN_1	Your words are but the braying of a jackass, [CT_NAME]. Take them elsewhere.	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_MONTEZUMA_1	Talk to the ceremonial blade, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_QIN_SHI_HUANG_1	The mere sight of you offends me, [CT_NAME]. Begone!	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_CHINESE_LEADER_1	[OUR_CIV_SHORT] will not listen to your bourgoise lies!	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_HATSHEPSUT_1	Begone, you lying serpent!	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_ELIZABETH_1	Go away you horrible little person!	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_VICTORIA_1	We are not amused by your meaningless babble, [CT_NAME]!	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_LOUIS_XIV_1	Forget it. I have wigs that are smarter than you are.	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_NAPOLEON_1	Talk to the massed artillery, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_BISMARCK_1	Speak with YOU? Do not make me laugh!	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_ALEXANDER_1	I have more important things to do than to exchange lies with you. Come back another day.	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_HUAYNA_CAPAC_1	It is a waste of time to speak with fools. Go away.	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_ASOKA_1	We will not listen to your lies, [CT_NAME]. Remove yourself from our presence.	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_GANDHI_1	Further discussion at this point would be meaningless. Not to mention very annoying. Go away.	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_TOKUGAWA_1	I have no time to exchange pleasantries with you, [CT_NAME]: I am too busy plotting your downfall. 	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_MANSA_MUSA_1	Take your pathetic lies elsewhere, for I do not wish to hear them.	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_GENGHIS_KHAN_1	Bah! This chatter is a waste of time! Begone!	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_KUBLAI_KHAN_1	Hello, this is [OUR_NAME]. [OUR_CIV_SHORT] is not at home right now: please leave your name and number and we'll get back to you when pigs have wings.	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_CYRUS_1	Vile serpent! [OUR_CIV_SHORT] will not listen to your lies!	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_JULIUS_CAESAR_1	Negotiate this, pal!	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_PETER_1	Guards! Toss this villain out into the snow before I commit a diplomatic incident!	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_CATHERINE_1	I find you strangely unattractive, [CT_NAME]. Do not return until you are better-looking.	
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_ISABELLA_1	Your lying words pollute the heavens, [CT_NAME]!	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_1	We look forward to many years of peace between the [OUR_CIV_ADJ] and [CT_CIV_ADJ] Empires.	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_2	May the peace be eternal.	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_3	May we all live long and prosper.	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_4	May this peace last until there is no more room to expand!	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_5	I look forward to years of peace with you, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_6	Wonderful!	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_7	[CT_NAME], let us sit in a circle and sing "Kumbaya" to celebrate this great event!	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_8	Minions! Prepare a feast to celebrate the peace between our great Empires!	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_9	You have our gratitude.	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_10	May the peace last a thousand years.	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_11	There is no way to peace. Peace is the way.	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_12	You have chosen wisely.	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_13	Excellent!	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_14	I applaud your wisdom.	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_15	Wonderful.	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_16	Excellent! Now let us join together and destroy somebody else!	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_17	You are wiser than you appear, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_18	Peace with honor, [CT_NAME]: that's what it's all about.	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_19	You are not as foolish as you first appear, [CT_NAME]. I am pleased.	
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_20	May the peace last until there is no one else to conquer!	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_1	No way.	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_2	Not until every last [CT_CIV_ADJ] warrior is ground into dust!	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_3	Never!	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_4	There will be no peace, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_5	Peace? Hah! Forget it.	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_6	It is much too late for that, [CT_NAME]. Take your punishment like a man!	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_FRANKLIN_ROOSEVELT_1	Certainly not! You've awoken a sleeping tiger, [CT_NAME], and I hope you choke on it.	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_WASHINGTON_1	America does not negotiate with terrorists. 	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_SALADIN_1	Never! You are an enemy of God! Prepare for thy doom!	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_MONTEZUMA_1	No. We have not yet sacrificed enough [CT_CIV_ADJ] warriors to slake the gods' unending thirst for blood. Try back later.	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_QIN_SHI_HUANG_1	No. You have not yet learned the proper respect for your betters.	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_CHINESE_LEADER_1	There can never be peace in the unending war between the people and the bloodsucking bourgoise capitalist opressors who seek to enslave them! That would be you, punk.	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_HATSHEPSUT_1	Gods do not negitiate with mortals - particularly with ugly little slimeballs such as yourself. Go back to your home to await your doom.	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_ELIZABETH_1	Do you plead for mercy, [CT_NAME]? You'll find none here - only justice!	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_VICTORIA_1	War is deeply unpleasant, but sometimes necessary. We're told that this is one of those times, so we must refuse your pleas. This interview is concluded.	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_LOUIS_XIV_1	It is far too late for peace, you silly [CT_CIV_ADJ] person! Now go away or I shall taunt you a second time!	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_NAPOLEON_1	Why should I agree to peace when my [OUR_CIV_ADJ] armies are making such short work of you?	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_BISMARCK_1	Your request is denied. Welcome to total war, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_ALEXANDER_1	Your continued existence is an insult to the mighty [OUR_EMPIRE]. This war shall end when you have been erased from the planet.	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_HUAYNA_CAPAC_1	You may beg and plead all you like, [CT_NAME], but it will do you no good. The war will continue until the gods grow tired of it.	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_ASOKA_1	There shall be no true peace in the world until you are no longer in it. The war continues.	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_GANDHI_1	I may be a pacifist, [CT_NAME], but I'm not an idiot. [OUR_CIV_SHORT] declines your request.	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_TOKUGAWA_1	What? Leave you alive to betray and backstab us again?! I shall not sleep easily until you are totally vanquished!	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_MANSA_MUSA_1	Your nation pollutes the very world with its corruption, [CT_NAME]. You must be exterminated.	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_GENGHIS_KHAN_1	Now? While everybody's having so much fun? I don't think so!	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_KUBLAI_KHAN_1	No! [OUR_CIV_ADJ] laws demand that you be further punished for your insolence!	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_CYRUS_1	You have yet to pay fully for your sins, [CT_NAME]. Your people's sufferings will continue until you have done so.	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_JULIUS_CAESAR_1	I have a better idea - how about I just raze your cities and sow your fields with salt?	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_PETER_1	Mighty [OUR_CIV_SHORT] does not negotiate with the likes of you! Now go before I have my Cossacks hack you to bits!	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_CATHERINE_1	I must refuse, [CT_NAME]; peace is not in our best interests at this time. Besides, I think that men in uniform look totally yummy, don't you?	
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_ISABELLA_1	No! God commands that I continue this holy crusade until I have achieved total victory! Begone, churl!	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_1	Hello, [CT_NAME]. What is it that you wish to discuss?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_2	Greetings. What may humble [OUR_CIV_SHORT] do for the mighty [CT_CIV_SHORT]?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_3	Greetings.  How may we be of assistance?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_4	Welcome, friend [CT_NAME]. How may we be of assistance?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_5	Hello again!	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_6	Good day to you, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_7	So what's going on?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_8	Hello, [CT_NAME]. What can I do for you?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_9	What is on your mind?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_10	To what do I owe the pleasure of your company?'	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_11	Greetings, [CT_NAME]; how may we be of service?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_12	Welcome, [CT_NAME], to my home.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_13	Hello, [CT_NAME], leader of mighty [CT_CIV_SHORT].	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_14	And what brings [CT_CIV_SHORT] to my humble palace?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_15	How may the [OUR_EMPIRE] assist mighty [CT_CIV_SHORT]?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_16	And to what do I owe the pleasure of your company?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_WASHINGTON_1	Greetings, [CT_NAME]. How was your journey from the [CT_EMPIRE]? I slept there once, you know. 	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_FRANKLIN_ROOSEVELT_1	How absolutely marvey to see you again, [CT_NAME]! Do sit down; my man will get you a Martini.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_SALADIN_1	Blessings be upon you, oh mighty [CT_NAME]! Your glorious personage bestows great honor upon my humble kingdom!	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_MONTEZUMA_1	Welcome, friend [CT_NAME]! I will slaughter many slaves in celebration of your visit!	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_QIN_SHI_HUANG_1	Greetings, [CT_NAME]! Who shall we betray and destroy today?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_CHINESE_LEADER_1	On behalf of the great and glorious Communist Party of China and of all of her horrible little peasants - I mean, "glorious workers" - greetings!	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_HATSHEPSUT_1	Hello again, [CT_NAME]. How honored you must be to see me once more.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_ELIZABETH_1	Good afternoon, [CT_NAME]. And how is that quaint little empire of yours doing?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_VICTORIA_1	On behalf of Mighty Britannia, we are almost pleased to grant you an audience, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_LOUIS_XIV_1	Welcome to my palace, [CT_NAME]. Care to watch me shave?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_NAPOLEON_1	I am quite busy today, [CT_NAME], but perhaps I can grant you a short audience.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_BISMARCK_1	[OUR_CIV_SHORT] salutes you, [CT_NAME]. Come - sit down and admire my huge mustaches!	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_ALEXANDER_1	Welcome, my friend! Come, let us mount our chariots and destroy our foes, leaving fifty thousand rotting corpses upon the battlefield for the crows to fatten upon!	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_HUAYNA_CAPAC_1	I, [OUR_NAME], do welcome you, [CT_NAME], leader of the [CT_EMPIRE]. Let us speak of the slow, painful deaths of our enemies! Care for a smoked hamster?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_ASOKA_1	Greetings, fair [CT_NAME]! May our two countries live forever in peace and harmony!	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_GANDHI_1	Greetings, [CT_NAME]. I trust you have come in peace?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_TOKUGAWA_1	It is good to see you again, [CT_NAME]! Let us sit down and plot the ruination of our enemies. 	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_MANSA_MUSA_1	We meet again, [CT_NAME]. It is truly a blessed day for [OUR_CIV_SHORT]!	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_GENGHIS_KHAN_1	Welcome to my yurt, [CT_NAME]! Let us sit upon these horse-hair cushions and discuss many things! Care for some boiled yak?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_KUBLAI_KHAN_1	Welcome to China, [CT_NAME]! Let us sit upon these golden thrones and discuss many things! Care for some kung pao yak?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_CYRUS_1	I salute you, ruler of the [CT_EMPIRE]. May your inevitable destruction at the hands of Mighty [OUR_CIV_SHORT] be long delayed!	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_JULIUS_CAESAR_1	Greetings, my friend. What may I, [OUR_NAME], Emperor of Mighty [OUR_CIV_SHORT], do for your insignificant civilization today?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_PETER_1	Mighty [OUR_CIV_SHORT] greets you in friendship, [CT_NAME]. And in a drunken stupor too. 	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_CATHERINE_1	Welcome, [CT_NAME]. Is that a treaty in your pocket or are you just glad to see me?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_ISABELLA_1	Her most righteous majesty, [OUR_NAME], beloved of God and protector of the faith, does condescend to greet you once more, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_1	Well?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_2	What is it?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_3	Well? Get on with it!	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_4	What do YOU want?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_5	Let's hear it.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_6	What is it this time, [CT_NAME]?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_7	My time is valuable, [CT_NAME]. What do you want?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_8	Do not make me angry, [CT_NAME]. You wouldn't like me when I'm angry.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_9	And what does puny [CT_CIV_SHORT] want from mighty [OUR_CIV_SHORT]?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_10	Speak your piece, [CT_NAME] - I haven't got all day.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_11	Are you still around? I thought somebody wiped out your puny civilization years ago.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_12	Oh, it's you. Now my day is complete.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_13	Well, look what the cat dragged in.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_14	I studied on killin' you.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_15	You try my patience, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_16	I'm listening.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_WASHINGTON_1	What could [CT_CIV_SHORT] possibly have to say that would be of interest to [OUR_CIV_SHORT]?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_FRANKLIN_ROOSEVELT_1	Come to add to our troubles, have you? Well, get on with it then.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_SALADIN_1	What a surprise! I did not realize it was locust season once again.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_MONTEZUMA_1	Tell me, [CT_NAME]: what has [CT_CIV_SHORT] done to anger the gods so that they give them you as leader?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_QIN_SHI_HUANG_1	Greetings, [CT_NAME]! We are, as always, happy to see you again.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_CHINESE_LEADER_1	It is people like you, [CT_NAME], who give ruthless dictators a bad name. Why are you here?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_HATSHEPSUT_1	Bow before me, [CT_NAME] - a goddess deserves no less!	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ELIZABETH_1	Well? Out with it, you tiresome little person!	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_VICTORIA_1	Good day to you, [CT_NAME]. To what do we owe this unexpected interruption?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_LOUIS_XIV_1	Back again so soon, [CT_NAME]? How glorious. Imagine my excitement.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_NAPOLEON_1	I have little time for your prattle, [CT_NAME]. That is the long and short of it.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_BISMARCK_1	Get to the point, [CT_NAME]. I have IMPORTANT matters of state to deal with.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ALEXANDER_1	Still alive, are you? How disappointing. 	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_HUAYNA_CAPAC_1	It is a source of unending astonishment to me that the gods permit you to live, [CT_NAME]. Why are you here?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ASOKA_1	Why have you come to trouble us, [CT_NAME]?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_GANDHI_1	All people, no matter how unpleasant, are welcome in [OUR_CIV_SHORT], [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_TOKUGAWA_1	Greetings, [CT_NAME]! [OUR_CIV_SHORT] is honored by your visit. You can be sure that we will be coming to your country very soon now. 	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_MANSA_MUSA_1	I do not approve of you or your country, [CT_NAME]. What have you to say that will change my opinion of you?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_GENGHIS_KHAN_1	And they call US barbarians?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_KUBLAI_KHAN_1	My grandfather would have destroyed you on sight, [CT_NAME]. Alas, but I live in more "civilized" times. What do you want?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_CYRUS_1	I wonder, [CT_NAME]: how many hanging chads did it take to get YOU into office?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_JULIUS_CAESAR_1	Why are you here? Is it the Ides of March already?	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_PETER_1	Be brief, [CT_NAME]. I'm trying to give up hacking annoying people to death in a blind rage for Lent. 	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_CATHERINE_1	Remarkable: a politician who even I won't sleep with.	
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ISABELLA_1	I'm glad you're here, [CT_NAME]. My Grand Inquisitor would like to have a word with you.	
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_1	So what do you propose?	
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_2	Make an offer.	
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_3	Let us begin!	
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_4	Hopefully we can come to an agreement.	
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_5	What does [CT_CIV_SHORT] have to offer?	
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_6	I'm listening...	
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_7	We're always looking for a fair exchange, [CT_NAME]. Please go ahead.	
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_8	Go on.	
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_9	Well, go ahead and put something on the table.	
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_10	All right. Let's hear it then.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_1	Agreed.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_2	All right then. Agreed.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_3	Done.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_4	Excellent. We are agreed.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_5	Hrmph. This is highway robbery - but we'll take it.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_6	Well, if that's the best you can do, I guess we'll take it. Done.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_7	I agree to your terms.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_8	I believe we can accept that. Agreed.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_9	I think I can accept these terms. It is agreed.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_10	It is agreed.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_11	It's against my better judgment, but we'll take it. Done.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_12	Sounds fair to me. Done.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_13	That is acceptable to us. Done.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_14	I dislike haggling. Agreed.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_15	The offer is a bit light - but we'll agree to it.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_16	We accept your fair offer.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_17	We accept your gracious offer.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_18	We are agreed then.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_19	We can accept these terms. Done.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_20	We can do business along these lines. Agreed.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_21	We'll take it.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_22	Very well, we'll take it.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_23	It's a good deal. Done.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_24	Your terms are acceptable.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_25	You are a hard bargainer, [CT_NAME]. Agreed.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_26	Excellent. It is done.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_27	[OUR_CIV_SHORT] thanks you. Done.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_1	You'll have to do better than that, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_2	We really do not think this trade will benefit our people.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_3	This proposal will not work for us.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_4	No, seriously. Quit fooling around: what's your offer?	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_5	That's not good enough, friend [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_6	Is that your final offer? 	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_7	I'm afraid that your offer is not acceptable to the [OUR_CIV_ADJ] people.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_8	No can do, my friend. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_9	We cannot afford to be so generous, [CT_NAME]. Try again.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_10	I don't think so. You'll have to do better than that.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_1	We reject your proposal.  No thanks.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_2	Forget it.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_3	We reject your laughable offer.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_4	Just how gullible do you think I am, [CT_NAME]?	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_5	Your generosity is underwhelming. Forget it.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_6	This is totally unacceptable!	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_7	Just who do you think you're dealing with, [CT_NAME]?	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_8	Your offer is an insult to [OUR_CIV_SHORT]. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_9	Now that's just crazy talk. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_10	Quit wasting my time. Make a reasonable offer or go away.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_1	We're glad you accepted our offer.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_2	It is wonderful that you have accepted.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_3	I'm glad that you found the offer acceptable, [CT_NAME]	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_4	Marvelous!	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_5	You have chosen wisely, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_6	Wonderful! Let us celebrate!!	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_7	It's a pleasure doing business with you.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_8	Excellent!	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_9	I'm glad that we could come to an agreement.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_10	Cha-CHING!	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_1	All right then. We're agreed.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_2	Now you are beginning to show some sense, [CT_NAME]. Perhaps there is some hope for you yet.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_3	Done.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_4	Excellent. Perhaps you are not as foolish as you look.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_5	Mighty  [OUR_CIV_SHORT] thanks you. You may go now.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_6	Thank you for your cooperation.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_7	We thank you. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_8	That is all for now. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_9	Fine. It is done.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_10	[OUR_CIV_SHORT] thanks you and your petty little civilization.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_1	We're sorry you don't feel that our offer is reasonable.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_2	Too bad. Do you have something different in mind?	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_3	Let's hear an offer from you, then.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_4	All right. Why don't you put something on the table?	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_5	Well, do you wish to make a counter-proposal?	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_6	All right: let's hear your counter-proposal.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_7	That is regrettable.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_8	That is unfortunate.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_9	Oh well. Perhaps next time, then.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_10	Well, perhaps you would care to suggest something then.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_1	Well, you suggest something then!	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_2	How typical. Let's hear your brilliant. idea then.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_3	You annoy me, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_4	You are incredibly stubborn, [CT_NAME]. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_5	You are remarkably short-sighted, [CT_NAME], to treat your betters thusly.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_6	I suppose you have something better in mind?	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_7	Then quit wasting my time. Either make a counter-proposal or be gone.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_8	Let's hear your idea, then.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_9	Then you put something on the table!	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_10	Does puny [CT_CIV_SHORT] wish to make a counter-proposal? 	
+CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_1	How does this deal sound?	
+CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_2	What do you think of this deal, [CT_NAME]?	
+CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_3	Do you find this offer tempting?	
+CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_4	Here's my offer.	
+CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_5	I'm sure that you'll agree that this deal is fair...	
+CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_6	And that's my final offer. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_1	I don't see how a deal is possible.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_2	That's just crazy-talk. I don't think it can be done.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_3	I'm sorry to say that no such deal is possible.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_4	That can't be done, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_5	I don't see how we can make such a trade.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_6	We can't do that.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_1	That's impossible. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_2	Don't be foolish. That can't possibly be done.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_3	Don't waste my time with impossibilities!	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_4	What are you talking about? That's not possible.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_5	Are you kidding? That can't be done!	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_6	There's no way such a deal is possible.	
+CIV4DiplomacyText.xml	AI_DIPLO_OFFER_PEACE_1	Perhaps it is time for all this bloodshed to end?	
+CIV4DiplomacyText.xml	AI_DIPLO_OFFER_CITY_1	We would like to offer up this city as a sign of our respect.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_1	Greetings, [CT_NAME]! What do you think of this deal?	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_2	The peace-loving people of [OUR_CIV_SHORT] seek a fair trade with [CT_CIV_SHORT]. How about it?	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_3	How does this sound to you, [CT_NAME]?	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_4	What do you think of this deal, [CT_NAME]?	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_5	My friend, can [OUR_CIV_SHORT] tempt you with this offer?	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_6	Let's make a deal!	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_1	[CT_NAME], I'm making you an offer you can't refuse.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_2	Show some intelligence for a change, [CT_NAME]. Accept this deal.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_3	The [OUR_EMPIRE] offers you this trade. I suggest you take it.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_4	Here's our offer. Take it or leave it.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_5	[OUR_CIV_SHORT] offers your nasty little civilization the following deal.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_6	Here's the deal. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_1	I'm afraid this deal will no longer work for us.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_2	I'm sorry, [CT_NAME], but this deal will no longer work for us.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_3	All good things come to an end, unfortunately. Including this deal.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_4	[OUR_CIV_SHORT] can no longer afford this deal, [CT_NAME]. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_5	It's time to end this deal, friend. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_6	If you don't mind, [OUR_CIV_SHORT] would like to cancel this deal.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_1	The [OUR_CIV_ADJ] people are no longer interested in this deal, [CT_NAME]. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_2	This deal is over. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_3	We're ending this deal, [CT_NAME]. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_4	We're sick of this deal. And of you, too, frankly.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_5	We are terminating this deal, [CT_NAME], effective immediately.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_6	This deal no longer suits our needs. It is canceled. 	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_1	[OUR_NAME] thanks you on behalf of the grateful [OUR_CIV_ADJ] people!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_2	[OUR_CIV_SHORT] acknowledges your friendship. Thank you.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_3	[OUR_CIV_SHORT] graciously acknowledges your friendship, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_4	[OUR_CIV_SHORT] salutes its friend, the tiny nation of [CT_CIV_SHORT].	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_5	[OUR_CIV_SHORT] salutes you, [CT_NAME]!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_6	[OUR_CIV_SHORT] thanks you, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_7	[OUR_CIV_SHORT] thanks you, fair and generous [CT_NAME]!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_8	[CT_NAME], my people thank you.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_9	Excellent! I'm quite pleased. Let's sit down and have a jolly cup of tea, shall we?	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_10	Good decision. We must build a closer bond - or else!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_11	I [OUR_NAME], Godlike Ruler of the Mighty [OUR_EMPIRE], do hereby offer my sincerest thanks to my good friend, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_12	I am glad that we have concluded this arrangement amicably, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_13	I am so happy that our two nations can rise above petty rivalries like this! We will set an example the whole world will follow!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_14	I am SO pleased that we have been able to come to a fair agreement, [CT_NAME]!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_15	I appreciate this, friend [CT_NAME]. Thanks from all the [OUR_CIV_ADJ] people!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_16	I bow before you in friendship, [CT_NAME]!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_17	I congratulate you on your common sense, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_18	I thank you. Now I'm sure that you have pressing business elsewhere...	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_19	I will sacrifice fifty warriors in honor of your friendship!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_20	I, [OUR_NAME], ruler of way too many places to mention, do hereby thank my good friend, [CT_NAME]!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_21	It has been a pleasure doing business with you, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_22	It is good that we can come together as equals, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_23	We enjoyed speaking with you [CT_NAME]. Odd, since you are so far inferior, but personality goes a long way.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_24	You are the wind beneath my wings, [CT_NAME]!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_25	You have our gratitude.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_26	Many thanks, [CT_NAME]!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_27	Many thanks. 	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_28	May the heavens bless and sanctify the friendship between our two great people!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_29	May the bond between [OUR_NAME] and [CT_NAME] grow ever stronger!.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_30	May the friendship between [OUR_CIV_SHORT] and [CT_CIV_SHORT] last for many years!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_31	Did you ever know that you're my hero? You're everything I wish I could be. 	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_32	On behalf of the [OUR_CIV_ADJ] people, I thank you!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_33	On behalf of the people of [OUR_CIV_SHORT], I thank you and all the [CT_CIV_ADJ] people.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_34	Our work is concluded. You may go.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_35	Our work is finished here, is it not? Well, then, don't let me keep you.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_36	Thank me?  No, no...thank you, [CT_NAME]!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_37	Thank you, [CT_NAME]! 	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_38	Thank you, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_39	Thank you, [CT_NAME].  Is there anything else?	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_40	Thank you, [CT_NAME]. May both our people profit from our continued friendship!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_41	Thank you.  Your cooperation has been noted.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_42	Thanks, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_43	It's been a small slice of heaven. I mean that sincerely.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_44	Thanks.  Will that be all?	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_45	You have our gratitude.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_46	That will be all for now, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_47	There. That's a job well done, don't you think?	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_48	That's done, then. Thanks and farewell!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_49	The [OUR_CIV_ADJ] people graciously thank the people of - whatever your culture's name is.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_50	The [OUR_EMPIRE] thanks you, [CT_NAME]. You may go now.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_51	We thank our friends and partners, the [CT_CIV_ADJ] people!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_52	We thank our partner, [CT_CIV_SHORT], for coming to a fair and just agreement.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_53	We work together well, [CT_NAME]. I look forward to many more mutually profitable arrangements in the future!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_54	We're done here, right? Well, don't let me keep you. Thanks and good bye.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_55	Yes, I believe we will both profit from this deal.  I look forward to doing business with you again.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_56	You are almost an equal in cunning and martial prowess, [CT_NAME]. I, [OUR_NAME], thank you for your visit.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_57	You are wise beyond your years, friend [CT_NAME]. [OUR_CIV_SHORT] offers you its sincerest thanks.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_58	You have [OUR_CIV_SHORT]'s thanks.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_59	You have chosen wisely, [CT_NAME]. It is important to maintain good relations with your betters, don't you agree?	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_60	You have my eternal gratitude, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_61	You have our gratitude.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_62	You have our thanks.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_63	You make me so happy, [CT_NAME]!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_64	You show great wisdom and acumen in picking your friends, [CT_NAME]. The [OUR_EMPIRE] thanks you.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_65	You show great wisdom and friendship. [OUR_CIV_SHORT] thanks you!	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_66	Your fair and courteous dealings with the [OUR_CIV_ADJ] people will not be forgotten.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_67	You have [OUR_CIV_SHORT]'s thanks.	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_68	It appears that your visit was not a complete waste. Come back again when you have something else to offer the [OUR_EMPIRE].	
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_69	Yours is a friendly and accommodating little culture. We thank you.	
+CIV4DiplomacyText.xml	AI_DIPLO_CURRENT_DEALS_1	As I see it, these are our current deals.	
+CIV4DiplomacyText.xml	AI_DIPLO_CURRENT_DEALS_2	These are our active deals.	
+CIV4DiplomacyText.xml	AI_DIPLO_CURRENT_DEALS_3	[CT_NAME], these are the deals we have agreed upon.	
+CIV4DiplomacyText.xml	AI_DIPLO_CURRENT_DEALS_4	These are the deals we have with the [CT_EMPIRE].	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_ASK_1	Always happy to help...	
+CIV4DiplomacyText.xml	AI_DIPLO_REJECT_ASK_1	Sorry, but you press us too hard.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_1	We accede to your unreasonable demands.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_2	I accept your terms, for now. But you just wait until next time!	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_3	It appears that I have no choice but to agree.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_4	All right, then. But just remember: what goes around comes around!	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_5	Sure: kick a civilization when it's down. I accept your terms.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_6	I agree to your terms. For now.	
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_TEAM_1	Always happy to help!	
+CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_1	We reject your meaningless threats!	
+CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_2	How dare you insult glorious [OUR_CIV_SHORT] with your stupid demands!	
+CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_3	Not bloody likely.	
+CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_4	Not on my watch!	
+CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_5	Never!	
+CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_6	You badly underestimate the [OUR_EMPIRE], [CT_NAME]. We would never agree to any such thing.	
+CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_1	We see that you could probably use a little help.	
+CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_2	Perhaps this could be of assistance to you, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_3	Here's a little something from us to you.	
+CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_4	Here, my friend: you might need this.	
+CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_5	Would this be of any use to you, [CT_NAME]?	
+CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_6	The [OUR_CIV_ADJ] people are feeling quite generous today, [CT_NAME]. Perhaps this could be of some use to you.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_1	Charity begins at home, [CT_NAME]. Care to give us some?	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_2	[OUR_CIV_SHORT] requires your assistance, friend [CT_NAME]. I hope that you will not disappoint us.	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_3	I have always relied on the kindness of strangers, [CT_NAME]. Can you help?	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_4	A friend in need is a friend indeed, [CT_NAME]. Care to help us out?	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_5	[OUR_CIV_SHORT] could use your assistance, [CT_NAME]. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_6	Could you possibly spare us this, [CT_NAME]?	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_1	Supplying us with this would go a long way towards healing the unfortunate rift between our peoples, [CT_NAME]. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_2	I find that [OUR_CIV_SHORT] needs your aid, [CT_NAME]. I'm certain you won't disappoint us.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_3	As difficult as it may be to believe, you actually have something that we could use.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_4	Your assistance at this vital time will do much towards regaining [OUR_CIV_SHORT]'s friendship, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_5	Despite our differences, I believe that our two nations have much in common. For example, you have this and we need it.	
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_6	We could use your assistance, [CT_NAME]. Do not disappoint us.	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_1	How disappointing. 	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_2	Well, dang.	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_3	You are really not a very giving person, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_4	Very well. We shall say nothing more of this - for the moment.	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_5	You have chosen foolishly, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_6	Very well. But greed will be your ultimate downfall, [CT_NAME]. 	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_1	We shall remember this, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_2	How shortsighted of you.	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_3	That's not very nice of you, [CT_NAME]. 	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_4	We'll remember this.	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_5	You foolish person.	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_6	I expected better of you, [CT_NAME]. 	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_1	I hope you don't come to regret this, [CT_NAME]. 	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_2	Very well. On your own head be it.	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_3	As you will. 	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_4	Remember, what goes around comes around...	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_5	Fine. See if we help you out when you need it.	
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_6	That's too bad. For the both of us, I fear.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_1	We demand the following in tribute!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_2	[CT_NAME], meet our demands or suffer the consequences.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_3	It would be wise for you to give us what we want.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_4	Give us what we want or prepare to be destroyed.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_5	Be wise [CT_NAME] and give in to our demands.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_1	We can do this the easy way, or the hard way. Which do you prefer?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_2	For the sake of our long friendship, [CT_NAME], will you not give us this small present?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_3	Friend [CT_NAME], we are in some need of assistance. Will you not help your longstanding friend and ally?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_4	Give us what we want, [CT_NAME], lest we come and take it.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_5	This is what we need, [CT_NAME]. Surely our continued friendship is worth far more than that!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_6	The [OUR_EMPIRE] would be quite grateful if your terribly vulnerable country gave us what we want.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_7	Our continued friendship provides many benefits, [CT_NAME]. Surely it is worth this small tribute in return?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_8	Pay it forward, [CT_NAME]. Please?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_FRANKLIN_ROOSEVELT_1	The only thing you have to fear is the terrible consequence of not giving me what I want.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_WASHINGTON_1	The best things in life are free, [CT_NAME]. Unfortunately, our continued friendship isn't one of them.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_MONTEZUMA_1	The gods demand sacrifice, [CT_NAME]. If your civilization is to exist for much longer, I recommend that you comply.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_QIN_SHI_HUANG_1	That's quite a nice little civilization you have going there, [CT_NAME]. It would be very unfortunate if something bad were to happen to it... We understand each other, do we not?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_CHINESE_LEADER_1	[CT_NAME], please give us the following immediately. Think of it as an investment in our continued friendship.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_MENES_1	I want this right now. Do not make me angry - you wouldn't like me when I'm angry...	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_HATSHEPSUT_1	I was going to demand that you sacrifice 1000 warriors to my greatness, [CT_NAME], but if you prefer, you can give me this.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ELIZABETH_1	The world is a better place because of our friendship, [CT_NAME]; don't you agree? Surely this isn't too large a price to pay to insure that it continues...	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_VICTORIA_1	The [CT_CIV_ADJ] people are in great need, [CT_NAME]. Do not disappoint us.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_NAPOLEON_1	My armies thirst for new lands to conquer, [CT_NAME]. Would you care to ensure that they aren't yours?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ALEXANDER_1	For the sake of our continued friendship, provide the great people of the [OUR_NAME] with tribute.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_HUAYNA_CAPAC_1	Give us what we want, [CT_NAME] - it is the will of the gods. 	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ASOKA_1	Peace demands sacrifice, [CT_NAME]. From you.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_GANDHI_1	I hope you see, [CT_NAME], that it is in your country's best interest to give us what we want. 	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_TOKUGAWA_1	Give us what we want, now! Or face imminent destruction! 	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_MANSA_MUSA_1	Forsake greed, friend!  Provide me with tribute, or risk the anger of the [OUR_CIV_ADJ] people.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_GENGHIS_KHAN_1	Bestow gifts upon your friends and you are likely to be rewarded a hundred times over.  Ignore the advice of wise-men, and you risk being flogged about the head, neck, face, and shoulders.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_KUBLAI_KHAN_1	The mighty [OUR_EMPIRE] thanks you for your generous gift, [CT_NAME]. Now hand it over.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_CYRUS_1	Friendly [OUR_CIV_SHORT] requires a goodwill gesture from our firm yet surprisingly vulnerable ally, [CT_CIV_SHORT]. 	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_JULIUS_CAESAR_1	Usually, when I see something I want, I just come over and take it. Consider this your lucky day.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_AUGUSTUS_CAESAR_1	The truth is, [OUR_CIV_SHORT] is stronger than your empire, [CT_NAME]. It would be wise of you to give us what we want.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_PETER_1	Give us this or our mighty Cossacks will roam across your ravaged country, burning your cities, stealing your pigs and making lewd gestures at your women!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_CATHERINE_1	A present for me? Why, it's just what I wanted! How ever did you guess?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ISABELLA_1	Heaven is on our side, [CT_NAME]. I pray that you know what's good for you.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_GILGAMESH_1	Give us what we want now, [CT_NAME], and we shall repay you a hundredfold at some distant later date.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_1	The honor of [OUR_CIV_SHORT] requires that we ask you to give us a small donation.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_2	For the sake of friendship, you might want to consider giving us a small gift.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_3	Agree to our demands, [CT_NAME], or be prepared to fight!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_4	Know that [OUR_CIV_SHORT] stands by [CT_CIV_SHORT]'s side as friend and equal Now - about our fee...	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_5	Peace with the [OUR_EMPIRE] comes with a price, [CT_NAME]. Will you pay?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_6	[OUR_CIV_SHORT] demands that you give us the following tribute. Our [OUR_BEST_UNIT] await your response.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_7	[OUR_CIV_SHORT] needs this, [CT_NAME]. Will you give it to us, or must we fight for it?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_FRANKLIN_ROOSEVELT_1	Hello, [CT_NAME]! The price of freedom has just gone up.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_WASHINGTON_1	I cannot tell a lie, [CT_NAME]: we want your stuff. Kindly give it to us at your earliest convenience.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SALADIN_1	By the glory of God, I, [OUR_NAME], mightiest of his servants, do request a small donation from you, [CT_NAME]. You would be wise to consider my request carefully.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_MONTEZUMA_1	The [OUR_EMPIRE] requests from you a small donation, [CT_NAME]. Or, if you prefer, we can battle until one of us is destroyed. 	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_CHINESE_LEADER_1	Would you care to take part in our share-the-wealth program, [CT_NAME]?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_MENES_1	Furnish [OUR_CIV_SHORT] with these gifts and we will tolerate your existence for a little while longer.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_HATSHEPSUT_1	It is customary for puny mortals to show their devotion by giving their goddess a gift. Or if they prefer they can be cut into small pieces and fed to the royal crocodiles.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ELIZABETH_1	My dear [CT_NAME], [OUR_CIV_SHORT] can make life very difficult indeed for [CT_CIV_SHORT]. Give us what we want or suffer the consequences.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_VICTORIA_1	We have needs, [CT_NAME]. Please comply.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_NAPOLEON_1	I'll keep this short: comply with our demands or suffer the consequences. That is all.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_BISMARCK_1	"Blackmail" is such an ugly word, [CT_NAME]. I prefer to call it, "extortion."	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ALEXANDER_1	Do you choose to cravenly lick our boots and give us what we want, or to stand and fight us in a heroic but doomed last stand?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_HUAYNA_CAPAC_1	I have sacrificed many foes, [CT_NAME]. Give me what I want or you may be next.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ASOKA_1	A small donation would help insure continued frirendship between our two peoples, [CT_NAME]. 	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_GANDHI_1	[OUR_CIV_SHORT] requests a small donation from their good friends, the [CT_CIV_ADJ] people. 	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_TOKUGAWA_1	We are bigger and stronger than you, [CT_NAME]. You must give us tribute, or suffer the consequences.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_MANSA_MUSA_1	My generosity is known the world over, [CT_NAME]. How about yours?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_GENGHIS_KHAN_1	Give us what we want, [CT_NAME], or 20,000 screaming warriors will come and take it.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_KUBLAI_KHAN_1	You may purchase your continued existence with this, [CT_NAME]. I suggest that you be sensible and do so.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_JULIUS_CAESAR_1	If you wish to ensure [CT_CIV_SHORT]'s continued survival, you would be wise to comply with my demands.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_AUGUSTUS_CAESAR_1	The [CT_EMPIRE] is strong, [CT_NAME]. But are you sure that it is as strong as Mighty [OUR_CIV_SHORT]? Deny us our tribute and you may have a chance to find out.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_PETER_1	Hand this over or die.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_CATHERINE_1	I do so hope that we can remain friends, [CT_NAME]. The world just wouldn't be as much fun with you not in it.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ISABELLA_1	Mighty [OUR_CIV_SHORT] is leading the battle against evil, godless, heathen, barbarians, [CT_NAME]. It is time to show your appreciation. 	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_GILGAMESH_1	Given the many concessions we have granted you previously, is it not time for you to give Mighty [OUR_CIV_SHORT] something in return?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_1	Think well, [CT_NAME]: if you give us tribute, our friendship will continue. If not, we will have to seriously re-evaluate our relationship.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_2	[OUR_CIV_SHORT] demands that you pay her tribute.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_3	Give us what we want or be destroyed.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_4	Mighty [OUR_CIV_SHORT] demands that you acknowledge her superiority with a small token of respect.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_5	The superior [OUR_CIV_ADJ] civilization is worthy of tribute. Dispense goods to us, and we'll refrain from sending our [OUR_BEST_UNIT] to crush you.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_6	Time is short and so too will be the memory of [CT_CIV_SHORT] should you deny me this token of respect.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_7	I wonder if you would consider giving us a small gift, [CT_NAME], in honor of the timeless friendship between Mighty [OUR_CIV_SHORT] and your weak and defenseless people?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_8	For the sake of your country's continued survival, I suggest that you comply with our demands.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_FRANKLIN_ROOSEVELT_1	That certainly is a nice little civilization you have there, [CT_NAME]. It would be unfortunate if something were to happen to it...	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_WASHINGTON_1	Don't think of this as a demand for tribute, [CT_NAME]. Think of it as an investment in world peace.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_SALADIN_1	It is only proper that the vassal states provide tribute to their lord and protector. That would be me.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_MONTEZUMA_1	Your weakness is contemptible, #CT_NAME! Give us what we want or perish!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_QIN_SHI_HUANG_1	If you wish your pathetic civilization to survive, [CT_NAME], you had better comply with our demands!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_CHINESE_LEADER_1	For too long have the glorious [CT_CIV_ADJ] workers put up with your contemptible bourgoise insolence! It's time for an immediate redistribution of wealth!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_MENES_1	Glorious [OUR_CIV_SHORT] requires from you a token of aubmission. Or would you prefer that we wipe [CT_CIV_SHORT] from the face of the planet?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_ELIZABETH_1	Conventional wisdom suggests that you bequeath certain goods to us or be destroyed.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_VICTORIA_1	Give [OUR_CIV_SHORT] what is due her, [CT_NAME]! We shall not ask a second time.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_LOUIS_XIV	The [OUR_CIV_ADJ] Folk have put up with your insults long enough! Pay us the following or suffer the consequences!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_NAPOLEON_1	If you wish to delay your destruction, [CT_NAME], give us what we want.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_BISMARCK_1	To be honest, raw greed is the only thing stopping us from destroying your puny civilization. Pay us what we want, or perish.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_HUAYNA_CAPAC_1	Foolish [CT_NAME]! Give us what we want and you may live for yet another day!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_ASOKA_1	Mighty [OUR_CIV_SHORT]'s protection comes at a price, [CT_NAME]. You would be wise to pay it.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_GANDHI_1	I believe in peace at any price, [CT_NAME]. This is your price.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_TOKUGAWA_1	Do not let foolish pride cause the downfall of your people, [CT_NAME]. Pay us what we want - or be destroyed!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_MANSA_MUSA_1	Time is short and so too will be the memory of [CT_CIV_SHORT] should you deny me this token of respect.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_GENGHIS_KHAN_1	When you find a hungry tiger at your door, commen sense says that you feed him.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_KUBLAI_KHAN_1	[OUR_CIV_SHORT] requires tribute from inferior cultures such as yours. Comply or be destroyed.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_JULIUS_CAESAR_1	Acceed to our demands or face us in battle. 	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_AUGUSTUS_CAESAR_1	Resistance is futile! Comply with our demands or face destruction!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_PETER_1	Ah, [CT_NAME]. I have an excellent deal to offer you: give us what we want, and we will not crush you. Does that not sound fair?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_CATHERINE_1	Some enjoy licking our boots, [CT_NAME]. How about you give it a try?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_GILGAMESH_1	Your ruination is at hand, [CT_NAME]! Your only chance of survival is to give mighty [OUR_CIV_SHORT] what she wants!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_1	Very well. I hope that you won't come to regret this decision, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_2	In the future you'd best remember who your friends are, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_3	Once again you disappoint me, [CT_NAME]. You'd be advised to see that it doesn't happen again.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_4	Well that's not very nice, if you ask me.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_5	Curses: foiled again!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_6	You are arrogant, [CT_NAME]. Some day it will lead to your destruction. 	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_1	Foolish stubborness will lead to your destruction, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_2	Very well. On your head be it.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_3	I don't think you realize just who you're dealing with, [CT_NAME]. I suggest you reconsider, and quickly!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_4	You gamble with the lives of your people, [CT_NAME]. Are you ready to pay the price if you lose?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_5	Fine. Next time I won't ask so nicely!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_6	You're playing with fire, [CT_NAME]. See that you don't get burned.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_1	You'll regret this, you wretched creature!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_2	You test my patience, [CT_NAME]!	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_3	Very well. I suggest that you start cranking out those soldiers, [CT_NAME]. You'll have need of them shortly.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_4	You should think more carefully before you anger your betters, [CT_NAME], for it can lead to bitter consequences.	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_5	Fool! Don't you know that I could crush you like a grape?	
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_6	How dare you deny my extremely reasonable request! You'll regret this, I promise!	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_WEAKER_1	The bonds between our civilizations would be greatly strengthened if you converted to [OUR_STATE_RELIGION].	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_WEAKER_2	Isn't it about time that you abandoned your foolish beliefs and converted to [OUR_STATE_RELIGION], [CT_NAME]?	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_WEAKER_3	You should consider converting to [OUR_STATE_RELIGION], [CT_NAME]. It is the one true path to salvation.	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_EQUAL_1	I urge you to convert to [OUR_STATE_RELIGION], [CT_NAME]. Religious wars can be so unpleasant...	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_EQUAL_2	Our gods can beat your gods any day of the week, [CT_NAME]. Convert to [OUR_STATE_RELIGION] before it's too late!	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_EQUAL_3	[OUR_STATE_RELIGION] is mighty, [CT_NAME]. Convert now, before the heavens rain their displeasure upon you.	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_STRONGER_1	The heavens demand that you join [OUR_STATE_RELIGION] immediately. Consider your answer carefully!	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_STRONGER_2	Abandon your heathenish ways and join [OUR_STATE_RELIGION], [CT_NAME]. Your people's survival depends on it!	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_STRONGER_3	Discard your false religion and embrace [OUR_STATE_RELIGION], [CT_NAME]. If you wish to survive...	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_WEAKER_1	Very well. We know that this can be a sensitive matter.	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_WEAKER_2	As you wish. 	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_WEAKER_3	We shall speak of this again at a later time.	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_EQUAL_1	On your own head be it.	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_EQUAL_2	You disappoint me. And you disappoint the heavens. Foolish.	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_EQUAL_3	Very well. But remember, [CT_NAME], The wages of sin are death. 	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_STRONGER_1	So be it. I pray that your people do not suffer overmuch for your folly.	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_STRONGER_2	You mock the heavens at your peril, [CT_NAME]! I can but hope that you will see wisdom before it is too late.	
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_STRONGER_3	I fear that your blasphemy will not go unpunished, [CT_NAME]. I'd invest in a lot of lightning rods if I were you.	
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_1	Please join us by adopting %s1.	
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_2	All the cool civs are adopting %s1, [CT_NAME]. How about you?	
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_3	Have you considered adopting %s1? it will bring our two civilizations even closer together.	
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_4	I urge you to adopt %s1, [CT_NAME]. Your civilization will be the better for it.	
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_5	%s1 is extremely useful, [CT_NAME]. [CT_CIV_SHORT] would do well to adopt it.	
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_16	Adopt %s1 - before it's too late!	
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_1	As you will.	
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_2	I suppose you know best. 	
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_3	On your head be it.	
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_4	Really? How foolish.	
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_5	That's not very intelligent of you, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_6	Nobody ever listens to me.	
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_1	%s2 is a threat to us all. Please join us in wiping [NUM2:him:her:them:them] out.	
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_2	Care to assist us in destroying the evil %s2?	
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_3	Greetings, [CT_NAME]. The annoying %s2 must be destroyed, don't you agree?	
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_4	[CT_NAME]: we urgently request mighty [CT_CIV_SHORT]'s assistance in our crusade against %s2!	
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_5	The treacherous %s2 must be punished for [NUM2:his:her:their:their] offences against civilization, [CT_NAME]! I assume we can count on your assistance?	
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_6	The nasty %s2 are plotting against us all, [CT_NAME]! Let us destroy [NUM2:him:her:them:them] together!	
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_1	You should choose your sides carefully.	
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_2	Very well. That just means more plunder for us!	
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_3	Really? I had no idea you were so timid!	
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_4	How very disappointing.	
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_5	I hope you know what you're doing, [CT_NAME].	
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_6	We shall remember this, [CT_NAME]!	
+CIV4DiplomacyText.xml	AI_DIPLO_STOP_TRADING_1	It can no longer be tolerated - we demand that you cancel your deals with the vile %s2!	
+CIV4DiplomacyText.xml	AI_DIPLO_STOP_DENIED_1	We won't take this lightly, [CT_NAME]!	
+CIV4DiplomacyText.xml	AI_DIPLO_UNIT_BRAG_1	Fear my [OUR_BEST_UNIT]!	
+CIV4DiplomacyText.xml	AI_DIPLO_UNIT_BRAG_2	Soon my numberless [OUR_BEST_UNIT] shall destroy you all!	
+CIV4DiplomacyText.xml	AI_DIPLO_UNIT_BRAG_3	Now I have a [OUR_BEST_UNIT]. Ho-Ho-Ho.	
+CIV4DiplomacyText.xml	AI_DIPLO_UNIT_BRAG_4	Oh look: I've just built a [OUR_BEST_UNIT]. Now where shall I put it?	
+CIV4DiplomacyText.xml	AI_DIPLO_UNIT_BRAG_5	Cower before the might of my [OUR_BEST_UNIT]!	
+CIV4DiplomacyText.xml	AI_DIPLO_NUKES_1	Beware, our words are backed by nuclear weapons!	
+CIV4DiplomacyText.xml	AI_DIPLO_WORST_ENEMY_1	Watch out for our worst enemy - [OUR_WORST_ENEMY]! They can't be trusted.	
+CIV4DiplomacyText.xml	AI_DIPLO_WORST_ENEMY_TRADING_1	We would encourage you to stop trading with our bitter enemy - [OUR_WORST_ENEMY]!	
+CIV4DiplomacyText.xml	AI_DIPLO_SOMETHING_ELSE_1	What else would you like to discuss?	
+CIV4DiplomacyText.xml	AI_DIPLO_RESEARCH_1	What would you like us to research?	
+CIV4DiplomacyText.xml	AI_DIPLO_RESEARCH_TECH_1	We'll switch right away!	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_1	Yes?	
+CIV4DiplomacyText.xml	AI_DIPLO_TARGET_1	Where should we attack?	
+CIV4DiplomacyText.xml	AI_DIPLO_TARGET_CITY_1	We'll do our best!	
+CIV4DiplomacyText.xml	AI_DIPLO_WELL_1	Well?	
+CIV4DiplomacyText.xml	USER_DIPLO_WAR_RESPONSE_1	So be it.	
+CIV4DiplomacyText.xml	USER_DIPLO_PEACE_1	There shall be peace in our time!	
+CIV4DiplomacyText.xml	USER_DIPLO_WAR_1	Your head would look good on the end of a pole. (WAR)	
+CIV4DiplomacyText.xml	USER_DIPLO_PROPOSE_1	Would you accept this deal?	
+CIV4DiplomacyText.xml	USER_DIPLO_ACCEPT_1	We accept your offer.	
+CIV4DiplomacyText.xml	USER_DIPLO_REJECT_1	Sorry, we cannot accept such a deal.	
+CIV4DiplomacyText.xml	USER_DIPLO_OFFER_1	What do you want for this?	
+CIV4DiplomacyText.xml	USER_DIPLO_GIFT_1	Please, accept this gift.	
+CIV4DiplomacyText.xml	USER_DIPLO_NEVERMIND_1	Never mind...	
+CIV4DiplomacyText.xml	USER_DIPLO_PROPOSAL_1	We would like to make a trade proposal.	
+CIV4DiplomacyText.xml	USER_DIPLO_COMPLETE_DEAL_1	What would make this deal work?	
+CIV4DiplomacyText.xml	USER_DIPLO_FISH_FOR_DEAL_1	What will you give me for this?	
+CIV4DiplomacyText.xml	USER_DIPLO_SUGGEST_PEACE_1	Lets stop this pointless fighting and declare peace!	
+CIV4DiplomacyText.xml	USER_DIPLO_OFFER_PEACE_1	Let us bury the hatchet. What is the price for peace?	
+CIV4DiplomacyText.xml	USER_DIPLO_CURRENT_DEALS_1	What are the current deals we have together?	
+CIV4DiplomacyText.xml	USER_DIPLO_ASK_1	Could you spare this for a good friend?	
+CIV4DiplomacyText.xml	USER_DIPLO_DEMAND_1	We demand that you give this to us in tribute.	
+CIV4DiplomacyText.xml	USER_DIPLO_DEMAND_TEAM_1	This sure would come in handy...	
+CIV4DiplomacyText.xml	USER_DIPLO_ACCEPT_OFFER_1	Sounds like a deal!!!	
+CIV4DiplomacyText.xml	USER_DIPLO_REJECT_OFFER_1	It ain't happening.	
+CIV4DiplomacyText.xml	USER_DIPLO_RENEGOTIATE_1	Care to negotiate?	
+CIV4DiplomacyText.xml	USER_DIPLO_NO_RENEGOTIATE_1	Fair enough. (exit)	
+CIV4DiplomacyText.xml	USER_DIPLO_GIVE_HELP_1	Sure! We're always glad to help!	
+CIV4DiplomacyText.xml	USER_DIPLO_REFUSE_HELP_1	Sorry, but it's no rose garden over here either.	
+CIV4DiplomacyText.xml	USER_DIPLO_ACCEPT_DEMAND_1	Well, if you insist...	
+CIV4DiplomacyText.xml	USER_DIPLO_REJECT_DEMAND_1	We reject your empty threats!	
+CIV4DiplomacyText.xml	USER_DIPLO_CONVERT_1	I agree. We will convert to [OUR_STATE_RELIGION] immediately. (Convert Religion)	
+CIV4DiplomacyText.xml	USER_DIPLO_NO_CONVERT_1	Our people will never give up their beliefs.	
+CIV4DiplomacyText.xml	USER_DIPLO_REVOLUTION_1	But of course... we now see the error of our ways. (Start Revolution)	
+CIV4DiplomacyText.xml	USER_DIPLO_NO_REVOLUTION_1	You must learn to respect our differences.	
+CIV4DiplomacyText.xml	USER_DIPLO_JOIN_WAR_1	Let's get this war started! (Declare War)	
+CIV4DiplomacyText.xml	USER_DIPLO_NO_JOIN_WAR_1	Sorry, but we cannot afford a war right now.	
+CIV4DiplomacyText.xml	USER_DIPLO_STOP_TRADING_1	You're right, we can't stand them either! (Cancel Deals)	
+CIV4DiplomacyText.xml	USER_DIPLO_NO_STOP_TRADING_1	Sorry, but we just can't turn our back on them.	
+CIV4DiplomacyText.xml	USER_DIPLO_SOMETHING_ELSE_1	Let's discuss something else...	
+CIV4DiplomacyText.xml	USER_DIPLO_RESEARCH_1	We would like you to research...	
+CIV4DiplomacyText.xml	USER_DIPLO_ATTITUDE_1	What do you think of...	
+CIV4DiplomacyText.xml	USER_DIPLO_TARGET_1	Why don't you attack...	
+CIV4DiplomacyText.xml	USER_DIPLO_EXIT_1	Farewell ... (Exit)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_1	%s1 is a scourge on our world! (Furious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_2	%s1 is a snake in the grass! Do not trust [NUM1:him:her:x:x]! (Furious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_3	I neither like nor trust %s1. (Furious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_4	A despicable villain! (Furious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_5	%s1 is a deceitful cretin! (Furious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_6	%s1 is dead to me! (Furious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_7	%s1 is a very bad person. (Furious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_8	%s1? A treacherous cowardly baboon. (Furious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_9	%s1 is not worth a bucket of owl spit. (Furious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_10	%s1 is evil through and through! (Furious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_11	%s1 is a dirty, rotten scoundrel! (Furious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_12	%s1 is a nasty piece of work, if you want my opinion! (Furious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_13	Not to be trusted at all. (Furious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_14	Do not mention that creature's name in my presence! (Furious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_15	%s1 is a rat fink. (Furious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_1	We're becoming increasingly frustrated with %s1's behavior! (Annoyed)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_2	%s1 is an extremely annoying person. (Annoyed)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_3	%s1 tries my patience. (Annoyed)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_4	I don't like %s1 much, to be honest. (Annoyed)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_5	%s1 is more trouble than [NUM1:he:she:x:x] is worth. (Annoyed)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_6	I think that the world would be better off without %s1. (Annoyed)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_7	I don't think much of %s1 at all. (Annoyed)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_8	%s1 is no better than [NUM1:he:she:x:x] should be. (Annoyed)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_9	A worthless windbag, in my opinion. (Annoyed)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_10	%s1 is a pain in the butt. (Annoyed)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_11	%s1 is a useless waste of space, as far as I'm concerned. (Annoyed)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_12	I hardly trust %s1 at all. (Annoyed)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_13	%s1 is a petty criminal masquerading as a world leader. (Annoyed)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_14	A cheap, jumped-up little weasel. (Annoyed)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_15	%s1 is a pain in the neck, to be honest. (Annoyed)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_1	We're not quite sure yet what to think of %s1. (Cautious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_2	%s1 is all right, I suppose. (Cautious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_3	%s1 has [NUM1:his:her:x:x] uses. (Cautious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_4	I have no problems with %s1. (Cautious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_5	%s1 is all right, I guess. (Cautious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_6	I'm not too sure about %s1, to be honest. (Cautious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_7	%s1 is all right as long as you keep an eye on [NUM1:him:her:x:x]. (Cautious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_8	We trust %s1. Sometimes. (Cautious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_9	I'm not sure what to think of %s1. (Cautious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_10	I'm adopting a "wait and see" attitude on %s1. (Cautious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_11	I haven't made up my mind yet. (Cautious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_12	I have the feeling that %s1 is up to something, but I can't prove it yet. (Cautious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_13	%s1? Who knows? (Cautious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_14	I don't know what to think of %s1, to be totally honest. (Cautious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_15	Reply hazy. Ask again later. (Cautious)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_1	We get along with %s1 quite well. (Pleased)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_2	%s1 is a friend of ours. (Pleased)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_3	No complaints here! (Pleased)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_4	%s1? A good person to have at your back. (Pleased)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_5	%s1 has done all right by us. (Pleased)	

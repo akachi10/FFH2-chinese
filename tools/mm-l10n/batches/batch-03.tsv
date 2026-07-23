@@ -1,701 +1,701 @@
 file	key	english	chinese
-CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_PETER_1	Welcome, [CT_NAME]. I am [OUR_NAME], ruler of all of [OUR_CIV_SHORT]. You will find me a fair man to deal with - cruel, but fair. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_CATHERINE_1	Well hello there, [CT_NAME]. It is a pleasure to meet you at last! I'm always looking for CLOSER relations with other leaders, if you get my drift...	
-CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_ISABELLA_1	Her most righteous majesty, Isabella, beloved of God and protector of the faith, does condescend to greet you, [CT_NAME]. Do tell me: are you a righteous people, or are you fiendish heathens who need to be wiped off of the face of this fair land?	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_1	Stop pestering me!	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_2	I have nothing to say to you.	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_3	Sorry, [CT_NAME], talk does not interest us!	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_4	Go away. We have nothing to discuss.	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_5	Leave me alone!	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_6	I am not interested in hearing any more of your lies. Go away.	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_FRANKLIN_ROOSEVELT_1	[OUR_EMPIRE] does not negotiate with terrorists.	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_WASHINGTON_1	We shall not listen to your insidious lies. Begone!	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_SALADIN_1	Your words are but the braying of a jackass, [CT_NAME]. Take them elsewhere.	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_MONTEZUMA_1	Talk to the ceremonial blade, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_QIN_SHI_HUANG_1	The mere sight of you offends me, [CT_NAME]. Begone!	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_CHINESE_LEADER_1	[OUR_CIV_SHORT] will not listen to your bourgoise lies!	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_HATSHEPSUT_1	Begone, you lying serpent!	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_ELIZABETH_1	Go away you horrible little person!	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_VICTORIA_1	We are not amused by your meaningless babble, [CT_NAME]!	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_LOUIS_XIV_1	Forget it. I have wigs that are smarter than you are.	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_NAPOLEON_1	Talk to the massed artillery, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_BISMARCK_1	Speak with YOU? Do not make me laugh!	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_ALEXANDER_1	I have more important things to do than to exchange lies with you. Come back another day.	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_HUAYNA_CAPAC_1	It is a waste of time to speak with fools. Go away.	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_ASOKA_1	We will not listen to your lies, [CT_NAME]. Remove yourself from our presence.	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_GANDHI_1	Further discussion at this point would be meaningless. Not to mention very annoying. Go away.	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_TOKUGAWA_1	I have no time to exchange pleasantries with you, [CT_NAME]: I am too busy plotting your downfall. 	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_MANSA_MUSA_1	Take your pathetic lies elsewhere, for I do not wish to hear them.	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_GENGHIS_KHAN_1	Bah! This chatter is a waste of time! Begone!	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_KUBLAI_KHAN_1	Hello, this is [OUR_NAME]. [OUR_CIV_SHORT] is not at home right now: please leave your name and number and we'll get back to you when pigs have wings.	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_CYRUS_1	Vile serpent! [OUR_CIV_SHORT] will not listen to your lies!	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_JULIUS_CAESAR_1	Negotiate this, pal!	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_PETER_1	Guards! Toss this villain out into the snow before I commit a diplomatic incident!	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_CATHERINE_1	I find you strangely unattractive, [CT_NAME]. Do not return until you are better-looking.	
-CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_ISABELLA_1	Your lying words pollute the heavens, [CT_NAME]!	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_1	We look forward to many years of peace between the [OUR_CIV_ADJ] and [CT_CIV_ADJ] Empires.	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_2	May the peace be eternal.	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_3	May we all live long and prosper.	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_4	May this peace last until there is no more room to expand!	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_5	I look forward to years of peace with you, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_6	Wonderful!	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_7	[CT_NAME], let us sit in a circle and sing "Kumbaya" to celebrate this great event!	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_8	Minions! Prepare a feast to celebrate the peace between our great Empires!	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_9	You have our gratitude.	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_10	May the peace last a thousand years.	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_11	There is no way to peace. Peace is the way.	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_12	You have chosen wisely.	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_13	Excellent!	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_14	I applaud your wisdom.	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_15	Wonderful.	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_16	Excellent! Now let us join together and destroy somebody else!	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_17	You are wiser than you appear, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_18	Peace with honor, [CT_NAME]: that's what it's all about.	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_19	You are not as foolish as you first appear, [CT_NAME]. I am pleased.	
-CIV4DiplomacyText.xml	AI_DIPLO_PEACE_20	May the peace last until there is no one else to conquer!	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_1	No way.	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_2	Not until every last [CT_CIV_ADJ] warrior is ground into dust!	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_3	Never!	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_4	There will be no peace, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_5	Peace? Hah! Forget it.	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_6	It is much too late for that, [CT_NAME]. Take your punishment like a man!	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_FRANKLIN_ROOSEVELT_1	Certainly not! You've awoken a sleeping tiger, [CT_NAME], and I hope you choke on it.	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_WASHINGTON_1	America does not negotiate with terrorists. 	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_SALADIN_1	Never! You are an enemy of God! Prepare for thy doom!	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_MONTEZUMA_1	No. We have not yet sacrificed enough [CT_CIV_ADJ] warriors to slake the gods' unending thirst for blood. Try back later.	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_QIN_SHI_HUANG_1	No. You have not yet learned the proper respect for your betters.	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_CHINESE_LEADER_1	There can never be peace in the unending war between the people and the bloodsucking bourgoise capitalist opressors who seek to enslave them! That would be you, punk.	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_HATSHEPSUT_1	Gods do not negitiate with mortals - particularly with ugly little slimeballs such as yourself. Go back to your home to await your doom.	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_ELIZABETH_1	Do you plead for mercy, [CT_NAME]? You'll find none here - only justice!	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_VICTORIA_1	War is deeply unpleasant, but sometimes necessary. We're told that this is one of those times, so we must refuse your pleas. This interview is concluded.	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_LOUIS_XIV_1	It is far too late for peace, you silly [CT_CIV_ADJ] person! Now go away or I shall taunt you a second time!	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_NAPOLEON_1	Why should I agree to peace when my [OUR_CIV_ADJ] armies are making such short work of you?	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_BISMARCK_1	Your request is denied. Welcome to total war, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_ALEXANDER_1	Your continued existence is an insult to the mighty [OUR_EMPIRE]. This war shall end when you have been erased from the planet.	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_HUAYNA_CAPAC_1	You may beg and plead all you like, [CT_NAME], but it will do you no good. The war will continue until the gods grow tired of it.	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_ASOKA_1	There shall be no true peace in the world until you are no longer in it. The war continues.	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_GANDHI_1	I may be a pacifist, [CT_NAME], but I'm not an idiot. [OUR_CIV_SHORT] declines your request.	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_TOKUGAWA_1	What? Leave you alive to betray and backstab us again?! I shall not sleep easily until you are totally vanquished!	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_MANSA_MUSA_1	Your nation pollutes the very world with its corruption, [CT_NAME]. You must be exterminated.	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_GENGHIS_KHAN_1	Now? While everybody's having so much fun? I don't think so!	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_KUBLAI_KHAN_1	No! [OUR_CIV_ADJ] laws demand that you be further punished for your insolence!	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_CYRUS_1	You have yet to pay fully for your sins, [CT_NAME]. Your people's sufferings will continue until you have done so.	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_JULIUS_CAESAR_1	I have a better idea - how about I just raze your cities and sow your fields with salt?	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_PETER_1	Mighty [OUR_CIV_SHORT] does not negotiate with the likes of you! Now go before I have my Cossacks hack you to bits!	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_CATHERINE_1	I must refuse, [CT_NAME]; peace is not in our best interests at this time. Besides, I think that men in uniform look totally yummy, don't you?	
-CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_ISABELLA_1	No! God commands that I continue this holy crusade until I have achieved total victory! Begone, churl!	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_1	Hello, [CT_NAME]. What is it that you wish to discuss?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_2	Greetings. What may humble [OUR_CIV_SHORT] do for the mighty [CT_CIV_SHORT]?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_3	Greetings.  How may we be of assistance?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_4	Welcome, friend [CT_NAME]. How may we be of assistance?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_5	Hello again!	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_6	Good day to you, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_7	So what's going on?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_8	Hello, [CT_NAME]. What can I do for you?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_9	What is on your mind?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_10	To what do I owe the pleasure of your company?'	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_11	Greetings, [CT_NAME]; how may we be of service?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_12	Welcome, [CT_NAME], to my home.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_13	Hello, [CT_NAME], leader of mighty [CT_CIV_SHORT].	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_14	And what brings [CT_CIV_SHORT] to my humble palace?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_15	How may the [OUR_EMPIRE] assist mighty [CT_CIV_SHORT]?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_16	And to what do I owe the pleasure of your company?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_WASHINGTON_1	Greetings, [CT_NAME]. How was your journey from the [CT_EMPIRE]? I slept there once, you know. 	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_FRANKLIN_ROOSEVELT_1	How absolutely marvey to see you again, [CT_NAME]! Do sit down; my man will get you a Martini.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_SALADIN_1	Blessings be upon you, oh mighty [CT_NAME]! Your glorious personage bestows great honor upon my humble kingdom!	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_MONTEZUMA_1	Welcome, friend [CT_NAME]! I will slaughter many slaves in celebration of your visit!	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_QIN_SHI_HUANG_1	Greetings, [CT_NAME]! Who shall we betray and destroy today?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_CHINESE_LEADER_1	On behalf of the great and glorious Communist Party of China and of all of her horrible little peasants - I mean, "glorious workers" - greetings!	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_HATSHEPSUT_1	Hello again, [CT_NAME]. How honored you must be to see me once more.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_ELIZABETH_1	Good afternoon, [CT_NAME]. And how is that quaint little empire of yours doing?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_VICTORIA_1	On behalf of Mighty Britannia, we are almost pleased to grant you an audience, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_LOUIS_XIV_1	Welcome to my palace, [CT_NAME]. Care to watch me shave?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_NAPOLEON_1	I am quite busy today, [CT_NAME], but perhaps I can grant you a short audience.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_BISMARCK_1	[OUR_CIV_SHORT] salutes you, [CT_NAME]. Come - sit down and admire my huge mustaches!	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_ALEXANDER_1	Welcome, my friend! Come, let us mount our chariots and destroy our foes, leaving fifty thousand rotting corpses upon the battlefield for the crows to fatten upon!	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_HUAYNA_CAPAC_1	I, [OUR_NAME], do welcome you, [CT_NAME], leader of the [CT_EMPIRE]. Let us speak of the slow, painful deaths of our enemies! Care for a smoked hamster?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_ASOKA_1	Greetings, fair [CT_NAME]! May our two countries live forever in peace and harmony!	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_GANDHI_1	Greetings, [CT_NAME]. I trust you have come in peace?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_TOKUGAWA_1	It is good to see you again, [CT_NAME]! Let us sit down and plot the ruination of our enemies. 	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_MANSA_MUSA_1	We meet again, [CT_NAME]. It is truly a blessed day for [OUR_CIV_SHORT]!	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_GENGHIS_KHAN_1	Welcome to my yurt, [CT_NAME]! Let us sit upon these horse-hair cushions and discuss many things! Care for some boiled yak?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_KUBLAI_KHAN_1	Welcome to China, [CT_NAME]! Let us sit upon these golden thrones and discuss many things! Care for some kung pao yak?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_CYRUS_1	I salute you, ruler of the [CT_EMPIRE]. May your inevitable destruction at the hands of Mighty [OUR_CIV_SHORT] be long delayed!	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_JULIUS_CAESAR_1	Greetings, my friend. What may I, [OUR_NAME], Emperor of Mighty [OUR_CIV_SHORT], do for your insignificant civilization today?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_PETER_1	Mighty [OUR_CIV_SHORT] greets you in friendship, [CT_NAME]. And in a drunken stupor too. 	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_CATHERINE_1	Welcome, [CT_NAME]. Is that a treaty in your pocket or are you just glad to see me?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_ISABELLA_1	Her most righteous majesty, [OUR_NAME], beloved of God and protector of the faith, does condescend to greet you once more, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_1	Well?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_2	What is it?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_3	Well? Get on with it!	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_4	What do YOU want?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_5	Let's hear it.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_6	What is it this time, [CT_NAME]?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_7	My time is valuable, [CT_NAME]. What do you want?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_8	Do not make me angry, [CT_NAME]. You wouldn't like me when I'm angry.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_9	And what does puny [CT_CIV_SHORT] want from mighty [OUR_CIV_SHORT]?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_10	Speak your piece, [CT_NAME] - I haven't got all day.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_11	Are you still around? I thought somebody wiped out your puny civilization years ago.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_12	Oh, it's you. Now my day is complete.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_13	Well, look what the cat dragged in.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_14	I studied on killin' you.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_15	You try my patience, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_16	I'm listening.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_WASHINGTON_1	What could [CT_CIV_SHORT] possibly have to say that would be of interest to [OUR_CIV_SHORT]?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_FRANKLIN_ROOSEVELT_1	Come to add to our troubles, have you? Well, get on with it then.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_SALADIN_1	What a surprise! I did not realize it was locust season once again.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_MONTEZUMA_1	Tell me, [CT_NAME]: what has [CT_CIV_SHORT] done to anger the gods so that they give them you as leader?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_QIN_SHI_HUANG_1	Greetings, [CT_NAME]! We are, as always, happy to see you again.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_CHINESE_LEADER_1	It is people like you, [CT_NAME], who give ruthless dictators a bad name. Why are you here?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_HATSHEPSUT_1	Bow before me, [CT_NAME] - a goddess deserves no less!	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ELIZABETH_1	Well? Out with it, you tiresome little person!	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_VICTORIA_1	Good day to you, [CT_NAME]. To what do we owe this unexpected interruption?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_LOUIS_XIV_1	Back again so soon, [CT_NAME]? How glorious. Imagine my excitement.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_NAPOLEON_1	I have little time for your prattle, [CT_NAME]. That is the long and short of it.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_BISMARCK_1	Get to the point, [CT_NAME]. I have IMPORTANT matters of state to deal with.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ALEXANDER_1	Still alive, are you? How disappointing. 	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_HUAYNA_CAPAC_1	It is a source of unending astonishment to me that the gods permit you to live, [CT_NAME]. Why are you here?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ASOKA_1	Why have you come to trouble us, [CT_NAME]?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_GANDHI_1	All people, no matter how unpleasant, are welcome in [OUR_CIV_SHORT], [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_TOKUGAWA_1	Greetings, [CT_NAME]! [OUR_CIV_SHORT] is honored by your visit. You can be sure that we will be coming to your country very soon now. 	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_MANSA_MUSA_1	I do not approve of you or your country, [CT_NAME]. What have you to say that will change my opinion of you?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_GENGHIS_KHAN_1	And they call US barbarians?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_KUBLAI_KHAN_1	My grandfather would have destroyed you on sight, [CT_NAME]. Alas, but I live in more "civilized" times. What do you want?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_CYRUS_1	I wonder, [CT_NAME]: how many hanging chads did it take to get YOU into office?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_JULIUS_CAESAR_1	Why are you here? Is it the Ides of March already?	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_PETER_1	Be brief, [CT_NAME]. I'm trying to give up hacking annoying people to death in a blind rage for Lent. 	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_CATHERINE_1	Remarkable: a politician who even I won't sleep with.	
-CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ISABELLA_1	I'm glad you're here, [CT_NAME]. My Grand Inquisitor would like to have a word with you.	
-CIV4DiplomacyText.xml	AI_DIPLO_TRADING_1	So what do you propose?	
-CIV4DiplomacyText.xml	AI_DIPLO_TRADING_2	Make an offer.	
-CIV4DiplomacyText.xml	AI_DIPLO_TRADING_3	Let us begin!	
-CIV4DiplomacyText.xml	AI_DIPLO_TRADING_4	Hopefully we can come to an agreement.	
-CIV4DiplomacyText.xml	AI_DIPLO_TRADING_5	What does [CT_CIV_SHORT] have to offer?	
-CIV4DiplomacyText.xml	AI_DIPLO_TRADING_6	I'm listening...	
-CIV4DiplomacyText.xml	AI_DIPLO_TRADING_7	We're always looking for a fair exchange, [CT_NAME]. Please go ahead.	
-CIV4DiplomacyText.xml	AI_DIPLO_TRADING_8	Go on.	
-CIV4DiplomacyText.xml	AI_DIPLO_TRADING_9	Well, go ahead and put something on the table.	
-CIV4DiplomacyText.xml	AI_DIPLO_TRADING_10	All right. Let's hear it then.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_1	Agreed.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_2	All right then. Agreed.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_3	Done.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_4	Excellent. We are agreed.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_5	Hrmph. This is highway robbery - but we'll take it.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_6	Well, if that's the best you can do, I guess we'll take it. Done.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_7	I agree to your terms.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_8	I believe we can accept that. Agreed.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_9	I think I can accept these terms. It is agreed.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_10	It is agreed.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_11	It's against my better judgment, but we'll take it. Done.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_12	Sounds fair to me. Done.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_13	That is acceptable to us. Done.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_14	I dislike haggling. Agreed.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_15	The offer is a bit light - but we'll agree to it.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_16	We accept your fair offer.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_17	We accept your gracious offer.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_18	We are agreed then.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_19	We can accept these terms. Done.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_20	We can do business along these lines. Agreed.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_21	We'll take it.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_22	Very well, we'll take it.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_23	It's a good deal. Done.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_24	Your terms are acceptable.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_25	You are a hard bargainer, [CT_NAME]. Agreed.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_26	Excellent. It is done.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_27	[OUR_CIV_SHORT] thanks you. Done.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_1	You'll have to do better than that, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_2	We really do not think this trade will benefit our people.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_3	This proposal will not work for us.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_4	No, seriously. Quit fooling around: what's your offer?	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_5	That's not good enough, friend [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_6	Is that your final offer? 	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_7	I'm afraid that your offer is not acceptable to the [OUR_CIV_ADJ] people.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_8	No can do, my friend. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_9	We cannot afford to be so generous, [CT_NAME]. Try again.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_10	I don't think so. You'll have to do better than that.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_1	We reject your proposal.  No thanks.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_2	Forget it.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_3	We reject your laughable offer.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_4	Just how gullible do you think I am, [CT_NAME]?	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_5	Your generosity is underwhelming. Forget it.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_6	This is totally unacceptable!	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_7	Just who do you think you're dealing with, [CT_NAME]?	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_8	Your offer is an insult to [OUR_CIV_SHORT]. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_9	Now that's just crazy talk. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_10	Quit wasting my time. Make a reasonable offer or go away.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_1	We're glad you accepted our offer.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_2	It is wonderful that you have accepted.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_3	I'm glad that you found the offer acceptable, [CT_NAME]	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_4	Marvelous!	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_5	You have chosen wisely, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_6	Wonderful! Let us celebrate!!	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_7	It's a pleasure doing business with you.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_8	Excellent!	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_9	I'm glad that we could come to an agreement.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_10	Cha-CHING!	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_1	All right then. We're agreed.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_2	Now you are beginning to show some sense, [CT_NAME]. Perhaps there is some hope for you yet.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_3	Done.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_4	Excellent. Perhaps you are not as foolish as you look.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_5	Mighty  [OUR_CIV_SHORT] thanks you. You may go now.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_6	Thank you for your cooperation.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_7	We thank you. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_8	That is all for now. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_9	Fine. It is done.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_10	[OUR_CIV_SHORT] thanks you and your petty little civilization.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_1	We're sorry you don't feel that our offer is reasonable.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_2	Too bad. Do you have something different in mind?	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_3	Let's hear an offer from you, then.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_4	All right. Why don't you put something on the table?	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_5	Well, do you wish to make a counter-proposal?	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_6	All right: let's hear your counter-proposal.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_7	That is regrettable.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_8	That is unfortunate.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_9	Oh well. Perhaps next time, then.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_10	Well, perhaps you would care to suggest something then.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_1	Well, you suggest something then!	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_2	How typical. Let's hear your brilliant. idea then.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_3	You annoy me, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_4	You are incredibly stubborn, [CT_NAME]. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_5	You are remarkably short-sighted, [CT_NAME], to treat your betters thusly.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_6	I suppose you have something better in mind?	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_7	Then quit wasting my time. Either make a counter-proposal or be gone.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_8	Let's hear your idea, then.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_9	Then you put something on the table!	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_10	Does puny [CT_CIV_SHORT] wish to make a counter-proposal? 	
-CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_1	How does this deal sound?	
-CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_2	What do you think of this deal, [CT_NAME]?	
-CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_3	Do you find this offer tempting?	
-CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_4	Here's my offer.	
-CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_5	I'm sure that you'll agree that this deal is fair...	
-CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_6	And that's my final offer. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_1	I don't see how a deal is possible.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_2	That's just crazy-talk. I don't think it can be done.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_3	I'm sorry to say that no such deal is possible.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_4	That can't be done, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_5	I don't see how we can make such a trade.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_6	We can't do that.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_1	That's impossible. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_2	Don't be foolish. That can't possibly be done.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_3	Don't waste my time with impossibilities!	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_4	What are you talking about? That's not possible.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_5	Are you kidding? That can't be done!	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_6	There's no way such a deal is possible.	
-CIV4DiplomacyText.xml	AI_DIPLO_OFFER_PEACE_1	Perhaps it is time for all this bloodshed to end?	
-CIV4DiplomacyText.xml	AI_DIPLO_OFFER_CITY_1	We would like to offer up this city as a sign of our respect.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_1	Greetings, [CT_NAME]! What do you think of this deal?	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_2	The peace-loving people of [OUR_CIV_SHORT] seek a fair trade with [CT_CIV_SHORT]. How about it?	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_3	How does this sound to you, [CT_NAME]?	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_4	What do you think of this deal, [CT_NAME]?	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_5	My friend, can [OUR_CIV_SHORT] tempt you with this offer?	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_6	Let's make a deal!	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_1	[CT_NAME], I'm making you an offer you can't refuse.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_2	Show some intelligence for a change, [CT_NAME]. Accept this deal.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_3	The [OUR_EMPIRE] offers you this trade. I suggest you take it.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_4	Here's our offer. Take it or leave it.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_5	[OUR_CIV_SHORT] offers your nasty little civilization the following deal.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_6	Here's the deal. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_1	I'm afraid this deal will no longer work for us.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_2	I'm sorry, [CT_NAME], but this deal will no longer work for us.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_3	All good things come to an end, unfortunately. Including this deal.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_4	[OUR_CIV_SHORT] can no longer afford this deal, [CT_NAME]. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_5	It's time to end this deal, friend. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_6	If you don't mind, [OUR_CIV_SHORT] would like to cancel this deal.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_1	The [OUR_CIV_ADJ] people are no longer interested in this deal, [CT_NAME]. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_2	This deal is over. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_3	We're ending this deal, [CT_NAME]. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_4	We're sick of this deal. And of you, too, frankly.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_5	We are terminating this deal, [CT_NAME], effective immediately.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_6	This deal no longer suits our needs. It is canceled. 	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_1	[OUR_NAME] thanks you on behalf of the grateful [OUR_CIV_ADJ] people!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_2	[OUR_CIV_SHORT] acknowledges your friendship. Thank you.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_3	[OUR_CIV_SHORT] graciously acknowledges your friendship, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_4	[OUR_CIV_SHORT] salutes its friend, the tiny nation of [CT_CIV_SHORT].	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_5	[OUR_CIV_SHORT] salutes you, [CT_NAME]!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_6	[OUR_CIV_SHORT] thanks you, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_7	[OUR_CIV_SHORT] thanks you, fair and generous [CT_NAME]!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_8	[CT_NAME], my people thank you.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_9	Excellent! I'm quite pleased. Let's sit down and have a jolly cup of tea, shall we?	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_10	Good decision. We must build a closer bond - or else!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_11	I [OUR_NAME], Godlike Ruler of the Mighty [OUR_EMPIRE], do hereby offer my sincerest thanks to my good friend, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_12	I am glad that we have concluded this arrangement amicably, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_13	I am so happy that our two nations can rise above petty rivalries like this! We will set an example the whole world will follow!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_14	I am SO pleased that we have been able to come to a fair agreement, [CT_NAME]!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_15	I appreciate this, friend [CT_NAME]. Thanks from all the [OUR_CIV_ADJ] people!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_16	I bow before you in friendship, [CT_NAME]!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_17	I congratulate you on your common sense, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_18	I thank you. Now I'm sure that you have pressing business elsewhere...	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_19	I will sacrifice fifty warriors in honor of your friendship!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_20	I, [OUR_NAME], ruler of way too many places to mention, do hereby thank my good friend, [CT_NAME]!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_21	It has been a pleasure doing business with you, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_22	It is good that we can come together as equals, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_23	We enjoyed speaking with you [CT_NAME]. Odd, since you are so far inferior, but personality goes a long way.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_24	You are the wind beneath my wings, [CT_NAME]!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_25	You have our gratitude.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_26	Many thanks, [CT_NAME]!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_27	Many thanks. 	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_28	May the heavens bless and sanctify the friendship between our two great people!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_29	May the bond between [OUR_NAME] and [CT_NAME] grow ever stronger!.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_30	May the friendship between [OUR_CIV_SHORT] and [CT_CIV_SHORT] last for many years!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_31	Did you ever know that you're my hero? You're everything I wish I could be. 	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_32	On behalf of the [OUR_CIV_ADJ] people, I thank you!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_33	On behalf of the people of [OUR_CIV_SHORT], I thank you and all the [CT_CIV_ADJ] people.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_34	Our work is concluded. You may go.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_35	Our work is finished here, is it not? Well, then, don't let me keep you.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_36	Thank me?  No, no...thank you, [CT_NAME]!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_37	Thank you, [CT_NAME]! 	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_38	Thank you, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_39	Thank you, [CT_NAME].  Is there anything else?	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_40	Thank you, [CT_NAME]. May both our people profit from our continued friendship!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_41	Thank you.  Your cooperation has been noted.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_42	Thanks, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_43	It's been a small slice of heaven. I mean that sincerely.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_44	Thanks.  Will that be all?	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_45	You have our gratitude.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_46	That will be all for now, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_47	There. That's a job well done, don't you think?	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_48	That's done, then. Thanks and farewell!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_49	The [OUR_CIV_ADJ] people graciously thank the people of - whatever your culture's name is.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_50	The [OUR_EMPIRE] thanks you, [CT_NAME]. You may go now.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_51	We thank our friends and partners, the [CT_CIV_ADJ] people!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_52	We thank our partner, [CT_CIV_SHORT], for coming to a fair and just agreement.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_53	We work together well, [CT_NAME]. I look forward to many more mutually profitable arrangements in the future!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_54	We're done here, right? Well, don't let me keep you. Thanks and good bye.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_55	Yes, I believe we will both profit from this deal.  I look forward to doing business with you again.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_56	You are almost an equal in cunning and martial prowess, [CT_NAME]. I, [OUR_NAME], thank you for your visit.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_57	You are wise beyond your years, friend [CT_NAME]. [OUR_CIV_SHORT] offers you its sincerest thanks.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_58	You have [OUR_CIV_SHORT]'s thanks.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_59	You have chosen wisely, [CT_NAME]. It is important to maintain good relations with your betters, don't you agree?	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_60	You have my eternal gratitude, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_61	You have our gratitude.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_62	You have our thanks.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_63	You make me so happy, [CT_NAME]!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_64	You show great wisdom and acumen in picking your friends, [CT_NAME]. The [OUR_EMPIRE] thanks you.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_65	You show great wisdom and friendship. [OUR_CIV_SHORT] thanks you!	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_66	Your fair and courteous dealings with the [OUR_CIV_ADJ] people will not be forgotten.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_67	You have [OUR_CIV_SHORT]'s thanks.	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_68	It appears that your visit was not a complete waste. Come back again when you have something else to offer the [OUR_EMPIRE].	
-CIV4DiplomacyText.xml	AI_DIPLO_THANKS_69	Yours is a friendly and accommodating little culture. We thank you.	
-CIV4DiplomacyText.xml	AI_DIPLO_CURRENT_DEALS_1	As I see it, these are our current deals.	
-CIV4DiplomacyText.xml	AI_DIPLO_CURRENT_DEALS_2	These are our active deals.	
-CIV4DiplomacyText.xml	AI_DIPLO_CURRENT_DEALS_3	[CT_NAME], these are the deals we have agreed upon.	
-CIV4DiplomacyText.xml	AI_DIPLO_CURRENT_DEALS_4	These are the deals we have with the [CT_EMPIRE].	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_ASK_1	Always happy to help...	
-CIV4DiplomacyText.xml	AI_DIPLO_REJECT_ASK_1	Sorry, but you press us too hard.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_1	We accede to your unreasonable demands.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_2	I accept your terms, for now. But you just wait until next time!	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_3	It appears that I have no choice but to agree.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_4	All right, then. But just remember: what goes around comes around!	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_5	Sure: kick a civilization when it's down. I accept your terms.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_6	I agree to your terms. For now.	
-CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_TEAM_1	Always happy to help!	
-CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_1	We reject your meaningless threats!	
-CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_2	How dare you insult glorious [OUR_CIV_SHORT] with your stupid demands!	
-CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_3	Not bloody likely.	
-CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_4	Not on my watch!	
-CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_5	Never!	
-CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_6	You badly underestimate the [OUR_EMPIRE], [CT_NAME]. We would never agree to any such thing.	
-CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_1	We see that you could probably use a little help.	
-CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_2	Perhaps this could be of assistance to you, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_3	Here's a little something from us to you.	
-CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_4	Here, my friend: you might need this.	
-CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_5	Would this be of any use to you, [CT_NAME]?	
-CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_6	The [OUR_CIV_ADJ] people are feeling quite generous today, [CT_NAME]. Perhaps this could be of some use to you.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_1	Charity begins at home, [CT_NAME]. Care to give us some?	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_2	[OUR_CIV_SHORT] requires your assistance, friend [CT_NAME]. I hope that you will not disappoint us.	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_3	I have always relied on the kindness of strangers, [CT_NAME]. Can you help?	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_4	A friend in need is a friend indeed, [CT_NAME]. Care to help us out?	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_5	[OUR_CIV_SHORT] could use your assistance, [CT_NAME]. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_6	Could you possibly spare us this, [CT_NAME]?	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_1	Supplying us with this would go a long way towards healing the unfortunate rift between our peoples, [CT_NAME]. 	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_2	I find that [OUR_CIV_SHORT] needs your aid, [CT_NAME]. I'm certain you won't disappoint us.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_3	As difficult as it may be to believe, you actually have something that we could use.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_4	Your assistance at this vital time will do much towards regaining [OUR_CIV_SHORT]'s friendship, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_5	Despite our differences, I believe that our two nations have much in common. For example, you have this and we need it.	
-CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_6	We could use your assistance, [CT_NAME]. Do not disappoint us.	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_1	How disappointing. 	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_2	Well, dang.	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_3	You are really not a very giving person, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_4	Very well. We shall say nothing more of this - for the moment.	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_5	You have chosen foolishly, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_6	Very well. But greed will be your ultimate downfall, [CT_NAME]. 	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_1	We shall remember this, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_2	How shortsighted of you.	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_3	That's not very nice of you, [CT_NAME]. 	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_4	We'll remember this.	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_5	You foolish person.	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_6	I expected better of you, [CT_NAME]. 	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_1	I hope you don't come to regret this, [CT_NAME]. 	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_2	Very well. On your own head be it.	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_3	As you will. 	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_4	Remember, what goes around comes around...	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_5	Fine. See if we help you out when you need it.	
-CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_6	That's too bad. For the both of us, I fear.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_1	We demand the following in tribute!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_2	[CT_NAME], meet our demands or suffer the consequences.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_3	It would be wise for you to give us what we want.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_4	Give us what we want or prepare to be destroyed.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_5	Be wise [CT_NAME] and give in to our demands.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_1	We can do this the easy way, or the hard way. Which do you prefer?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_2	For the sake of our long friendship, [CT_NAME], will you not give us this small present?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_3	Friend [CT_NAME], we are in some need of assistance. Will you not help your longstanding friend and ally?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_4	Give us what we want, [CT_NAME], lest we come and take it.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_5	This is what we need, [CT_NAME]. Surely our continued friendship is worth far more than that!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_6	The [OUR_EMPIRE] would be quite grateful if your terribly vulnerable country gave us what we want.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_7	Our continued friendship provides many benefits, [CT_NAME]. Surely it is worth this small tribute in return?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_8	Pay it forward, [CT_NAME]. Please?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_FRANKLIN_ROOSEVELT_1	The only thing you have to fear is the terrible consequence of not giving me what I want.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_WASHINGTON_1	The best things in life are free, [CT_NAME]. Unfortunately, our continued friendship isn't one of them.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_MONTEZUMA_1	The gods demand sacrifice, [CT_NAME]. If your civilization is to exist for much longer, I recommend that you comply.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_QIN_SHI_HUANG_1	That's quite a nice little civilization you have going there, [CT_NAME]. It would be very unfortunate if something bad were to happen to it... We understand each other, do we not?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_CHINESE_LEADER_1	[CT_NAME], please give us the following immediately. Think of it as an investment in our continued friendship.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_MENES_1	I want this right now. Do not make me angry - you wouldn't like me when I'm angry...	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_HATSHEPSUT_1	I was going to demand that you sacrifice 1000 warriors to my greatness, [CT_NAME], but if you prefer, you can give me this.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ELIZABETH_1	The world is a better place because of our friendship, [CT_NAME]; don't you agree? Surely this isn't too large a price to pay to insure that it continues...	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_VICTORIA_1	The [CT_CIV_ADJ] people are in great need, [CT_NAME]. Do not disappoint us.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_NAPOLEON_1	My armies thirst for new lands to conquer, [CT_NAME]. Would you care to ensure that they aren't yours?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ALEXANDER_1	For the sake of our continued friendship, provide the great people of the [OUR_NAME] with tribute.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_HUAYNA_CAPAC_1	Give us what we want, [CT_NAME] - it is the will of the gods. 	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ASOKA_1	Peace demands sacrifice, [CT_NAME]. From you.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_GANDHI_1	I hope you see, [CT_NAME], that it is in your country's best interest to give us what we want. 	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_TOKUGAWA_1	Give us what we want, now! Or face imminent destruction! 	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_MANSA_MUSA_1	Forsake greed, friend!  Provide me with tribute, or risk the anger of the [OUR_CIV_ADJ] people.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_GENGHIS_KHAN_1	Bestow gifts upon your friends and you are likely to be rewarded a hundred times over.  Ignore the advice of wise-men, and you risk being flogged about the head, neck, face, and shoulders.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_KUBLAI_KHAN_1	The mighty [OUR_EMPIRE] thanks you for your generous gift, [CT_NAME]. Now hand it over.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_CYRUS_1	Friendly [OUR_CIV_SHORT] requires a goodwill gesture from our firm yet surprisingly vulnerable ally, [CT_CIV_SHORT]. 	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_JULIUS_CAESAR_1	Usually, when I see something I want, I just come over and take it. Consider this your lucky day.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_AUGUSTUS_CAESAR_1	The truth is, [OUR_CIV_SHORT] is stronger than your empire, [CT_NAME]. It would be wise of you to give us what we want.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_PETER_1	Give us this or our mighty Cossacks will roam across your ravaged country, burning your cities, stealing your pigs and making lewd gestures at your women!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_CATHERINE_1	A present for me? Why, it's just what I wanted! How ever did you guess?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ISABELLA_1	Heaven is on our side, [CT_NAME]. I pray that you know what's good for you.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_GILGAMESH_1	Give us what we want now, [CT_NAME], and we shall repay you a hundredfold at some distant later date.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_1	The honor of [OUR_CIV_SHORT] requires that we ask you to give us a small donation.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_2	For the sake of friendship, you might want to consider giving us a small gift.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_3	Agree to our demands, [CT_NAME], or be prepared to fight!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_4	Know that [OUR_CIV_SHORT] stands by [CT_CIV_SHORT]'s side as friend and equal Now - about our fee...	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_5	Peace with the [OUR_EMPIRE] comes with a price, [CT_NAME]. Will you pay?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_6	[OUR_CIV_SHORT] demands that you give us the following tribute. Our [OUR_BEST_UNIT] await your response.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_7	[OUR_CIV_SHORT] needs this, [CT_NAME]. Will you give it to us, or must we fight for it?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_FRANKLIN_ROOSEVELT_1	Hello, [CT_NAME]! The price of freedom has just gone up.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_WASHINGTON_1	I cannot tell a lie, [CT_NAME]: we want your stuff. Kindly give it to us at your earliest convenience.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SALADIN_1	By the glory of God, I, [OUR_NAME], mightiest of his servants, do request a small donation from you, [CT_NAME]. You would be wise to consider my request carefully.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_MONTEZUMA_1	The [OUR_EMPIRE] requests from you a small donation, [CT_NAME]. Or, if you prefer, we can battle until one of us is destroyed. 	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_CHINESE_LEADER_1	Would you care to take part in our share-the-wealth program, [CT_NAME]?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_MENES_1	Furnish [OUR_CIV_SHORT] with these gifts and we will tolerate your existence for a little while longer.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_HATSHEPSUT_1	It is customary for puny mortals to show their devotion by giving their goddess a gift. Or if they prefer they can be cut into small pieces and fed to the royal crocodiles.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ELIZABETH_1	My dear [CT_NAME], [OUR_CIV_SHORT] can make life very difficult indeed for [CT_CIV_SHORT]. Give us what we want or suffer the consequences.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_VICTORIA_1	We have needs, [CT_NAME]. Please comply.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_NAPOLEON_1	I'll keep this short: comply with our demands or suffer the consequences. That is all.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_BISMARCK_1	"Blackmail" is such an ugly word, [CT_NAME]. I prefer to call it, "extortion."	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ALEXANDER_1	Do you choose to cravenly lick our boots and give us what we want, or to stand and fight us in a heroic but doomed last stand?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_HUAYNA_CAPAC_1	I have sacrificed many foes, [CT_NAME]. Give me what I want or you may be next.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ASOKA_1	A small donation would help insure continued frirendship between our two peoples, [CT_NAME]. 	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_GANDHI_1	[OUR_CIV_SHORT] requests a small donation from their good friends, the [CT_CIV_ADJ] people. 	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_TOKUGAWA_1	We are bigger and stronger than you, [CT_NAME]. You must give us tribute, or suffer the consequences.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_MANSA_MUSA_1	My generosity is known the world over, [CT_NAME]. How about yours?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_GENGHIS_KHAN_1	Give us what we want, [CT_NAME], or 20,000 screaming warriors will come and take it.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_KUBLAI_KHAN_1	You may purchase your continued existence with this, [CT_NAME]. I suggest that you be sensible and do so.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_JULIUS_CAESAR_1	If you wish to ensure [CT_CIV_SHORT]'s continued survival, you would be wise to comply with my demands.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_AUGUSTUS_CAESAR_1	The [CT_EMPIRE] is strong, [CT_NAME]. But are you sure that it is as strong as Mighty [OUR_CIV_SHORT]? Deny us our tribute and you may have a chance to find out.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_PETER_1	Hand this over or die.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_CATHERINE_1	I do so hope that we can remain friends, [CT_NAME]. The world just wouldn't be as much fun with you not in it.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ISABELLA_1	Mighty [OUR_CIV_SHORT] is leading the battle against evil, godless, heathen, barbarians, [CT_NAME]. It is time to show your appreciation. 	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_GILGAMESH_1	Given the many concessions we have granted you previously, is it not time for you to give Mighty [OUR_CIV_SHORT] something in return?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_1	Think well, [CT_NAME]: if you give us tribute, our friendship will continue. If not, we will have to seriously re-evaluate our relationship.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_2	[OUR_CIV_SHORT] demands that you pay her tribute.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_3	Give us what we want or be destroyed.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_4	Mighty [OUR_CIV_SHORT] demands that you acknowledge her superiority with a small token of respect.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_5	The superior [OUR_CIV_ADJ] civilization is worthy of tribute. Dispense goods to us, and we'll refrain from sending our [OUR_BEST_UNIT] to crush you.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_6	Time is short and so too will be the memory of [CT_CIV_SHORT] should you deny me this token of respect.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_7	I wonder if you would consider giving us a small gift, [CT_NAME], in honor of the timeless friendship between Mighty [OUR_CIV_SHORT] and your weak and defenseless people?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_8	For the sake of your country's continued survival, I suggest that you comply with our demands.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_FRANKLIN_ROOSEVELT_1	That certainly is a nice little civilization you have there, [CT_NAME]. It would be unfortunate if something were to happen to it...	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_WASHINGTON_1	Don't think of this as a demand for tribute, [CT_NAME]. Think of it as an investment in world peace.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_SALADIN_1	It is only proper that the vassal states provide tribute to their lord and protector. That would be me.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_MONTEZUMA_1	Your weakness is contemptible, #CT_NAME! Give us what we want or perish!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_QIN_SHI_HUANG_1	If you wish your pathetic civilization to survive, [CT_NAME], you had better comply with our demands!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_CHINESE_LEADER_1	For too long have the glorious [CT_CIV_ADJ] workers put up with your contemptible bourgoise insolence! It's time for an immediate redistribution of wealth!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_MENES_1	Glorious [OUR_CIV_SHORT] requires from you a token of aubmission. Or would you prefer that we wipe [CT_CIV_SHORT] from the face of the planet?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_ELIZABETH_1	Conventional wisdom suggests that you bequeath certain goods to us or be destroyed.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_VICTORIA_1	Give [OUR_CIV_SHORT] what is due her, [CT_NAME]! We shall not ask a second time.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_LOUIS_XIV	The [OUR_CIV_ADJ] Folk have put up with your insults long enough! Pay us the following or suffer the consequences!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_NAPOLEON_1	If you wish to delay your destruction, [CT_NAME], give us what we want.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_BISMARCK_1	To be honest, raw greed is the only thing stopping us from destroying your puny civilization. Pay us what we want, or perish.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_HUAYNA_CAPAC_1	Foolish [CT_NAME]! Give us what we want and you may live for yet another day!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_ASOKA_1	Mighty [OUR_CIV_SHORT]'s protection comes at a price, [CT_NAME]. You would be wise to pay it.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_GANDHI_1	I believe in peace at any price, [CT_NAME]. This is your price.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_TOKUGAWA_1	Do not let foolish pride cause the downfall of your people, [CT_NAME]. Pay us what we want - or be destroyed!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_MANSA_MUSA_1	Time is short and so too will be the memory of [CT_CIV_SHORT] should you deny me this token of respect.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_GENGHIS_KHAN_1	When you find a hungry tiger at your door, commen sense says that you feed him.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_KUBLAI_KHAN_1	[OUR_CIV_SHORT] requires tribute from inferior cultures such as yours. Comply or be destroyed.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_JULIUS_CAESAR_1	Acceed to our demands or face us in battle. 	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_AUGUSTUS_CAESAR_1	Resistance is futile! Comply with our demands or face destruction!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_PETER_1	Ah, [CT_NAME]. I have an excellent deal to offer you: give us what we want, and we will not crush you. Does that not sound fair?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_CATHERINE_1	Some enjoy licking our boots, [CT_NAME]. How about you give it a try?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_GILGAMESH_1	Your ruination is at hand, [CT_NAME]! Your only chance of survival is to give mighty [OUR_CIV_SHORT] what she wants!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_1	Very well. I hope that you won't come to regret this decision, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_2	In the future you'd best remember who your friends are, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_3	Once again you disappoint me, [CT_NAME]. You'd be advised to see that it doesn't happen again.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_4	Well that's not very nice, if you ask me.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_5	Curses: foiled again!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_6	You are arrogant, [CT_NAME]. Some day it will lead to your destruction. 	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_1	Foolish stubborness will lead to your destruction, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_2	Very well. On your head be it.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_3	I don't think you realize just who you're dealing with, [CT_NAME]. I suggest you reconsider, and quickly!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_4	You gamble with the lives of your people, [CT_NAME]. Are you ready to pay the price if you lose?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_5	Fine. Next time I won't ask so nicely!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_6	You're playing with fire, [CT_NAME]. See that you don't get burned.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_1	You'll regret this, you wretched creature!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_2	You test my patience, [CT_NAME]!	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_3	Very well. I suggest that you start cranking out those soldiers, [CT_NAME]. You'll have need of them shortly.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_4	You should think more carefully before you anger your betters, [CT_NAME], for it can lead to bitter consequences.	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_5	Fool! Don't you know that I could crush you like a grape?	
-CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_6	How dare you deny my extremely reasonable request! You'll regret this, I promise!	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_WEAKER_1	The bonds between our civilizations would be greatly strengthened if you converted to [OUR_STATE_RELIGION].	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_WEAKER_2	Isn't it about time that you abandoned your foolish beliefs and converted to [OUR_STATE_RELIGION], [CT_NAME]?	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_WEAKER_3	You should consider converting to [OUR_STATE_RELIGION], [CT_NAME]. It is the one true path to salvation.	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_EQUAL_1	I urge you to convert to [OUR_STATE_RELIGION], [CT_NAME]. Religious wars can be so unpleasant...	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_EQUAL_2	Our gods can beat your gods any day of the week, [CT_NAME]. Convert to [OUR_STATE_RELIGION] before it's too late!	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_EQUAL_3	[OUR_STATE_RELIGION] is mighty, [CT_NAME]. Convert now, before the heavens rain their displeasure upon you.	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_STRONGER_1	The heavens demand that you join [OUR_STATE_RELIGION] immediately. Consider your answer carefully!	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_STRONGER_2	Abandon your heathenish ways and join [OUR_STATE_RELIGION], [CT_NAME]. Your people's survival depends on it!	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_STRONGER_3	Discard your false religion and embrace [OUR_STATE_RELIGION], [CT_NAME]. If you wish to survive...	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_WEAKER_1	Very well. We know that this can be a sensitive matter.	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_WEAKER_2	As you wish. 	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_WEAKER_3	We shall speak of this again at a later time.	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_EQUAL_1	On your own head be it.	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_EQUAL_2	You disappoint me. And you disappoint the heavens. Foolish.	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_EQUAL_3	Very well. But remember, [CT_NAME], The wages of sin are death. 	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_STRONGER_1	So be it. I pray that your people do not suffer overmuch for your folly.	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_STRONGER_2	You mock the heavens at your peril, [CT_NAME]! I can but hope that you will see wisdom before it is too late.	
-CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_STRONGER_3	I fear that your blasphemy will not go unpunished, [CT_NAME]. I'd invest in a lot of lightning rods if I were you.	
-CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_1	Please join us by adopting %s1.	
-CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_2	All the cool civs are adopting %s1, [CT_NAME]. How about you?	
-CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_3	Have you considered adopting %s1? it will bring our two civilizations even closer together.	
-CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_4	I urge you to adopt %s1, [CT_NAME]. Your civilization will be the better for it.	
-CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_5	%s1 is extremely useful, [CT_NAME]. [CT_CIV_SHORT] would do well to adopt it.	
-CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_16	Adopt %s1 - before it's too late!	
-CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_1	As you will.	
-CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_2	I suppose you know best. 	
-CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_3	On your head be it.	
-CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_4	Really? How foolish.	
-CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_5	That's not very intelligent of you, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_6	Nobody ever listens to me.	
-CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_1	%s2 is a threat to us all. Please join us in wiping [NUM2:him:her:them:them] out.	
-CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_2	Care to assist us in destroying the evil %s2?	
-CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_3	Greetings, [CT_NAME]. The annoying %s2 must be destroyed, don't you agree?	
-CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_4	[CT_NAME]: we urgently request mighty [CT_CIV_SHORT]'s assistance in our crusade against %s2!	
-CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_5	The treacherous %s2 must be punished for [NUM2:his:her:their:their] offences against civilization, [CT_NAME]! I assume we can count on your assistance?	
-CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_6	The nasty %s2 are plotting against us all, [CT_NAME]! Let us destroy [NUM2:him:her:them:them] together!	
-CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_1	You should choose your sides carefully.	
-CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_2	Very well. That just means more plunder for us!	
-CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_3	Really? I had no idea you were so timid!	
-CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_4	How very disappointing.	
-CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_5	I hope you know what you're doing, [CT_NAME].	
-CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_6	We shall remember this, [CT_NAME]!	
-CIV4DiplomacyText.xml	AI_DIPLO_STOP_TRADING_1	It can no longer be tolerated - we demand that you cancel your deals with the vile %s2!	
-CIV4DiplomacyText.xml	AI_DIPLO_STOP_DENIED_1	We won't take this lightly, [CT_NAME]!	
-CIV4DiplomacyText.xml	AI_DIPLO_UNIT_BRAG_1	Fear my [OUR_BEST_UNIT]!	
-CIV4DiplomacyText.xml	AI_DIPLO_UNIT_BRAG_2	Soon my numberless [OUR_BEST_UNIT] shall destroy you all!	
-CIV4DiplomacyText.xml	AI_DIPLO_UNIT_BRAG_3	Now I have a [OUR_BEST_UNIT]. Ho-Ho-Ho.	
-CIV4DiplomacyText.xml	AI_DIPLO_UNIT_BRAG_4	Oh look: I've just built a [OUR_BEST_UNIT]. Now where shall I put it?	
-CIV4DiplomacyText.xml	AI_DIPLO_UNIT_BRAG_5	Cower before the might of my [OUR_BEST_UNIT]!	
-CIV4DiplomacyText.xml	AI_DIPLO_NUKES_1	Beware, our words are backed by nuclear weapons!	
-CIV4DiplomacyText.xml	AI_DIPLO_WORST_ENEMY_1	Watch out for our worst enemy - [OUR_WORST_ENEMY]! They can't be trusted.	
-CIV4DiplomacyText.xml	AI_DIPLO_WORST_ENEMY_TRADING_1	We would encourage you to stop trading with our bitter enemy - [OUR_WORST_ENEMY]!	
-CIV4DiplomacyText.xml	AI_DIPLO_SOMETHING_ELSE_1	What else would you like to discuss?	
-CIV4DiplomacyText.xml	AI_DIPLO_RESEARCH_1	What would you like us to research?	
-CIV4DiplomacyText.xml	AI_DIPLO_RESEARCH_TECH_1	We'll switch right away!	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_1	Yes?	
-CIV4DiplomacyText.xml	AI_DIPLO_TARGET_1	Where should we attack?	
-CIV4DiplomacyText.xml	AI_DIPLO_TARGET_CITY_1	We'll do our best!	
-CIV4DiplomacyText.xml	AI_DIPLO_WELL_1	Well?	
-CIV4DiplomacyText.xml	USER_DIPLO_WAR_RESPONSE_1	So be it.	
-CIV4DiplomacyText.xml	USER_DIPLO_PEACE_1	There shall be peace in our time!	
-CIV4DiplomacyText.xml	USER_DIPLO_WAR_1	Your head would look good on the end of a pole. (WAR)	
-CIV4DiplomacyText.xml	USER_DIPLO_PROPOSE_1	Would you accept this deal?	
-CIV4DiplomacyText.xml	USER_DIPLO_ACCEPT_1	We accept your offer.	
-CIV4DiplomacyText.xml	USER_DIPLO_REJECT_1	Sorry, we cannot accept such a deal.	
-CIV4DiplomacyText.xml	USER_DIPLO_OFFER_1	What do you want for this?	
-CIV4DiplomacyText.xml	USER_DIPLO_GIFT_1	Please, accept this gift.	
-CIV4DiplomacyText.xml	USER_DIPLO_NEVERMIND_1	Never mind...	
-CIV4DiplomacyText.xml	USER_DIPLO_PROPOSAL_1	We would like to make a trade proposal.	
-CIV4DiplomacyText.xml	USER_DIPLO_COMPLETE_DEAL_1	What would make this deal work?	
-CIV4DiplomacyText.xml	USER_DIPLO_FISH_FOR_DEAL_1	What will you give me for this?	
-CIV4DiplomacyText.xml	USER_DIPLO_SUGGEST_PEACE_1	Lets stop this pointless fighting and declare peace!	
-CIV4DiplomacyText.xml	USER_DIPLO_OFFER_PEACE_1	Let us bury the hatchet. What is the price for peace?	
-CIV4DiplomacyText.xml	USER_DIPLO_CURRENT_DEALS_1	What are the current deals we have together?	
-CIV4DiplomacyText.xml	USER_DIPLO_ASK_1	Could you spare this for a good friend?	
-CIV4DiplomacyText.xml	USER_DIPLO_DEMAND_1	We demand that you give this to us in tribute.	
-CIV4DiplomacyText.xml	USER_DIPLO_DEMAND_TEAM_1	This sure would come in handy...	
-CIV4DiplomacyText.xml	USER_DIPLO_ACCEPT_OFFER_1	Sounds like a deal!!!	
-CIV4DiplomacyText.xml	USER_DIPLO_REJECT_OFFER_1	It ain't happening.	
-CIV4DiplomacyText.xml	USER_DIPLO_RENEGOTIATE_1	Care to negotiate?	
-CIV4DiplomacyText.xml	USER_DIPLO_NO_RENEGOTIATE_1	Fair enough. (exit)	
-CIV4DiplomacyText.xml	USER_DIPLO_GIVE_HELP_1	Sure! We're always glad to help!	
-CIV4DiplomacyText.xml	USER_DIPLO_REFUSE_HELP_1	Sorry, but it's no rose garden over here either.	
-CIV4DiplomacyText.xml	USER_DIPLO_ACCEPT_DEMAND_1	Well, if you insist...	
-CIV4DiplomacyText.xml	USER_DIPLO_REJECT_DEMAND_1	We reject your empty threats!	
-CIV4DiplomacyText.xml	USER_DIPLO_CONVERT_1	I agree. We will convert to [OUR_STATE_RELIGION] immediately. (Convert Religion)	
-CIV4DiplomacyText.xml	USER_DIPLO_NO_CONVERT_1	Our people will never give up their beliefs.	
-CIV4DiplomacyText.xml	USER_DIPLO_REVOLUTION_1	But of course... we now see the error of our ways. (Start Revolution)	
-CIV4DiplomacyText.xml	USER_DIPLO_NO_REVOLUTION_1	You must learn to respect our differences.	
-CIV4DiplomacyText.xml	USER_DIPLO_JOIN_WAR_1	Let's get this war started! (Declare War)	
-CIV4DiplomacyText.xml	USER_DIPLO_NO_JOIN_WAR_1	Sorry, but we cannot afford a war right now.	
-CIV4DiplomacyText.xml	USER_DIPLO_STOP_TRADING_1	You're right, we can't stand them either! (Cancel Deals)	
-CIV4DiplomacyText.xml	USER_DIPLO_NO_STOP_TRADING_1	Sorry, but we just can't turn our back on them.	
-CIV4DiplomacyText.xml	USER_DIPLO_SOMETHING_ELSE_1	Let's discuss something else...	
-CIV4DiplomacyText.xml	USER_DIPLO_RESEARCH_1	We would like you to research...	
-CIV4DiplomacyText.xml	USER_DIPLO_ATTITUDE_1	What do you think of...	
-CIV4DiplomacyText.xml	USER_DIPLO_TARGET_1	Why don't you attack...	
-CIV4DiplomacyText.xml	USER_DIPLO_EXIT_1	Farewell ... (Exit)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_1	%s1 is a scourge on our world! (Furious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_2	%s1 is a snake in the grass! Do not trust [NUM1:him:her:x:x]! (Furious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_3	I neither like nor trust %s1. (Furious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_4	A despicable villain! (Furious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_5	%s1 is a deceitful cretin! (Furious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_6	%s1 is dead to me! (Furious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_7	%s1 is a very bad person. (Furious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_8	%s1? A treacherous cowardly baboon. (Furious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_9	%s1 is not worth a bucket of owl spit. (Furious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_10	%s1 is evil through and through! (Furious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_11	%s1 is a dirty, rotten scoundrel! (Furious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_12	%s1 is a nasty piece of work, if you want my opinion! (Furious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_13	Not to be trusted at all. (Furious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_14	Do not mention that creature's name in my presence! (Furious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_15	%s1 is a rat fink. (Furious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_1	We're becoming increasingly frustrated with %s1's behavior! (Annoyed)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_2	%s1 is an extremely annoying person. (Annoyed)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_3	%s1 tries my patience. (Annoyed)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_4	I don't like %s1 much, to be honest. (Annoyed)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_5	%s1 is more trouble than [NUM1:he:she:x:x] is worth. (Annoyed)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_6	I think that the world would be better off without %s1. (Annoyed)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_7	I don't think much of %s1 at all. (Annoyed)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_8	%s1 is no better than [NUM1:he:she:x:x] should be. (Annoyed)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_9	A worthless windbag, in my opinion. (Annoyed)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_10	%s1 is a pain in the butt. (Annoyed)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_11	%s1 is a useless waste of space, as far as I'm concerned. (Annoyed)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_12	I hardly trust %s1 at all. (Annoyed)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_13	%s1 is a petty criminal masquerading as a world leader. (Annoyed)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_14	A cheap, jumped-up little weasel. (Annoyed)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_15	%s1 is a pain in the neck, to be honest. (Annoyed)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_1	We're not quite sure yet what to think of %s1. (Cautious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_2	%s1 is all right, I suppose. (Cautious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_3	%s1 has [NUM1:his:her:x:x] uses. (Cautious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_4	I have no problems with %s1. (Cautious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_5	%s1 is all right, I guess. (Cautious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_6	I'm not too sure about %s1, to be honest. (Cautious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_7	%s1 is all right as long as you keep an eye on [NUM1:him:her:x:x]. (Cautious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_8	We trust %s1. Sometimes. (Cautious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_9	I'm not sure what to think of %s1. (Cautious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_10	I'm adopting a "wait and see" attitude on %s1. (Cautious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_11	I haven't made up my mind yet. (Cautious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_12	I have the feeling that %s1 is up to something, but I can't prove it yet. (Cautious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_13	%s1? Who knows? (Cautious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_14	I don't know what to think of %s1, to be totally honest. (Cautious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_15	Reply hazy. Ask again later. (Cautious)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_1	We get along with %s1 quite well. (Pleased)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_2	%s1 is a friend of ours. (Pleased)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_3	No complaints here! (Pleased)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_4	%s1? A good person to have at your back. (Pleased)	
-CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_5	%s1 has done all right by us. (Pleased)	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_PETER_1	Welcome, [CT_NAME]. I am [OUR_NAME], ruler of all of [OUR_CIV_SHORT]. You will find me a fair man to deal with - cruel, but fair. 	欢迎，[CT_NAME]。我是[OUR_NAME]，[OUR_CIV_SHORT]全境的统治者。你会发现我是个公道的谈判对象——残忍，但公道。
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_CATHERINE_1	Well hello there, [CT_NAME]. It is a pleasure to meet you at last! I'm always looking for CLOSER relations with other leaders, if you get my drift...	哎呀，你好呀，[CT_NAME]。终于见到你了，真是荣幸！我可一向乐意跟别的领袖建立更“亲密”的关系，你懂我的意思吧……
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_ISABELLA_1	Her most righteous majesty, Isabella, beloved of God and protector of the faith, does condescend to greet you, [CT_NAME]. Do tell me: are you a righteous people, or are you fiendish heathens who need to be wiped off of the face of this fair land?	至圣至明的女王伊莎贝拉，蒙神眷爱、信仰的守护者，屈尊向你致意，[CT_NAME]。且告诉我：你们是正义之民，还是该从这片美好土地上被彻底抹去的邪恶异教徒？
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_1	Stop pestering me!	别再来烦我了！
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_2	I have nothing to say to you.	我跟你没什么好说的。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_3	Sorry, [CT_NAME], talk does not interest us!	抱歉，[CT_NAME]，谈话我们没兴趣！
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_4	Go away. We have nothing to discuss.	走开。我们没什么好谈的。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_5	Leave me alone!	别来烦我！
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_6	I am not interested in hearing any more of your lies. Go away.	我不想再听你的谎话了。走开。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_FRANKLIN_ROOSEVELT_1	[OUR_EMPIRE] does not negotiate with terrorists.	[OUR_EMPIRE]绝不与恐怖分子谈判。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_WASHINGTON_1	We shall not listen to your insidious lies. Begone!	我们不会听你那阴险的谎言。滚吧！
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_SALADIN_1	Your words are but the braying of a jackass, [CT_NAME]. Take them elsewhere.	你的话不过是蠢驴的嘶鸣，[CT_NAME]。拿到别处去说吧。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_MONTEZUMA_1	Talk to the ceremonial blade, [CT_NAME].	去跟祭祀之刃谈吧，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_QIN_SHI_HUANG_1	The mere sight of you offends me, [CT_NAME]. Begone!	光是看见你就令我不悦，[CT_NAME]。滚吧！
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_CHINESE_LEADER_1	[OUR_CIV_SHORT] will not listen to your bourgoise lies!	[OUR_CIV_SHORT]绝不会听你那套资产阶级的谎言！
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_HATSHEPSUT_1	Begone, you lying serpent!	滚开，你这条撒谎的毒蛇！
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_ELIZABETH_1	Go away you horrible little person!	走开，你这个可憎的小人物！
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_VICTORIA_1	We are not amused by your meaningless babble, [CT_NAME]!	你那毫无意义的胡言乱语，让我们兴味索然，[CT_NAME]！
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_LOUIS_XIV_1	Forget it. I have wigs that are smarter than you are.	算了吧。我的假发都比你聪明。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_NAPOLEON_1	Talk to the massed artillery, [CT_NAME].	去跟成排的炮兵谈吧，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_BISMARCK_1	Speak with YOU? Do not make me laugh!	跟你谈？别逗我笑了！
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_ALEXANDER_1	I have more important things to do than to exchange lies with you. Come back another day.	我有比跟你交换谎言更要紧的事要做。改天再来吧。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_HUAYNA_CAPAC_1	It is a waste of time to speak with fools. Go away.	跟蠢货说话是浪费时间。走开。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_ASOKA_1	We will not listen to your lies, [CT_NAME]. Remove yourself from our presence.	我们不会听你的谎话，[CT_NAME]。从我面前消失。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_GANDHI_1	Further discussion at this point would be meaningless. Not to mention very annoying. Go away.	此刻再谈下去毫无意义。更别提有多惹人厌了。走开。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_TOKUGAWA_1	I have no time to exchange pleasantries with you, [CT_NAME]: I am too busy plotting your downfall. 	我没空跟你寒暄客套，[CT_NAME]：我正忙着谋划你的覆灭呢。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_MANSA_MUSA_1	Take your pathetic lies elsewhere, for I do not wish to hear them.	把你那可悲的谎话拿到别处去，我不愿听。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_GENGHIS_KHAN_1	Bah! This chatter is a waste of time! Begone!	呸！这种废话是浪费时间！滚吧！
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_KUBLAI_KHAN_1	Hello, this is [OUR_NAME]. [OUR_CIV_SHORT] is not at home right now: please leave your name and number and we'll get back to you when pigs have wings.	你好，这里是[OUR_NAME]。[OUR_CIV_SHORT]现在不在家：请留下姓名和电话，等母猪上树那天我们再回你。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_CYRUS_1	Vile serpent! [OUR_CIV_SHORT] will not listen to your lies!	卑鄙的毒蛇！[OUR_CIV_SHORT]绝不会听你的谎言！
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_JULIUS_CAESAR_1	Negotiate this, pal!	有本事谈谈这个吧，老兄！
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_PETER_1	Guards! Toss this villain out into the snow before I commit a diplomatic incident!	卫兵！在我闹出外交事件之前，把这恶棍扔到雪地里去！
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_CATHERINE_1	I find you strangely unattractive, [CT_NAME]. Do not return until you are better-looking.	我怎么就是觉得你不好看呢，[CT_NAME]。等你长得顺眼些再来吧。
+CIV4DiplomacyText.xml	AI_DIPLO_REFUSE_TO_TALK_LEADER_ISABELLA_1	Your lying words pollute the heavens, [CT_NAME]!	你那撒谎的言辞污染了天堂，[CT_NAME]！
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_1	We look forward to many years of peace between the [OUR_CIV_ADJ] and [CT_CIV_ADJ] Empires.	我们期盼[OUR_CIV_ADJ]与[CT_CIV_ADJ]两大帝国之间迎来多年的和平。
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_2	May the peace be eternal.	愿和平永存。
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_3	May we all live long and prosper.	愿我们都长命百岁、繁荣昌盛。
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_4	May this peace last until there is no more room to expand!	愿这份和平延续到再无扩张之地为止！
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_5	I look forward to years of peace with you, [CT_NAME].	我期盼与你共度多年的和平，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_6	Wonderful!	太好了！
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_7	[CT_NAME], let us sit in a circle and sing "Kumbaya" to celebrate this great event!	[CT_NAME]，让我们围坐成圈，唱一曲《Kumbaya》来庆祝这一盛事吧！
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_8	Minions! Prepare a feast to celebrate the peace between our great Empires!	侍从们！备下盛宴，庆祝我们两大帝国之间的和平！
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_9	You have our gratitude.	承蒙你的美意。
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_10	May the peace last a thousand years.	愿这份和平延续千年。
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_11	There is no way to peace. Peace is the way.	通往和平没有别的路。和平本身即是路。
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_12	You have chosen wisely.	你的选择很明智。
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_13	Excellent!	好极了！
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_14	I applaud your wisdom.	我为你的智慧喝彩。
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_15	Wonderful.	太好了。
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_16	Excellent! Now let us join together and destroy somebody else!	好极了！现在让我们联手，去毁灭别的什么人吧！
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_17	You are wiser than you appear, [CT_NAME].	你比看上去要聪明，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_18	Peace with honor, [CT_NAME]: that's what it's all about.	光荣的和平，[CT_NAME]：这才是最重要的。
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_19	You are not as foolish as you first appear, [CT_NAME]. I am pleased.	你并不像初见时那般愚蠢，[CT_NAME]。我很满意。
+CIV4DiplomacyText.xml	AI_DIPLO_PEACE_20	May the peace last until there is no one else to conquer!	愿这份和平延续到再无他人可征服为止！
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_1	No way.	没门。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_2	Not until every last [CT_CIV_ADJ] warrior is ground into dust!	除非每一个[CT_CIV_ADJ]战士都化为尘土！
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_3	Never!	绝不！
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_4	There will be no peace, [CT_NAME].	不会有和平的，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_5	Peace? Hah! Forget it.	和平？哈！休想。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_6	It is much too late for that, [CT_NAME]. Take your punishment like a man!	太迟了，[CT_NAME]。像个男子汉一样受罚吧！
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_FRANKLIN_ROOSEVELT_1	Certainly not! You've awoken a sleeping tiger, [CT_NAME], and I hope you choke on it.	当然不行！你惊醒了一只沉睡的猛虎，[CT_NAME]，但愿它把你活活噎死。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_WASHINGTON_1	America does not negotiate with terrorists. 	美利坚绝不与恐怖分子谈判。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_SALADIN_1	Never! You are an enemy of God! Prepare for thy doom!	绝不！你是神的敌人！准备迎接你的末日吧！
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_MONTEZUMA_1	No. We have not yet sacrificed enough [CT_CIV_ADJ] warriors to slake the gods' unending thirst for blood. Try back later.	不。我们献祭的[CT_CIV_ADJ]战士还不够多，尚未满足诸神对鲜血无尽的渴求。晚些再来吧。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_QIN_SHI_HUANG_1	No. You have not yet learned the proper respect for your betters.	不。你还没学会对尊长应有的敬意。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_CHINESE_LEADER_1	There can never be peace in the unending war between the people and the bloodsucking bourgoise capitalist opressors who seek to enslave them! That would be you, punk.	在人民与妄图奴役他们的吸血资本主义资产阶级压迫者之间那场无尽的战争里，永远不会有和平！那说的就是你，废物。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_HATSHEPSUT_1	Gods do not negitiate with mortals - particularly with ugly little slimeballs such as yourself. Go back to your home to await your doom.	神明不与凡人谈判——尤其是像你这样丑陋的小烂泥。滚回家去等死吧。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_ELIZABETH_1	Do you plead for mercy, [CT_NAME]? You'll find none here - only justice!	你是在乞求宽恕吗，[CT_NAME]？这里没有宽恕——只有公道！
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_VICTORIA_1	War is deeply unpleasant, but sometimes necessary. We're told that this is one of those times, so we must refuse your pleas. This interview is concluded.	战争令人深恶痛绝，但有时在所难免。我们得到禀报，此刻正是这种时候，因此我们必须拒绝你的求和。此次会谈到此为止。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_LOUIS_XIV_1	It is far too late for peace, you silly [CT_CIV_ADJ] person! Now go away or I shall taunt you a second time!	求和早就太迟了，你这愚蠢的[CT_CIV_ADJ]人！现在走开，否则我要再嘲弄你一次！
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_NAPOLEON_1	Why should I agree to peace when my [OUR_CIV_ADJ] armies are making such short work of you?	我的[OUR_CIV_ADJ]大军正把你打得如此不堪一击，我凭什么要答应和平？
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_BISMARCK_1	Your request is denied. Welcome to total war, [CT_NAME].	你的请求被驳回。欢迎迎接全面战争，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_ALEXANDER_1	Your continued existence is an insult to the mighty [OUR_EMPIRE]. This war shall end when you have been erased from the planet.	你还活着，本身就是对伟大[OUR_EMPIRE]的侮辱。这场战争，要等到你从这颗星球上被抹去时才会结束。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_HUAYNA_CAPAC_1	You may beg and plead all you like, [CT_NAME], but it will do you no good. The war will continue until the gods grow tired of it.	你尽可以乞求哀告，[CT_NAME]，但那毫无用处。战争会持续下去，直到诸神厌倦为止。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_ASOKA_1	There shall be no true peace in the world until you are no longer in it. The war continues.	只要你还活在世上，世间就不会有真正的和平。战争继续。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_GANDHI_1	I may be a pacifist, [CT_NAME], but I'm not an idiot. [OUR_CIV_SHORT] declines your request.	我或许是个和平主义者，[CT_NAME]，但我不是傻子。[OUR_CIV_SHORT]拒绝你的请求。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_TOKUGAWA_1	What? Leave you alive to betray and backstab us again?! I shall not sleep easily until you are totally vanquished!	什么？留你活命，好让你再次背叛、暗算我们？！不把你彻底击垮，我睡不安稳！
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_MANSA_MUSA_1	Your nation pollutes the very world with its corruption, [CT_NAME]. You must be exterminated.	你的国度以其腐败玷污了整个世界，[CT_NAME]。你必须被铲除。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_GENGHIS_KHAN_1	Now? While everybody's having so much fun? I don't think so!	现在？大家正玩得尽兴的时候？我看不行！
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_KUBLAI_KHAN_1	No! [OUR_CIV_ADJ] laws demand that you be further punished for your insolence!	不！[OUR_CIV_ADJ]的律法要求，你须为你的傲慢受到进一步的惩罚！
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_CYRUS_1	You have yet to pay fully for your sins, [CT_NAME]. Your people's sufferings will continue until you have done so.	你还没为你的罪孽付清代价，[CT_NAME]。你的子民会继续受苦，直到你偿清为止。
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_JULIUS_CAESAR_1	I have a better idea - how about I just raze your cities and sow your fields with salt?	我有个更好的主意——不如我把你的城市夷为平地，再往你的田里撒盐，如何？
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_PETER_1	Mighty [OUR_CIV_SHORT] does not negotiate with the likes of you! Now go before I have my Cossacks hack you to bits!	强盛的[OUR_CIV_SHORT]绝不与你这种货色谈判！趁我还没让哥萨克把你剁成碎块，快滚！
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_CATHERINE_1	I must refuse, [CT_NAME]; peace is not in our best interests at this time. Besides, I think that men in uniform look totally yummy, don't you?	我只能拒绝了，[CT_NAME]；此时的和平不符合我们的利益。再说，我觉得穿制服的男人看着可真诱人，你说是不是？
+CIV4DiplomacyText.xml	AI_DIPLO_NO_PEACE_LEADER_ISABELLA_1	No! God commands that I continue this holy crusade until I have achieved total victory! Begone, churl!	不！神命我将这场圣战进行到彻底胜利为止！滚开，贱民！
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_1	Hello, [CT_NAME]. What is it that you wish to discuss?	你好，[CT_NAME]。你想商谈些什么？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_2	Greetings. What may humble [OUR_CIV_SHORT] do for the mighty [CT_CIV_SHORT]?	你好。卑微的[OUR_CIV_SHORT]能为强盛的[CT_CIV_SHORT]效些什么劳？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_3	Greetings.  How may we be of assistance?	你好。我们有何能效劳之处？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_4	Welcome, friend [CT_NAME]. How may we be of assistance?	欢迎你，朋友[CT_NAME]。我们有何能效劳之处？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_5	Hello again!	又见面啦！
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_6	Good day to you, [CT_NAME].	祝你今日安好，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_7	So what's going on?	那么，有什么事？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_8	Hello, [CT_NAME]. What can I do for you?	你好，[CT_NAME]。我能为你做些什么？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_9	What is on your mind?	你在想些什么？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_10	To what do I owe the pleasure of your company?'	是什么风把你吹来了？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_11	Greetings, [CT_NAME]; how may we be of service?	你好，[CT_NAME]；我们有何能效劳之处？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_12	Welcome, [CT_NAME], to my home.	欢迎你，[CT_NAME]，来到我的居所。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_13	Hello, [CT_NAME], leader of mighty [CT_CIV_SHORT].	你好，[CT_NAME]，强盛的[CT_CIV_SHORT]之领袖。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_14	And what brings [CT_CIV_SHORT] to my humble palace?	是什么让[CT_CIV_SHORT]大驾光临我这寒酸的宫殿？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_15	How may the [OUR_EMPIRE] assist mighty [CT_CIV_SHORT]?	[OUR_EMPIRE]能为强盛的[CT_CIV_SHORT]效些什么劳？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_16	And to what do I owe the pleasure of your company?	那么，是什么风把你吹来了？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_WASHINGTON_1	Greetings, [CT_NAME]. How was your journey from the [CT_EMPIRE]? I slept there once, you know. 	你好，[CT_NAME]。从[CT_EMPIRE]一路过来，旅途还顺利吗？你知道吗，我曾在那儿睡过一晚。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_FRANKLIN_ROOSEVELT_1	How absolutely marvey to see you again, [CT_NAME]! Do sit down; my man will get you a Martini.	再见到你真是妙不可言，[CT_NAME]！快请坐；我的仆人给你调杯马提尼。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_SALADIN_1	Blessings be upon you, oh mighty [CT_NAME]! Your glorious personage bestows great honor upon my humble kingdom!	愿福祉降临于你，噢，伟大的[CT_NAME]！您光耀的尊躯为我这卑微的王国带来了莫大荣光！
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_MONTEZUMA_1	Welcome, friend [CT_NAME]! I will slaughter many slaves in celebration of your visit!	欢迎你，朋友[CT_NAME]！我要宰杀众多奴隶来庆祝你的到访！
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_QIN_SHI_HUANG_1	Greetings, [CT_NAME]! Who shall we betray and destroy today?	你好，[CT_NAME]！今天我们要背叛并消灭谁呢？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_CHINESE_LEADER_1	On behalf of the great and glorious Communist Party of China and of all of her horrible little peasants - I mean, "glorious workers" - greetings!	谨代表伟大光荣的中国共产党，以及她所有那些可憎的小农民——我是说，“光荣的工人”——向你问好！
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_HATSHEPSUT_1	Hello again, [CT_NAME]. How honored you must be to see me once more.	又见面了，[CT_NAME]。能再次见到我，你该有多荣幸啊。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_ELIZABETH_1	Good afternoon, [CT_NAME]. And how is that quaint little empire of yours doing?	午安，[CT_NAME]。你那古雅的小帝国如今可还好？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_VICTORIA_1	On behalf of Mighty Britannia, we are almost pleased to grant you an audience, [CT_NAME].	谨代表强盛的不列颠尼亚，我们几乎算是乐意赐你一次觐见，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_LOUIS_XIV_1	Welcome to my palace, [CT_NAME]. Care to watch me shave?	欢迎来到我的宫殿，[CT_NAME]。想看我刮胡子吗？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_NAPOLEON_1	I am quite busy today, [CT_NAME], but perhaps I can grant you a short audience.	我今日甚是繁忙，[CT_NAME]，不过或许可以赐你一次短暂的觐见。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_BISMARCK_1	[OUR_CIV_SHORT] salutes you, [CT_NAME]. Come - sit down and admire my huge mustaches!	[OUR_CIV_SHORT]向你致意，[CT_NAME]。来——坐下，赞叹我这两撇大胡子吧！
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_ALEXANDER_1	Welcome, my friend! Come, let us mount our chariots and destroy our foes, leaving fifty thousand rotting corpses upon the battlefield for the crows to fatten upon!	欢迎你，我的朋友！来，让我们跨上战车，去消灭我们的仇敌，在战场上留下五万具腐烂的尸体，喂肥那些乌鸦！
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_HUAYNA_CAPAC_1	I, [OUR_NAME], do welcome you, [CT_NAME], leader of the [CT_EMPIRE]. Let us speak of the slow, painful deaths of our enemies! Care for a smoked hamster?	我，[OUR_NAME]，欢迎你，[CT_NAME]，[CT_EMPIRE]的领袖。让我们来聊聊仇敌们缓慢而痛苦的死法吧！来点熏仓鼠肉吗？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_ASOKA_1	Greetings, fair [CT_NAME]! May our two countries live forever in peace and harmony!	你好，善良的[CT_NAME]！愿我们两国永世和睦共处！
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_GANDHI_1	Greetings, [CT_NAME]. I trust you have come in peace?	你好，[CT_NAME]。我相信你是为和平而来的？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_TOKUGAWA_1	It is good to see you again, [CT_NAME]! Let us sit down and plot the ruination of our enemies. 	很高兴又见到你，[CT_NAME]！让我们坐下，一同谋划仇敌的覆灭吧。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_MANSA_MUSA_1	We meet again, [CT_NAME]. It is truly a blessed day for [OUR_CIV_SHORT]!	我们又见面了，[CT_NAME]。对[OUR_CIV_SHORT]而言，这真是蒙福的一天！
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_GENGHIS_KHAN_1	Welcome to my yurt, [CT_NAME]! Let us sit upon these horse-hair cushions and discuss many things! Care for some boiled yak?	欢迎来到我的毡帐，[CT_NAME]！让我们坐在这些马鬃垫子上，畅谈诸事！来点煮牦牛肉吗？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_KUBLAI_KHAN_1	Welcome to China, [CT_NAME]! Let us sit upon these golden thrones and discuss many things! Care for some kung pao yak?	欢迎来到中国，[CT_NAME]！让我们坐上这些黄金宝座，畅谈诸事！来点宫保牦牛肉吗？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_CYRUS_1	I salute you, ruler of the [CT_EMPIRE]. May your inevitable destruction at the hands of Mighty [OUR_CIV_SHORT] be long delayed!	我向你致意，[CT_EMPIRE]的统治者。愿你终将败于强盛[OUR_CIV_SHORT]之手的那一天来得越晚越好！
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_JULIUS_CAESAR_1	Greetings, my friend. What may I, [OUR_NAME], Emperor of Mighty [OUR_CIV_SHORT], do for your insignificant civilization today?	你好，我的朋友。我，[OUR_NAME]，强盛[OUR_CIV_SHORT]的皇帝，今日能为你那微不足道的文明做些什么？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_PETER_1	Mighty [OUR_CIV_SHORT] greets you in friendship, [CT_NAME]. And in a drunken stupor too. 	强盛的[OUR_CIV_SHORT]以友谊向你致意，[CT_NAME]。顺便还带着几分醉意。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_CATHERINE_1	Welcome, [CT_NAME]. Is that a treaty in your pocket or are you just glad to see me?	欢迎你，[CT_NAME]。你口袋里揣的是一份条约呢，还是仅仅因见到我而欢喜？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FR_LEADER_ISABELLA_1	Her most righteous majesty, [OUR_NAME], beloved of God and protector of the faith, does condescend to greet you once more, [CT_NAME].	至圣至明的女王，[OUR_NAME]，蒙神眷爱、信仰的守护者，屈尊再次向你致意，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_1	Well?	怎么？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_2	What is it?	什么事？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_3	Well? Get on with it!	怎么？有话快说！
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_4	What do YOU want?	你想干什么？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_5	Let's hear it.	说来听听。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_6	What is it this time, [CT_NAME]?	这次又是什么事，[CT_NAME]？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_7	My time is valuable, [CT_NAME]. What do you want?	我的时间很宝贵，[CT_NAME]。你想要什么？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_8	Do not make me angry, [CT_NAME]. You wouldn't like me when I'm angry.	别惹我发火，[CT_NAME]。我发起火来可不好看。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_9	And what does puny [CT_CIV_SHORT] want from mighty [OUR_CIV_SHORT]?	渺小的[CT_CIV_SHORT]又想从强盛的[OUR_CIV_SHORT]这儿讨要什么？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_10	Speak your piece, [CT_NAME] - I haven't got all day.	有话直说，[CT_NAME]——我可没一整天工夫奉陪。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_11	Are you still around? I thought somebody wiped out your puny civilization years ago.	你还在啊？我还以为几年前就有人把你那渺小的文明给灭了呢。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_12	Oh, it's you. Now my day is complete.	哦，是你啊。我这一天可算圆满了。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_13	Well, look what the cat dragged in.	哟，瞧瞧是谁来了。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_14	I studied on killin' you.	我盘算着要杀了你。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_15	You try my patience, [CT_NAME].	你在挑战我的耐心，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_16	I'm listening.	我听着呢。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_WASHINGTON_1	What could [CT_CIV_SHORT] possibly have to say that would be of interest to [OUR_CIV_SHORT]?	[CT_CIV_SHORT]能有什么话，值得[OUR_CIV_SHORT]一听？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_FRANKLIN_ROOSEVELT_1	Come to add to our troubles, have you? Well, get on with it then.	来给我们添乱的，是吧？行，那就快说吧。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_SALADIN_1	What a surprise! I did not realize it was locust season once again.	真是稀客！我竟没料到又到了蝗灾泛滥的季节。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_MONTEZUMA_1	Tell me, [CT_NAME]: what has [CT_CIV_SHORT] done to anger the gods so that they give them you as leader?	告诉我，[CT_NAME]：[CT_CIV_SHORT]究竟做了什么触怒诸神，才落得让你来当领袖？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_QIN_SHI_HUANG_1	Greetings, [CT_NAME]! We are, as always, happy to see you again.	你好，[CT_NAME]！一如既往，我们很高兴又见到你。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_CHINESE_LEADER_1	It is people like you, [CT_NAME], who give ruthless dictators a bad name. Why are you here?	正是你这种人，[CT_NAME]，才让冷血独裁者背上了坏名声。你来这儿干什么？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_HATSHEPSUT_1	Bow before me, [CT_NAME] - a goddess deserves no less!	向我跪拜，[CT_NAME]——女神理应受此礼遇！
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ELIZABETH_1	Well? Out with it, you tiresome little person!	怎么？有话就说，你这烦人的小人物！
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_VICTORIA_1	Good day to you, [CT_NAME]. To what do we owe this unexpected interruption?	祝你今日安好，[CT_NAME]。这场意料之外的叨扰，所为何来？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_LOUIS_XIV_1	Back again so soon, [CT_NAME]? How glorious. Imagine my excitement.	这么快又回来了，[CT_NAME]？多么光荣。想象一下我有多激动吧。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_NAPOLEON_1	I have little time for your prattle, [CT_NAME]. That is the long and short of it.	我没什么工夫听你唠叨，[CT_NAME]。就这么简单。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_BISMARCK_1	Get to the point, [CT_NAME]. I have IMPORTANT matters of state to deal with.	有话直说，[CT_NAME]。我还有重要的国事要处理。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ALEXANDER_1	Still alive, are you? How disappointing. 	还活着呢？真让人失望。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_HUAYNA_CAPAC_1	It is a source of unending astonishment to me that the gods permit you to live, [CT_NAME]. Why are you here?	诸神竟容你活着，[CT_NAME]，这真令我惊诧不已。你来这儿干什么？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ASOKA_1	Why have you come to trouble us, [CT_NAME]?	你为何要来烦扰我们，[CT_NAME]？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_GANDHI_1	All people, no matter how unpleasant, are welcome in [OUR_CIV_SHORT], [CT_NAME].	无论多么讨人厌，所有人在[OUR_CIV_SHORT]都受欢迎，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_TOKUGAWA_1	Greetings, [CT_NAME]! [OUR_CIV_SHORT] is honored by your visit. You can be sure that we will be coming to your country very soon now. 	你好，[CT_NAME]！[OUR_CIV_SHORT]因你的到访而深感荣幸。你尽可放心，我们很快就会去拜访你的国家了。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_MANSA_MUSA_1	I do not approve of you or your country, [CT_NAME]. What have you to say that will change my opinion of you?	我并不认可你，也不认可你的国家，[CT_NAME]。你有什么话，能改变我对你的看法？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_GENGHIS_KHAN_1	And they call US barbarians?	他们竟然还管我们叫野蛮人？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_KUBLAI_KHAN_1	My grandfather would have destroyed you on sight, [CT_NAME]. Alas, but I live in more "civilized" times. What do you want?	我祖父一见到你就会把你灭了，[CT_NAME]。可惜啊，我生在更“文明”的时代。你想要什么？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_CYRUS_1	I wonder, [CT_NAME]: how many hanging chads did it take to get YOU into office?	我很好奇，[CT_NAME]：你是靠数了多少张废票，才混上这个位子的？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_JULIUS_CAESAR_1	Why are you here? Is it the Ides of March already?	你来这儿干什么？难道已经到三月十五了？
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_PETER_1	Be brief, [CT_NAME]. I'm trying to give up hacking annoying people to death in a blind rage for Lent. 	长话短说，[CT_NAME]。我正努力在四旬斋期间戒掉盛怒之下砍死烦人之徒的毛病呢。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_CATHERINE_1	Remarkable: a politician who even I won't sleep with.	真稀奇：竟有个连我都不愿与之同床的政客。
+CIV4DiplomacyText.xml	AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ISABELLA_1	I'm glad you're here, [CT_NAME]. My Grand Inquisitor would like to have a word with you.	很高兴你来了，[CT_NAME]。我的宗教大裁判官想跟你聊几句。
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_1	So what do you propose?	那么，你有何提议？
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_2	Make an offer.	开个价吧。
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_3	Let us begin!	咱们开始吧！
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_4	Hopefully we can come to an agreement.	但愿我们能达成一致。
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_5	What does [CT_CIV_SHORT] have to offer?	[CT_CIV_SHORT]能拿出什么来交易？
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_6	I'm listening...	我听着呢……
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_7	We're always looking for a fair exchange, [CT_NAME]. Please go ahead.	我们向来乐于公平交易，[CT_NAME]。请讲吧。
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_8	Go on.	接着说。
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_9	Well, go ahead and put something on the table.	好，把东西摆到台面上来吧。
+CIV4DiplomacyText.xml	AI_DIPLO_TRADING_10	All right. Let's hear it then.	好吧。那就说来听听。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_1	Agreed.	成交。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_2	All right then. Agreed.	那好吧。成交。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_3	Done.	就这么定了。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_4	Excellent. We are agreed.	好极了。我们达成一致了。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_5	Hrmph. This is highway robbery - but we'll take it.	哼。这简直是抢劫——不过我们收下了。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_6	Well, if that's the best you can do, I guess we'll take it. Done.	罢了，若你只能出到这个价，那我看我们就收下吧。成交。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_7	I agree to your terms.	我同意你的条件。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_8	I believe we can accept that. Agreed.	我想我们可以接受。成交。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_9	I think I can accept these terms. It is agreed.	我想我可以接受这些条件。就这么定了。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_10	It is agreed.	就这么定了。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_11	It's against my better judgment, but we'll take it. Done.	这有违我的判断，但我们收下了。成交。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_12	Sounds fair to me. Done.	我看挺公道。成交。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_13	That is acceptable to us. Done.	我们可以接受。成交。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_14	I dislike haggling. Agreed.	我不喜欢讨价还价。成交。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_15	The offer is a bit light - but we'll agree to it.	这提议略显单薄——不过我们同意了。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_16	We accept your fair offer.	我们接受你这公道的提议。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_17	We accept your gracious offer.	我们接受你这慷慨的提议。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_18	We are agreed then.	那么我们就达成一致了。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_19	We can accept these terms. Done.	我们可以接受这些条件。成交。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_20	We can do business along these lines. Agreed.	照这样的路子，我们可以做买卖。成交。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_21	We'll take it.	我们收下了。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_22	Very well, we'll take it.	好吧，我们收下了。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_23	It's a good deal. Done.	这是笔划算的买卖。成交。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_24	Your terms are acceptable.	你的条件我们可以接受。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_25	You are a hard bargainer, [CT_NAME]. Agreed.	你可真是个难缠的谈判对手，[CT_NAME]。成交。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_26	Excellent. It is done.	好极了。就这么定了。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_27	[OUR_CIV_SHORT] thanks you. Done.	[OUR_CIV_SHORT]谢谢你。成交。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_1	You'll have to do better than that, [CT_NAME].	你得拿出更好的条件才行，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_2	We really do not think this trade will benefit our people.	我们实在觉得这笔交易对我们的子民没什么好处。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_3	This proposal will not work for us.	这个提议对我们行不通。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_4	No, seriously. Quit fooling around: what's your offer?	别，说正经的。别闹了：你到底出什么价？
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_5	That's not good enough, friend [CT_NAME].	这还不够好，朋友[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_6	Is that your final offer? 	这是你最后的报价吗？
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_7	I'm afraid that your offer is not acceptable to the [OUR_CIV_ADJ] people.	恐怕你的提议[OUR_CIV_ADJ]人民无法接受。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_8	No can do, my friend. 	这可不行，我的朋友。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_9	We cannot afford to be so generous, [CT_NAME]. Try again.	我们可没这么慷慨的家底，[CT_NAME]。再试试吧。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_REJECT_10	I don't think so. You'll have to do better than that.	我看不行。你得拿出更好的条件才行。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_1	We reject your proposal.  No thanks.	我们拒绝你的提议。不必了。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_2	Forget it.	休想。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_3	We reject your laughable offer.	我们拒绝你这可笑的提议。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_4	Just how gullible do you think I am, [CT_NAME]?	你以为我有多好骗，[CT_NAME]？
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_5	Your generosity is underwhelming. Forget it.	你这点“慷慨”真叫人失望。免谈。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_6	This is totally unacceptable!	这完全无法接受！
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_7	Just who do you think you're dealing with, [CT_NAME]?	你以为你在跟谁打交道，[CT_NAME]？
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_8	Your offer is an insult to [OUR_CIV_SHORT]. 	你的提议是对[OUR_CIV_SHORT]的侮辱。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_9	Now that's just crazy talk. 	这简直是胡言乱语。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_REJECT_10	Quit wasting my time. Make a reasonable offer or go away.	别浪费我的时间。要么开个合理的价，要么走人。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_1	We're glad you accepted our offer.	很高兴你接受了我们的提议。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_2	It is wonderful that you have accepted.	你能接受，真是太好了。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_3	I'm glad that you found the offer acceptable, [CT_NAME]	很高兴你觉得这提议可以接受，[CT_NAME]
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_4	Marvelous!	妙极了！
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_5	You have chosen wisely, [CT_NAME].	你的选择很明智，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_6	Wonderful! Let us celebrate!!	太好了！让我们庆祝一番！！
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_7	It's a pleasure doing business with you.	与你做生意真是愉快。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_8	Excellent!	好极了！
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_9	I'm glad that we could come to an agreement.	很高兴我们能达成一致。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_GLAD_10	Cha-CHING!	叮咚——进账啦！
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_1	All right then. We're agreed.	那好吧。我们达成一致了。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_2	Now you are beginning to show some sense, [CT_NAME]. Perhaps there is some hope for you yet.	你总算开窍了，[CT_NAME]。看来你还有点救。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_3	Done.	就这么定了。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_4	Excellent. Perhaps you are not as foolish as you look.	好极了。看来你并不像样子那么蠢。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_5	Mighty  [OUR_CIV_SHORT] thanks you. You may go now.	强盛的[OUR_CIV_SHORT]谢谢你。你可以走了。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_6	Thank you for your cooperation.	多谢合作。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_7	We thank you. 	我们谢谢你。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_8	That is all for now. 	眼下就到这里。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_9	Fine. It is done.	行。就这么定了。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_GLAD_10	[OUR_CIV_SHORT] thanks you and your petty little civilization.	[OUR_CIV_SHORT]谢谢你和你那微不足道的小文明。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_1	We're sorry you don't feel that our offer is reasonable.	很遗憾你觉得我们的提议不合理。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_2	Too bad. Do you have something different in mind?	真可惜。你心里另有打算吗？
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_3	Let's hear an offer from you, then.	那就说说你的提议吧。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_4	All right. Why don't you put something on the table?	好吧。不如你把东西摆到台面上来？
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_5	Well, do you wish to make a counter-proposal?	那么，你可愿意提个反提议？
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_6	All right: let's hear your counter-proposal.	好吧：说说你的反提议吧。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_7	That is regrettable.	那真是遗憾。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_8	That is unfortunate.	那真不巧。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_9	Oh well. Perhaps next time, then.	罢了。那就下次再说吧。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_SORRY_10	Well, perhaps you would care to suggest something then.	那么，或许你愿意提点什么建议吧。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_1	Well, you suggest something then!	那你倒是提个建议啊！
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_2	How typical. Let's hear your brilliant. idea then.	真是意料之中。那就说说你那高明的主意吧。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_3	You annoy me, [CT_NAME].	你惹恼我了，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_4	You are incredibly stubborn, [CT_NAME]. 	你可真是顽固得很，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_5	You are remarkably short-sighted, [CT_NAME], to treat your betters thusly.	你目光短浅得惊人，[CT_NAME]，竟敢这样对待你的尊长。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_6	I suppose you have something better in mind?	我想你另有高见吧？
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_7	Then quit wasting my time. Either make a counter-proposal or be gone.	那就别浪费我的时间。要么提个反提议，要么滚。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_8	Let's hear your idea, then.	那就说说你的主意吧。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_9	Then you put something on the table!	那你倒是把东西摆到台面上来啊！
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_SORRY_10	Does puny [CT_CIV_SHORT] wish to make a counter-proposal? 	渺小的[CT_CIV_SHORT]可愿意提个反提议？
+CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_1	How does this deal sound?	这笔交易听着如何？
+CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_2	What do you think of this deal, [CT_NAME]?	你觉得这笔交易怎么样，[CT_NAME]？
+CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_3	Do you find this offer tempting?	这提议是否让你心动？
+CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_4	Here's my offer.	这是我的提议。
+CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_5	I'm sure that you'll agree that this deal is fair...	我相信你会认同这笔交易很公道……
+CIV4DiplomacyText.xml	AI_DIPLO_TRY_THIS_DEAL_6	And that's my final offer. 	这就是我最后的报价。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_1	I don't see how a deal is possible.	我看不出这笔交易怎么可能谈得成。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_2	That's just crazy-talk. I don't think it can be done.	这简直是胡言乱语。我看这办不到。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_3	I'm sorry to say that no such deal is possible.	很遗憾，这样的交易谈不成。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_4	That can't be done, [CT_NAME].	这办不到，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_5	I don't see how we can make such a trade.	我看不出我们怎么能做成这样的交易。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_NO_DEAL_6	We can't do that.	那我们做不到。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_1	That's impossible. 	那不可能。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_2	Don't be foolish. That can't possibly be done.	别犯傻了。那根本办不到。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_3	Don't waste my time with impossibilities!	别拿不可能的事来浪费我的时间！
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_4	What are you talking about? That's not possible.	你在说什么胡话？那不可能。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_5	Are you kidding? That can't be done!	你在开玩笑吗？那办不到！
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_NO_DEAL_6	There's no way such a deal is possible.	这样的交易绝无可能。
+CIV4DiplomacyText.xml	AI_DIPLO_OFFER_PEACE_1	Perhaps it is time for all this bloodshed to end?	或许，是时候结束这一切流血了？
+CIV4DiplomacyText.xml	AI_DIPLO_OFFER_CITY_1	We would like to offer up this city as a sign of our respect.	我们愿献上这座城市，以示敬意。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_1	Greetings, [CT_NAME]! What do you think of this deal?	你好，[CT_NAME]！你觉得这笔交易怎么样？
+CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_2	The peace-loving people of [OUR_CIV_SHORT] seek a fair trade with [CT_CIV_SHORT]. How about it?	爱好和平的[OUR_CIV_SHORT]子民想与[CT_CIV_SHORT]做一笔公道的交易。如何？
+CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_3	How does this sound to you, [CT_NAME]?	你觉得这如何，[CT_NAME]？
+CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_4	What do you think of this deal, [CT_NAME]?	你觉得这笔交易怎么样，[CT_NAME]？
+CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_5	My friend, can [OUR_CIV_SHORT] tempt you with this offer?	我的朋友，[OUR_CIV_SHORT]这个提议可否打动你？
+CIV4DiplomacyText.xml	AI_DIPLO_FR_OFFER_DEAL_6	Let's make a deal!	咱们做笔交易吧！
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_1	[CT_NAME], I'm making you an offer you can't refuse.	[CT_NAME]，我给你一个无法拒绝的提议。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_2	Show some intelligence for a change, [CT_NAME]. Accept this deal.	放聪明点，破天荒一回吧，[CT_NAME]。接受这笔交易。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_3	The [OUR_EMPIRE] offers you this trade. I suggest you take it.	[OUR_EMPIRE]向你提出这笔交易。我劝你接下。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_4	Here's our offer. Take it or leave it.	这是我们的提议。要么接受，要么拉倒。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_5	[OUR_CIV_SHORT] offers your nasty little civilization the following deal.	[OUR_CIV_SHORT]向你那讨厌的小文明提出如下交易。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_OFFER_DEAL_6	Here's the deal. 	交易就是这样。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_1	I'm afraid this deal will no longer work for us.	恐怕这笔交易对我们已经行不通了。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_2	I'm sorry, [CT_NAME], but this deal will no longer work for us.	抱歉，[CT_NAME]，但这笔交易对我们已经行不通了。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_3	All good things come to an end, unfortunately. Including this deal.	可惜天下没有不散的筵席。这笔交易也一样。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_4	[OUR_CIV_SHORT] can no longer afford this deal, [CT_NAME]. 	[OUR_CIV_SHORT]再也负担不起这笔交易了，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_5	It's time to end this deal, friend. 	是时候结束这笔交易了，朋友。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_CANCEL_DEAL_6	If you don't mind, [OUR_CIV_SHORT] would like to cancel this deal.	若你不介意，[OUR_CIV_SHORT]想取消这笔交易。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_1	The [OUR_CIV_ADJ] people are no longer interested in this deal, [CT_NAME]. 	[OUR_CIV_ADJ]人民对这笔交易不再感兴趣了，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_2	This deal is over. 	这笔交易结束了。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_3	We're ending this deal, [CT_NAME]. 	我们要终止这笔交易，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_4	We're sick of this deal. And of you, too, frankly.	我们受够了这笔交易。老实说，也受够了你。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_5	We are terminating this deal, [CT_NAME], effective immediately.	我们即刻终止这笔交易，[CT_NAME]，立即生效。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_CANCEL_DEAL_6	This deal no longer suits our needs. It is canceled. 	这笔交易不再符合我们的需要。取消。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_1	[OUR_NAME] thanks you on behalf of the grateful [OUR_CIV_ADJ] people!	[OUR_NAME]谨代表满怀感激的[OUR_CIV_ADJ]人民向你致谢！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_2	[OUR_CIV_SHORT] acknowledges your friendship. Thank you.	[OUR_CIV_SHORT]铭记你的友谊。谢谢你。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_3	[OUR_CIV_SHORT] graciously acknowledges your friendship, [CT_NAME].	[OUR_CIV_SHORT]郑重铭记你的友谊，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_4	[OUR_CIV_SHORT] salutes its friend, the tiny nation of [CT_CIV_SHORT].	[OUR_CIV_SHORT]向其友邦、渺小的[CT_CIV_SHORT]之国致敬。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_5	[OUR_CIV_SHORT] salutes you, [CT_NAME]!	[OUR_CIV_SHORT]向你致敬，[CT_NAME]！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_6	[OUR_CIV_SHORT] thanks you, [CT_NAME].	[OUR_CIV_SHORT]谢谢你，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_7	[OUR_CIV_SHORT] thanks you, fair and generous [CT_NAME]!	[OUR_CIV_SHORT]谢谢你，公道又慷慨的[CT_NAME]！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_8	[CT_NAME], my people thank you.	[CT_NAME]，我的子民谢谢你。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_9	Excellent! I'm quite pleased. Let's sit down and have a jolly cup of tea, shall we?	好极了！我很欣慰。让我们坐下来，痛快地喝杯茶，好吗？
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_10	Good decision. We must build a closer bond - or else!	明智之举。我们必须建立更紧密的纽带——否则可有你好受的！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_11	I [OUR_NAME], Godlike Ruler of the Mighty [OUR_EMPIRE], do hereby offer my sincerest thanks to my good friend, [CT_NAME].	我，[OUR_NAME]，强盛[OUR_EMPIRE]之神一般的统治者，谨在此向我的好友[CT_NAME]致以最诚挚的谢意。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_12	I am glad that we have concluded this arrangement amicably, [CT_NAME].	很高兴我们友好地了结了这桩安排，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_13	I am so happy that our two nations can rise above petty rivalries like this! We will set an example the whole world will follow!	我真高兴，我们两国竟能超越如此琐碎的宿怨！我们将树立起一个全世界都会效仿的榜样！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_14	I am SO pleased that we have been able to come to a fair agreement, [CT_NAME]!	我真是太高兴了，我们竟能达成一份公道的协议，[CT_NAME]！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_15	I appreciate this, friend [CT_NAME]. Thanks from all the [OUR_CIV_ADJ] people!	我很感激，朋友[CT_NAME]。全体[OUR_CIV_ADJ]人民都谢谢你！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_16	I bow before you in friendship, [CT_NAME]!	我以友谊向你俯首，[CT_NAME]！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_17	I congratulate you on your common sense, [CT_NAME].	我为你的明智决断向你道贺，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_18	I thank you. Now I'm sure that you have pressing business elsewhere...	谢谢你。现在我想你别处还有要紧事吧……
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_19	I will sacrifice fifty warriors in honor of your friendship!	我将献祭五十名战士，以彰显你我的友谊！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_20	I, [OUR_NAME], ruler of way too many places to mention, do hereby thank my good friend, [CT_NAME]!	我，[OUR_NAME]，多得数不清的疆土之统治者，谨在此感谢我的好友[CT_NAME]！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_21	It has been a pleasure doing business with you, [CT_NAME].	与你做生意真是愉快，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_22	It is good that we can come together as equals, [CT_NAME].	我们能以平等的身份走到一起，真好，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_23	We enjoyed speaking with you [CT_NAME]. Odd, since you are so far inferior, but personality goes a long way.	与你交谈让我们很愉快，[CT_NAME]。奇怪的是，你分明如此低劣，可人格魅力却能弥补许多。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_24	You are the wind beneath my wings, [CT_NAME]!	你是我翅膀下的风，[CT_NAME]！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_25	You have our gratitude.	承蒙你的美意。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_26	Many thanks, [CT_NAME]!	多谢，[CT_NAME]！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_27	Many thanks. 	多谢。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_28	May the heavens bless and sanctify the friendship between our two great people!	愿上苍降福，圣化我们两大民族之间的友谊！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_29	May the bond between [OUR_NAME] and [CT_NAME] grow ever stronger!.	愿[OUR_NAME]与[CT_NAME]之间的情谊日益深厚！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_30	May the friendship between [OUR_CIV_SHORT] and [CT_CIV_SHORT] last for many years!	愿[OUR_CIV_SHORT]与[CT_CIV_SHORT]之间的友谊长存多年！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_31	Did you ever know that you're my hero? You're everything I wish I could be. 	你可知道你是我心中的英雄？你就是我梦寐以求想成为的那一切。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_32	On behalf of the [OUR_CIV_ADJ] people, I thank you!	我谨代表[OUR_CIV_ADJ]人民，感谢你！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_33	On behalf of the people of [OUR_CIV_SHORT], I thank you and all the [CT_CIV_ADJ] people.	我谨代表[OUR_CIV_SHORT]的子民，感谢你和全体[CT_CIV_ADJ]人民。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_34	Our work is concluded. You may go.	我们的事已经了结。你可以走了。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_35	Our work is finished here, is it not? Well, then, don't let me keep you.	我们这儿的事都办完了，不是吗？那好，我就不留你了。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_36	Thank me?  No, no...thank you, [CT_NAME]!	谢我？不不……该谢的是你，[CT_NAME]！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_37	Thank you, [CT_NAME]! 	谢谢你，[CT_NAME]！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_38	Thank you, [CT_NAME].	谢谢你，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_39	Thank you, [CT_NAME].  Is there anything else?	谢谢你，[CT_NAME]。还有别的事吗？
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_40	Thank you, [CT_NAME]. May both our people profit from our continued friendship!	谢谢你，[CT_NAME]。愿我们两族的子民都能从这份长存的友谊中获益！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_41	Thank you.  Your cooperation has been noted.	谢谢你。你的合作我们记下了。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_42	Thanks, [CT_NAME].	多谢，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_43	It's been a small slice of heaven. I mean that sincerely.	这真是片刻的天堂。我是真心的。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_44	Thanks.  Will that be all?	谢谢。就这些吗？
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_45	You have our gratitude.	承蒙你的美意。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_46	That will be all for now, [CT_NAME].	眼下就到这里，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_47	There. That's a job well done, don't you think?	瞧。这事办得漂亮，你说是不是？
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_48	That's done, then. Thanks and farewell!	那这就了结了。多谢，再会！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_49	The [OUR_CIV_ADJ] people graciously thank the people of - whatever your culture's name is.	[OUR_CIV_ADJ]人民郑重感谢——你们那个叫什么名字来着的文明的子民。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_50	The [OUR_EMPIRE] thanks you, [CT_NAME]. You may go now.	[OUR_EMPIRE]谢谢你，[CT_NAME]。你可以走了。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_51	We thank our friends and partners, the [CT_CIV_ADJ] people!	我们感谢我们的朋友和伙伴，[CT_CIV_ADJ]人民！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_52	We thank our partner, [CT_CIV_SHORT], for coming to a fair and just agreement.	我们感谢我们的伙伴[CT_CIV_SHORT]，达成了一份公正公道的协议。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_53	We work together well, [CT_NAME]. I look forward to many more mutually profitable arrangements in the future!	我们合作得很好，[CT_NAME]。我期盼日后有更多互利互惠的安排！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_54	We're done here, right? Well, don't let me keep you. Thanks and good bye.	我们这儿的事都办完了，对吧？那好，我就不留你了。多谢，再见。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_55	Yes, I believe we will both profit from this deal.  I look forward to doing business with you again.	是的，我相信我们都会从这笔交易中获益。期待再次与你做生意。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_56	You are almost an equal in cunning and martial prowess, [CT_NAME]. I, [OUR_NAME], thank you for your visit.	论狡黠与武勇，你几乎称得上是我的对手了，[CT_NAME]。我，[OUR_NAME]，感谢你的到访。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_57	You are wise beyond your years, friend [CT_NAME]. [OUR_CIV_SHORT] offers you its sincerest thanks.	你的睿智远超你的年岁，朋友[CT_NAME]。[OUR_CIV_SHORT]向你致以最诚挚的谢意。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_58	You have [OUR_CIV_SHORT]'s thanks.	你得到了[OUR_CIV_SHORT]的谢意。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_59	You have chosen wisely, [CT_NAME]. It is important to maintain good relations with your betters, don't you agree?	你的选择很明智，[CT_NAME]。与尊长维系良好关系很重要，你说是不是？
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_60	You have my eternal gratitude, [CT_NAME].	我对你永怀感激，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_61	You have our gratitude.	承蒙你的美意。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_62	You have our thanks.	我们谢谢你。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_63	You make me so happy, [CT_NAME]!	你让我如此欢喜，[CT_NAME]！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_64	You show great wisdom and acumen in picking your friends, [CT_NAME]. The [OUR_EMPIRE] thanks you.	你择友的眼光尽显智慧与卓识，[CT_NAME]。[OUR_EMPIRE]谢谢你。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_65	You show great wisdom and friendship. [OUR_CIV_SHORT] thanks you!	你尽显智慧与友谊。[OUR_CIV_SHORT]谢谢你！
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_66	Your fair and courteous dealings with the [OUR_CIV_ADJ] people will not be forgotten.	你与[OUR_CIV_ADJ]人民公道而礼貌的往来，我们不会忘记。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_67	You have [OUR_CIV_SHORT]'s thanks.	你得到了[OUR_CIV_SHORT]的谢意。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_68	It appears that your visit was not a complete waste. Come back again when you have something else to offer the [OUR_EMPIRE].	看来你这趟没白来。等你还有别的东西可献给[OUR_EMPIRE]时，再来吧。
+CIV4DiplomacyText.xml	AI_DIPLO_THANKS_69	Yours is a friendly and accommodating little culture. We thank you.	你们是个友善而随和的小文明。我们谢谢你们。
+CIV4DiplomacyText.xml	AI_DIPLO_CURRENT_DEALS_1	As I see it, these are our current deals.	依我看，这些就是我们现有的交易。
+CIV4DiplomacyText.xml	AI_DIPLO_CURRENT_DEALS_2	These are our active deals.	这些是我们生效中的交易。
+CIV4DiplomacyText.xml	AI_DIPLO_CURRENT_DEALS_3	[CT_NAME], these are the deals we have agreed upon.	[CT_NAME]，这些是我们已经谈妥的交易。
+CIV4DiplomacyText.xml	AI_DIPLO_CURRENT_DEALS_4	These are the deals we have with the [CT_EMPIRE].	这些是我们与[CT_EMPIRE]之间的交易。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_ASK_1	Always happy to help...	乐意效劳……
+CIV4DiplomacyText.xml	AI_DIPLO_REJECT_ASK_1	Sorry, but you press us too hard.	抱歉，你逼得我们太紧了。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_1	We accede to your unreasonable demands.	我们只好答应你这无理的要求。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_2	I accept your terms, for now. But you just wait until next time!	眼下我接受你的条件。但你就等着瞧下回吧！
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_3	It appears that I have no choice but to agree.	看来除了答应，我别无选择。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_4	All right, then. But just remember: what goes around comes around!	那好吧。不过你给我记住：善恶终有报！
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_5	Sure: kick a civilization when it's down. I accept your terms.	行啊：趁人之危、落井下石。我接受你的条件。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_6	I agree to your terms. For now.	眼下，我接受你的条件。
+CIV4DiplomacyText.xml	AI_DIPLO_ACCEPT_DEMAND_TEAM_1	Always happy to help!	乐意效劳！
+CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_1	We reject your meaningless threats!	我们拒绝你毫无意义的威胁！
+CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_2	How dare you insult glorious [OUR_CIV_SHORT] with your stupid demands!	你竟敢用你那愚蠢的要求侮辱光荣的[OUR_CIV_SHORT]！
+CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_3	Not bloody likely.	门儿都没有。
+CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_4	Not on my watch!	别想在我眼皮底下得逞！
+CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_5	Never!	绝不！
+CIV4DiplomacyText.xml	AI_DIPLO_REJECT_DEMAND_6	You badly underestimate the [OUR_EMPIRE], [CT_NAME]. We would never agree to any such thing.	你严重低估了[OUR_EMPIRE]，[CT_NAME]。我们绝不会答应这种事。
+CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_1	We see that you could probably use a little help.	我们看得出，你或许正需要一点援手。
+CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_2	Perhaps this could be of assistance to you, [CT_NAME].	或许这对你能有些帮助，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_3	Here's a little something from us to you.	这是我们给你的一点小小心意。
+CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_4	Here, my friend: you might need this.	拿去吧，我的朋友：你或许用得上这个。
+CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_5	Would this be of any use to you, [CT_NAME]?	这对你可有用处，[CT_NAME]？
+CIV4DiplomacyText.xml	AI_DIPLO_GIVE_HELP_6	The [OUR_CIV_ADJ] people are feeling quite generous today, [CT_NAME]. Perhaps this could be of some use to you.	[OUR_CIV_ADJ]人民今天颇为慷慨，[CT_NAME]。或许这对你能有些用处。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_1	Charity begins at home, [CT_NAME]. Care to give us some?	仁爱当自家门始，[CT_NAME]。可愿分我们一些？
+CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_2	[OUR_CIV_SHORT] requires your assistance, friend [CT_NAME]. I hope that you will not disappoint us.	[OUR_CIV_SHORT]需要你的援助，朋友[CT_NAME]。但愿你不会让我们失望。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_3	I have always relied on the kindness of strangers, [CT_NAME]. Can you help?	我向来仰仗陌生人的善意，[CT_NAME]。你能帮个忙吗？
+CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_4	A friend in need is a friend indeed, [CT_NAME]. Care to help us out?	患难见真情，[CT_NAME]。可愿帮我们一把？
+CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_5	[OUR_CIV_SHORT] could use your assistance, [CT_NAME]. 	[OUR_CIV_SHORT]用得上你的援助，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_FR_ASK_FOR_HELP_6	Could you possibly spare us this, [CT_NAME]?	你可否匀出这个给我们，[CT_NAME]？
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_1	Supplying us with this would go a long way towards healing the unfortunate rift between our peoples, [CT_NAME]. 	供给我们这个，将大大有助于弥合我们两族之间那道不幸的裂痕，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_2	I find that [OUR_CIV_SHORT] needs your aid, [CT_NAME]. I'm certain you won't disappoint us.	我发现[OUR_CIV_SHORT]需要你的援助，[CT_NAME]。我相信你不会让我们失望。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_3	As difficult as it may be to believe, you actually have something that we could use.	尽管难以置信，你手上竟真有我们用得上的东西。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_4	Your assistance at this vital time will do much towards regaining [OUR_CIV_SHORT]'s friendship, [CT_NAME].	在这紧要关头伸出援手，将大大有助于重获[OUR_CIV_SHORT]的友谊，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_5	Despite our differences, I believe that our two nations have much in common. For example, you have this and we need it.	尽管我们分歧重重，我却相信我们两国有不少共通之处。比方说，你有这个，而我们正需要它。
+CIV4DiplomacyText.xml	AI_DIPLO_FUR_ASK_FOR_HELP_6	We could use your assistance, [CT_NAME]. Do not disappoint us.	我们用得上你的援助，[CT_NAME]。别让我们失望。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_1	How disappointing. 	真令人失望。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_2	Well, dang.	哼，可恶。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_3	You are really not a very giving person, [CT_NAME].	你可真是个吝啬的人，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_4	Very well. We shall say nothing more of this - for the moment.	好吧。此事我们就不再多说了——暂且如此。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_5	You have chosen foolishly, [CT_NAME].	你的选择很愚蠢，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_WEAKER_6	Very well. But greed will be your ultimate downfall, [CT_NAME]. 	好吧。但贪婪终将成为你的覆灭之因，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_1	We shall remember this, [CT_NAME].	我们会记住这件事的，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_2	How shortsighted of you.	你真是目光短浅。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_3	That's not very nice of you, [CT_NAME]. 	你这么做可不厚道，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_4	We'll remember this.	我们会记住这件事的。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_5	You foolish person.	你这个蠢货。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_EQUAL_6	I expected better of you, [CT_NAME]. 	我本以为你会做得更好，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_1	I hope you don't come to regret this, [CT_NAME]. 	但愿你不会为此后悔，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_2	Very well. On your own head be it.	好吧。后果由你自负。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_3	As you will. 	随你便。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_4	Remember, what goes around comes around...	记住，善恶终有报……
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_5	Fine. See if we help you out when you need it.	行。那就看看你有难时我们帮不帮你吧。
+CIV4DiplomacyText.xml	AI_DIPLO_HELP_REFUSED_STRONGER_6	That's too bad. For the both of us, I fear.	那真糟糕。我担心，这对你我都是坏事。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_1	We demand the following in tribute!	我们要求你献上如下贡品！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_2	[CT_NAME], meet our demands or suffer the consequences.	[CT_NAME]，满足我们的要求，否则自食其果。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_3	It would be wise for you to give us what we want.	你最好乖乖交出我们想要的东西。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_4	Give us what we want or prepare to be destroyed.	交出我们想要的东西，否则准备灰飞烟灭吧。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_5	Be wise [CT_NAME] and give in to our demands.	放聪明点，[CT_NAME]，乖乖答应我们的要求。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_1	We can do this the easy way, or the hard way. Which do you prefer?	这事我们可以好好来，也可以来硬的。你想选哪样？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_2	For the sake of our long friendship, [CT_NAME], will you not give us this small present?	看在我们多年交情的份上，[CT_NAME]，你不愿送我们这份小小的礼物吗？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_3	Friend [CT_NAME], we are in some need of assistance. Will you not help your longstanding friend and ally?	朋友[CT_NAME]，我们有些需要援助。你不愿帮帮你的老朋友、老盟友吗？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_4	Give us what we want, [CT_NAME], lest we come and take it.	交出我们想要的东西，[CT_NAME]，免得我们亲自来取。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_5	This is what we need, [CT_NAME]. Surely our continued friendship is worth far more than that!	这就是我们需要的东西，[CT_NAME]。我们长存的友谊，分明远比这值钱得多！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_6	The [OUR_EMPIRE] would be quite grateful if your terribly vulnerable country gave us what we want.	若你那不堪一击的国家把我们想要的东西交出来，[OUR_EMPIRE]会相当感激。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_7	Our continued friendship provides many benefits, [CT_NAME]. Surely it is worth this small tribute in return?	我们长存的友谊带来诸多好处，[CT_NAME]。作为回报，这点小小的贡品分明是值得的吧？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_8	Pay it forward, [CT_NAME]. Please?	把善意传递下去吧，[CT_NAME]。求你了？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_FRANKLIN_ROOSEVELT_1	The only thing you have to fear is the terrible consequence of not giving me what I want.	你唯一该惧怕的，就是不给我想要的东西所带来的可怕后果。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_WASHINGTON_1	The best things in life are free, [CT_NAME]. Unfortunately, our continued friendship isn't one of them.	人生最美好的东西都是免费的，[CT_NAME]。可惜，我们长存的友谊不在其列。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_MONTEZUMA_1	The gods demand sacrifice, [CT_NAME]. If your civilization is to exist for much longer, I recommend that you comply.	诸神索要祭品，[CT_NAME]。若想让你的文明再多存续些时日，我劝你照办。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_QIN_SHI_HUANG_1	That's quite a nice little civilization you have going there, [CT_NAME]. It would be very unfortunate if something bad were to happen to it... We understand each other, do we not?	你那个小文明经营得不错嘛，[CT_NAME]。要是出了什么意外，那可就太不幸了……你我心照不宣，对吧？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_CHINESE_LEADER_1	[CT_NAME], please give us the following immediately. Think of it as an investment in our continued friendship.	[CT_NAME]，请立刻把以下东西交给我们。就当是对我们长存友谊的一笔投资吧。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_MENES_1	I want this right now. Do not make me angry - you wouldn't like me when I'm angry...	我现在就要这个。别惹我发火——我发起火来可不好受……
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_HATSHEPSUT_1	I was going to demand that you sacrifice 1000 warriors to my greatness, [CT_NAME], but if you prefer, you can give me this.	我本想命你献祭一千名战士来敬奉我的伟大，[CT_NAME]，不过你若愿意，也可以把这个给我。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ELIZABETH_1	The world is a better place because of our friendship, [CT_NAME]; don't you agree? Surely this isn't too large a price to pay to insure that it continues...	因了我们的友谊，这世界才更美好，[CT_NAME]，你说是不是？为保这份友谊延续下去，这点代价想必不算太大……
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_VICTORIA_1	The [CT_CIV_ADJ] people are in great need, [CT_NAME]. Do not disappoint us.	[CT_CIV_ADJ]人民正急需援助，[CT_NAME]。别让我们失望。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_NAPOLEON_1	My armies thirst for new lands to conquer, [CT_NAME]. Would you care to ensure that they aren't yours?	我的大军渴望征服新的疆土，[CT_NAME]。你可愿保证那疆土不是你的？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ALEXANDER_1	For the sake of our continued friendship, provide the great people of the [OUR_NAME] with tribute.	看在我们长存友谊的份上，向[OUR_NAME]的伟大子民献上贡品吧。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_HUAYNA_CAPAC_1	Give us what we want, [CT_NAME] - it is the will of the gods. 	交出我们想要的东西，[CT_NAME]——这是诸神的旨意。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ASOKA_1	Peace demands sacrifice, [CT_NAME]. From you.	和平需要牺牲，[CT_NAME]。由你来牺牲。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_GANDHI_1	I hope you see, [CT_NAME], that it is in your country's best interest to give us what we want. 	我希望你明白，[CT_NAME]，交出我们想要的东西，符合你国家的最大利益。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_TOKUGAWA_1	Give us what we want, now! Or face imminent destruction! 	立刻交出我们想要的东西！否则就等着大祸临头吧！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_MANSA_MUSA_1	Forsake greed, friend!  Provide me with tribute, or risk the anger of the [OUR_CIV_ADJ] people.	抛开贪念吧，朋友！向我献上贡品，否则就要冒着触怒[OUR_CIV_ADJ]人民的风险。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_GENGHIS_KHAN_1	Bestow gifts upon your friends and you are likely to be rewarded a hundred times over.  Ignore the advice of wise-men, and you risk being flogged about the head, neck, face, and shoulders.	向朋友馈赠礼物，你很可能会得到百倍的回报。无视智者的忠告，你就要冒着头、颈、脸、肩都被抽个不停的风险。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_KUBLAI_KHAN_1	The mighty [OUR_EMPIRE] thanks you for your generous gift, [CT_NAME]. Now hand it over.	强盛的[OUR_EMPIRE]感谢你这慷慨的馈赠，[CT_NAME]。现在，交出来吧。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_CYRUS_1	Friendly [OUR_CIV_SHORT] requires a goodwill gesture from our firm yet surprisingly vulnerable ally, [CT_CIV_SHORT]. 	友善的[OUR_CIV_SHORT]，需要我们那坚定却出奇脆弱的盟友[CT_CIV_SHORT]表示一点善意。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_JULIUS_CAESAR_1	Usually, when I see something I want, I just come over and take it. Consider this your lucky day.	通常，我看上什么东西，就直接过来拿走。就当今天是你走运吧。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_AUGUSTUS_CAESAR_1	The truth is, [OUR_CIV_SHORT] is stronger than your empire, [CT_NAME]. It would be wise of you to give us what we want.	事实是，[OUR_CIV_SHORT]比你的帝国更强大，[CT_NAME]。乖乖交出我们想要的东西，才是明智之举。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_PETER_1	Give us this or our mighty Cossacks will roam across your ravaged country, burning your cities, stealing your pigs and making lewd gestures at your women!	交出这个，否则我们强悍的哥萨克就要踏遍你满目疮痍的国土，焚烧你的城市，抢走你的猪，还要对你的女人做出下流的动作！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_CATHERINE_1	A present for me? Why, it's just what I wanted! How ever did you guess?	给我的礼物？哎呀，这正是我想要的！你怎么就猜到了呢？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ISABELLA_1	Heaven is on our side, [CT_NAME]. I pray that you know what's good for you.	上苍站在我们这边，[CT_NAME]。我祈祷你识时务、知深浅。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_GILGAMESH_1	Give us what we want now, [CT_NAME], and we shall repay you a hundredfold at some distant later date.	现在就交出我们想要的东西，[CT_NAME]，日后某个遥远的时日，我们会百倍偿还你。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_1	The honor of [OUR_CIV_SHORT] requires that we ask you to give us a small donation.	[OUR_CIV_SHORT]的荣誉，要求我们请你捐赠一份小小的献礼。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_2	For the sake of friendship, you might want to consider giving us a small gift.	看在友谊的份上，你或许该考虑送我们一份小小的礼物。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_3	Agree to our demands, [CT_NAME], or be prepared to fight!	答应我们的要求，[CT_NAME]，否则准备开战！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_4	Know that [OUR_CIV_SHORT] stands by [CT_CIV_SHORT]'s side as friend and equal Now - about our fee...	要知道，[OUR_CIV_SHORT]作为朋友和平等的伙伴，与[CT_CIV_SHORT]并肩而立。那么——说说我们的报酬吧……
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_5	Peace with the [OUR_EMPIRE] comes with a price, [CT_NAME]. Will you pay?	与[OUR_EMPIRE]的和平是有代价的，[CT_NAME]。你可愿付？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_6	[OUR_CIV_SHORT] demands that you give us the following tribute. Our [OUR_BEST_UNIT] await your response.	[OUR_CIV_SHORT]要求你献上如下贡品。我们的[OUR_BEST_UNIT]正等候你的答复。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_7	[OUR_CIV_SHORT] needs this, [CT_NAME]. Will you give it to us, or must we fight for it?	[OUR_CIV_SHORT]需要这个，[CT_NAME]。你是乖乖交给我们，还是要我们为它一战？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_FRANKLIN_ROOSEVELT_1	Hello, [CT_NAME]! The price of freedom has just gone up.	你好，[CT_NAME]！自由的价码刚刚涨了。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_WASHINGTON_1	I cannot tell a lie, [CT_NAME]: we want your stuff. Kindly give it to us at your earliest convenience.	我不能说谎，[CT_NAME]：我们想要你的东西。请你尽早把它交给我们。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SALADIN_1	By the glory of God, I, [OUR_NAME], mightiest of his servants, do request a small donation from you, [CT_NAME]. You would be wise to consider my request carefully.	以神的荣光之名，我，[OUR_NAME]，他最强大的仆从，向你请求一份小小的捐赠，[CT_NAME]。你最好慎重考虑我的请求。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_MONTEZUMA_1	The [OUR_EMPIRE] requests from you a small donation, [CT_NAME]. Or, if you prefer, we can battle until one of us is destroyed. 	[OUR_EMPIRE]向你请求一份小小的捐赠，[CT_NAME]。或者，你若愿意，我们也可以厮杀到一方灭亡为止。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_CHINESE_LEADER_1	Would you care to take part in our share-the-wealth program, [CT_NAME]?	你可愿加入我们的共富计划，[CT_NAME]？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_MENES_1	Furnish [OUR_CIV_SHORT] with these gifts and we will tolerate your existence for a little while longer.	把这些礼物供给[OUR_CIV_SHORT]，我们就再容忍你多存在一阵子。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_HATSHEPSUT_1	It is customary for puny mortals to show their devotion by giving their goddess a gift. Or if they prefer they can be cut into small pieces and fed to the royal crocodiles.	渺小的凡人向女神献上礼物以表虔诚，本是惯例。若他们更中意，也可以被剁成小块，喂给王室的鳄鱼。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ELIZABETH_1	My dear [CT_NAME], [OUR_CIV_SHORT] can make life very difficult indeed for [CT_CIV_SHORT]. Give us what we want or suffer the consequences.	我亲爱的[CT_NAME]，[OUR_CIV_SHORT]完全能让[CT_CIV_SHORT]的日子举步维艰。交出我们想要的东西，否则自食其果。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_VICTORIA_1	We have needs, [CT_NAME]. Please comply.	我们有所需要，[CT_NAME]。请照办。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_NAPOLEON_1	I'll keep this short: comply with our demands or suffer the consequences. That is all.	我长话短说：答应我们的要求，否则自食其果。就这样。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_BISMARCK_1	"Blackmail" is such an ugly word, [CT_NAME]. I prefer to call it, "extortion."	“敲诈”这个词太难听了，[CT_NAME]。我更愿意称之为“勒索”。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ALEXANDER_1	Do you choose to cravenly lick our boots and give us what we want, or to stand and fight us in a heroic but doomed last stand?	你是要卑躬屈膝地舔我们的靴子，把想要的东西交出来，还是要挺身与我们一战、来一场英勇却注定失败的负隅顽抗？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_HUAYNA_CAPAC_1	I have sacrificed many foes, [CT_NAME]. Give me what I want or you may be next.	我已献祭过许多仇敌，[CT_NAME]。交出我想要的东西，否则下一个可能就是你。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ASOKA_1	A small donation would help insure continued frirendship between our two peoples, [CT_NAME]. 	一份小小的捐赠，将有助于确保我们两族之间友谊长存，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_GANDHI_1	[OUR_CIV_SHORT] requests a small donation from their good friends, the [CT_CIV_ADJ] people. 	[OUR_CIV_SHORT]向他们的好友、[CT_CIV_ADJ]人民，请求一份小小的捐赠。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_TOKUGAWA_1	We are bigger and stronger than you, [CT_NAME]. You must give us tribute, or suffer the consequences.	我们比你更强大，[CT_NAME]。你必须向我们进贡，否则自食其果。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_MANSA_MUSA_1	My generosity is known the world over, [CT_NAME]. How about yours?	我的慷慨闻名于世，[CT_NAME]。你的呢？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_GENGHIS_KHAN_1	Give us what we want, [CT_NAME], or 20,000 screaming warriors will come and take it.	交出我们想要的东西，[CT_NAME]，否则两万名嘶吼的战士就会前来夺取。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_KUBLAI_KHAN_1	You may purchase your continued existence with this, [CT_NAME]. I suggest that you be sensible and do so.	你可以用这个买下你继续存在的权利，[CT_NAME]。我劝你识相点，照办吧。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_JULIUS_CAESAR_1	If you wish to ensure [CT_CIV_SHORT]'s continued survival, you would be wise to comply with my demands.	你若想确保[CT_CIV_SHORT]继续存续，乖乖答应我的要求才是明智之举。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_AUGUSTUS_CAESAR_1	The [CT_EMPIRE] is strong, [CT_NAME]. But are you sure that it is as strong as Mighty [OUR_CIV_SHORT]? Deny us our tribute and you may have a chance to find out.	[CT_EMPIRE]很强大，[CT_NAME]。可你确定它强得过强盛的[OUR_CIV_SHORT]吗？拒不进贡，你或许就有机会一探究竟。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_PETER_1	Hand this over or die.	交出来，否则受死。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_CATHERINE_1	I do so hope that we can remain friends, [CT_NAME]. The world just wouldn't be as much fun with you not in it.	我真心盼着我们能继续做朋友，[CT_NAME]。这世界若少了你，可就没这么有趣了。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ISABELLA_1	Mighty [OUR_CIV_SHORT] is leading the battle against evil, godless, heathen, barbarians, [CT_NAME]. It is time to show your appreciation. 	强盛的[OUR_CIV_SHORT]正率军讨伐邪恶、渎神、异教的野蛮人，[CT_NAME]。是时候表表你的感激了。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_GILGAMESH_1	Given the many concessions we have granted you previously, is it not time for you to give Mighty [OUR_CIV_SHORT] something in return?	鉴于此前我们已给过你诸多让步，如今你是不是也该回报强盛的[OUR_CIV_SHORT]些什么了？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_1	Think well, [CT_NAME]: if you give us tribute, our friendship will continue. If not, we will have to seriously re-evaluate our relationship.	好好想想，[CT_NAME]：你若进贡，我们的友谊便得以延续。若不然，我们就得认真重新掂量你我的关系了。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_2	[OUR_CIV_SHORT] demands that you pay her tribute.	[OUR_CIV_SHORT]要求你向她进贡。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_3	Give us what we want or be destroyed.	交出我们想要的东西，否则灰飞烟灭。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_4	Mighty [OUR_CIV_SHORT] demands that you acknowledge her superiority with a small token of respect.	强盛的[OUR_CIV_SHORT]要求你献上一点敬意，以承认她的优越。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_5	The superior [OUR_CIV_ADJ] civilization is worthy of tribute. Dispense goods to us, and we'll refrain from sending our [OUR_BEST_UNIT] to crush you.	优越的[OUR_CIV_ADJ]文明配得上贡品。把财物献给我们，我们就不派[OUR_BEST_UNIT]去碾碎你。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_6	Time is short and so too will be the memory of [CT_CIV_SHORT] should you deny me this token of respect.	时日无多，你若拒绝献上这份敬意，[CT_CIV_SHORT]留在世间的记忆也将同样短暂。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_7	I wonder if you would consider giving us a small gift, [CT_NAME], in honor of the timeless friendship between Mighty [OUR_CIV_SHORT] and your weak and defenseless people?	我在想，你可愿送我们一份小小的礼物，[CT_NAME]，以纪念强盛的[OUR_CIV_SHORT]与你那弱小无助的子民之间那份永恒的友谊？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_8	For the sake of your country's continued survival, I suggest that you comply with our demands.	为了你国家的存续，我劝你答应我们的要求。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_FRANKLIN_ROOSEVELT_1	That certainly is a nice little civilization you have there, [CT_NAME]. It would be unfortunate if something were to happen to it...	你那个小文明确实不错，[CT_NAME]。要是出了什么意外，那可就太不幸了……
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_WASHINGTON_1	Don't think of this as a demand for tribute, [CT_NAME]. Think of it as an investment in world peace.	别把这当成进贡的勒索，[CT_NAME]。就把它当成一笔对世界和平的投资吧。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_SALADIN_1	It is only proper that the vassal states provide tribute to their lord and protector. That would be me.	附庸之国向他们的君主与庇护者进贡，本是天经地义。那位君主，便是我。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_MONTEZUMA_1	Your weakness is contemptible, #CT_NAME! Give us what we want or perish!	你的软弱令人不齿，#CT_NAME！交出我们想要的东西，否则受死！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_QIN_SHI_HUANG_1	If you wish your pathetic civilization to survive, [CT_NAME], you had better comply with our demands!	你若想让你那可悲的文明活下去，[CT_NAME]，最好乖乖答应我们的要求！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_CHINESE_LEADER_1	For too long have the glorious [CT_CIV_ADJ] workers put up with your contemptible bourgoise insolence! It's time for an immediate redistribution of wealth!	光荣的[CT_CIV_ADJ]工人容忍你那可鄙的资产阶级傲慢已经太久了！是时候立刻重新分配财富了！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_MENES_1	Glorious [OUR_CIV_SHORT] requires from you a token of aubmission. Or would you prefer that we wipe [CT_CIV_SHORT] from the face of the planet?	光荣的[OUR_CIV_SHORT]要求你献上一份臣服的表示。还是说，你更愿意让我们把[CT_CIV_SHORT]从这颗星球上抹去？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_ELIZABETH_1	Conventional wisdom suggests that you bequeath certain goods to us or be destroyed.	依常理而论，你该把某些财物献给我们，否则灰飞烟灭。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_VICTORIA_1	Give [OUR_CIV_SHORT] what is due her, [CT_NAME]! We shall not ask a second time.	把[OUR_CIV_SHORT]应得的东西交给她，[CT_NAME]！我们不会问第二次。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_LOUIS_XIV	The [OUR_CIV_ADJ] Folk have put up with your insults long enough! Pay us the following or suffer the consequences!	[OUR_CIV_ADJ]子民容忍你的侮辱已经够久了！献上如下贡品，否则自食其果！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_NAPOLEON_1	If you wish to delay your destruction, [CT_NAME], give us what we want.	你若想推迟你的覆灭，[CT_NAME]，就交出我们想要的东西。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_BISMARCK_1	To be honest, raw greed is the only thing stopping us from destroying your puny civilization. Pay us what we want, or perish.	老实说，唯有赤裸裸的贪念才拦着我们没去毁灭你那渺小的文明。交出我们想要的东西，否则受死。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_HUAYNA_CAPAC_1	Foolish [CT_NAME]! Give us what we want and you may live for yet another day!	愚蠢的[CT_NAME]！交出我们想要的东西，你或许还能再多活一天！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_ASOKA_1	Mighty [OUR_CIV_SHORT]'s protection comes at a price, [CT_NAME]. You would be wise to pay it.	强盛的[OUR_CIV_SHORT]的庇护是有代价的，[CT_NAME]。你最好乖乖付清。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_GANDHI_1	I believe in peace at any price, [CT_NAME]. This is your price.	我信奉不惜代价的和平，[CT_NAME]。这就是你要付的代价。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_TOKUGAWA_1	Do not let foolish pride cause the downfall of your people, [CT_NAME]. Pay us what we want - or be destroyed!	别让愚蠢的骄傲招致你子民的覆灭，[CT_NAME]。交出我们想要的东西——否则灰飞烟灭！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_MANSA_MUSA_1	Time is short and so too will be the memory of [CT_CIV_SHORT] should you deny me this token of respect.	时日无多，你若拒绝献上这份敬意，[CT_CIV_SHORT]留在世间的记忆也将同样短暂。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_GENGHIS_KHAN_1	When you find a hungry tiger at your door, commen sense says that you feed him.	当一头饿虎堵在你门口时，常识告诉你：喂饱它。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_KUBLAI_KHAN_1	[OUR_CIV_SHORT] requires tribute from inferior cultures such as yours. Comply or be destroyed.	[OUR_CIV_SHORT]向你这样低劣的文明索取贡品。照办，否则灰飞烟灭。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_JULIUS_CAESAR_1	Acceed to our demands or face us in battle. 	答应我们的要求，否则战场上见。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_AUGUSTUS_CAESAR_1	Resistance is futile! Comply with our demands or face destruction!	抵抗是徒劳的！答应我们的要求，否则灰飞烟灭！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_PETER_1	Ah, [CT_NAME]. I have an excellent deal to offer you: give us what we want, and we will not crush you. Does that not sound fair?	啊，[CT_NAME]。我有个绝佳的交易要给你：交出我们想要的东西，我们就不碾碎你。这难道不公道吗？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_CATHERINE_1	Some enjoy licking our boots, [CT_NAME]. How about you give it a try?	有些人以舔我们的靴子为乐，[CT_NAME]。你要不要也来试试？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_GILGAMESH_1	Your ruination is at hand, [CT_NAME]! Your only chance of survival is to give mighty [OUR_CIV_SHORT] what she wants!	你的覆灭近在眼前，[CT_NAME]！你唯一的生路，就是交出强盛的[OUR_CIV_SHORT]想要的东西！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_1	Very well. I hope that you won't come to regret this decision, [CT_NAME].	好吧。但愿你不会为这个决定后悔，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_2	In the future you'd best remember who your friends are, [CT_NAME].	往后你最好记清楚谁才是你的朋友，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_3	Once again you disappoint me, [CT_NAME]. You'd be advised to see that it doesn't happen again.	你又一次让我失望了，[CT_NAME]。我劝你留意，别再有下次了。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_4	Well that's not very nice, if you ask me.	要我说，这可不太厚道。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_5	Curses: foiled again!	该死：又栽了！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_WEAKER_6	You are arrogant, [CT_NAME]. Some day it will lead to your destruction. 	你太傲慢了，[CT_NAME]。总有一天这会招致你的覆灭。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_1	Foolish stubborness will lead to your destruction, [CT_NAME].	愚蠢的顽固会招致你的覆灭，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_2	Very well. On your head be it.	好吧。后果由你自负。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_3	I don't think you realize just who you're dealing with, [CT_NAME]. I suggest you reconsider, and quickly!	我看你还没认清你在跟谁打交道，[CT_NAME]。我劝你重新考虑，快点！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_4	You gamble with the lives of your people, [CT_NAME]. Are you ready to pay the price if you lose?	你在拿你子民的性命做赌注，[CT_NAME]。若是输了，你准备好付出代价了吗？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_5	Fine. Next time I won't ask so nicely!	行。下回我可不会问得这么客气了！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_EQUAL_6	You're playing with fire, [CT_NAME]. See that you don't get burned.	你在玩火，[CT_NAME]。当心别烧着自己。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_1	You'll regret this, you wretched creature!	你会后悔的，你这可悲的东西！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_2	You test my patience, [CT_NAME]!	你在挑战我的耐心，[CT_NAME]！
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_3	Very well. I suggest that you start cranking out those soldiers, [CT_NAME]. You'll have need of them shortly.	好吧。我劝你开始拼命造兵吧，[CT_NAME]。你很快就会用得上他们。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_4	You should think more carefully before you anger your betters, [CT_NAME], for it can lead to bitter consequences.	触怒你的尊长之前，你该多想想，[CT_NAME]，因为那会招致惨痛的后果。
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_5	Fool! Don't you know that I could crush you like a grape?	蠢货！你难道不知道，我能像捏碎一颗葡萄一样捏碎你？
+CIV4DiplomacyText.xml	AI_DIPLO_DEMAND_REJECTED_POWER_STRONGER_6	How dare you deny my extremely reasonable request! You'll regret this, I promise!	你竟敢拒绝我这极其合理的请求！你会后悔的，我保证！
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_WEAKER_1	The bonds between our civilizations would be greatly strengthened if you converted to [OUR_STATE_RELIGION].	你若皈依[OUR_STATE_RELIGION]，我们两大文明之间的纽带将大大加固。
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_WEAKER_2	Isn't it about time that you abandoned your foolish beliefs and converted to [OUR_STATE_RELIGION], [CT_NAME]?	是不是也该抛弃你那愚蠢的信仰，皈依[OUR_STATE_RELIGION]了，[CT_NAME]？
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_WEAKER_3	You should consider converting to [OUR_STATE_RELIGION], [CT_NAME]. It is the one true path to salvation.	你该考虑皈依[OUR_STATE_RELIGION]，[CT_NAME]。这是通往救赎的唯一正道。
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_EQUAL_1	I urge you to convert to [OUR_STATE_RELIGION], [CT_NAME]. Religious wars can be so unpleasant...	我劝你皈依[OUR_STATE_RELIGION]，[CT_NAME]。宗教战争可是很不愉快的……
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_EQUAL_2	Our gods can beat your gods any day of the week, [CT_NAME]. Convert to [OUR_STATE_RELIGION] before it's too late!	我们的神随时都能击败你们的神，[CT_NAME]。趁还来得及，皈依[OUR_STATE_RELIGION]吧！
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_EQUAL_3	[OUR_STATE_RELIGION] is mighty, [CT_NAME]. Convert now, before the heavens rain their displeasure upon you.	[OUR_STATE_RELIGION]无比强大，[CT_NAME]。立刻皈依，免得上苍降下祂的震怒。
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_STRONGER_1	The heavens demand that you join [OUR_STATE_RELIGION] immediately. Consider your answer carefully!	上苍要求你立刻加入[OUR_STATE_RELIGION]。慎重考虑你的答复！
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_STRONGER_2	Abandon your heathenish ways and join [OUR_STATE_RELIGION], [CT_NAME]. Your people's survival depends on it!	抛弃你那异教的行径，加入[OUR_STATE_RELIGION]吧，[CT_NAME]。你子民的存亡系于此举！
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_PRESSURE_STRONGER_3	Discard your false religion and embrace [OUR_STATE_RELIGION], [CT_NAME]. If you wish to survive...	抛弃你那伪信，拥抱[OUR_STATE_RELIGION]吧，[CT_NAME]。若你还想活命的话……
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_WEAKER_1	Very well. We know that this can be a sensitive matter.	好吧。我们知道这可能是件敏感的事。
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_WEAKER_2	As you wish. 	随你所愿。
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_WEAKER_3	We shall speak of this again at a later time.	此事我们改日再谈。
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_EQUAL_1	On your own head be it.	后果由你自负。
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_EQUAL_2	You disappoint me. And you disappoint the heavens. Foolish.	你让我失望。你也让上苍失望。愚蠢。
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_EQUAL_3	Very well. But remember, [CT_NAME], The wages of sin are death. 	好吧。但记住，[CT_NAME]，罪的代价乃是死。
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_STRONGER_1	So be it. I pray that your people do not suffer overmuch for your folly.	那就随你吧。我祈祷你的子民不会为你的愚行受太多苦。
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_STRONGER_2	You mock the heavens at your peril, [CT_NAME]! I can but hope that you will see wisdom before it is too late.	你亵慢上苍，是自寻死路，[CT_NAME]！我只盼你在为时已晚之前幡然醒悟。
+CIV4DiplomacyText.xml	AI_DIPLO_RELIGION_DENIED_STRONGER_3	I fear that your blasphemy will not go unpunished, [CT_NAME]. I'd invest in a lot of lightning rods if I were you.	我担心你的亵渎不会不受惩罚，[CT_NAME]。若我是你，就多备些避雷针。
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_1	Please join us by adopting %s1.	请采纳%s1，与我们同道。
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_2	All the cool civs are adopting %s1, [CT_NAME]. How about you?	所有出色的文明都在采纳%s1，[CT_NAME]。你呢？
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_3	Have you considered adopting %s1? it will bring our two civilizations even closer together.	你可曾考虑采纳%s1？这会让我们两大文明更加亲近。
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_4	I urge you to adopt %s1, [CT_NAME]. Your civilization will be the better for it.	我劝你采纳%s1，[CT_NAME]。你的文明会因此更好。
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_5	%s1 is extremely useful, [CT_NAME]. [CT_CIV_SHORT] would do well to adopt it.	%s1极为有用，[CT_NAME]。[CT_CIV_SHORT]采纳它准没错。
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_PRESSURE_16	Adopt %s1 - before it's too late!	采纳%s1——趁还来得及！
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_1	As you will.	随你所愿。
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_2	I suppose you know best. 	我想你自有主张。
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_3	On your head be it.	后果由你自负。
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_4	Really? How foolish.	是吗？真愚蠢。
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_5	That's not very intelligent of you, [CT_NAME].	你这么做可不聪明，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_CIVIC_DENIED_6	Nobody ever listens to me.	从来没人听我的。
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_1	%s2 is a threat to us all. Please join us in wiping [NUM2:him:her:them:them] out.	%s2是我们所有人的祸患。请与我们同心协力，把[NUM2:他:她:他们:他们]铲除。
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_2	Care to assist us in destroying the evil %s2?	可愿助我们一臂之力，消灭那邪恶的%s2？
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_3	Greetings, [CT_NAME]. The annoying %s2 must be destroyed, don't you agree?	你好，[CT_NAME]。那讨厌的%s2必须被消灭，你说是不是？
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_4	[CT_NAME]: we urgently request mighty [CT_CIV_SHORT]'s assistance in our crusade against %s2!	[CT_NAME]：我们急需强盛的[CT_CIV_SHORT]相助，一同讨伐%s2！
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_5	The treacherous %s2 must be punished for [NUM2:his:her:their:their] offences against civilization, [CT_NAME]! I assume we can count on your assistance?	奸诈的%s2必须为[NUM2:他:她:他们:他们]冒犯文明的罪行受罚，[CT_NAME]！想必我们可以指望你相助吧？
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_WAR_6	The nasty %s2 are plotting against us all, [CT_NAME]! Let us destroy [NUM2:him:her:them:them] together!	卑劣的%s2正密谋对付我们所有人，[CT_NAME]！让我们一同消灭[NUM2:他:她:他们:他们]吧！
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_1	You should choose your sides carefully.	你该慎重择定立场。
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_2	Very well. That just means more plunder for us!	好吧。那不过意味着我们能抢到更多战利品！
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_3	Really? I had no idea you were so timid!	是吗？我真没想到你竟如此胆怯！
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_4	How very disappointing.	真令人失望。
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_5	I hope you know what you're doing, [CT_NAME].	但愿你清楚自己在做什么，[CT_NAME]。
+CIV4DiplomacyText.xml	AI_DIPLO_JOIN_DENIED_6	We shall remember this, [CT_NAME]!	我们会记住这件事的，[CT_NAME]！
+CIV4DiplomacyText.xml	AI_DIPLO_STOP_TRADING_1	It can no longer be tolerated - we demand that you cancel your deals with the vile %s2!	这再也不能容忍了——我们要求你取消与那卑劣的%s2的一切交易！
+CIV4DiplomacyText.xml	AI_DIPLO_STOP_DENIED_1	We won't take this lightly, [CT_NAME]!	此事我们不会善罢甘休，[CT_NAME]！
+CIV4DiplomacyText.xml	AI_DIPLO_UNIT_BRAG_1	Fear my [OUR_BEST_UNIT]!	在我的[OUR_BEST_UNIT]面前颤抖吧！
+CIV4DiplomacyText.xml	AI_DIPLO_UNIT_BRAG_2	Soon my numberless [OUR_BEST_UNIT] shall destroy you all!	不久，我那数之不尽的[OUR_BEST_UNIT]就将把你们全部消灭！
+CIV4DiplomacyText.xml	AI_DIPLO_UNIT_BRAG_3	Now I have a [OUR_BEST_UNIT]. Ho-Ho-Ho.	如今我有了[OUR_BEST_UNIT]。嚯——嚯——嚯。
+CIV4DiplomacyText.xml	AI_DIPLO_UNIT_BRAG_4	Oh look: I've just built a [OUR_BEST_UNIT]. Now where shall I put it?	哦瞧：我刚造了一支[OUR_BEST_UNIT]。这该往哪儿摆呢？
+CIV4DiplomacyText.xml	AI_DIPLO_UNIT_BRAG_5	Cower before the might of my [OUR_BEST_UNIT]!	在我[OUR_BEST_UNIT]的威势面前退缩吧！
+CIV4DiplomacyText.xml	AI_DIPLO_NUKES_1	Beware, our words are backed by nuclear weapons!	小心了，我们的话语可是有核武器撑腰的！
+CIV4DiplomacyText.xml	AI_DIPLO_WORST_ENEMY_1	Watch out for our worst enemy - [OUR_WORST_ENEMY]! They can't be trusted.	当心我们的头号大敌——[OUR_WORST_ENEMY]！他们绝不可信。
+CIV4DiplomacyText.xml	AI_DIPLO_WORST_ENEMY_TRADING_1	We would encourage you to stop trading with our bitter enemy - [OUR_WORST_ENEMY]!	我们奉劝你停止与我们的死敌[OUR_WORST_ENEMY]交易！
+CIV4DiplomacyText.xml	AI_DIPLO_SOMETHING_ELSE_1	What else would you like to discuss?	你还想商谈别的什么？
+CIV4DiplomacyText.xml	AI_DIPLO_RESEARCH_1	What would you like us to research?	你希望我们研究什么？
+CIV4DiplomacyText.xml	AI_DIPLO_RESEARCH_TECH_1	We'll switch right away!	我们这就切换过去！
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_1	Yes?	怎么？
+CIV4DiplomacyText.xml	AI_DIPLO_TARGET_1	Where should we attack?	我们该攻打哪里？
+CIV4DiplomacyText.xml	AI_DIPLO_TARGET_CITY_1	We'll do our best!	我们会全力以赴！
+CIV4DiplomacyText.xml	AI_DIPLO_WELL_1	Well?	怎么？
+CIV4DiplomacyText.xml	USER_DIPLO_WAR_RESPONSE_1	So be it.	那就这样吧。
+CIV4DiplomacyText.xml	USER_DIPLO_PEACE_1	There shall be peace in our time!	愿我们这一代迎来和平！
+CIV4DiplomacyText.xml	USER_DIPLO_WAR_1	Your head would look good on the end of a pole. (WAR)	你的头颅挂在杆子上一定很好看。（宣战）
+CIV4DiplomacyText.xml	USER_DIPLO_PROPOSE_1	Would you accept this deal?	你愿意接受这笔交易吗？
+CIV4DiplomacyText.xml	USER_DIPLO_ACCEPT_1	We accept your offer.	我们接受你的提议。
+CIV4DiplomacyText.xml	USER_DIPLO_REJECT_1	Sorry, we cannot accept such a deal.	抱歉，这样的交易我们无法接受。
+CIV4DiplomacyText.xml	USER_DIPLO_OFFER_1	What do you want for this?	你想用这个换什么？
+CIV4DiplomacyText.xml	USER_DIPLO_GIFT_1	Please, accept this gift.	请收下这份礼物。
+CIV4DiplomacyText.xml	USER_DIPLO_NEVERMIND_1	Never mind...	算了……
+CIV4DiplomacyText.xml	USER_DIPLO_PROPOSAL_1	We would like to make a trade proposal.	我们想提出一笔交易。
+CIV4DiplomacyText.xml	USER_DIPLO_COMPLETE_DEAL_1	What would make this deal work?	怎样才能让这笔交易谈成？
+CIV4DiplomacyText.xml	USER_DIPLO_FISH_FOR_DEAL_1	What will you give me for this?	你愿意用什么来换这个？
+CIV4DiplomacyText.xml	USER_DIPLO_SUGGEST_PEACE_1	Lets stop this pointless fighting and declare peace!	咱们别再打这场毫无意义的仗了，宣布和平吧！
+CIV4DiplomacyText.xml	USER_DIPLO_OFFER_PEACE_1	Let us bury the hatchet. What is the price for peace?	让我们捐弃前嫌吧。和平的代价是多少？
+CIV4DiplomacyText.xml	USER_DIPLO_CURRENT_DEALS_1	What are the current deals we have together?	我们之间现有哪些交易？
+CIV4DiplomacyText.xml	USER_DIPLO_ASK_1	Could you spare this for a good friend?	看在好朋友的份上，能匀这个给我吗？
+CIV4DiplomacyText.xml	USER_DIPLO_DEMAND_1	We demand that you give this to us in tribute.	我们要求你把这个作为贡品交给我们。
+CIV4DiplomacyText.xml	USER_DIPLO_DEMAND_TEAM_1	This sure would come in handy...	这个肯定用得上……
+CIV4DiplomacyText.xml	USER_DIPLO_ACCEPT_OFFER_1	Sounds like a deal!!!	听起来成交了！！！
+CIV4DiplomacyText.xml	USER_DIPLO_REJECT_OFFER_1	It ain't happening.	这事没得谈。
+CIV4DiplomacyText.xml	USER_DIPLO_RENEGOTIATE_1	Care to negotiate?	有意重新谈谈吗？
+CIV4DiplomacyText.xml	USER_DIPLO_NO_RENEGOTIATE_1	Fair enough. (exit)	好吧，就这样。（退出）
+CIV4DiplomacyText.xml	USER_DIPLO_GIVE_HELP_1	Sure! We're always glad to help!	当然！我们向来乐于相助！
+CIV4DiplomacyText.xml	USER_DIPLO_REFUSE_HELP_1	Sorry, but it's no rose garden over here either.	抱歉，我们这边的日子也不好过。
+CIV4DiplomacyText.xml	USER_DIPLO_ACCEPT_DEMAND_1	Well, if you insist...	好吧，既然你非要如此……
+CIV4DiplomacyText.xml	USER_DIPLO_REJECT_DEMAND_1	We reject your empty threats!	我们拒绝你空洞的威胁！
+CIV4DiplomacyText.xml	USER_DIPLO_CONVERT_1	I agree. We will convert to [OUR_STATE_RELIGION] immediately. (Convert Religion)	我同意。我们会立刻皈依[OUR_STATE_RELIGION]。（改信宗教）
+CIV4DiplomacyText.xml	USER_DIPLO_NO_CONVERT_1	Our people will never give up their beliefs.	我们的子民绝不会放弃他们的信仰。
+CIV4DiplomacyText.xml	USER_DIPLO_REVOLUTION_1	But of course... we now see the error of our ways. (Start Revolution)	那是自然……我们如今已认清自己的谬误。（发动变革）
+CIV4DiplomacyText.xml	USER_DIPLO_NO_REVOLUTION_1	You must learn to respect our differences.	你必须学会尊重我们的差异。
+CIV4DiplomacyText.xml	USER_DIPLO_JOIN_WAR_1	Let's get this war started! (Declare War)	开战吧！（宣战）
+CIV4DiplomacyText.xml	USER_DIPLO_NO_JOIN_WAR_1	Sorry, but we cannot afford a war right now.	抱歉，我们眼下打不起仗。
+CIV4DiplomacyText.xml	USER_DIPLO_STOP_TRADING_1	You're right, we can't stand them either! (Cancel Deals)	你说得对，我们也受不了他们！（取消交易）
+CIV4DiplomacyText.xml	USER_DIPLO_NO_STOP_TRADING_1	Sorry, but we just can't turn our back on them.	抱歉，我们实在没法背弃他们。
+CIV4DiplomacyText.xml	USER_DIPLO_SOMETHING_ELSE_1	Let's discuss something else...	咱们聊点别的吧……
+CIV4DiplomacyText.xml	USER_DIPLO_RESEARCH_1	We would like you to research...	我们希望你去研究……
+CIV4DiplomacyText.xml	USER_DIPLO_ATTITUDE_1	What do you think of...	你怎么看……
+CIV4DiplomacyText.xml	USER_DIPLO_TARGET_1	Why don't you attack...	你何不去攻打……
+CIV4DiplomacyText.xml	USER_DIPLO_EXIT_1	Farewell ... (Exit)	再会……（退出）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_1	%s1 is a scourge on our world! (Furious)	%s1是我们这个世界的一大祸害！（暴怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_2	%s1 is a snake in the grass! Do not trust [NUM1:him:her:x:x]! (Furious)	%s1是条藏在草丛里的毒蛇！千万别信[NUM1:他:她:它:它]！（暴怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_3	I neither like nor trust %s1. (Furious)	我既不喜欢%s1，也不信任他。（暴怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_4	A despicable villain! (Furious)	一个卑鄙的恶棍！（暴怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_5	%s1 is a deceitful cretin! (Furious)	%s1是个满口谎言的蠢货！（暴怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_6	%s1 is dead to me! (Furious)	在我心里，%s1已经死了！（暴怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_7	%s1 is a very bad person. (Furious)	%s1是个大坏蛋。（暴怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_8	%s1? A treacherous cowardly baboon. (Furious)	%s1？一只奸诈懦弱的狒狒。（暴怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_9	%s1 is not worth a bucket of owl spit. (Furious)	%s1连一桶猫头鹰唾沫都不值。（暴怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_10	%s1 is evil through and through! (Furious)	%s1彻头彻尾都是邪恶的！（暴怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_11	%s1 is a dirty, rotten scoundrel! (Furious)	%s1是个下流卑鄙的无赖！（暴怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_12	%s1 is a nasty piece of work, if you want my opinion! (Furious)	要我说，%s1是个让人恶心的家伙！（暴怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_13	Not to be trusted at all. (Furious)	根本不可信。（暴怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_14	Do not mention that creature's name in my presence! (Furious)	别在我面前提那家伙的名字！（暴怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FURIOUS_15	%s1 is a rat fink. (Furious)	%s1是个告密的鼠辈。（暴怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_1	We're becoming increasingly frustrated with %s1's behavior! (Annoyed)	我们对%s1的所作所为越来越恼火了！（恼怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_2	%s1 is an extremely annoying person. (Annoyed)	%s1是个极其烦人的家伙。（恼怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_3	%s1 tries my patience. (Annoyed)	%s1在挑战我的耐心。（恼怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_4	I don't like %s1 much, to be honest. (Annoyed)	老实说，我不太喜欢%s1。（恼怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_5	%s1 is more trouble than [NUM1:he:she:x:x] is worth. (Annoyed)	%s1带来的麻烦比[NUM1:他:她:它:它]的价值还大。（恼怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_6	I think that the world would be better off without %s1. (Annoyed)	我看这世界没有%s1会更好。（恼怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_7	I don't think much of %s1 at all. (Annoyed)	我压根瞧不上%s1。（恼怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_8	%s1 is no better than [NUM1:he:she:x:x] should be. (Annoyed)	%s1也就[NUM1:他:她:它:它]那副德行，不值得高看。（恼怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_9	A worthless windbag, in my opinion. (Annoyed)	依我看，是个一无是处的吹牛皮。（恼怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_10	%s1 is a pain in the butt. (Annoyed)	%s1是个讨厌鬼。（恼怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_11	%s1 is a useless waste of space, as far as I'm concerned. (Annoyed)	在我看来，%s1就是个白占地方的废物。（恼怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_12	I hardly trust %s1 at all. (Annoyed)	我压根就不怎么信任%s1。（恼怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_13	%s1 is a petty criminal masquerading as a world leader. (Annoyed)	%s1是个冒充世界领袖的小蟊贼。（恼怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_14	A cheap, jumped-up little weasel. (Annoyed)	一个廉价、狂妄的小滑头。（恼怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_ANNOYED_15	%s1 is a pain in the neck, to be honest. (Annoyed)	老实说，%s1是个惹人厌的家伙。（恼怒）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_1	We're not quite sure yet what to think of %s1. (Cautious)	我们还拿不准该怎么看%s1。（谨慎）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_2	%s1 is all right, I suppose. (Cautious)	我想%s1还算可以吧。（谨慎）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_3	%s1 has [NUM1:his:her:x:x] uses. (Cautious)	%s1还是有[NUM1:他:她:它:它]的用处的。（谨慎）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_4	I have no problems with %s1. (Cautious)	我跟%s1没什么过节。（谨慎）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_5	%s1 is all right, I guess. (Cautious)	我猜%s1还算可以吧。（谨慎）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_6	I'm not too sure about %s1, to be honest. (Cautious)	老实说，我对%s1还不太有把握。（谨慎）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_7	%s1 is all right as long as you keep an eye on [NUM1:him:her:x:x]. (Cautious)	只要盯紧[NUM1:他:她:它:它]，%s1还算可以。（谨慎）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_8	We trust %s1. Sometimes. (Cautious)	我们信任%s1。有时候吧。（谨慎）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_9	I'm not sure what to think of %s1. (Cautious)	我拿不准该怎么看%s1。（谨慎）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_10	I'm adopting a "wait and see" attitude on %s1. (Cautious)	对%s1，我抱着“走着瞧”的态度。（谨慎）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_11	I haven't made up my mind yet. (Cautious)	我还没拿定主意。（谨慎）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_12	I have the feeling that %s1 is up to something, but I can't prove it yet. (Cautious)	我有种感觉，%s1在打什么鬼主意，可我还拿不出证据。（谨慎）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_13	%s1? Who knows? (Cautious)	%s1？谁知道呢？（谨慎）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_14	I don't know what to think of %s1, to be totally honest. (Cautious)	老实说，我实在拿不准该怎么看%s1。（谨慎）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_CAUTIOUS_15	Reply hazy. Ask again later. (Cautious)	答复模糊。请稍后再问。（谨慎）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_1	We get along with %s1 quite well. (Pleased)	我们和%s1相处得相当融洽。（愉悦）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_2	%s1 is a friend of ours. (Pleased)	%s1是我们的朋友。（愉悦）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_3	No complaints here! (Pleased)	毫无怨言！（愉悦）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_4	%s1? A good person to have at your back. (Pleased)	%s1？一个值得托付后背的好人。（愉悦）
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_5	%s1 has done all right by us. (Pleased)	%s1对我们一向不错。（愉悦）

@@ -1,0 +1,32 @@
+AI_DIPLO_DECLARE_WAR_1	这个世界容不下我们两个！（[OUR_NAME] 宣战！）
+AI_DIPLO_DECLARE_WAR_2	你的傲慢，我们已经受够了！（[OUR_NAME] 宣战！）
+AI_DIPLO_DECLARE_WAR_3	准备迎接你的末日吧！（[OUR_NAME] 宣战！）
+AI_DIPLO_DECLARE_WAR_4	现在，你要为对 [OUR_EMPIRE] 的种种侮辱付出代价！（[OUR_NAME] 宣战！）
+AI_DIPLO_DECLARE_WAR_5	谈判到此为止，[CT_NAME]！让我们在战场上做个了断！（[OUR_NAME] 宣战！）
+AI_DIPLO_DECLARE_WAR_6	不久，我数之不尽的爪牙将把你们统统毁灭！（[OUR_NAME] 宣战！）
+AI_DIPLO_DECLARE_WAR_7	是时候受死了，[CT_NAME]。（[OUR_NAME] 宣战！）
+AI_DIPLO_DECLARE_WAR_8	蠢货！现在我们要将你毁灭！（[OUR_NAME] 宣战！）
+AI_DIPLO_DECLARE_WAR_9	我想你也明白，这意味着战争。（[OUR_NAME] 宣战！）
+AI_DIPLO_DECLARE_WAR_10	强大的 [OUR_EMPIRE] 已受够了你的背叛与欺诈！现在你必须付出代价！（[OUR_NAME] 宣战！）
+AI_DIPLO_FIRST_CONTACT_LEADER_FRANKLIN_ROOSEVELT_1	您好！我是 [OUR_EMPIRE] 的 [OUR_NAME]。我希望我们两个伟大的民族能够和平共处。
+AI_DIPLO_FIRST_CONTACT_LEADER_WASHINGTON_1	欢迎，[CT_NAME]！我不会说谎：见到你我真是高兴得不得了！
+AI_DIPLO_FIRST_CONTACT_LEADER_SALADIN_1	您好，[CT_NAME]！能与你相见真是荣幸！愿上苍赐予你一个帝国——只比我的稍逊一筹便好！
+AI_DIPLO_FIRST_CONTACT_LEADER_MONTEZUMA_1	很高兴见到你，[CT_NAME]！让我们各自宰杀五万名奴隶，来庆祝这个吉祥的时刻吧。
+AI_DIPLO_FIRST_CONTACT_LEADER_QIN_SHI_HUANG_1	您好，尊敬的 [CT_NAME]。但愿 [OUR_EMPIRE] 与 [CT_CIV_SHORT] 之间永享和平与友谊——因为唯有它，才隔在你与顷刻的灭亡之间。
+AI_DIPLO_FIRST_CONTACT_LEADER_CHINESE_LEADER_1	您好，[CT_NAME]。很高兴见到你。喏：拿一本我的红宝书吧。你或许能从中学到些东西。
+AI_DIPLO_FIRST_CONTACT_LEADER_HATSHEPSUT_1	诸神必定是在向你微笑，[CT_NAME]——因为他们把你引到了我的面前！
+AI_DIPLO_FIRST_CONTACT_LEADER_ELIZABETH_1	欢迎来到我的宫殿，[CT_NAME]。我是 [OUR_NAME]，强大的 [OUR_CIV_SHORT] 那位睿智而又相当美丽的君主。愿我们之间和平相处，否则我们就杀了你。
+AI_DIPLO_FIRST_CONTACT_LEADER_VICTORIA_1	日安，[CT_NAME]。朕乃 [OUR_NAME]，[OUR_CIV_SHORT] 之君。若你需要援助，尽管来求我们——上帝令我们向卑下者施以援手与慰藉……
+AI_DIPLO_FIRST_CONTACT_LEADER_LOUIS_XIV_1	欢迎！我是 [OUR_NAME]，强大的 [OUR_CIV_SHORT] 之绝对君主，也无可争辩地是宇宙有史以来最英俊、最会穿着的统治者。你不同意吗？
+AI_DIPLO_FIRST_CONTACT_LEADER_NAPOLEON_1	您好。我是 [OUR_NAME]，[OUR_CIV_SHORT] 的皇帝、元帅兼第一公民。你可以叫我"小伍长"，不过那样我就得杀了你。
+AI_DIPLO_FIRST_CONTACT_LEADER_BISMARCK_1	伟大的 [OUR_CIV_SHORT] 及其优越的人民向你致意。我，[OUR_NAME]，愿与所有邻邦和平相处——哪怕是你那点微不足道的文化。
+AI_DIPLO_FIRST_CONTACT_LEADER_ALEXANDER_1	您好，[CT_NAME]！我是 [OUR_NAME]，好战的 [OUR_EMPIRE] 之统治者！让我们联手，把天下的军队踩在我们的凉鞋之下！那可太酷了！
+AI_DIPLO_FIRST_CONTACT_LEADER_HUAYNA_CAPAC_1	[OUR_EMPIRE] 欢迎光荣的 [CT_CIV_ADJ] 人民及其领袖 [CT_NAME]。你和我们玩祭祀球赛，我们也和你玩祭祀球赛。
+AI_DIPLO_FIRST_CONTACT_LEADER_ASOKA_1	愿和平与幸福永远伴你左右，[CT_NAME]。我是 [OUR_CIV_SHORT] 的 [OUR_NAME]。
+AI_DIPLO_FIRST_CONTACT_LEADER_GANDHI_1	欢迎来到我简陋的家，[CT_NAME]。[OUR_CIV_SHORT] 愿与所有邻邦和平相处——哪怕是像你这样十分讨厌的邻居。
+AI_DIPLO_FIRST_CONTACT_LEADER_TOKUGAWA_1	欢迎，[CT_NAME]！愿你的帝国繁荣壮大，只要它对我们还有用处！我这话是真心的。
+AI_DIPLO_FIRST_CONTACT_LEADER_MANSA_MUSA_1	欢迎，[CT_NAME]。我，[OUR_NAME]，[OUR_CIV_SHORT] 谦卑的统治者，向你伸出友谊之手。
+AI_DIPLO_FIRST_CONTACT_LEADER_GENGHIS_KHAN_1	欢迎，[CT_EMPIRE] 的领袖啊。我的部众任何时候都能击败你的部众。我们是做朋友，还是做敌人？
+AI_DIPLO_FIRST_CONTACT_LEADER_KUBLAI_KHAN_1	强大的 [OUR_EMPIRE] 向你致意。让我们携手实现对敌人的彻底毁灭，然后——也唯有到那时——再像我们本性中那群疯狗一样彼此背叛、彼此撕咬！
+AI_DIPLO_FIRST_CONTACT_LEADER_CYRUS_1	您好，[CT_CIV_ADJ] 人民睿智的统治者啊！[OUR_CIV_SHORT] 很强大——我们该把你算作朋友，还是算作敌人？
+AI_DIPLO_FIRST_CONTACT_LEADER_JULIUS_CAESAR_1	欢迎来到 [OUR_CIV_SHORT]，[CT_NAME]。来点沙拉吗？我亲手做的。
