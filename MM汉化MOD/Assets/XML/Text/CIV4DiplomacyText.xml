@@ -6615,7 +6615,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_PLEASED_6</Tag>
-		<English>%s1? I like [NUM1:him:her:x:x]. (Pleased)</English>
+		<English>%s1&#xff1f;&#x6211;&#x559c;&#x6b22;[NUM1:&#x4ed6;:&#x5979;:x:x]&#x3002;&#xff08;&#x6ee1;&#x610f;&#xff09;</English>
 		<French>%s1 ? Je l'appr&#233;cie. (Favorable)</French>
 		<German>%s1? Ich mag [NUM1:ihn:sie:x:x]. (Erfreut)</German>
 		<Italian>%s1? Mi piace. (Tono contento)</Italian>
@@ -6624,7 +6624,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_PLEASED_7</Tag>
-		<English>%s1 is better than most. (Pleased)</English>
+		<English>%s1 &#x6bd4;&#x5927;&#x591a;&#x6570;&#x4eba;&#x90fd;&#x5f3a;&#x3002;&#xff08;&#x6ee1;&#x610f;&#xff09;</English>
 		<French>%s1 vaut mieux que la plupart d'entre nous. (Favorable)</French>
 		<German>%s1 ist netter als die meisten Leute, die ich so kenne. (Erfreut)</German>
 		<Italian>%s1 &#232; meglio di molti altri. (Tono contento)</Italian>
@@ -6633,7 +6633,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_PLEASED_8</Tag>
-		<English>%s1 is all right in my book. (Pleased)</English>
+		<English>&#x5728;&#x6211;&#x770b;&#x6765; %s1 &#x8fd8;&#x4e0d;&#x9519;&#x3002;&#xff08;&#x6ee1;&#x610f;&#xff09;</English>
 		<French>Pour moi, il n'y a aucun probl&#232;me avec %s1. (Favorable)</French>
 		<German>Ich kann mich &#252;ber %s1 nicht beklagen. (Erfreut)</German>
 		<Italian>%s1 non ha problemi con noi. (Tono contento)</Italian>
@@ -6642,7 +6642,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_PLEASED_9</Tag>
-		<English>%s1 is a fine ruler and a credit to [NUM1:his:her:x:x] people! (Pleased)</English>
+		<English>%s1 &#x662f;&#x4f4d;&#x51fa;&#x8272;&#x7684;&#x7edf;&#x6cbb;&#x8005;&#xff0c;&#x662f;[NUM1:&#x4ed6;:&#x5979;:x:x]&#x5b50;&#x6c11;&#x7684;&#x8363;&#x8000;&#xff01;&#xff08;&#x6ee1;&#x610f;&#xff09;</English>
 		<French>%s1 r&#232;gne avec sagesse pour le bien de son peuple ! (Favorable)</French>
 		<German>%s1 ist ein anerkanntes Staatsoberhaupt und eine Wohltat f&#252;r [NUM1:sein:ihr:x:x] Volk! (Erfreut)</German>
 		<Italian>%s1 &#232; [NUM1:un grande sovrano:una grande sovrana] ed &#232; una garanzia per il suo popolo! (Tono contento)</Italian>
@@ -6651,7 +6651,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_PLEASED_10</Tag>
-		<English>We get along fine with %s1. (Pleased)</English>
+		<English>&#x6211;&#x4eec;&#x4e0e; %s1 &#x76f8;&#x5904;&#x878d;&#x6d3d;&#x3002;&#xff08;&#x6ee1;&#x610f;&#xff09;</English>
 		<French>Je m'entends tr&#232;s bien avec %s1. (Favorable)</French>
 		<German>Wir kommen gut mit %s1 aus. (Erfreut)</German>
 		<Italian>Andiamo molto d'accordo con %s1. (Tono contento)</Italian>
@@ -6660,7 +6660,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_PLEASED_11</Tag>
-		<English>%s1 is all right. (Pleased)</English>
+		<English>%s1 &#x8fd8;&#x4e0d;&#x9519;&#x3002;&#xff08;&#x6ee1;&#x610f;&#xff09;</English>
 		<French>%s1 est quelqu'un de tr&#232;s bien. (Favorable)</French>
 		<German>%s1 ist in Ordnung. (Erfreut)</German>
 		<Italian>%s1 &#232; una persona in gamba. (Tono contento)</Italian>
@@ -6669,7 +6669,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_PLEASED_12</Tag>
-		<English>I have no problems with %s1.(Pleased)</English>
+		<English>&#x6211;&#x4e0e; %s1 &#x6ca1;&#x4ec0;&#x4e48;&#x8fc7;&#x8282;&#x3002;&#xff08;&#x6ee1;&#x610f;&#xff09;</English>
 		<French>Je n'ai jamais eu de probl&#232;mes avec %s1. (Favorable)</French>
 		<German>Ich habe keine Probleme mit %s1. (Erfreut)</German>
 		<Italian>Non ho problemi con %s1. (Tono contento)</Italian>
@@ -6678,7 +6678,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_PLEASED_13</Tag>
-		<English>%s1 has treated us well. (Pleased)</English>
+		<English>%s1 &#x5f85;&#x6211;&#x4eec;&#x4e0d;&#x8584;&#x3002;&#xff08;&#x6ee1;&#x610f;&#xff09;</English>
 		<French>%s1 nous a toujours bien trait&#233;s. (Favorable)</French>
 		<German>%s1 hat uns gut behandelt. (Erfreut)</German>
 		<Italian>%s1 ci ha sempre trattati bene. (Tono contento)</Italian>
@@ -6687,7 +6687,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_PLEASED_14</Tag>
-		<English>I like %s1. (Pleased)</English>
+		<English>&#x6211;&#x559c;&#x6b22; %s1&#x3002;&#xff08;&#x6ee1;&#x610f;&#xff09;</English>
 		<French>Je tiens %s1 en tr&#232;s haute estime. (Favorable)</French>
 		<German>Ich mag %s1. (Erfreut)</German>
 		<Italian>Mi piace %s1. (Tono contento)</Italian>
@@ -6696,7 +6696,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_PLEASED_15</Tag>
-		<English>We get along just fine. (Pleased)</English>
+		<English>&#x6211;&#x4eec;&#x76f8;&#x5904;&#x5f97;&#x633a;&#x597d;&#x3002;&#xff08;&#x6ee1;&#x610f;&#xff09;</English>
 		<French>Nous nous entendons tr&#232;s bien. (Favorable)</French>
 		<German>Wir kommen gut miteinander aus. (Erfreut)</German>
 		<Italian>Andiamo abbastanza d'accordo. (Tono contento)</Italian>
@@ -6705,7 +6705,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_1</Tag>
-		<English>%s1 is a close, trusted friend. (Friendly)</English>
+		<English>%s1 &#x662f;&#x4f4d;&#x4eb2;&#x5bc6;&#x800c;&#x503c;&#x5f97;&#x4fe1;&#x8d56;&#x7684;&#x670b;&#x53cb;&#x3002;&#xff08;&#x53cb;&#x597d;&#xff09;</English>
 		<French>%s1 fait partie de mes plus proches amis. (Amical)</French>
 		<German>Echte Freundschaft und Verl&#228;sslichkeit - das ist %s1. (Freundlich)</German>
 		<Italian>%s1 &#232; [NUM1:un nostro caro amico:una nostra cara amica]. (Tono amichevole)</Italian>
@@ -6714,7 +6714,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_2</Tag>
-		<English>I'd trust %s1 with my life! (Friendly)</English>
+		<English>&#x6211;&#x613f;&#x628a;&#x6027;&#x547d;&#x6258;&#x4ed8;&#x7ed9; %s1&#xff01;&#xff08;&#x53cb;&#x597d;&#xff09;</English>
 		<French>Je confierais ma vie &#224; %s1 s'il le fallait ! (Amical)</French>
 		<German>%s1 w&#252;rde ich mein Leben anvertrauen! (Freundlich)</German>
 		<Italian>Mi fido ciecamente di %s1! (Tono amichevole)</Italian>
@@ -6723,7 +6723,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_3</Tag>
-		<English>A friend indeed. (Friendly)</English>
+		<English>&#x771f;&#x6b63;&#x7684;&#x670b;&#x53cb;&#x3002;&#xff08;&#x53cb;&#x597d;&#xff09;</English>
 		<French>Nous sommes tr&#232;s proches. (Amical)</French>
 		<German>Das Synonym f&#252;r wahre Freundschaft! (Freundlich)</German>
 		<Italian>Una grande amicizia ci lega. (Tono amichevole)</Italian>
@@ -6732,7 +6732,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_4</Tag>
-		<English>%s1 is a true friend. (Friendly)</English>
+		<English>%s1 &#x662f;&#x4f4d;&#x771f;&#x6b63;&#x7684;&#x670b;&#x53cb;&#x3002;&#xff08;&#x53cb;&#x597d;&#xff09;</English>
 		<French>%s1 fait partie de mes vrais amis. (Amical)</French>
 		<German>%s1 ist der Inbegriff der Freundschaft. (Freundlich)</German>
 		<Italian>%s1 &#232; [NUM1:un vero amico:una vera amica]. (Tono amichevole)</Italian>
@@ -6741,7 +6741,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_5</Tag>
-		<English>%s1 is da bomb! (Friendly)</English>
+		<English>%s1 &#x7b80;&#x76f4;&#x68d2;&#x6781;&#x4e86;&#xff01;&#xff08;&#x53cb;&#x597d;&#xff09;</English>
 		<French>%s1, c'est de la bombe ! (Amical)</French>
 		<German>%s1 ist ein echter Knaller! (Freundlich)</German>
 		<Italian>%s1 &#232; una bomba! (Tono amichevole)</Italian>
@@ -6750,7 +6750,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_6</Tag>
-		<English>%s1 has been a faithful friend to us. (Friendly)</English>
+		<English>%s1 &#x4e00;&#x76f4;&#x662f;&#x6211;&#x4eec;&#x5fe0;&#x5b9e;&#x7684;&#x670b;&#x53cb;&#x3002;&#xff08;&#x53cb;&#x597d;&#xff09;</English>
 		<French>%s1 a toujours &#233;t&#233; d'une grande loyaut&#233;. (Amical)</French>
 		<German>%s1 stand mir immer treu zur Seite! (Freundlich)</German>
 		<Italian>%s1 &#232; sempre [NUM1:stato un amico:stata un'amica] fedele. (Tono amichevole)</Italian>
@@ -6759,7 +6759,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_7</Tag>
-		<English>%s1 is an old crony of ours. (Friendly)</English>
+		<English>%s1 &#x662f;&#x6211;&#x4eec;&#x7684;&#x8001;&#x4ea4;&#x60c5;&#x3002;&#xff08;&#x53cb;&#x597d;&#xff09;</English>
 		<French>%s1 est une de nos vieilles connaissances. (Amical)</French>
 		<German>Alte Freunde vergisst man nicht! So auch nicht %s1. (Freundlich)</German>
 		<Italian>%s1 &#232; [NUM1:un vecchio amico:una vecchia amica]. (Tono amichevole)</Italian>
@@ -6768,7 +6768,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_8</Tag>
-		<English>%s1 is a faithful friend and boon companion. (Friendly)</English>
+		<English>%s1 &#x662f;&#x5fe0;&#x5b9e;&#x7684;&#x670b;&#x53cb;&#xff0c;&#x4e5f;&#x662f;&#x5feb;&#x6d3b;&#x7684;&#x4f19;&#x4f34;&#x3002;&#xff08;&#x53cb;&#x597d;&#xff09;</English>
 		<French>%s1 est fid&#232;le en amiti&#233; et tr&#232;s sociable. (Amical)</French>
 		<German>Wenn ich an wahre Freundschaft denke, denke ich an %s1! (Freundlich)</German>
 		<Italian>%s1 &#232; un'amicizia sulla quale contare e una piacevole compagnia. (Tono amichevole)</Italian>
@@ -6777,7 +6777,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_9</Tag>
-		<English>I like and trust %s1 completely! (Friendly)</English>
+		<English>&#x6211;&#x5b8c;&#x5168;&#x559c;&#x7231;&#x5e76;&#x4fe1;&#x4efb; %s1&#xff01;&#xff08;&#x53cb;&#x597d;&#xff09;</English>
 		<French>J'appr&#233;cie beaucoup %s1 et je lui fais enti&#232;rement confiance ! (Amical)</French>
 		<German>Ich mag und vertraue %s1 voll und ganz! (Freundlich)</German>
 		<Italian>Mi fido di %s1 completamente! (Tono amichevole)</Italian>
@@ -6786,7 +6786,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_10</Tag>
-		<English>A better friend would be hard to find. (Friendly)</English>
+		<English>&#x518d;&#x96be;&#x627e;&#x5230;&#x6bd4;&#x8fd9;&#x66f4;&#x597d;&#x7684;&#x670b;&#x53cb;&#x4e86;&#x3002;&#xff08;&#x53cb;&#x597d;&#xff09;</English>
 		<French>Il serait difficile de trouver meilleure compagnie. (Amical)</French>
 		<German>Uns verbindet echte Freundschaft. (Freundlich)</German>
 		<Italian>Sarebbe difficile trovare amicizie migliori. (Tono amichevole)</Italian>
@@ -6795,7 +6795,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_11</Tag>
-		<English>%s1 has many admirable traits. (Friendly)</English>
+		<English>%s1 &#x6709;&#x8bb8;&#x591a;&#x4ee4;&#x4eba;&#x94a6;&#x4f69;&#x7684;&#x54c1;&#x8d28;&#x3002;&#xff08;&#x53cb;&#x597d;&#xff09;</English>
 		<French>%s1 a beaucoup de qualit&#233;s admirables. (Amical)</French>
 		<German>%s1 besitzt viele bewundernswerte Charaktereigenschaften. (Freundlich)</German>
 		<Italian>%s1 ha molti principi ammirevoli. (Tono amichevole)</Italian>
@@ -6804,7 +6804,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_12</Tag>
-		<English>%s1 is a leader of quality. (Friendly)</English>
+		<English>%s1 &#x662f;&#x4f4d;&#x54c1;&#x683c;&#x51fa;&#x4f17;&#x7684;&#x9886;&#x8896;&#x3002;&#xff08;&#x53cb;&#x597d;&#xff09;</English>
 		<French>%s1 r&#232;gne avec grandeur et sagesse. (Amical)</French>
 		<German>%s1 ist ein verantwortungsbewusstes Staatsoberhaupt. (Freundlich)</German>
 		<Italian>%s1 &#232; un leader di qualit&#224;. (Tono amichevole)</Italian>
@@ -6813,7 +6813,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_13</Tag>
-		<English>We're old buddies, %s1 and I. (Friendly)</English>
+		<English>%s1 &#x548c;&#x6211;&#x662f;&#x8001;&#x4f19;&#x4f34;&#x4e86;&#x3002;&#xff08;&#x53cb;&#x597d;&#xff09;</English>
 		<French>Nous nous connaissons bien, %s1 et moi. (Amical)</French>
 		<German>Wir sind alte Kumpel, %s1 und ich! (Freundlich)</German>
 		<Italian>Io e %s1 siamo vecchi amici. (Tono amichevole)</Italian>
@@ -6822,7 +6822,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_14</Tag>
-		<English>%s1 hasn't let us down yet! (Friendly)</English>
+		<English>%s1 &#x81f3;&#x4eca;&#x4e0d;&#x66fe;&#x8ba9;&#x6211;&#x4eec;&#x5931;&#x671b;&#xff01;&#xff08;&#x53cb;&#x597d;&#xff09;</English>
 		<French>%s1 ne nous a jamais laiss&#233;s tomber ! (Amical)</French>
 		<German>%s1 hat uns bisher nie h&#228;ngen lassen! (Freundlich)</German>
 		<Italian>%s1 non ci ha mai delusi finora! (Tono amichevole)</Italian>
@@ -6831,7 +6831,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_15</Tag>
-		<English>They don't come any better than %s1! (Friendly)</English>
+		<English>&#x518d;&#x6ca1;&#x6709;&#x6bd4; %s1 &#x66f4;&#x597d;&#x7684;&#x4e86;&#xff01;&#xff08;&#x53cb;&#x597d;&#xff09;</English>
 		<French>Difficile de trouver quelqu'un de plus agr&#233;able ! (Amical)</French>
 		<German>Keiner ist besser als %s1! (Freundlich)</German>
 		<Italian>Difficile trovare una persona migliore di %s1! (Tono amichevole)</Italian>
@@ -6841,55 +6841,55 @@
 	<!-- RevolutionDCM - start diplomacy text -->
 	<TEXT>
 		<Tag>USER_STOP_BOTHERING</Tag>
-		<English>Cease bothering us!</English>
+		<English>&#x522b;&#x518d;&#x6765;&#x70e6;&#x6211;&#x4eec;&#x4e86;&#xff01;</English>
 		<German>H&#246;rt auf uns zu nerven!</German>
 		<Finnish>J&#228;t&#228; meid&#228;t rauhaan!</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>ASSUME_SNUFFED</Tag>
-		<English>So be it. But if we need you at the table, your absense may not be to your advantage.</English>
+		<English>&#x90a3;&#x5c31;&#x8fd9;&#x6837;&#x5427;&#x3002;&#x4f46;&#x82e5;&#x54ea;&#x5929;&#x6211;&#x4eec;&#x9700;&#x8981;&#x4f60;&#x4e0a;&#x8c08;&#x5224;&#x684c;&#xff0c;&#x4f60;&#x7684;&#x7f3a;&#x5e2d;&#x672a;&#x5fc5;&#x5bf9;&#x4f60;&#x6709;&#x5229;&#x3002;</English>
 		<German>So sei es. Aber wenn wir Euch brauchen w&#228;re Eure Abwesenheit nicht zu Eurem Vorteil.</German>
 		<Spanish>Sea. Pero si os necesitamos a la mesa, vuestra ausencia puede que no sea vuestra ventaja.</Spanish>
 		<Finnish>Olkoon niin. Jos kuitenkin joskus haluaisimme n&#228;hd&#228; teid&#228;t neuvottelup&#246;yd&#228;n &#228;&#228;ress&#228;, ei poissaolonne ole v&#228;ltt&#228;m&#228;tt&#228; hy&#246;dyksenne.</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>ASSUME_REALLY_SNUFFED</Tag>
-		<English>So be it. But the next time we meet, it may be on the battlefield!</English>
+		<English>&#x90a3;&#x5c31;&#x8fd9;&#x6837;&#x5427;&#x3002;&#x4f46;&#x6211;&#x4eec;&#x4e0b;&#x6b21;&#x76f8;&#x89c1;&#xff0c;&#x6216;&#x8bb8;&#x5c31;&#x662f;&#x5728;&#x6218;&#x573a;&#x4e0a;&#x4e86;&#xff01;</English>
 		<German>So sei es! Doch unser n&#228;chstes Treffen k&#246;nnte auf dem Schlachtfeld sein!</German>
 		<Spanish>Sea. Pero la pr&#243;xima vez que no veamos,  &#161;ser&#225; en el campo de batalla!</Spanish>
 		<Finnish>Olkoon niin. Voi olla ett&#228; seuraavan kerran tapaamme taistelutantereella!</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>ASSUME_NOT_SNUFFED</Tag>
-		<English>What a shame. My diplomats enjoyed your openness and all it revealed about you.</English>
+		<English>&#x771f;&#x662f;&#x9057;&#x61be;&#x3002;&#x6211;&#x7684;&#x5916;&#x4ea4;&#x5b98;&#x4eec;&#x5f88;&#x6b23;&#x8d4f;&#x4f60;&#x7684;&#x5766;&#x7387;&#xff0c;&#x4ee5;&#x53ca;&#x5b83;&#x6240;&#x63ed;&#x793a;&#x7684;&#x5173;&#x4e8e;&#x4f60;&#x7684;&#x4e00;&#x5207;&#x3002;</English>
 		<German>Was f&#252;r ein Jammer! Meine Diplomaten genossen Eure Offenheit und was sie &#252;ber Euch verriet.</German>
 		<Spanish>Que Lastima. Mis diplom&#225;ticos disfrutan vuestra franqueza y todo lo que revelaba sobre ti.</Spanish>
 		<Finnish>Harmi. Diplomaattini nauttivat avoimuudestanne ja sen tarjoamista... paljastuksista.</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>USER_LETS_TALK</Tag>
-		<English>We wish to resume talks...</English>
+		<English>&#x6211;&#x4eec;&#x5e0c;&#x671b;&#x91cd;&#x542f;&#x4f1a;&#x8c08;&#x2026;&#x2026;</English>
 		<German>Wir w&#252;nschen, die Gespr&#228;che wieder aufzunehmen...</German>
 		<Spanish>Desear&#237;amos retomar el di&#225;logo...</Spanish>
 		<Finnish>Haluamme palata puhev&#228;leihin...</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>RESUME_TALKS</Tag>
-		<English>If you wish. I will contact you when it suits me.</English>
+		<English>&#x6089;&#x542c;&#x5c0a;&#x4fbf;&#x3002;&#x7b49;&#x6211;&#x65b9;&#x4fbf;&#x7684;&#x65f6;&#x5019;&#x4f1a;&#x8054;&#x7cfb;&#x4f60;&#x3002;</English>
 		<German>Wenn Ihr w&#252;nscht. Ich werde mich melden, wenn mir danach ist.</German>
 		<Spanish>Como desees. Ya te llamare cuando me apetezca.</Spanish>
 		<Finnish>Kuten haluat. Otamme yhteytt&#228; kun se meille sopii.</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>RESUME_TALKS_RELUCTANT</Tag>
-		<English>If you insist. But I have enjoyed your absense.</English>
+		<English>&#x65e2;&#x7136;&#x4f60;&#x575a;&#x6301;&#x3002;&#x4e0d;&#x8fc7;&#x4f60;&#x4e0d;&#x5728;&#x7684;&#x8fd9;&#x6bb5;&#x65e5;&#x5b50;&#x6211;&#x5012;&#x633a;&#x4eab;&#x53d7;&#x3002;</English>
 		<German>Wenn Ihr darauf besteht. Aber ich habe Eure Abwesenheit genossen.</German>
 		<Spanish>Si insist&#237;s. Pero debo decir que he disfrutado vuestra ausencia.</Spanish>
 		<Finnish>Jos niin vaadit... olen kuitenkin nauttinut poissaolostasi.</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>RESUME_TALKS_GLADLY</Tag>
-		<English>Excellent! There are many things you have to offer us.</English>
+		<English>&#x592a;&#x597d;&#x4e86;&#xff01;&#x4f60;&#x6709;&#x8bb8;&#x591a;&#x4e1c;&#x897f;&#x53ef;&#x4ee5;&#x63d0;&#x4f9b;&#x7ed9;&#x6211;&#x4eec;&#x3002;</English>
 		<German>Exzellent! Es gibt so vieles, was Ihr uns bieten k&#246;nnt.</German>
 		<Spanish>&#161;Excelente! Hay un mont&#243;n de cosas que pod&#233;is ofrecernos.</Spanish>
 		<Finnish>Mainiota! On niin paljon mit&#228; voitte tarjota meille!</Finnish>

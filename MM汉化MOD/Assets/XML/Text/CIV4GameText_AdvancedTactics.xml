@@ -2,12 +2,12 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_GAME_OPTION_ADVANCED_TACTICS</Tag>
-		<English>Advanced Tactics</English>
+		<English>&#x9ad8;&#x7ea7;&#x6218;&#x672f;</English>
 		<Spanish>Tácticas Avanzadas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAME_OPTION_ADVANCED_TACTICS_HELP</Tag>
-		<English>Adds new Combat Results, Diplomacy Options and Great Generals</English>
+		<English>&#x589e;&#x52a0;&#x65b0;&#x7684;&#x6218;&#x6597;&#x7ed3;&#x679c;&#x3001;&#x5916;&#x4ea4;&#x9009;&#x9879;&#x4e0e;&#x5927;&#x5c06;&#x519b;</English>
 		<French>Ajoute de nouveaux résultats de combat, options de diplomatie et grands généraux</French>
 		<German>Addiert neue Kampf-Resultate, Diplomatie-Wahlen und große Generäle</German>
 		<Italian>Aggiunge i nuovi risultati di combattimento, le opzioni di diplomazia ed i grandi General</Italian>
@@ -16,34 +16,34 @@
 <!-- Start War Prizes -->
 	<TEXT>
 		<Tag>TXT_KEY_WEHAVECAPTUREDSOMETHING</Tag>
-		<English>We have captured the %s1!</English>
+		<English>&#x6211;&#x4eec;&#x4fd8;&#x83b7;&#x4e86; %s1&#xff01;</English>
 		<Spanish>¡Hemos capturado [NUM1:un:una:unos:unas] %s1!</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WEHAVELOSTSOMETHING</Tag>
-		<English>Our %s1 has been captured!</English>
+		<English>&#x6211;&#x4eec;&#x7684; %s1 &#x88ab;&#x4fd8;&#x83b7;&#x4e86;&#xff01;</English>
 		<Spanish>¡[NUM1:Nuestro:Nuestra:Nuestros:Nuestras] %s1 [NUM1:ha:ha:han:han] sido [NUM1:capturado:capturada:capturados:capturadas]!</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_WARPRIZES_SUCCESS</Tag>
-		<English>We have captured the %s1!</English>
+		<English>&#x6211;&#x4eec;&#x4fd8;&#x83b7;&#x4e86; %s1&#xff01;</English>
 		<Spanish>¡Hemos capturado [NUM2:un:una:unos:unas] %s1!</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_WARPRIZES_FAILURE</Tag>
-		<English>Our %s1 has been captured!</English>
+		<English>&#x6211;&#x4eec;&#x7684; %s1 &#x88ab;&#x4fd8;&#x83b7;&#x4e86;&#xff01;</English>
 		<Spanish>¡[NUM1:Nuestro:Nuestra:Nuestros:Nuestras] %s1 [NUM1:ha:ha:han:han] sido [NUM1:capturado:capturada:capturados:capturadas]!</Spanish>
 	</TEXT>
 <!-- End War Prizes -->
 <!-- Start Great Generals -->
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_GREAT_GENERAL_SPLIT</Tag>
-		<English>Detach Great General</English>
+		<English>&#x5206;&#x79bb;&#x5927;&#x5c06;&#x519b;</English>
 		<Spanish>Separar Gran General</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_GENERAL_KILLED</Tag>
-		<English>A Great General has been killed!</English>
+		<English>&#x4e00;&#x4f4d;&#x5927;&#x5c06;&#x519b;&#x9635;&#x4ea1;&#x4e86;&#xff01;</English>
 		<Spanish>¡Un Gran General ha muerto!</Spanish>
 	</TEXT>
 <!-- End Great Generals -->

@@ -70,8 +70,30 @@ MISC={
  "Unholy Taint":"邪秽污染","Os-Gabella":"奥斯·加贝拉",
 }
 TX.update({k:v for k,v in MISC.items()})
-# tail-connector short runs
-D(", and decreased for those following","，而以其作为国教或施法者个人信仰者则减少：跟随")  # placeholder; overwritten per-row prose
+
+# ---------- shared connective clauses (exact runs, dedup, count>=2) ----------
+CONN={
+ "The more sources of this Mana you control, the more likely your":"你所控制的此种能量来源越多，你的",
+ "civilization. It is increased for those following":"文明。对跟随",
+ ", either as a State Religion or as the caster's personal faith.":"（无论作为国教还是施法者个人信仰）者而言则增加。",
+ "either as a State Religion or as the caster's personal faith.":"（无论作为国教还是施法者个人信仰）者而言则如此。",
+ "and reduced for those following":"者增加，而对跟随",
+ ". That not only increases the unit's strength based on how much mana you control, but lets it learn more powerful versions of the spells in this sphere for free, without spending any xp to level up, so long as it has the proper Channeling promotions.":"的几率就越高。此亲和不仅会依据你控制的能量多寡提升该单位的力量，还能让它免费习得该领域更强大的法术版本，无需花费经验值升级——只要它具备相应的引导晋升即可。",
+}
+TX.update(CONN)
+
+# import per-row prose + one-off connectors (LORE runs) from data module
+from _lore_g1 import LORE as LORE
+
+# ---------- effective-supply lead-ins per sphere ----------
+for s,z in [("Dimensional","次元"),("Earth","大地"),("Enchantment","附魔"),("Entropy","衰退"),
+            ("Fire","炎之"),("Force","力场"),("Ice","冰之"),("Law","法则"),("Life","生命"),
+            ("Meta Magic","超魔"),("Mind","精神"),("Nature","自然"),("Shadow","阴影"),
+            ("Sun","太阳"),("Water","水之")]:
+    TX[f"The effective supply of {s} Mana is greater for the"]=f"{z}能量的有效供给，对"
+TX["The effective supply of Shadow Mana is greater for the"]="阴影能量的有效供给，对"
+TX["The effective supply of Sun is greater for the"]="太阳能量的有效供给，对"
+TX["The effective supply of Water is greater for the"]="水之能量的有效供给，对"
 
 # ---------- short (non-PEDIA) rows: whole-value CN ----------
 SHORT={

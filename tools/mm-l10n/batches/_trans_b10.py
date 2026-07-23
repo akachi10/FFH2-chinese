@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Fill chinese column of batch-04.tsv. Cols 1-3 copied byte-for-byte; only col4 set."""
+"""Fill chinese column of batch-10.tsv. Cols 1-3 copied byte-for-byte; only col4 set."""
 import io, sys
-SRC = "batch-04.tsv"
+SRC = "batch-10.tsv"
 
 def main():
-    import _trans_b04_data as d
+    import _trans_b10_data as d
     T = d.T
     with io.open(SRC, "r", encoding="utf-8", newline="") as f:
         lines = f.read().split("\n")
