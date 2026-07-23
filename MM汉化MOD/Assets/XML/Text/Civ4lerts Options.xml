@@ -251,7 +251,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CIV4LERTS__GOLDTRADETHRESH_HOVER</Tag>
-		<English>Determines the threshold for the amount of gold that will display an alert.</English>
+		<English>&#x8bbe;&#x5b9a;&#x89e6;&#x53d1;&#x63d0;&#x9192;&#x6240;&#x9700;&#x7684;&#x9ec4;&#x91d1;&#x6570;&#x91cf;&#x9608;&#x503c;&#x3002;</English>
 		<German>Bestimmt die Schwelle f&#252;r den Goldbetrag, ab der eine Meldung ausgegeben wird</German>
 		<Italian>Determina la quantit&#224; d'oro che costituisce il limite per la visualizzazione dell'avviso.</Italian>
 		<Spanish>Determina el umbral de la cantidad de Oro necesaria para emitir la alerta.</Spanish>
@@ -259,7 +259,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CIV4LERTS__GOLDPERTURNTRADE_TEXT</Tag>
-		<English>Gold Per Turn</English>
+		<English>&#x6bcf;&#x56de;&#x5408;&#x9ec4;&#x91d1;</English>
 		<French>Or Par Tour</French>
 		<German>Gold pro Runde</German>
 		<Italian>Oro per turno</Italian>
@@ -267,14 +267,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CIV4LERTS__GOLDPERTURNTRADE_HOVER</Tag>
-		<English>When checked, displays an alert when a civilization can trade a specified amount of gold per turn.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x67d0;&#x4e2a;&#x6587;&#x660e;&#x53ef;&#x4f9b;&#x4ea4;&#x6613;&#x7684;&#x6bcf;&#x56de;&#x5408;&#x9ec4;&#x91d1;&#x8fbe;&#x5230;&#x6307;&#x5b9a;&#x6570;&#x91cf;&#x65f6;&#xff0c;&#x663e;&#x793a;&#x63d0;&#x9192;&#x3002;</English>
 		<German>L&#228;sst eine Warnung erscheinen, wenn eine Zivilisation eine bestimmte Menge Gold pro Runde zum Handeln zur Verf&#252;gung hat</German>
 		<Italian>Quando &#232; selezionato, viene visualizzato un avviso quando una Civilt&#224; &#232; disponibile a commerciare un ammontare d'oro per turno predefinito.</Italian>
 		<Spanish>Cuando se activa, muestra una alerta cuando una Civilizaci&#243;n puede comerciar cierta cantidad de oro por turno.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CIV4LERTS__GOLDPERTURNTRADETHRESH_TEXT</Tag>
-		<English>Threshold</English>
+		<English>&#x9608;&#x503c;</English>
 		<French>Seuil</French>
 		<German>Schwelle</German>
 		<Italian>Quantit&#224;</Italian>
@@ -282,7 +282,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CIV4LERTS__GOLDPERTURNTRADETHRESH_HOVER</Tag>
-		<English>Determines the threshold for gold per turn that will display an alert.</English>
+		<English>&#x8bbe;&#x5b9a;&#x89e6;&#x53d1;&#x63d0;&#x9192;&#x6240;&#x9700;&#x7684;&#x6bcf;&#x56de;&#x5408;&#x9ec4;&#x91d1;&#x9608;&#x503c;&#x3002;</English>
 		<German>Bestimmt die Schwelle f&#252;r die Menge Gold pro Runde, ab der eine Meldung ausgegeben wird</German>
 		<Italian>Determina la quantit&#224; d'oro per turno che costituisce il limite per la visualizzazione dell'avviso.</Italian>
 		<Spanish>Determina el umbral de la cantidad de Oro por turno necesaria para emitir la alerta.</Spanish>

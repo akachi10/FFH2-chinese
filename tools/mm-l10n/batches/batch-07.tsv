@@ -386,7 +386,7 @@ CIV4GameText_UnofficialPatch.xml	TXT_KEY_BUILDING_REQUIRES_NUM_SPECIAL_BUILDINGS
 CIV4GameText_UnofficialPatch.xml	TXT_KEY_BUILDING_REQUIRES_NUM_SPECIAL_BUILDINGS_NO_CITY	[COLOR_WARNING_TEXT]Requires [LINK=literal]%s1_Name[\\LINK] (%d2_NumTotal Total)[COLOR_REVERT]	[COLOR_WARNING_TEXT]需要[LINK=literal]%s1_Name[\\LINK]（共%d2_NumTotal）[COLOR_REVERT]
 CIV4GameText_UnofficialPatch.xml	TXT_KEY_TERRAIN_TURN_DAMAGE	[NEWLINE][ICON_BULLET]%D1%% damage/turn	[NEWLINE][ICON_BULLET]每回合%D1%%伤害
 CIV4GameText_UnofficialPatch.xml	TXT_KEY_TERRAIN_TURN_HEALING	[NEWLINE][ICON_BULLET]%D1%% healing/turn	[NEWLINE][ICON_BULLET]每回合%D1%%治疗
-CIV4GameText_Version.xml	TXT_KEY_VERSION	[COLOR_ALT_HIGHLIGHT_TEXT]MagisterModmod - October 20, 2023, based on More Naval AI v2.9.1u[COLOR_REVERT]	[COLOR_ALT_HIGHLIGHT_TEXT]MagisterModmod - October 20, 2023, based on More Naval AI v2.9.1u[COLOR_REVERT]
+CIV4GameText_Version.xml	TXT_KEY_VERSION	[COLOR_ALT_HIGHLIGHT_TEXT]MagisterModmod - October 20, 2023, based on More Naval AI v2.9.1u[COLOR_REVERT]	[COLOR_ALT_HIGHLIGHT_TEXT]MagisterModmod - 2023 年 10 月 20 日，基于 More Naval AI v2.9.1u[COLOR_REVERT]
 CIV4PlotListEnhancementsInfo.xml	TXT_KEY_PLE_UPGRADE_HELP	(CTRL: units on this plot.[NEWLINE]ALT: all units)	（CTRL：本格上的单位。[NEWLINE]ALT：全部单位）
 CIV4PlotListEnhancementsInfo.xml	TXT_KEY_PLE_CURRENT_MODE	This is the current mode	这是当前模式
 CIV4PlotListEnhancementsInfo.xml	TXT_KEY_PLE_VIEW_MODE	[COLOR_HIGHLIGHT_TEXT]Switch View Mode[COLOR_REVERT][NEWLINE]Choose how unit icons are displayed: single row, multiple rows, or stacked into separate rows or columns	[COLOR_HIGHLIGHT_TEXT]切换显示模式[COLOR_REVERT][NEWLINE]选择单位图标的显示方式：单行、多行，或分组排成若干行或列

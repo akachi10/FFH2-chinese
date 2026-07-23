@@ -3,12 +3,12 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_UNIQUE_BUILDINGS_AND_PROJECTS</Tag>
-		<English>Unique Buildings/Rituals</English>
+		<English>&#x72ec;&#x7279;&#x5efa;&#x7b51;/&#x4eea;&#x5f0f;</English>
 		<German>Einzigartige Gebäude/Rituale</German>
 		<Spanish>Edificios/rituales únicos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_OTHER_FEATURES</Tag>
-		<English>Other Features</English>
+		<English>&#x5176;&#x4ed6;&#x7279;&#x6027;</English>
 	</TEXT>
 </Civ4GameText>

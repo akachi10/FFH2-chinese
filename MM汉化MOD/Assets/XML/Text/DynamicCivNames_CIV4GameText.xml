@@ -13,122 +13,122 @@ Available parameters are
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_DCN_DEFAULT</Tag>
-		<English>%s2_adj Empire</English>
+		<English>%s2_adj &#x5e1d;&#x56fd;</English>
 		<German>%s2_adj Reich</German>
 		<Spanish>Imperio %s2:2_adj</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_REFUGEES</Tag>
-		<English>%s2_adj Refugees</English>
+		<English>%s2_adj &#x96be;&#x6c11;</English>
 		<German>%s2_adj Fl&#252;chtlinge</German>
 		<Spanish>Refugiados %s2:2_adj</Spanish>
 		<Finnish>Pakolaisten %s2_adj</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_THE_REBELS_OF</Tag>
-		<English>Rebels of %s3_city</English>
+		<English>%s3_city &#x7684;&#x53db;&#x519b;</English>
 		<German>Rebellen von %s3_city</German>
 		<Spanish>Rebeldes de %s3_city</Spanish>
 		<Finnish>Kapinallinen %s3_city</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_REBELS_OF</Tag>
-		<English>%s2_adj Rebels of %s3_city</English>
+		<English>%s3_city &#x7684; %s2_adj &#x53db;&#x519b;</English>
 		<German>%s2_adj Rebellen von %s3_city</German>
 		<Spanish>Ej&#233;rcito rebelde %s2_adj de %s3_city</Spanish>
 		<Finnish>Kapinallinen %s2_adj-%s3_city</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_REBELS</Tag>
-		<English>%s2_adj Rebels</English>
+		<English>%s2_adj &#x53db;&#x519b;</English>
 		<German>%s2_adj Rebellen</German>
 		<Spanish>Rebeldes %s2:2_adj</Spanish>
 		<Finnish>Kapinallisten %s2_adj</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_TRIBE</Tag>
-		<English>%s2_adj Tribe</English>
+		<English>%s2_adj &#x90e8;&#x65cf;</English>
 		<German>Stamm der %s1_short</German>
 		<Spanish>Tribu del pueblo %s2_adj</Spanish>
 		<Finnish>Alku-%s2_adj</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_ALLIANCE</Tag>
-		<English>Alliance</English>
+		<English>&#x8054;&#x76df;</English>
 		<German>Allianz</German>
 		<Spanish>Alianza</Spanish>
 		<Finnish>Liitto</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_ORCISH_ADJECTIVE</Tag>
-		<English>Orcish</English>
+		<English>&#x517d;&#x4eba;&#x7684;</English>
 		<German>Orkisch</German>
 		<Spanish>Orco</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_CITY_STATES</Tag>
-		<English>%s2_adj city states</English>
+		<English>%s2_adj &#x57ce;&#x90a6;</English>
 		<German>Stadtstaaten der %s1_short</German>
 		<Spanish>Ciudades %s2:2_adj</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_MULTI_CITY</Tag>
-		<English>City of %s3_capital</English>
+		<English>%s3_capital &#x57ce;</English>
 		<German>Stadt %s3_capital</German>
 		<Spanish>Ciudad de %s3_capital</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_MULTI_FREE_CITY</Tag>
-		<English>Free City of %s3_capital</English>
+		<English>%s3_capital &#x81ea;&#x7531;&#x57ce;</English>
 		<German>Freie Stadt %s3_capital</German>
 		<Italian>City of %s3_capital</Italian>
 		<Spanish>Ciudad libre de %s3_capital</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_MULTI_KINGDOM</Tag>
-		<English>Kingdom of %s3_capital</English>
+		<English>%s3_capital &#x738b;&#x56fd;</English>
 		<German>Königreich %s3_capital</German>
 		<Spanish>Reino de %s3_capital</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_MULTI_DEFAULT</Tag>
-		<English>Realm of %s4_leader</English>
+		<English>%s4_leader &#x4e4b;&#x56fd;</English>
 		<German>Reich [NUM2:des:der:der:der] %s4_leader</German>
 		<Spanish>Imperio de %s4_leader</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_MULTI_VASSAL_CLAN</Tag>
-		<English>Clan of %s3_capital</English>
+		<English>%s3_capital &#x90e8;&#x843d;</English>
 		<German>Klan von %s3_capital</German>
 		<Spanish>Clan de %s3_capital</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_MULTI_VASSAL_CALABIM_MASTER</Tag>
-		<English>Principality of %s3_capital</English>
+		<English>%s3_capital &#x516c;&#x56fd;</English>
 		<German>Fürstentum von %s3_capital</German>
 		<Spanish>Principado de %s3_capital</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_MULTI_VASSAL_MASTER_RELATED_THEOCRACY</Tag>
-		<English>Diocese of %s3_capital</English>
+		<English>%s3_capital &#x6559;&#x533a;</English>
 		<German>Bistum von %s3_capital</German>
 		<Spanish>Diócesis de %s3_capital</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_MULTI_VASSAL_SMALL_MASTER_RELATED_KINGDOM</Tag>
-		<English>County of %s3_capital</English>
+		<English>%s3_capital &#x4f2f;&#x56fd;</English>
 		<German>Grafentum von %s3_capital</German>
 		<Spanish>Condado de %s3_capital</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_MULTI_VASSAL_MASTER_RELATED_KINGDOM</Tag>
-		<English>Duchy of %s3_capital</English>
+		<English>%s3_capital &#x516c;&#x7235;&#x9886;</English>
 		<German>Herzogtum von %s3_capital</German>
 		<Spanish>Ducado de %s3_capital</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DCN_MULTI_VASSAL_DEFAULT</Tag>
-		<English>Province of %s3_capital</English>
+		<English>%s3_capital &#x884c;&#x7701;</English>
 		<German>Provinz %s3_capital</German>
 		<Spanish>Provincia de %s3_capital</Spanish>
 	</TEXT>

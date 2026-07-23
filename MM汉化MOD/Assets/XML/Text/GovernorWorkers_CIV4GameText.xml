@@ -4,28 +4,28 @@
 	<!-- Governor Builds Workers -->
 	<TEXT>
 		<Tag>TXT_KEY_PLAYER_OPTION_MODDER_1</Tag>
-		<English>City Governors Build Workboats</English>
+		<English>&#x57ce;&#x5e02;&#x603b;&#x7763;&#x5efa;&#x9020;&#x5de5;&#x4f5c;&#x8239;</English>
 		<German>Stadtverwalter: Arbeitsboot aufstellen</German>
 		<Italian>I Governatori cittadini costruiscono le Chiatte</Italian>
 		<Spanish>Los Gobernadores de las Ciudades Construyen Pesqueros</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PLAYER_OPTION_MODDER_1_HELP</Tag>
-		<English>City governors can build Workboats when needed</English>
+		<English>&#x57ce;&#x5e02;&#x603b;&#x7763;&#x53ef;&#x5728;&#x9700;&#x8981;&#x65f6;&#x5efa;&#x9020;&#x5de5;&#x4f5c;&#x8239;</English>
 		<German>L&#228;sst den Stadtverwalter Arbeitsboote aufstellen, falls dies erforderlich ist</German>
 		<Italian>I Governatori cittadini possono costruire le Chiatte quando &#232; necessario</Italian>
 		<Spanish>Los gobernadores de las ciudades pueden construir Pesqueros cuando sea necesario</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PLAYER_OPTION_MODDER_2</Tag>
-		<English>City Governors Build Workers</English>
+		<English>&#x57ce;&#x5e02;&#x603b;&#x7763;&#x5efa;&#x9020;&#x5de5;&#x4eba;</English>
 		<German>Stadtverwalter: Bautrupp aufstellen</German>
 		<Italian>I Governatori cittadini costruiscono i Lavoratori</Italian>
 		<Spanish>Los Gobernadores de las Ciudades Construiyen Trabajadores</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PLAYER_OPTION_MODDER_2_HELP</Tag>
-		<English>City governors can build Workers when needed</English>
+		<English>&#x57ce;&#x5e02;&#x603b;&#x7763;&#x53ef;&#x5728;&#x9700;&#x8981;&#x65f6;&#x5efa;&#x9020;&#x5de5;&#x4eba;</English>
 		<German>L&#228;sst den Stadtverwalter Bautrupps aufstellen, falls dies erforderlich ist</German>
 		<Italian>I Governatori cittadini possono costruire i Lavoratori quando &#232; necessario</Italian>
 		<Spanish>Los gobernadores de las ciudades pueden construir Trabajadores cuando sea necesario</Spanish>

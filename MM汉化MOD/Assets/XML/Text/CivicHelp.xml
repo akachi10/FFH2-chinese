@@ -3,7 +3,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIVIC_PREREQ_WAR</Tag>
-		<English>[COLOR_RED]Must be at War[COLOR_REVERT]</English>
+		<English>[COLOR_RED]&#x5fc5;&#x987b;&#x5904;&#x4e8e;&#x6218;&#x4e89;&#x72b6;&#x6001;[COLOR_REVERT]</English>
 		<French>[COLOR_RED]Doit &#234;tre en guerre[COLOR_REVERT]</French>
 		<German>[COLOR_RED]Muss sich im Krieg befinden[COLOR_REVERT]</German>
 		<Spanish>[COLOR_RED]Se debe estar en guerra[COLOR_REVERT]</Spanish>

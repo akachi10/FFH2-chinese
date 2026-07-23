@@ -3,26 +3,26 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CDA_COL_FEATURES_CAPITAL</Tag>
-		<English>[ICON_BULLET]Capital</English>
+		<English>[ICON_BULLET]&#x9996;&#x90fd;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CDA_COL_FEATURES_GOV_CENTER</Tag>
-		<English>[ICON_BULLET]Government center</English>
+		<English>[ICON_BULLET]&#x653f;&#x5e9c;&#x4e2d;&#x5fc3;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CDA_COL_FEATURES_NAT_WONDER</Tag>
-		<English>[ICON_BULLET]National wonder: %s1_building</English>
+		<English>[ICON_BULLET]&#x56fd;&#x5bb6;&#x5947;&#x89c2;&#xff1a;%s1_building</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CDA_COL_FEATURES_OCCUPIED</Tag>
-		<English>[ICON_BULLET]Occupied for %d1 more [NUM1:turn:turns]</English>
+		<English>[ICON_BULLET]&#x88ab;&#x5360;&#x9886;&#xff0c;&#x8fd8;&#x5269; %d1 [NUM1:&#x56de;&#x5408;:&#x56de;&#x5408;]</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CDA_COL_FEATURES_DISORDER</Tag>
-		<English>[ICON_BULLET]Disorder</English>
+		<English>[ICON_BULLET]&#x52a8;&#x4e71;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CDA_COL_FEATURES_TRADE</Tag>
-		<English>[ICON_BULLET]Trades with other cities</English>
+		<English>[ICON_BULLET]&#x4e0e;&#x5176;&#x4ed6;&#x57ce;&#x5e02;&#x901a;&#x5546;</English>
 	</TEXT>
 </Civ4GameText>

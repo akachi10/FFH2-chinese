@@ -186,7 +186,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_IMPROVEMENT_EVOLVES_PREREQ_CIV</Tag>
-		<English>[ICON_BULLET]Becomes a [COLOR_HIGHLIGHT_TEXT][LINK=literal]%s1_ImpName[\LINK][COLOR_REVERT] in %d2_Num [NUM2:Turn:Turns] (%s3_CivName only)</English>
+		<English>[ICON_BULLET]&#x5c06;&#x5728; %d2_Num [NUM2:&#x56de;&#x5408;:&#x56de;&#x5408;]&#x540e;&#x53d8;&#x4e3a; [COLOR_HIGHLIGHT_TEXT][LINK=literal]%s1_ImpName[\LINK][COLOR_REVERT]&#xff08;&#x4ec5;&#x9650; %s3_CivName&#xff09;</English>
 		<German>[ICON_BULLET]Wird in %d2_Num [NUM2:Runde:Runden] [COLOR_HIGHLIGHT_TEXT][LINK=literal]%s1_ImpName[\LINK][COLOR_REVERT] (nur %s3_CivName)</German>
 		<Spanish>[ICON_BULLET]Se convierte en [COLOR_HIGHLIGHT_TEXT][LINK=literal]%s1_ImpName[\LINK][COLOR_REVERT] en %d2_Num [NUM2:Turno:Turnos] (s&#243;lo %s3_CivName)</Spanish>
 	</TEXT>
@@ -222,7 +222,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_IMPROVEMENT_GRAVEYARD_PEDIA</Tag>
-		<English>Casting Raise Skeleton on a graveyard will grant you 3 skeletons. Casting Sanctify on a graveyard grants a free Host of the Einherjar. Robbing a graveyard produces random results. Casting Resurrection in a graveyard produces a free Champion.</English>
+		<English>&#x5728;&#x5893;&#x5730;&#x65bd;&#x653e;&#x201c;&#x53ec;&#x5524;&#x9ab7;&#x9ac5;&#x201d;&#x4f1a;&#x8d50;&#x4e88;&#x4f60; 3 &#x5177;&#x9ab7;&#x9ac5;&#x3002;&#x5728;&#x5893;&#x5730;&#x65bd;&#x653e;&#x201c;&#x51c0;&#x5316;&#x201d;&#x4f1a;&#x8d50;&#x4e88;&#x4e00;&#x540d;&#x514d;&#x8d39;&#x7684;&#x82f1;&#x7075;&#x3002;&#x6d17;&#x52ab;&#x5893;&#x5730;&#x4f1a;&#x4ea7;&#x751f;&#x968f;&#x673a;&#x7ed3;&#x679c;&#x3002;&#x5728;&#x5893;&#x5730;&#x65bd;&#x653e;&#x201c;&#x590d;&#x6d3b;&#x201d;&#x4f1a;&#x8d50;&#x4e88;&#x4e00;&#x540d;&#x514d;&#x8d39;&#x7684;&#x51a0;&#x519b;&#x6597;&#x58eb;&#x3002;</English>
 		<French>Casting Raise Skeleton on a graveyard will grant you 3 skeletons. Casting Sanctify on a graveyard grants a free Law Bringer. Robbing a graveyard produces random results. Casting Resurrection in a graveyard produces a free Champion.</French>
 		<German>Wird der Zauber "Skelett erschaffen" auf einem Friedhof gewirkt, erheben sich 3 Skelette aus der Erde. Der Zauber "Heiligen" gew&#228;hrt einen kostenlosen Rechtsprecher, wenn er auf einem Friedhof gewirkt wird. Der Zauber "Auferstehung" gew&#228;hrt einen kostenlosen Waffenmeister, wenn er auf einem Friedhof gewirkt wird. Einen Friedhof zu pl&#252;ndern, erbringt zuf&#228;llige Ergebnisse.</German>
 		<Italian>Casting Raise Skeleton on a graveyard will grant you 3 skeletons. Casting Sanctify on a graveyard grants a free Law Bringer. Robbing a graveyard produces random results. Casting Resurrection in a graveyard produces a free Champion.</Italian>
@@ -622,7 +622,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_IMPROVEMENT_PIRATE_COVE_PEDIA</Tag>
-		<English>Pirate Coves are available to civilizations that start with the seafaring tech (the Lanun).[NEWLINE][ICON_BULLET]While in a cove ships gain a defensive bonus, increased healing, and a slightly better sight range.[NEWLINE][ICON_BULLET]A cove can't be built within 2 tiles of another cove.</English>
+		<English>&#x6d77;&#x76d7;&#x6e7e;&#x53ef;&#x4f9b;&#x8d77;&#x59cb;&#x4fbf;&#x62e5;&#x6709;&#x822a;&#x6d77;&#x79d1;&#x6280;&#x7684;&#x6587;&#x660e;&#xff08;&#x62c9;&#x52aa;&#x6069;&#x4eba;&#xff09;&#x4f7f;&#x7528;&#x3002;[NEWLINE][ICON_BULLET]&#x8230;&#x8239;&#x5904;&#x4e8e;&#x6d77;&#x76d7;&#x6e7e;&#x5185;&#x65f6;&#xff0c;&#x83b7;&#x5f97;&#x9632;&#x5fa1;&#x52a0;&#x6210;&#x3001;&#x6cbb;&#x7597;&#x63d0;&#x5347;&#xff0c;&#x4ee5;&#x53ca;&#x7565;&#x5fae;&#x66f4;&#x4f73;&#x7684;&#x89c6;&#x91ce;&#x8303;&#x56f4;&#x3002;[NEWLINE][ICON_BULLET]&#x6d77;&#x76d7;&#x6e7e;&#x4e0d;&#x80fd;&#x5efa;&#x4e8e;&#x53e6;&#x4e00;&#x5ea7;&#x6d77;&#x76d7;&#x6e7e; 2 &#x683c;&#x8303;&#x56f4;&#x4e4b;&#x5185;&#x3002;</English>
 		<French>[ICON_BULLET]La Crique Pirate est seulement disponible pour les civilisations qui commencent avec la technologie Navigation (les Lanuns). Cela permet aux ouvriers de cr&#233;er une crique sur une case de c&#244;te (poss&#233;d&#233;e par le joueur ou non poss&#233;d&#233;e) dans laquelle les navires peuvent entrer. Tant qu'ils sont dans la crique, les navires gagnent en d&#233;fense, augmente le taux de gu&#233;rison et un champ de vision l&#233;g&#232;rement meilleur. Si une crique est dans une case poss&#233;d&#233;e par le joueur, elle fournit une petite quantit&#233; d'or. Une crique ne peut &#234;tre construite &#224; moins de deux cases d'une autre crique.</French>
 		<German>Die Piratenbucht steht nur Zivilisationen zur Verf&#252;gung, die mit der Bootsbau-Technologie beginnen (die Lanun) [NEWLINE][ICON_BULLET] W&#228;hrend Schiffe in einer Bucht liegen, erhalten sie einen Defensivbonus und eine leicht erh&#246;hte Sichtweite, au&#223;erdem sie heilen schneller.[NEWLINE][ICON_BULLET] Eine Bucht muss mindestens 2 Gel&#228;ndefelder Abstand zur n&#228;chsten haben.</German>
 		<Spanish>Las Calas Piratas est&#225;n disponibles solamente para las civilizaciones que comiencen con la tecnolog&#237;a Mariner&#237;a (es decir, los Lanun).[NEWLINE][ICON_BULLET]Mientras est&#225;n en una cala, los barcos tienen un bonificador a la defensa, curaci&#243;n incrementada y un rango de visi&#243;n ligeramente aumentado[NEWLINE][ICON_BULLET]Una cala no se puede construir a dos o menos casillas de distancia de otra cala.</Spanish>
@@ -662,7 +662,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_IMPROVEMENT_POOL_OF_TEARS_HELP</Tag>
-		<English>[ICON_BULLET]Cures Disease[NEWLINE][ICON_BULLET]Cures Plague[NEWLINE][ICON_BULLET]Cures Poison</English>
+		<English>[ICON_BULLET]&#x6cbb;&#x6108;&#x75be;&#x75c5;[NEWLINE][ICON_BULLET]&#x6cbb;&#x6108;&#x761f;&#x75ab;[NEWLINE][ICON_BULLET]&#x6cbb;&#x6108;&#x4e2d;&#x6bd2;</English>
 		<Spanish>[ICON_BULLET]Cura las Enfermedades[NEWLINE][ICON_BULLET]Cura la Plaga[NEWLINE][ICON_BULLET]Cura el Veneno</Spanish>
 	</TEXT>
 	<TEXT>
@@ -837,7 +837,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_IMPROVEMENT_SPAWN_UNIT_TYPE</Tag>
-		<English>[ICON_BULLET]Spawns [LINK=literal]%s1_unit[\LINK] barbarian units until eliminated</English>
+		<English>[ICON_BULLET]&#x4f1a;&#x4e0d;&#x65ad;&#x751f;&#x6210; [LINK=literal]%s1_unit[\LINK] &#x86ee;&#x65cf;&#x5355;&#x4f4d;&#xff0c;&#x76f4;&#x81f3;&#x88ab;&#x6d88;&#x706d;</English>
 		<French>[ICON_BULLET]g&#233;n&#232;re des [LINK=literal]%s1_unit[\LINK] barbares until jusqu'&#224; ce qu'il soit d&#233;truit</French>
 		<German>[ICON_BULLET]Erzeugt [LINK=literal]%s1_unit[\LINK] Barbaren-Einheiten bis es zerst&#246;rt wird</German>
 		<Spanish>[ICON_BULLET]Genera [LINK=literal]%s1_unit[\LINK] unidades b&#225;rbaras hasta que es eliminado.</Spanish>

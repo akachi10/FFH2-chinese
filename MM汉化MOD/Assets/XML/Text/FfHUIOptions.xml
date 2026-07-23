@@ -3,74 +3,74 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWLEADERDEFEATPOPUP_TEXT</Tag>
-		<English>Defeat popups</English>
+		<English>&#x6218;&#x8d25;&#x5f39;&#x7a97;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWLEADERDEFEATPOPUP_HOVER</Tag>
-		<English>Show leader-specific popup when a player is defeated</English>
+		<English>&#x5f53;&#x4e00;&#x540d;&#x73a9;&#x5bb6;&#x6218;&#x8d25;&#x65f6;&#xff0c;&#x663e;&#x793a;&#x9886;&#x8896;&#x4e13;&#x5c5e;&#x7684;&#x5f39;&#x7a97;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__AVOIDANGRYCITIZENSDEFAULT_TEXT</Tag>
-		<English>Avoid angry citizens in new cities</English>
+		<English>&#x65b0;&#x57ce;&#x5e02;&#x907f;&#x514d;&#x6124;&#x6012;&#x5e02;&#x6c11;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__AVOIDANGRYCITIZENSDEFAULT_HOVER</Tag>
-		<English>Avoid angry citizens is enabled by default in new cities</English>
+		<English>&#x65b0;&#x57ce;&#x5e02;&#x9ed8;&#x8ba4;&#x542f;&#x7528;&#x201c;&#x907f;&#x514d;&#x6124;&#x6012;&#x5e02;&#x6c11;&#x201d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__AVOIDUNHEALTHYCITIZENSDEFAULT_TEXT</Tag>
-		<English>Avoid unhealthy citizens in new cities</English>
+		<English>&#x65b0;&#x57ce;&#x5e02;&#x907f;&#x514d;&#x4e0d;&#x536b;&#x751f;&#x5e02;&#x6c11;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__AVOIDUNHEALTHYCITIZENSDEFAULT_HOVER</Tag>
-		<English>Avoid unhealthy citizens is enabled by default in new cities</English>
+		<English>&#x65b0;&#x57ce;&#x5e02;&#x9ed8;&#x8ba4;&#x542f;&#x7528;&#x201c;&#x907f;&#x514d;&#x4e0d;&#x536b;&#x751f;&#x5e02;&#x6c11;&#x201d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__PLOTHELPNUMUNITS_TEXT</Tag>
-		<English>Individual units in plot tooltip</English>
+		<English>&#x5730;&#x5757;&#x63d0;&#x793a;&#x6846;&#x4e2d;&#x5355;&#x72ec;&#x5217;&#x51fa;&#x7684;&#x5355;&#x4f4d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__PLOTHELPNUMUNITS_HOVER</Tag>
-		<English>Number of units in plot tooltip that are shown individually</English>
+		<English>&#x5730;&#x5757;&#x63d0;&#x793a;&#x6846;&#x4e2d;&#x5355;&#x72ec;&#x5217;&#x51fa;&#x7684;&#x5355;&#x4f4d;&#x6570;&#x91cf;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWKHAZADVAULTTEXT_TEXT</Tag>
-		<English>Show Khazad vault status</English>
+		<English>&#x663e;&#x793a;&#x5361;&#x624e;&#x5fb7;&#x91d1;&#x5e93;&#x72b6;&#x6001;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWKHAZADVAULTTEXT_HOVER</Tag>
-		<English>Show Khazad vault status next to your current gold and income in the top left corner. Note that this information is always provided (to Khazad players) by hovering the mouse over your current gold.</English>
+		<English>&#x5728;&#x5de6;&#x4e0a;&#x89d2;&#x5f53;&#x524d;&#x9ec4;&#x91d1;&#x4e0e;&#x6536;&#x5165;&#x65c1;&#x663e;&#x793a;&#x5361;&#x624e;&#x5fb7;&#x91d1;&#x5e93;&#x72b6;&#x6001;&#x3002;&#x8bf7;&#x6ce8;&#x610f;&#xff0c;&#xff08;&#x5bf9;&#x5361;&#x624e;&#x5fb7;&#x73a9;&#x5bb6;&#x800c;&#x8a00;&#xff09;&#x5c06;&#x9f20;&#x6807;&#x60ac;&#x505c;&#x5728;&#x5f53;&#x524d;&#x9ec4;&#x91d1;&#x4e0a;&#xff0c;&#x59cb;&#x7ec8;&#x4f1a;&#x63d0;&#x4f9b;&#x8be5;&#x4fe1;&#x606f;&#x3002;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWSPELLADDEDPROMOTIONHELP_TEXT</Tag>
-		<English>Added promotion details in spell help</English>
+		<English>&#x6cd5;&#x672f;&#x5e2e;&#x52a9;&#x4e2d;&#x663e;&#x793a;&#x6240;&#x6dfb;&#x52a0;&#x7684;&#x664b;&#x5347;&#x8be6;&#x60c5;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWSPELLADDEDPROMOTIONHELP_HOVER</Tag>
-		<English>Spells that add promotions (to your or enemy units) show the properties of those promotions in their description</English>
+		<English>&#x4e3a;&#xff08;&#x4f60;&#x7684;&#x6216;&#x654c;&#x65b9;&#x5355;&#x4f4d;&#xff09;&#x6dfb;&#x52a0;&#x664b;&#x5347;&#x7684;&#x6cd5;&#x672f;&#xff0c;&#x4f1a;&#x5728;&#x5176;&#x8bf4;&#x660e;&#x4e2d;&#x663e;&#x793a;&#x8fd9;&#x4e9b;&#x664b;&#x5347;&#x7684;&#x5c5e;&#x6027;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWSPELLCREATEDUNITHELP_TEXT</Tag>
-		<English>Summoned unit details in spell help</English>
+		<English>&#x6cd5;&#x672f;&#x5e2e;&#x52a9;&#x4e2d;&#x663e;&#x793a;&#x53ec;&#x5524;&#x5355;&#x4f4d;&#x8be6;&#x60c5;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWSPELLCREATEDUNITHELP_HOVER</Tag>
-		<English>Spells that summon units show the properties of those units in their description</English>
+		<English>&#x53ec;&#x5524;&#x5355;&#x4f4d;&#x7684;&#x6cd5;&#x672f;&#xff0c;&#x4f1a;&#x5728;&#x5176;&#x8bf4;&#x660e;&#x4e2d;&#x663e;&#x793a;&#x8fd9;&#x4e9b;&#x5355;&#x4f4d;&#x7684;&#x5c5e;&#x6027;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWSPELLCREATEDBUILDINGHELP_TEXT</Tag>
-		<English>Created building details in spell help</English>
+		<English>&#x6cd5;&#x672f;&#x5e2e;&#x52a9;&#x4e2d;&#x663e;&#x793a;&#x6240;&#x5efa;&#x9020;&#x5efa;&#x7b51;&#x8be6;&#x60c5;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWSPELLCREATEDBUILDINGHELP_HOVER</Tag>
-		<English>Spells that create buildings show the properties of those buildings in their description</English>
+		<English>&#x5efa;&#x9020;&#x5efa;&#x7b51;&#x7684;&#x6cd5;&#x672f;&#xff0c;&#x4f1a;&#x5728;&#x5176;&#x8bf4;&#x660e;&#x4e2d;&#x663e;&#x793a;&#x8fd9;&#x4e9b;&#x5efa;&#x7b51;&#x7684;&#x5c5e;&#x6027;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWTURNSUNTILDIFFICULTYCHANGE_TEXT</Tag>
-		<English>Show turns until difficulty change</English>
+		<English>&#x663e;&#x793a;&#x8ddd;&#x96be;&#x5ea6;&#x53d8;&#x5316;&#x7684;&#x56de;&#x5408;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWTURNSUNTILDIFFICULTYCHANGE_HOVER</Tag>
-		<English>If Flexible Difficulty or Increasing Difficulty is enabled, show the number of turns until the next change along with the current difficulty</English>
+		<English>&#x82e5;&#x542f;&#x7528;&#x4e86;&#x5f39;&#x6027;&#x96be;&#x5ea6;&#x6216;&#x9012;&#x589e;&#x96be;&#x5ea6;&#xff0c;&#x5219;&#x5728;&#x5f53;&#x524d;&#x96be;&#x5ea6;&#x65c1;&#x663e;&#x793a;&#x8ddd;&#x4e0b;&#x6b21;&#x53d8;&#x5316;&#x7684;&#x56de;&#x5408;&#x6570;</English>
 	</TEXT>
 </Civ4GameText>

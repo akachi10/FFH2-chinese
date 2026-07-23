@@ -8,7 +8,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_MISC_ATTITUDE_FIRST_IMPRESSION</Tag>
-		<English>%D1: "A first impression is a lasting one."</English>
+		<English>%D1&#xff1a;&#x201c;&#x7b2c;&#x4e00;&#x5370;&#x8c61;&#x4f1a;&#x957f;&#x4e45;&#x7559;&#x5b58;&#x3002;&#x201d;</English>
 		<French>%D1: "C'est la premi&#232;re impression qui compte."</French>
 		<German>%D1: "Der erste Eindruck z&#228;hlt."</German>
 		<Italian>%D1: "La prima impressione &#232; quella che conta."</Italian>
@@ -16,7 +16,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_ATTITUDE_TEAM_SIZE</Tag>
-		<English>%D1: "Your team is too big."</English>
+		<English>%D1&#xff1a;&#x201c;&#x4f60;&#x7684;&#x56e2;&#x961f;&#x592a;&#x5e9e;&#x5927;&#x4e86;&#x3002;&#x201d;</English>
 		<French>%D1: "Votre &#233;quipe est d&#233;j&#224; trop grande."</French>
 		<German>%D1: "Ihr habt zu viele Verb&#252;ndete."</German>
 		<Italian>%D1: "La tua squadra &#232; troppo grande."</Italian>
@@ -24,7 +24,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_ATTITUDE_BETTER_RANK</Tag>
-		<English>%D1: "Your small civilization is no threat to us."</English>
+		<English>%D1&#xff1a;&#x201c;&#x4f60;&#x90a3;&#x5f31;&#x5c0f;&#x7684;&#x6587;&#x660e;&#x5bf9;&#x6211;&#x4eec;&#x4e0d;&#x6784;&#x6210;&#x5a01;&#x80c1;&#x3002;&#x201d;</English>
 		<French>%D1: "Votre mis&#233;rable civilisation ne nous pose aucune menace."</French>
 		<German>%D1: "Eure kleine Zivilisation ist keine Bedrohung f&#252;r uns."</German>
 		<Italian>%D1: "La tua insignificante civilt&#224; non ci pone alcuna minaccia."</Italian>
@@ -32,7 +32,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_ATTITUDE_WORSE_RANK</Tag>
-		<English>%D1: "We feel threatened by your large civilization."</English>
+		<English>%D1&#xff1a;&#x201c;&#x4f60;&#x90a3;&#x5e9e;&#x5927;&#x7684;&#x6587;&#x660e;&#x4ee4;&#x6211;&#x4eec;&#x611f;&#x5230;&#x5a01;&#x80c1;&#x3002;&#x201d;</English>
 		<French>%D1: "Nous nous sentons menac&#233;s par votre grande civilisation."</French>
 		<German>%D1: "Wir f&#252;hlen uns von Eurer gro&#223;en Zivilisation bedroht."</German>
 		<Italian>%D1: "Ci sentiamo minacciati dalla tua grande civilt&#224;."</Italian>
@@ -40,7 +40,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_ATTITUDE_LOW_RANK</Tag>
-		<English>%D1: "Developing nations should work together to catch up."</English>
+		<English>%D1&#xff1a;&#x201c;&#x53d1;&#x5c55;&#x4e2d;&#x7684;&#x56fd;&#x5bb6;&#x5e94;&#x5f53;&#x643a;&#x624b;&#x5408;&#x4f5c;&#x3001;&#x8fce;&#x5934;&#x8d76;&#x4e0a;&#x3002;&#x201d;</English>
 		<French>%D1: "Les nations arri&#233;r&#233;es devraient travailler ensemble pour se rattraper."</French>
 		<German>%D1: "Zur&#252;ckliegende Nationen sollten kooperieren um voranzukommen."</German>
 		<Italian>%D1: "Le nazioni pi&#249; arretrate dovrebbero cooperare tra loro per progredire."</Italian>
@@ -48,7 +48,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_ATTITUDE_LOST_WAR</Tag>
-		<English>%D1: "The war is going badly for us."</English>
+		<English>%D1&#xff1a;&#x201c;&#x8fd9;&#x573a;&#x6218;&#x4e89;&#x5bf9;&#x6211;&#x4eec;&#x5f88;&#x4e0d;&#x5229;&#x3002;&#x201d;</English>
 		<French>%D1: "Nous perdons la guerre."</French>
 		<German>%D1: "Dieser Krieg verl&#228;uft ung&#252;nstig f&#252;r uns."</German>
 		<Italian>%D1: "La guerra sta andando male per noi."</Italian>
