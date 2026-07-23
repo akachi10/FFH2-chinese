@@ -59,8 +59,13 @@ def render(b):
     m=re.search(r'of\s+(?:the\s+)?(\[LINK=[^\]]*\][^\[]*\[\\\\LINK\])\s+will have', b)
     rel=linksub(m.group(1)) if m else '?'
     # the "influence of [LINK]" occurrence (faithful: keep this LINK too)
-    mi=re.search(r'influence of\s+(?:the\s+)?(\[LINK=[^\]]*\][^\[]*\[\\\\LINK\])', b)
-    infl=linksub(mi.group(1)) if mi else rel
+    mi=re.search(r'influence of\s+(?:the\s+)?(\[LINK=[^\]]*\][^\[]*\[\\\\LINK\])(?=,| but)', b)
+    # 严格：仅当 'influence of' 后紧跟 LINK 才复用链接；否则用裸中文（源为裸文本，如 'the Brotherhood'）
+    if mi:
+        infl=linksub(mi.group(1))
+    else:
+        # bare religion name after 'influence of' -> strip link, bare chinese
+        infl=re.sub(r'\[LINK=[^\]]*\]([^\[]*)\[\\\\LINK\]',r'\1',rel)
     out=f"{rel}的{kind}的神赐之力，受{infl}的影响强化最甚"
     m3=re.search(r'lesser degree by\s+(.*?)\.\s*Its?\s+arda', b, re.S)
     if m3: out+="，也在较小程度上受"+tlist_linked(m3.group(1))+"强化"
