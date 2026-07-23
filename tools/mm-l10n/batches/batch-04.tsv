@@ -1,0 +1,644 @@
+file	key	english	chinese
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_6	%s1? I like [NUM1:him:her:x:x]. (Pleased)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_7	%s1 is better than most. (Pleased)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_8	%s1 is all right in my book. (Pleased)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_9	%s1 is a fine ruler and a credit to [NUM1:his:her:x:x] people! (Pleased)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_10	We get along fine with %s1. (Pleased)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_11	%s1 is all right. (Pleased)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_12	I have no problems with %s1.(Pleased)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_13	%s1 has treated us well. (Pleased)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_14	I like %s1. (Pleased)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_PLEASED_15	We get along just fine. (Pleased)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_1	%s1 is a close, trusted friend. (Friendly)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_2	I'd trust %s1 with my life! (Friendly)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_3	A friend indeed. (Friendly)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_4	%s1 is a true friend. (Friendly)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_5	%s1 is da bomb! (Friendly)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_6	%s1 has been a faithful friend to us. (Friendly)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_7	%s1 is an old crony of ours. (Friendly)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_8	%s1 is a faithful friend and boon companion. (Friendly)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_9	I like and trust %s1 completely! (Friendly)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_10	A better friend would be hard to find. (Friendly)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_11	%s1 has many admirable traits. (Friendly)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_12	%s1 is a leader of quality. (Friendly)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_13	We're old buddies, %s1 and I. (Friendly)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_14	%s1 hasn't let us down yet! (Friendly)	
+CIV4DiplomacyText.xml	AI_DIPLO_ATTITUDE_PLAYER_FRIENDLY_15	They don't come any better than %s1! (Friendly)	
+CIV4DiplomacyText.xml	USER_STOP_BOTHERING	Cease bothering us!	
+CIV4DiplomacyText.xml	ASSUME_SNUFFED	So be it. But if we need you at the table, your absense may not be to your advantage.	
+CIV4DiplomacyText.xml	ASSUME_REALLY_SNUFFED	So be it. But the next time we meet, it may be on the battlefield!	
+CIV4DiplomacyText.xml	ASSUME_NOT_SNUFFED	What a shame. My diplomats enjoyed your openness and all it revealed about you.	
+CIV4DiplomacyText.xml	USER_LETS_TALK	We wish to resume talks...	
+CIV4DiplomacyText.xml	RESUME_TALKS	If you wish. I will contact you when it suits me.	
+CIV4DiplomacyText.xml	RESUME_TALKS_RELUCTANT	If you insist. But I have enjoyed your absense.	
+CIV4DiplomacyText.xml	RESUME_TALKS_GLADLY	Excellent! There are many things you have to offer us.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_FINANCE_ADVISOR_CITY_MAINT_COST	[NEWLINE]%d1[ICON_GOLD]: Distance Maintenance[NEWLINE]%d2[ICON_GOLD]: Number of Cities Maintenance[NEWLINE]%d3[ICON_GOLD]: Colony Expenses[NEWLINE]%d4[ICON_GOLD]: Corporation Payments[NEWLINE]------------------------[NEWLINE]------------------------[NEWLINE]TOTAL CITY MAINTENANCE COST: %d5[ICON_GOLD]	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_COMPUTERS_STRATEGY	[COLOR_TECH_TEXT]Computers[COLOR_REVERT] enables the construction of the [COLOR_PROJECT_TEXT]Internet[COLOR_REVERT] project and the powerful  [COLOR_UNIT_TEXT]Modern Armor[COLOR_REVERT]. It also obsoletes [COLOR_BUILDING_TEXT]Angkor Wat[COLOR_REVERT], [COLOR_BUILDING_TEXT]The University of Sankore[COLOR_REVERT] and [COLOR_BUILDING_TEXT]The Spiral Minaret[COLOR_REVERT].	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_BUILDING_PENTAGON_STRATEGY	Once the [COLOR_BUILDING_TEXT]Pentagon[COLOR_REVERT] is built, all new units built in your civilization receive two experience points and increases the chance that its city more likely to generate a [COLOR_UNIT_TEXT]Great Spy[COLOR_REVERT].	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_BUILDING_GREAT_PALACE_STRATEGY	The [COLOR_BUILDING_TEXT]Forbidden Palace[COLOR_REVERT] reduces the maintenance costs in nearby cities; it also increases the chance of generating a [COLOR_UNIT_TEXT]Great Spy[COLOR_REVERT].	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_BUILDING_KREMLIN_STRATEGY	The [COLOR_BUILDING_TEXT]Kremlin[COLOR_REVERT] reduces the cost of hurrying production and it increases its city's chances of generating [COLOR_UNIT_TEXT]Great Spies[COLOR_REVERT].	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_BUILDING_WEST_POINT_STRATEGY	All military units built in a city with a [COLOR_BUILDING_TEXT]West Point[COLOR_REVERT] building begin with four additional experience points. Further, its city is more likely to generate a [COLOR_UNIT_TEXT]Great Spy[COLOR_REVERT].	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_CIVIC_POLICE_STATE_STRATEGY	Faster military unit production; less war anger; increased espionage output	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_CIVIC_STATE_PROPERTY_STRATEGY	No maintenance penalty for distance to Palace; increased food production from workshops and watermills; corporations have no effect	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_BUILDING_COURTHOUSE_STRATEGY	[COLOR_BUILDING_TEXT]Courthouses[COLOR_REVERT] lower city maintenance costs, provide you with a bonus to espionage and are required to build the [COLOR_BUILDING_TEXT]Forbidden Palace[COLOR_REVERT] national wonder. [COLOR_BUILDING_TEXT]Courthouses[COLOR_REVERT] help manage the cost of controlling large empires. 	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_BUILDING_CASTLE_STRATEGY	[COLOR_BUILDING_TEXT]Castles[COLOR_REVERT] increase your city's defenses against pre-gunpowder units, increase espionage output and generate a small amount of culture. Build them in cities near enemy civilizations.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_BUILDING_JAIL_STRATEGY	[COLOR_BUILDING_TEXT]Jails[COLOR_REVERT] lower a city's [COLOR_HIGHLIGHT_TEXT]War Weariness[COLOR_REVERT] and increase espionage significantly. Build them if you are involved in a long war and your citizens are starting to complain.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_MISC_YOU_CIRC_GLOBE	Your maps have proven that the world is round! Your ships receive a %D1_Change Movement bonus.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_MISC_SOMEONE_CIRC_GLOBE	%s1_PlyrName has proven that the world is round!	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_IMPROVEMENT_PILLAGE_YIELDS	[ICON_BULLET]Pillage yields %d1_Num[ICON_GOLD] on average	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_UNIT_SPY_STRATEGY	Use the [COLOR_UNIT_TEXT]Spy[COLOR_REVERT] to explore enemy territory and perform [COLOR_HIGHLIGHT_TEXT]Espionage Missions[COLOR_REVERT].	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_CORPORATION_ALL_CITIES	[ICON_BULLET]All Cities: %s1_yield_symbols per resource consumed	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_UNIT_JAPAN_SAMURAI_STRATEGY	This powerful melee combat unit (the Japanese replacement for the [COLOR_UNIT_TEXT]Maceman[COLOR_REVERT]) is special because it gets 2 first strikes, starts with the [COLOR_HIGHLIGHT_TEXT]Drill I[COLOR_REVERT] promotion and is particularly effective against other melee units.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_UNIT_WORKER_PEDIA	[TAB]The majority of people in all civilizations throughout time have been workers. Whether engaged in farming, commerce, or industry, their actions form the economic infrastructure without which no nation can succeed. Over time, the endless activity of workers has reshaped the very surface of the land by mining hills, cutting down huge stretches of forest, and irrigating hostile terrain into fertile farmland. By the late 20th century it had become apparent that excessive deforestation and pollution from heavy industry posed a threat to the world's environment. 	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_UNIT_SPANISH_CONQUISTADOR_STRATEGY	This powerful mounted combat unit (the Spanish replacement for the [COLOR_UNIT_TEXT]Cuirassier[COLOR_REVERT]) gets a bonus when attacking melee units and gets terrain defense bonuses, unlike other mounted units.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_UNIT_OTTOMAN_JANISSARY_PEDIA	The Janissaries were an elite fighting force of infantry raised by the Ottoman sultans. They formed the sultan's household troops and bodyguard, eventually rising to a position of enormous influence before being disbanded in the nineteenth century. Murad I founded the Janissary corps around 1330; the troops were made up of non-Muslim boys who were captured in battle or bought as slaves and brought up as warriors. This was very similar to the Mameluk slave soldiers of Egypt, who may have been the inspiration for the Janissaries. Janissaries became the first infantry units in the Ottoman military forces, because at the time no free man would consent to fighting on foot. [PARAGRAPH:2]After 1380 the system for recruiting new soldiers into the Janissaries became standardized through a process called the "devshirmeh:" this was basically a "human tax" where each community had to contribute a certain number of young boys to the state. In practice these were almost always Christian slaves. [PARAGRAPH:2]The boys were sequestered in special barracks, where they would be converted to Islam and trained to become elite soldiers (a process very similar to that practiced by the Spartans of ancient Greece). Although slaves, the Janissaries received special privileges, including the right to bear weapons and higher pay than other soldiers. Although the Janissaries began their existence as a small bodyguard for the sultan, in time they came to comprise much of the Ottoman army, topping out at over 200,000 men at some points. [PARAGRAPH:2]The Janissaries originally were trained to be expert archers, but once firearms were invented they quickly adopted the new weapons, becoming fiercely proficient with muskets. They usually used axes or sabres for melee combat. Janissaries were present at all of the major battles in the early history of the Ottoman Empire, including the Siege of Constantinople in 1453. [PARAGRAPH:2]The very success of the Janissaries would eventually destroy them. Realizing their importance, they began demanding higher pay, threatening rebellion if their demands were refused. Their first rebellion took place in 1449, and it was followed by many more. By the eighteenth century, the Janissaries dominated the government. Through frequent palace coups they changed sultans as they wished, and they blocked much-needed modernization reforms in the Ottoman army. Many of the Janissaries became corrupted, no longer training for battle but instead pursuing commercial ventures or political office, and the weakness of the Ottomans in the face of Russian and Austrian expansion soon became obvious to all. Desperate to regain control of their country, the Ottoman rulers made determined efforts to eradicate them. [PARAGRAPH:2]Finally, in 1826 Mahmud II was able to form a non-Janissary army strong enough to challenge the Janissaries. The Janissaries did not go down peacefully, and Mahmud II had to use artillery to shell the Janissaries' barracks and batter them into submission. This event - known as the "Auspicious Incident," ended the Janissaries. Their characteristic marching music is the only trace of them that remains today. [PARAGRAPH:2]	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_VICTORY_SCREEN_BUILDING	Build %s1 %s2	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_CITY_NAME_AACHEN	Aachen	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_CITY_NAME_BRAUNSCHWEIG	Braunschweig	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TRAIT_HAPPINESS	[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1[ICON_HAPPY]/City	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TRADE_PEACE_TREATY	Establishes an Unbreakable Peace Treaty for %d1_Num [NUM1:Turn:Turns]	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_BUILDING_DIPLO_VOTE	[ICON_BULLET]Triggers %s1 Global Elections	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_POPUP_CHOOSE_ELECTION	As Secretary-General, you can choose a U.N. Resolution to put forward for a global vote.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_COMBAT_MESSAGE_HILLS	(Hills Defense: %D1%%)	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_COMBAT_MESSAGE_FEATURE	(Feature Defense: %D1%%)	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_CONCEPT_RELIGION_PEDIA	[H1]Religion[\\H1][PARAGRAPH:2]Religion has always played a critical part in human history. Through religion, man has sought to make sense of the universe around him and to determine his place in it. Religion has inspired, enlightened and ennobled man; in its name men have erected beautiful buildings, written books of great wisdom, and made music of surpassing beauty. In its name men have also murdered and enslaved their fellows.[PARAGRAPH:2][H2]Religion in this Game[\\H2][PARAGRAPH:2]We know that people have extremely strong opinions about religions - in fact, many a war has arisen when these beliefs collide. We at Firaxis have no desire to offend anyone. However, given the importance that religions have had in human development, we didn't want to simply leave them out of the game altogether; instead we have tried to handle them in as respectful, fair and even-handed manner as possible. In fact, all religions in the game have the same effects, the only difference being their requirements.[PARAGRAPH:2]There are seven religions in Civilization IV (testing having determined that seven was the optimal number for gameplay). When determining which seven to include, we picked those religions that we thought would be most familiar to our audience. We do not mean to imply that these religions are more important, better or worse than any other religions.[PARAGRAPH:2]We offer no value judgments on religion; we mean no disrespect to anyone's beliefs. We're game designers, not theologians.[PARAGRAPH:2][H2]Founding a Religion[\\H2][PARAGRAPH:2]If you are the first civilization to discover the associated technology, the religion is founded in one of your cities. It is extremely useful to have a city where a religion has been founded; it allows a prophet to create a "shrine" in that city (see below).[PARAGRAPH:2][H2]State Religions[\\H2][PARAGRAPH:2]When any cities in your civilization possess one or more religions, you may choose to assign one as the "state" religion. Having a state religion tends to make your cities possessing that religion happier and more productive; it also increases the effects of many religious buildings and religious civics.[PARAGRAPH:2][H2]Spreading Religions[\\H2][PARAGRAPH:2]Religions spread randomly from city to city. Religions tend to spread from a city possessing the religion to nearby cities as well as to cities the possessing city has trade routes with. Some religious buildings (see below) increase the speed at which a religion will spread, and a civilization's religious civic (see below) can have a great effect upon the spread of religions, as well. [LINK=UNIT_BUDDHIST_MISSIONARY]Missionaries[\\LINK] allow you to control the spread of religion; see the following section.[PARAGRAPH:2][H2]Missionaries[\\H2][PARAGRAPH:2]Civilizations can construct special "missionary" units to spread the civilization's state religion. Each civilization may have only a limited number of missionary units in play at any one time, and each costs two gold per turn to maintain.[PARAGRAPH:2][BOLD]Building Missionaries[\\BOLD][PARAGRAPH:2] Civilizations using the [LINK=CIVIC_ORGANIZED_RELIGION]Organized Religion[\\LINK] civic can construct missionaries in any city with the state religion; if a civilization is not following Organized Religion, it can build missionaries only in cities with Monasteries.[PARAGRAPH:2][BOLD]Moving Missionaries[\\BOLD][PARAGRAPH:2]Once constructed, missionaries can move about the map like any other unit. Your missionaries can freely enter your territory or neutral territory; they cannot enter another civilization's territory until you have an [LINK=CONCEPT_DIPLOMACY]Open Borders[\\LINK] agreement with that civ. [PARAGRAPH:2][BOLD]How Missionaries Spread Religion[\\BOLD][PARAGRAPH:2]When the missionary is in the target city, click on the "spread religion" order in the missionary's unit box (see [LINK=CONCEPT_UNITS]Units[\\LINK]); if the attempt is successful the missionary's religion is now in the target city. Religions spread more easily into other cities within the missionary's civilization. Further, it is easier to spread a religion into a city with few or no religions already present; each resident religion decreases the odds of success. There is no limit to how many religions may be present in a single city; all seven religions can coexist in the same city. The missionary is consumed in the conversion attempt, successful or not.[PARAGRAPH:2][H2]Benefits of Religion[\\H2][PARAGRAPH:2][BOLD]City Benefits[\\BOLD][PARAGRAPH:2]All cities that possess your state religion receive one extra happy face and produce one culture per turn. Spreading your state religion is thus a good way to expand cultural borders in the early stages of your civilization. The holy city for your state religion also receives an additional bonus of five culture per turn, allowing it to expand its borders very quickly.[PARAGRAPH:2][BOLD]Buildings[\\BOLD][PARAGRAPH:2]Without a religion in a city, that city cannot construct religious buildings like Temples and Cathedrals (see below). Cities without religions also cannot create Priest [LINK=CONCEPT_SPECIALISTS]Specialists[\\LINK].[PARAGRAPH:2][BOLD]Shrine Income[\\BOLD][PARAGRAPH:2]If you control the holy city for a religion and generate a Great Prophet, you can build the Shrine for that religion to generate income for every city in the world that possesses your religion (see below).[PARAGRAPH:2][H2]Religious Civics[\\H2][PARAGRAPH:2]The religious [LINK=CONCEPT_CIVICS]Civics[\\LINK] describe how religion affects your civilization. There are five religious civics in the game. You begin the game knowing only paganism; the other four become available when you learn their associated technologies.[PARAGRAPH:2][BOLD]Paganism:[\\BOLD] No technology requirement. The basic religious civic. [PARAGRAPH:2][BOLD]Organized Religion:[\\BOLD] Requires [LINK=TECH_MONOTHEISM]Monotheism[\\LINK]. Increases production of buildings in cities with the state religion, and allows you to build missionaries without first constructing monasteries.[PARAGRAPH:2][BOLD]Theocracy:[\\BOLD] Requires [LINK=TECH_THEOLOGY]Theology[\\LINK]. Theocracy grants two additional experience points to units trained within cities with the state religion, and it stops the spread of non-state religions within the civilization.[PARAGRAPH:2][BOLD]Pacifism:[\\BOLD] Requires [LINK=TECH_PHILOSOPHY]Philosophy[\\LINK]. Greatly increases the [LINK=CONCEPT_GREAT_PEOPLE]Great Person[\\LINK] birth rate in cities with the state religion, and it increases the support cost of military units.[PARAGRAPH:2][BOLD]Free Religion:[\\BOLD] Requires [LINK=TECH_LIBERALISM]Liberalism[\\LINK]. A civilization with Free Religion has no state religion. Each city gets happiness for each non-state religion in the city; also, all cities get a 10%% boost in scientific [LINK=CONCEPT_RESEARCH]Research[\\LINK].[PARAGRAPH:2][H2]Religious Buildings[\\H2][PARAGRAPH:2]There are a number of religious buildings available to be constructed. Religious buildings are dedicated to specific religions and can only be built in cities which have that religion. A city with more than one religion can have religious buildings for each religion: for example, a city with Judaism and Confucianism could construct both a Jewish Temple and a Confucian Temple.[PARAGRAPH:2][BOLD]Temples[\\BOLD][PARAGRAPH:2]The most primitive religious building. Temples boost a city's [LINK=CONCEPT_CULTURE]Culture[\\LINK] and [LINK=CONCEPT_HAPPINESS]Happiness[\\LINK]. They allow 1 population point to be turned into a priest [LINK=CONCEPT_SPECIALISTS]Specialist[\\LINK].[PARAGRAPH:2][BOLD]Monasteries[\\BOLD][PARAGRAPH:2]Monasteries increase a city's research by a small amount. More importantly, they allow the city to build missionaries to spread your religion.[PARAGRAPH:2][BOLD]Cathedrals[\\BOLD][PARAGRAPH:2]Cathedrals drastically increase a city's culture. They increase happiness if their religion is the civilization's state religion. They allow two population points to be turned into priests. Note that "Cathedral" is a generic name for a religion's grander houses of worship - Jewish synagogues, Islamic mosques, Christian cathedrals, etc., all have the same effects. Your civilization can only build one cathedral for every three temples that your civilization possesses; for example, a civilization with seven temples could build two cathedrals. [PARAGRAPH:2][BOLD]Shrines[\\BOLD][PARAGRAPH:2]Shrines can be built only in cities in which a religion has been founded. Shrines are constructed by [LINK=CONCEPT_GREAT_PEOPLE]Great Prophets[\\LINK]; a great prophet is the only unit that can build a shrine, and the prophet is consumed in the process. Shrines increase the spread of the religion, as well as the home city's culture. They increase the city's chance of generating prophets and allow the city to assign three population as priests. Most importantly, shrines generate one gold each turn for every city on the map that has the shrine's religion (thus explaining the importance of creating missionaries to spread the word). Each religion has a different name for its cathedral and shrine.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_COMBAT_MESSAGE_TERRAIN	(Terrain Defense: %d1%%)	
+CIV4GameTextChanged_BTS.xml	AI_DIPLO_CHANGED_FIRST_CONTACT_LEADER_RAGNAR_LODBROK_1	Hail and well met, [CT_NAME]! I am [OUR_NAME], ruler of the glorious [OUR_CIV_SHORT].  So tell me: does [CT_CIV_SHORT] have a lot of rich and unprotected coastal cities, or what?	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_SCIENTIFIC_METHOD_STRATEGY	[COLOR_TECH_TEXT]Scientific Method[COLOR_REVERT] reveals the [COLOR_HIGHLIGHT_TEXT]Oil[COLOR_REVERT] resource and allows construction of the [COLOR_HIGHLIGHT_TEXT]Forest Preserve[COLOR_REVERT] improvement. It makes the [COLOR_BUILDING_TEXT]Great Library[COLOR_REVERT], [COLOR_BUILDING_TEXT]The Parthenon[COLOR_REVERT], [COLOR_BUILDING_TEXT]The Temple of Artemis[COLOR_REVERT] and [COLOR_BUILDING_TEXT]Monasteries[COLOR_REVERT] obsolete.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_UTOPIA_STRATEGY	[COLOR_TECH_TEXT]Communism[COLOR_REVERT] enables the [COLOR_HIGHLIGHT_TEXT]State Property[COLOR_REVERT] civic and [COLOR_HIGHLIGHT_TEXT]Permanent Alliances[COLOR_REVERT]. It also allows construction of the [COLOR_BUILDING_TEXT]Intelligence Agency[COLOR_REVERT] building and the [COLOR_BUILDING_TEXT]Kremlin[COLOR_REVERT] world wonder. The first to research [COLOR_TECH_TEXT]Communism[COLOR_REVERT] receives a free [COLOR_UNIT_TEXT]Great Spy[COLOR_REVERT] unit.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_CALENDAR_STRATEGY	[COLOR_TECH_TEXT]Calendar[COLOR_REVERT] allows your workers to construct [COLOR_HIGHLIGHT_TEXT]Plantation[COLOR_REVERT] improvements, enabling you to access various valuable resources. It allows construction of the [COLOR_BUILDING_TEXT]Mausoleum of Maussollos[COLOR_REVERT] wonder.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_CHEMISTRY_STRATEGY	[COLOR_TECH_TEXT]Chemistry[COLOR_REVERT] allows construction of [COLOR_UNIT_TEXT]Privateers[COLOR_REVERT] and [COLOR_UNIT_TEXT]Frigates[COLOR_REVERT] (with [COLOR_TECH_TEXT]Astronomy[COLOR_REVERT]). It also increases production from all workshops by 1.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_ARTILLERY_STRATEGY	[COLOR_TECH_TEXT]Artillery[COLOR_REVERT] allows you to build [COLOR_UNIT_TEXT]Artillery[COLOR_REVERT], [COLOR_UNIT_TEXT]Anti-Tank Infantry[COLOR_REVERT], and [COLOR_UNIT_TEXT]Mobile Artillery[COLOR_REVERT], the game's most powerful siege unit.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_ASTRONOMY_STRATEGY	[COLOR_TECH_TEXT]Astronomy[COLOR_REVERT] allows access to the [COLOR_UNIT_TEXT]Galleon[COLOR_REVERT], as well as the [COLOR_UNIT_TEXT]Frigate[COLOR_REVERT] and the [COLOR_UNIT_TEXT]Privateer[COLOR_REVERT] (with [COLOR_TECH_TEXT]Chemistry[COLOR_REVERT]) and the [COLOR_UNIT_TEXT]Ship of the Line[COLOR_REVERT] (with [COLOR_TECH_TEXT]Military Science[COLOR_REVERT]). It enables trading on the ocean and lets you build [COLOR_BUILDING_TEXT]Observatories[COLOR_REVERT]. It obsoletes [COLOR_BUILDING_TEXT]The Colossus[COLOR_REVERT] and [COLOR_BUILDING_TEXT]Stonehenge[COLOR_REVERT] Wonders and the [COLOR_BUILDING_TEXT]Monument[COLOR_REVERT] building.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_BIOLOGY_STRATEGY	[COLOR_TECH_TEXT]Biology[COLOR_REVERT] allows your workers to build [COLOR_HIGHLIGHT_TEXT]Farms[COLOR_REVERT] without [COLOR_HIGHLIGHT_TEXT]Irrigation[COLOR_REVERT] as well as the [COLOR_BUILDING_TEXT]National Park[COLOR_REVERT] national wonder. It increases the food production of all [COLOR_HIGHLIGHT_TEXT]Farms[COLOR_REVERT] by 1. 	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_COMBUSTION_STRATEGY	[COLOR_TECH_TEXT]Combustion[COLOR_REVERT] allows you to construct the [COLOR_UNIT_TEXT]Transport[COLOR_REVERT], [COLOR_UNIT_TEXT]Destroyer[COLOR_REVERT], and [COLOR_UNIT_TEXT]Attack Submarine[COLOR_REVERT] (with [COLOR_TECH_TEXT]Radio[COLOR_REVERT] and [COLOR_TECH_TEXT]Rocketry[COLOR_REVERT]) naval units. You may construct the [COLOR_BUILDING_TEXT]Public Transportation[COLOR_REVERT] building and the [COLOR_BUILDING_TEXT]Creative Constructions[COLOR_REVERT] Wonder.  It enables your workers to build the [COLOR_HIGHLIGHT_TEXT]Well[COLOR_REVERT] improvement on land-based [COLOR_HIGHLIGHT_TEXT]Oil[COLOR_REVERT] resources and obsoletes the [COLOR_HIGHLIGHT_TEXT]Whale[COLOR_REVERT] resource.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_COMPOSITES_STRATEGY	[COLOR_TECH_TEXT]Composites[COLOR_REVERT] enables construction of [COLOR_UNIT_TEXT]Modern Armor[COLOR_REVERT] (with [COLOR_TECH_TEXT]Computers[COLOR_REVERT]). It lets you build the [COLOR_BUILDING_TEXT]SS Casing[COLOR_REVERT] project.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_CORPORATION_STRATEGY	[COLOR_TECH_TEXT]Corporation[COLOR_REVERT] adds an additional trade route to all cities and enables construction of the [COLOR_BUILDING_TEXT]Wall Street[COLOR_REVERT] national wonder. It is a requirement to build all [COLOR_BUILDING_TEXT]Corporation[COLOR_REVERT] Wonders.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_DEMOCRACY_STRATEGY	This tech enables the [COLOR_HIGHLIGHT_TEXT]Universal Suffrage[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]Emancipation[COLOR_REVERT] civics. It allows construction of the [COLOR_BUILDING_TEXT]Security Bureau[COLOR_REVERT] building and the [COLOR_BUILDING_TEXT]Statue of Liberty[COLOR_REVERT] wonder.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_FASCISM_STRATEGY	Fascism enables the [COLOR_HIGHLIGHT_TEXT]Police State[COLOR_REVERT] civic, the [COLOR_UNIT_TEXT]Paratrooper[COLOR_REVERT] unit (with [COLOR_TECH_TEXT]Rifling[COLOR_REVERT] and [COLOR_TECH_TEXT]Flight[COLOR_REVERT]) and construction of the [COLOR_BUILDING_TEXT]Mount Rushmore[COLOR_REVERT] wonder. It also allows [COLOR_HIGHLIGHT_TEXT]Permanent Alliances[COLOR_REVERT].	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_ECONOMICS_STRATEGY	The first to discover [COLOR_TECH_TEXT]Economics[COLOR_REVERT] receives a [COLOR_UNIT_TEXT]Great Merchant[COLOR_REVERT]. It also enables the [COLOR_HIGHLIGHT_TEXT]Free Market[COLOR_REVERT] civic and the [COLOR_BUILDING_TEXT]Customs House[COLOR_REVERT] building.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_FIBER_OPTICS_STRATEGY	[COLOR_TECH_TEXT]Fiber Optics[COLOR_REVERT] allows you to build the [COLOR_PROJECT_TEXT]SS Cockpit[COLOR_REVERT] spaceship part.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_GUNPOWDER_STRATEGY	[COLOR_TECH_TEXT]Gunpowder[COLOR_REVERT] allows you to build [COLOR_UNIT_TEXT]Musketman[COLOR_REVERT] units and [COLOR_UNIT_TEXT]Cuirassiers[COLOR_REVERT] (with [COLOR_TECH_TEXT]Military Tradition[COLOR_REVERT]).	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_MASS_MEDIA_STRATEGY	This technology allows construction of [COLOR_BUILDING_TEXT]Broadcast Towers[COLOR_REVERT], as well as the [COLOR_BUILDING_TEXT]Hollywood[COLOR_REVERT], [COLOR_BUILDING_TEXT]Civilized Jewelers[COLOR_REVERT] and [COLOR_BUILDING_TEXT]United Nations[COLOR_REVERT] wonders.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_MILITARY_TRADITION_STRATEGY	[COLOR_TECH_TEXT]Military Tradition[COLOR_REVERT] allows you to build powerful [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] and [COLOR_UNIT_TEXT]Cuirassier[COLOR_REVERT] units (with [COLOR_TECH_TEXT]Horseback Riding[COLOR_REVERT]). It enables [COLOR_HIGHLIGHT_TEXT]Defensive Pacts[COLOR_REVERT] and construction of the [COLOR_BUILDING_TEXT]West Point[COLOR_REVERT] national wonder.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_INDUSTRIALISM_STRATEGY	[COLOR_TECH_TEXT]Industrialism[COLOR_REVERT] allows construction of the [COLOR_UNIT_TEXT]Battleship[COLOR_REVERT], [COLOR_UNIT_TEXT]Marine[COLOR_REVERT] (with [COLOR_TECH_TEXT]Rifling[COLOR_REVERT]), and [COLOR_UNIT_TEXT]Tank[COLOR_REVERT] (with [COLOR_TECH_TEXT]Rifling[COLOR_REVERT]) units and the [COLOR_BUILDING_TEXT]Industrial Park[COLOR_REVERT] building. It also reveals the [COLOR_HIGHLIGHT_TEXT]Aluminum[COLOR_REVERT] resource and obsoletes [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT].	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_PLASTICS_STRATEGY	[COLOR_TECH_TEXT]Plastics[COLOR_REVERT] enables [COLOR_UNIT_TEXT]Work Boats[COLOR_REVERT] to construct [COLOR_HIGHLIGHT_TEXT]Offshore Platforms[COLOR_REVERT]. It also lets you build [COLOR_BUILDING_TEXT]Hydro Plants[COLOR_REVERT] and the [COLOR_BUILDING_TEXT]Standard Ethanol[COLOR_REVERT] and [COLOR_BUILDING_TEXT]Three Gorges Dam[COLOR_REVERT] wonders, and obsoletes [COLOR_HIGHLIGHT_TEXT]Fur[COLOR_REVERT].	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_RADIO_STRATEGY	[COLOR_TECH_TEXT]Radio[COLOR_REVERT] enables the powerful [COLOR_UNIT_TEXT]Bomber[COLOR_REVERT] (with [COLOR_TECH_TEXT]Flight[COLOR_REVERT]) and [COLOR_UNIT_TEXT]Guided Missile[COLOR_REVERT] (with [COLOR_TECH_TEXT]Rocketry[COLOR_REVERT]) units, plus the [COLOR_UNIT_TEXT]Attack Submarine[COLOR_REVERT] (with [COLOR_TECH_TEXT]Combustion[COLOR_REVERT]) and [COLOR_UNIT_TEXT]Submarine[COLOR_REVERT] units. It also allows you to build the [COLOR_BUILDING_TEXT]Eiffel Tower[COLOR_REVERT], [COLOR_BUILDING_TEXT]Cristo Redentor[COLOR_REVERT] and [COLOR_BUILDING_TEXT]Rock N Roll[COLOR_REVERT] wonders.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_REFRIGERATION_STRATEGY	[COLOR_TECH_TEXT]Refrigeration[COLOR_REVERT] allows construction of the [COLOR_BUILDING_TEXT]Supermarket[COLOR_REVERT] building and the [COLOR_BUILDING_TEXT]Cereal Mills[COLOR_REVERT] wonder. It also increases your water units' movement speed.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_SATELLITES_STRATEGY	[COLOR_TECH_TEXT]Satellites[COLOR_REVERT] reveals the world map. It lets you build the [COLOR_PROJECT_TEXT]SS Docking Bay[COLOR_REVERT] spaceship part and enables construction of the [COLOR_PROJECT_TEXT]Space Elevator[COLOR_REVERT] wonder.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_STEAM_POWER_STRATEGY	[COLOR_TECH_TEXT]Steam Power[COLOR_REVERT] reveals the [COLOR_HIGHLIGHT_TEXT]Coal[COLOR_REVERT] resource and causes workers to build improvements 50%% faster. It also enables the [COLOR_UNIT_TEXT]Ironclad[COLOR_REVERT] (with [COLOR_TECH_TEXT]Steel[COLOR_REVERT]) and the [COLOR_BUILDING_TEXT]Levee[COLOR_REVERT] building. It obsoletes the  [COLOR_BUILDING_TEXT]Hagia Sophia[COLOR_REVERT].	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_ROCKETRY_STRATEGY	[COLOR_TECH_TEXT]Rocketry[COLOR_REVERT] allows you to build [COLOR_UNIT_TEXT]SAM Infantry[COLOR_REVERT], [COLOR_UNIT_TEXT]Guided Missiles[COLOR_REVERT] and [COLOR_UNIT_TEXT]Attack Submarines[COLOR_REVERT] (with [COLOR_TECH_TEXT]Radio[COLOR_REVERT]), and [COLOR_UNIT_TEXT]ICBMs[COLOR_REVERT] and [COLOR_UNIT_TEXT]Tactical Nukes[COLOR_REVERT] (with [COLOR_TECH_TEXT]Fission[COLOR_REVERT]). It enables the [COLOR_PROJECT_TEXT]Apollo Program[COLOR_REVERT] and [COLOR_BUILDING_TEXT]Aluminum Co[COLOR_REVERT] wonder.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_FISSION_STRATEGY	[COLOR_TECH_TEXT]Fission[COLOR_REVERT] enables construction of [COLOR_BUILDING_TEXT]Nuclear Plants[COLOR_REVERT] and the [COLOR_PROJECT_TEXT]Manhattan Project[COLOR_REVERT] wonder. It allows access to the [COLOR_UNIT_TEXT]ICBM[COLOR_REVERT] and [COLOR_UNIT_TEXT]Tactical Nuke[COLOR_REVERT] units.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_POLYTHEISM_STRATEGY	The first to research this tech founds [COLOR_HIGHLIGHT_TEXT]Hinduism[COLOR_REVERT]. It also enables you to build the [COLOR_BUILDING_TEXT]Parthenon[COLOR_REVERT] and [COLOR_BUILDING_TEXT]Temple of Artemis[COLOR_REVERT] wonders.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_HORSEBACK_RIDING_STRATEGY	[COLOR_TECH_TEXT]Horseback Riding[COLOR_REVERT] enables the powerful [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT] (with [COLOR_TECH_TEXT]Archery[COLOR_REVERT]) unit, and later on [COLOR_UNIT_TEXT]Knights[COLOR_REVERT] (with [COLOR_TECH_TEXT]Guilds[COLOR_REVERT]), [COLOR_UNIT_TEXT]Cuirassiers[COLOR_REVERT] (with [COLOR_TECH_TEXT]Military Tradition[COLOR_REVERT]) and [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT] (with [COLOR_TECH_TEXT]Military Tradition[COLOR_REVERT] and [COLOR_TECH_TEXT]Rifling[COLOR_REVERT]). 	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_PAPER_STRATEGY	[COLOR_TECH_TEXT]Paper[COLOR_REVERT] allows you to trade world maps with other civilizations and construct the [COLOR_BUILDING_TEXT]University of Sankore[COLOR_REVERT] wonder.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_MEDITATION_STRATEGY	The first to research this tech founds [COLOR_HIGHLIGHT_TEXT]Buddhism[COLOR_REVERT]. It also allows you to build the [COLOR_BUILDING_TEXT]Monastery[COLOR_REVERT] city improvement and the [COLOR_BUILDING_TEXT]Shwedagon Paya[COLOR_REVERT] wonder.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_BUILDING_SISTINE_CHAPEL_STRATEGY	The [COLOR_BUILDING_TEXT]Sistine Chapel[COLOR_REVERT] causes each specialist in every city to generate culture and increases the culture bonus provided by religious buildings. The [COLOR_BUILDING_TEXT]Sistine Chapel[COLOR_REVERT] has a very high cultural value, and it increases its city's odds of generating a [COLOR_UNIT_TEXT]Great Artist[COLOR_REVERT].	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_ROBOTICS_STRATEGY	[COLOR_TECH_TEXT]Robotics[COLOR_REVERT] enables the extremely powerful [COLOR_UNIT_TEXT]Mechanized Infantry[COLOR_REVERT], [COLOR_UNIT_TEXT]Missile Cruiser[COLOR_REVERT], [COLOR_UNIT_TEXT]Stealth Destroyer[COLOR_REVERT] and [COLOR_UNIT_TEXT]Stealth Bomber[COLOR_REVERT] units. It lets you build the [COLOR_BUILDING_TEXT]Space Elevator[COLOR_REVERT] wonder.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_ENGINEERING_STRATEGY	[COLOR_TECH_TEXT]Engineering[COLOR_REVERT] allows production of the [COLOR_UNIT_TEXT]Pikeman[COLOR_REVERT], excellent against mounted units and the city-smashing [COLOR_UNIT_TEXT]Trebuchet[COLOR_REVERT] siege unit. It increases road movement and allows construction of [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT] and the [COLOR_BUILDING_TEXT]Notre Dame[COLOR_REVERT] wonder.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_TECH_MUSIC_STRATEGY	The first to research [COLOR_TECH_TEXT]Music[COLOR_REVERT] receives a [COLOR_UNIT_TEXT]Great Artist[COLOR_REVERT]. It also allows construction of [COLOR_BUILDING_TEXT]Cathedrals[COLOR_REVERT] and the [COLOR_BUILDING_TEXT]Sistine Chapel[COLOR_REVERT] wonder.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_BUILDING_AIRPORT_STRATEGY	[COLOR_BUILDING_TEXT]Airports[COLOR_REVERT] add an additional trade route, provide an experience bonus to all Air Units and increase the number of Air Units you may house in a city. A city with an [COLOR_BUILDING_TEXT]Airport[COLOR_REVERT] can also airlift one unit per turn to any of your other cities and house four extra Air Units for a total of eight. [COLOR_BUILDING_TEXT]Airports[COLOR_REVERT] also add unhealthiness in cities.	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_UNIT_EXPOSE_SPIES	[ICON_BULLET]Helps Thwart Rival Spies	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_PLAYER_OPTION_QUICK_MOVES_HELP	All of the player's moves are accelerated	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_UNIT_COLLATERAL_DAMAGE	[ICON_BULLET]Causes Collateral Damage (max. %d1%%)	
+CIV4GameTextChanged_BTS.xml	TXT_KEY_REPLACED_BY_BUILDING	Replaced by [LINK=literal]%s1_default_building[\\LINK]	
+CIV4GameText_AdvancedTactics.xml	TXT_KEY_GAME_OPTION_ADVANCED_TACTICS	Advanced Tactics	
+CIV4GameText_AdvancedTactics.xml	TXT_KEY_GAME_OPTION_ADVANCED_TACTICS_HELP	Adds new Combat Results, Diplomacy Options and Great Generals	
+CIV4GameText_AdvancedTactics.xml	TXT_KEY_WEHAVECAPTUREDSOMETHING	We have captured the %s1!	
+CIV4GameText_AdvancedTactics.xml	TXT_KEY_WEHAVELOSTSOMETHING	Our %s1 has been captured!	
+CIV4GameText_AdvancedTactics.xml	TXT_KEY_MISC_WARPRIZES_SUCCESS	We have captured the %s1!	
+CIV4GameText_AdvancedTactics.xml	TXT_KEY_MISC_WARPRIZES_FAILURE	Our %s1 has been captured!	
+CIV4GameText_AdvancedTactics.xml	TXT_KEY_SPELL_GREAT_GENERAL_SPLIT	Detach Great General	
+CIV4GameText_AdvancedTactics.xml	TXT_KEY_MISC_GENERAL_KILLED	A Great General has been killed!	
+CIV4GameText_BetterBTSAI.xml	TXT_KEY_MISC_SHIFT_ALT_PREPARE_WAR	(&lt;SHIFT>+&lt;ALT> to toggle War Plan)	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_FOREST_FIRE	Fire has raged through a forest near the %s1_civ_adjective city of %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FOREST_FIRE_1	A forest fire sparked by lightning has raged across the land near %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FOREST_FIRE_2	Criminals have set fire to the forest near %s2_city in a failed bid to aid their escape from justice.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FOREST_FIRE_3	Tragedy has struck near %s2_city as a village fire spread to the forest, scarring the land for miles.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FOREST_FIRE_1	Organize a replanting effort.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FOREST_FIRE_2	Send emissaries to assist the bereaved.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FOREST_FIRE_3	We are too pressed to spare any aid.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_CITY_RUINS	%s1_civ_adjective explorers have discovered valuable information buried in ruins near %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_CITY_RUINS_ANCIENT_1	Scouts exploring ruins near %s2_city have discovered a cache of knowledge.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_CITY_RUINS_INDUSTRIAL_1	An archaeological expedition to city ruins near %s2_city has uncovered lost treasures, texts and artifacts.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_CITY_RUINS_1	Send commendations to the leaders of the exploring party.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_CITY_RUINS_2	Fund additional exploratory efforts.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_HAPPY_HUNTING	Surplus game harvested by hunters near the %s1_civ_adjective city of %s2_city has fueled a minor population boom.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HAPPY_HUNTING_1	Moose herds near %s2_city have grown particularly large. Our hunters have harvested a cache of surplus food.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HAPPY_HUNTING_2	The people of %s2_city celebrate as the latest caribou hunting season has brought a rich harvest.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HAPPY_HUNTING_3	Deer proliferate through the forest near %s2_city, allowing our hunters to store up extra meat.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HAPPY_HUNTING_1	Send congratulations to the citizens.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_MOTHER_LODE	Gold miners near the %s1_civ_adjective city of %s2_city have struck the mother lode.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_MOTHER_LODE_1	Our gold miners near %s2_city have struck the mother lode! We are rich, rich, rich!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_MOTHER_LODE_1	Cash in on our success!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_WASHED_OUT	Floods have washed out some of the routes near the %s1_civ_adjective city of %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_WASHED_OUT_1	Floods have washed out the routes near %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_WASHED_OUT_1	We will have to send workers to repair them at a later time.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_WASHED_OUT_2	Dispatch emergency crews to repair the damage, without heed to cost.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_AT_THE_SWORD	%s1_civ_adjective soldiers have rallied behind their heroes of the sword.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_AT_THE_SWORD_1	Soldiers from our victorious %s3_unit have rallied behind their combat heroes! Their strength and resolve have firmed! Their proficiency has increased!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_AT_THE_SWORD_1	Decorate our glorious heroes of the sword!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_UNIT_AT_THE_SWORD	Heroes of the Sword	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_MAN_NAMED_JED_1	While hunting, our %s3_unit has discovered a rich supply of a black oil that burns rather hot.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_MAN_NAMED_JED_1	We have no time for such nonsense. Order them to continue scouting.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_MAN_NAMED_JED_2	This substance must be studied to see how we might make use of it.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_INSPIRED_MISSION	Inspired %s3_religion_adjective missionaries from the %s1_civ_adjective city of %s2_city have greatly expanded the influence of their religion!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_INSPIRED_MISSION_1	Inspired %s4_religion_adjective missionaries have spread their influence out of %s2_city. They now seek an audience with you, requesting your assistance in funding additional missions to the %s1_civ_adjective Empire.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_INSPIRED_MISSION_1	We are unable to assist at this time.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_INSPIRED_MISSION_2	We can afford a small donation.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_INSPIRED_MISSION_3	We are pleased to provide any assistance they may require!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_HYMNS_AND_SCULPTURES	Inspired by religious music and sculpture in %s2_city, a new Great Artist has emerged in the %s1_civ_adjective Empire.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HYMNS_AND_SCULPTURES_1	The music played in your %s5_building in %s2_city has inspired a young person, who has grown into a Great Artist!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HYMNS_AND_SCULPTURES_2	The art and sculpture decorating the %s5_building in %s2_city has nurtured the imagination and talents of a new Great Artist!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HYMNS_AND_SCULPTURES_1	Please grant an audience to this promising new artist so that we may decide how best to make use of their talents.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_CARELESS_APPRENTICE	A fire has destroyed the Forge in the %s1_civ_adjective city of %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_CARELESS_APPRENTICE_1	A careless apprentice started a fire at the Forge in %s2_city, during which the facility was destroyed.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_CARELESS_APPRENTICE_2	Brush fires sparked by dry conditions near %s2_city spread to the trade district. The Forge was burned down.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_CARELESS_APPRENTICE_3	Unknown arsonists have torched the Forge in %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_CARELESS_APPRENTICE_1	Organize a rebuilding effort.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_CARELESS_APPRENTICE_2	Investigate the cause of the fire.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_CARELESS_APPRENTICE_3	We are too pressed to spare any attention to a small fire.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FAMINE_1	A dreadful harvest for our %s1_civ_adjective neighbors in the city of %s6_city just across the border has left its people starving. We may have a chance to gain favor with them if we provide humanitarian assistance from %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FAMINE_2	Famine has struck the city of %s6_city. Our people in %s2_city have enough food on hand to assist their %s1_civ_adjective neighbors. We stand ready to provide aid and comfort.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FAMINE_3	Tragedy has struck just beyond your border, as the %s1_civ_adjective Empire struggles to feed all its hungry people in %s6_city. Many will die without enough to eat. Should the citizens of %s2_city move to assist them?	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FAMINE_1	We are unable to assist at this time. Send our condolensces to their leaders.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FAMINE_2	Open the city granaries and send half the stores to our troubled neighbors.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FAMINE_3	Send all of the food stores! Spare no expense to aid our friends!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_NEWS_EVENT_FAMINE_2	The generous people of %s2_city have donated famine relief to the endangered people of %s4_city. This humanitarian effort has brought the two nations closer together.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_NEWS_EVENT_FAMINE_3	The generous people of %s2_city have donated massive famine relief to the starving people of %s4_city. This generous humanitarian effort has brought the two nations much closer together.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FAMINE_OTHER_2	The %s1_civ_adjective people in %s2_city have sent half their stored food to your city of %s4_city to fend off starvation caused by a poor local harvest. This humanitarian relief may represent a positive turning point in your relations.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FAMINE_OTHER_3	The generous %s1_civ_adjective people in %s2_city have sent all of their food stores to your city of %s4_city to prevent famine caused by a poor local harvest. This humanitarian effort has brought your two peoples much closer together!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_SLAVE_REVOLT	A slave revolt has taken place in the %s1_civ_adjective city of %s2_city!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_1	A slave revolt has taken place in %s2_city!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_2	The slaves in %s2_city have rebelled against their keepers. The city is in chaos.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_3	Production at %s2_city has been halted temporarily by rebellious slaves.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_SLAVE_REVOLT_AGAIN	The slaves in %s2_city are still in revolt. Local authorities are bumbling the crackdown.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_AGAIN_1	The local authorities in %s2_city have so far been unable to put down the slave revolt.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_AGAIN_2	The slave revolt in %s2_city continues unabated. The economy there is at a standstill.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SLAVE_REVOLT_1	Crack down on the rebels. Put down the revolt. Re-establish order.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SLAVE_REVOLT_2	Restore order first, then investigate and redress some of the slaves' grievances.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SLAVE_REVOLT_3	We are too busy to be bothered. Leave the matter to the local authorities. (Revolt may continue)	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_BLESSED_SEA_1	Our spiritual leaders are urging us to seek the blessings of the sea![PARAGRAPH:1]The wise masters have divined the way regarding our relationship with the sea. They urge us to embrace the sea, to broaden our influence over it and spread our traditions to new lands.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BLESSED_SEA_1	The Blessed Sea[PARAGRAPH:1]You are tasked by your religious leaders to found cities on new landmasses. If you can build enough cities on new landmasses you will please the masters, who will offer you a choice of rewards.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BLESSED_SEA_HELP	[PARAGRAPH:1]To complete this quest, you must establish or capture cities on %d1 total landmasses of any size, from one-plot islands to massive continents. All landmasses where you have at least one city are counted. Note that additional cities on the same island or continent do not help in this quest. The goal is to establish your presence on a number of different landmasses and thereby prove your mastery over the waters.[PARAGRAPH:1] You will fail this quest if you change state religions, cease to have a state religion or reach [COLOR_TECH_TEXT]Industrialism[COLOR_REVERT] without having met the conditions.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_BLESSED_SEA_DONE	%s4_religion_adjective leaders have bestowed grand rewards upon the %s1_civ_adjective people for completing the Quest of the Blessed Sea!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_BLESSED_SEA_DONE_1	Congratulations! You have met the goals of your religious masters and spread your civilization across the waters. You have completed the quest of The Blessed Sea.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BLESSED_SEA_DONE_1	Establish your religion in a number of your cities.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BLESSED_SEA_DONE_2	Receive a Temple improvement in all cities with five population or more, where your State Religion is present.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BLESSED_SEA_DONE_3	Receive a Great Prophet.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FAIL_BLESSED_SEA	You have failed the quest of The Blessed Sea.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_AIRLINER_CRASH	A %s4_civ_adjective passenger aircraft has crashed within %s1_civ_adjective territory. Neither side has provided any details of the incident.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_AIRLINER_CRASH_1	A %s1_civ_adjective passenger flight has crashed in our territory near %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_AIRLINER_CRASH_1	Allow their recovery teams unfettered access to the crash site.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_AIRLINER_CRASH_2	Stall them for time while your own team learns what it can first.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_AIRLINER_CRASH_3	Deny access. Claim the wreckage and let your engineers pore over it.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_AIRLINER_CRASH_OTHER_1	One of your passenger airliners has crashed in %s1_civ_adjective territory. They have allowed unrestricted access to your recovery teams, building trust between your two nations.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_AIRLINER_CRASH_OTHER_2	One of your passenger airliners has crashed in %s1_civ_adjective territory. They seemed to be unsure how to react at first, but finally allowed your recovery teams access to the crash site.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_AIRLINER_CRASH_OTHER_3	One of your passenger airliners has crashed in %s1_civ_adjective territory. They are denying all access and have claimed the wreckage as their own. This outrage has angered your people and driven a diplomatic wedge between your two nations.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_FARM_BANDITS	Bandits are wreaking havoc in %s1_civ_adjective farmlands.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_1	Farmers outside %s2_city are complaining of bandits robbing them regularly.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_2	Criminal activity has disrupted food production in a farming region outside %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_3	We may need to take action against thieves in %s2_city who are preying upon our farmers.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FARM_BANDITS_1	We need that food. Do whatever it takes to deal with those bandits.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FARM_BANDITS_2	Dispatch some of our troops to hunt down these bandits.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FARM_BANDITS_3	We are too busy to be bothered. Leave the matter to the local authorities. (Banditry may continue)	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_FARM_BANDITS_AGAIN	The %s1_civ_adjective Empire continues to suffer a loss of food production due to banditry.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_AGAIN_1	The local authorities of %s2_city are still struggling to control the bandit activity plaguing our farmers.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_AGAIN_2	Criminals are still preying on our farmers. A more stringent response may be necessary in %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HOLY_MOUNTAIN_1	Our religious leaders believe our people can earn the blessings of the deity if we can reclaim the Holy Mountain![PARAGRAPH:1]They have studied the scriptures with an eye toward locating the holy mountain. They have so far not found it anywhere within our lands and believe that it must lie elsewhere. More study will be needed if we are to identify the sacred location.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HOLY_MOUNTAIN_1	The Holy Mountain[PARAGRAPH:1]You are tasked by your religious leaders to locate, settle near and seize control over the Holy Mountain.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HOLY_MOUNTAIN_HELP	[PARAGRAPH:1]To complete this quest, you must extend your cultural influence and control over the Peak plot that is the Holy Mountain. You may achieve this by divine providence by settling near any Peaks you find. Eventually you may find the right one.[PARAGRAPH:1]Or you may seek further guidance from studying the holy scriptures. If you build %d3 religious buildings (Temples and Monasteries), your religious leaders will solve the puzzle and identify the correct location of the Holy Mountain, which you must then still go and settle near to complete the quest. A %s2_building allows for more coordinated worship and is worth as much as four Temples for the purposes of this quest.[PARAGRAPH:1]You will fail this quest if you change state religions, cease to have a state religion, or reach [COLOR_TECH_TEXT]Industrialism[COLOR_REVERT] without having met the conditions. You will also fail this quest if any other civilization takes control of the Holy Mountain before you do.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FAIL_HOLY_MOUNTAIN	You have failed the quest of The Holy Mountain.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_HOLY_MOUNTAIN_DONE	The faithful %s3_religion_adjective people are inspired by the divine providence of the %s1_civ_adjective Empire for completing the Quest of the Holy Mountain!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HOLY_MOUNTAIN_DONE_1	Your people are inspired by the way in which you have honored your faith.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HOLY_MOUNTAIN_REVEALED_1	Look at the Holy Mountain.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HOLY_MOUNTAIN_DONE_1	Congratulations! You have located the Holy Mountain and extended your cultural influence over the sacred site!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HOLY_MOUNTAIN_REVEALED_1	You have built enough religious buildings for your religious leaders to solve the puzzle and identify the correct location of the Holy Mountain. Settle near that location to complete the quest!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_HORTICULTURE	%s1_civ_adjective horticulturists have harnessed rare local resources to produce remedies.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HORTICULTURE_1	Herbalists have discovered rare and precious plants that grow in abundance only in a certain region near %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HORTICULTURE_2	A medicinal tea cultivated by locals has been found to be effective with treating illnesses. This tea grows only in a specific region near %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HORTICULTURE_3	Certain rare insects found near %s2_city, when harvested and ground into a paste by a reclusive tribe, can be ingested to reduce fever.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HORTICULTURE_1	We should establish internal trade with the locals for these rare commodities.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HORTICULTURE_2	Fund efforts to increase production without endangering the natural resources that produce them.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_NEWS_EVENT_HORTICULTURE_3	%s1_civ_adjective investments in horticulture have paid off! A new minor industry is thriving in %s2_city, boosting health and research.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_FUGITIVE	%s1_civ_adjective authorities are rumored to have captured a fugitive fleeing from %s4_civ_adjective justice. No confirmation is available.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FUGITIVE_1	A fugitive from justice, wanted for crimes in the %s1_civ_adjective Empire, has been discovered hiding out in our territory.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FUGITIVE_2	An assassin wanted for slaying a %s1_civ_adjective official has been caught fleeing through our land.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FUGITIVE_1	Extradite the offender back to his homeland.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FUGITIVE_2	Secretly interrogate the prisoner, hoping to learn sensitive information.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FUGITIVE_3	Release the prisoner. This is none of our affairs.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_INFO_FUGITIVE_4	Our gesture of goodwill toward the %s3_civ_adjective Empire has angered %s6_player.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_INFO_FUGITIVE_5	Word of our interrogation of the fugitive has leaked to %s3_civ_adjective authorities, angering them.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_PESTILENCE	Pestilence has struck %s1_civ_adjective agricultural lands.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_PESTILENCE_1	A plague of locusts have swarmed over a Pasture near %s2_city, destroying all the livestock there.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_PESTILENCE_2	Fire ant armies of massive proportion have laid waste to grazing lands near %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_PESTILENCE_3	Massive colonies of termites have overrun and destroyed some of our agriculture near %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_PESTILENCE_4	A plague of locusts have swarmed over a Plantation near %s2_city, destroying all the crops there.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_PESTILENCE_5	Fire ant armies of massive proportion have laid waste a region of plantations lands near %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_PESTILENCE_1	That's horrible.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_MARATHON	A %s1_civ_adjective soldier has run a great distance to warn of invasion, inspiring defenders all across their lands.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_MARATHON_1	A brave and hardy soldier has run over twenty-six miles on foot to warn of the invasion!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_MARATHON_1	This heroic deed has inspired our entire army!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_FAUX_PAS	A faux pas commited by the %s1_civ_adjective ambassador has caused quite a stir in the %s4_civ_adjective Capital.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FAUX_PAS_1	Our ambassador to the %s1_civ_adjective Empire has committed a faux pas!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FAUX_PAS_1	This gaffe has adversely affected our relations.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FAUX_PAS_OTHER_1	The %s1_civ_adjective ambassador has committed a faux pas. This insulting gaffe has adversely affected our relations with his country.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_JOYOUS_WEDDING	A joyous marriage in the %s3_religion_adjective tradition has forged new bonds between %s1_civ_adjective and %s4_civ_adjective peoples, who both adore the new couple and are pleased with the behavior of the inlaws from the other nation.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_1	Two prominent families, one from our people and one from the %s1_civ_adjective people, have forged an alliance through an arranged %s4_religion_adjective marriage.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_2	One of our prominent young noble ladies has fallen in love with a %s1_civ_adjective nobleman and they are to be wed in the %s4_religion_adjective tradition.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_3	A %s1_civ_adjective industrial heiress has received a marriage proposal from one of our prominent business tycoons. Their %s4_religion_adjective wedding will occur this year.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_JOYOUS_WEDDING_1	Send well wishes and a token wedding gift.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_JOYOUS_WEDDING_2	Send hearty congratulations and a generous wedding gift.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_JOYOUS_WEDDING_3	Announce a national celebration, send an outlandish wedding gift and donate generously to religious organizations in the name of the newlyweds.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_JOYOUS_WEDDING_OTHER_1	A %s5_religion_adjective wedding between one of our citizens and one from the %s1_civ_adjective Empire has drawn no protest from them, and in fact little interest at all. Some family members of the newlyweds are griping but the incident appears to have passed without much bitterness.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_JOYOUS_WEDDING_OTHER_2	A %s5_religion_adjective wedding between one of our citizens and one from the %s1_civ_adjective Empire has drawn a blessing from them with generous wedding gifts. Our people are pleased by this gesture.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_JOYOUS_WEDDING_OTHER_3	A %s5_religion_adjective wedding between one of our citizens and one from the %s1_civ_adjective Empire has been honored by a national holiday, including outlandish wedding gifts and donations to our religious institutions. Our people are thrilled by this gesture.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_WEDDING_FEUD	Nobles from a %s4_civ_adjective family are angry with their new %s1_civ_adjective inlaws for holding a %s3_religion_adjective wedding against their wishes. This event has drawn great interest within these nations as feuding has broken out over the dispute.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_1	A politically arranged marriage between one of our noble families and another %s1_civ_adjective family has collapsed over feuding about whether to hold the marriage in their tradition or to make it a %s4_religion_adjective wedding. Tensions are escalating.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_2	Two prominent families are feuding over their children, who eloped together against everybody else's wishes. %s1_civ_adjective leaders are particularly upset that the marriage was held in our %s4_religion_adjective tradition.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_3	An industrial heiress from the %s1_civ_adjective Empire has received a marriage proposal from one of our prominent business tycoons. The marriage is going forward, but the families on both sides are feuding over which religion should preside over the ceremony. The couple has decided on a %s4_religion_adjective wedding to the great annoyance of the bride's family.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_WEDDING_FEUD_1	Send well wishes and a token wedding gift, trying not to further anger our neighbors.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_WEDDING_FEUD_2	Send hearty congratulations and a generous wedding gift.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_WEDDING_FEUD_3	Announce a national celebration, send an outlandish wedding gift and donate generously to our religious organizations in the name of the newlyweds. This is likely going to trigger war!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_WEDDING_FEUD_OTHER_1	A %s5_religion_adjective wedding between one of our citizens and one from the %s1_civ_adjective Empire has angered our people. Our rivals have granted no special gifts or attention, though, so our people are merely grumbling and fuming.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_WEDDING_FEUD_OTHER_2	A %s5_religion_adjective wedding between one of our citizens and one from the %s1_civ_adjective Empire has drawn our rivals' blessing with generous wedding gifts. Our people are outraged by this insult to our faith.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_WEDDING_FEUD_OTHER_3	A %s1_religion_adjective wedding between one of our citizens and one from %s2_civ has been honored by a national holiday by our rivals, including outlandish wedding gifts and donations to their religious institutions. This insult against our religious traditions has outraged our populace. Should we declare a holy war upon the unbelievers?	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_WEDDING_FEUD_2_HELP	[ICON_BULLET]%D1[ICON_HAPPY] in all cities with %F3_religion for %d2 [NUM2:turn:turns]	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_WEDDING_FEUD_3_HELP	[ICON_BULLET][COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT] relations boost with all %F2_religion leaders	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_LEFT_AT_ALTAR	A collapsed politically arranged wedding and a jilted bride are at the center of new tensions between the %s4_civ_adjective and %s1_civ_adjective Empires.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_LEFT_AT_ALTAR_1	A politically arranged marriage between one of our noblemen and a woman from a noble %s1_civ_adjective family has collapsed into feuding as the groom backed out of the wedding on the wedding day.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_LEFT_AT_ALTAR_2	Two prominent families, one from our people and one from the %s1_civ_adjective Empire, are feuding over their children. A groom, from our family, jilted his would-be bride by walking his cold feet right on out of the temple, insulting and outraging his would-be inlaws.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_LEFT_AT_ALTAR_3	An %s1_civ_adjective industrial heiress has been left at the altar by one of our prominent business tycoons, who had proposed marriage to her. The fiasco has outraged the families on both sides, who are now feuding over the collapsed marriage.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_LEFT_AT_ALTAR_1	Send condolences to both families and urge them to seek a peaceful resolution to their grievances.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_SPICY	A %s1_civ_adjective chef has identified a new and valuable type of spice.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_SPICY_1	An innovative chef has discovered a new type of spice, which grows only in a forest near %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SPICY_1	That sounds like welcome news for our economy.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SPICY_2	Commit our government to harvesting this new resource immediately.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_TORNADO_1	Vicious tornadoes carved a path of destruction through the %s1_civ_adjective Empire.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_TORNADO_2	%s1_civ_adjective infrastructure was wiped out by a deadly thunderstorm and the violent twisters it spawned.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_TORNADO_1	The heavens opened up and down came the fist of retribution. Terrible twisting rages of air wiped away our %s8_improvement.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_TORNADO_2	An extremely violent weather system filled with powerful tornadoes wrecked our %s8_improvement.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_TORNADO_3	A perfect storm spawned numerous F5 Class tornadoes, carving a path of destruction across our lands, smashing our %s8_improvement.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TORNADO_1	Do what we can to aid the survivors.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_BABY_BOOM_1	%s1_civ_adjective soldiers and their wives are celebrating the end of war by creating a baby boom.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_BABY_BOOM_2	The %s1_civ_adjective population is growing rapidly as a post-war baby boom sweeps through their settlements.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_BABY_BOOM_1	Our soldiers, returning from war, have dedicated themselves to peace and to raising families. Our civilization is experiencing a baby boom!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BABY_BOOM_1	Our people are thriving in peace time.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_BARDS_TALE_1	A heartrending ballad written by an artist in %s2_city is inspiring cultural pride amongst the %s1_civ_adjective people.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_BARDS_TALE_2	A songwriter from %s2_city has gained local and national recognition, strengthening %s1_civ_adjective culture.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_BARDS_TALE_1	A songwriter from %s2_city has composed a heartrending ballad, which is growing in popularity amongst the people there.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BARDS_TALE_1	We are glad to see that the local culture is thriving.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BARDS_TALE_2	Fund the writing of a play that revolves around this ballad, to be performed at the local Theatre.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BARDS_TALE_3	See that the artist is given a recording contract.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_LOOTERS	The %s4_civ_adjective city of %s5_city is suffering civil unrest. Riots and looting have broken out.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_LOOTERS_1	There is civil unrest near the %s1_civ_adjective city of %s6_city. Our scouts in the area tell us there may be an opportunity to aggravate the situation.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_LOOTERS_2	There are riots taking place near the %s1_civ_adjective city of %s6_city. Our agents stand ready to add fuel to these fires, to stir up additional trouble.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_LOOTERS_1	Their problems are none of our affairs. Tell our operatives to stand down.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_LOOTERS_2	See that aid reaches those organizing local criminal activity. Be discrete.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_LOOTERS_3	Unleash our agents. Allow them to capitalize on any opportunities for mischief-making that they can find.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_LOOTERS_4	Our agents have been exposed!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_LOOTERS_OTHER_1	Civil unrest near %s4_city has led to riots and looting.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_LOOTERS_OTHER_2	Civil unrest near %s4_city has led to riots and looting. Multiple improvements have been destroyed!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_LOOTERS_OTHER_3	Massive civil unrest near %s4_city has led to riots and looting. Both inside and outside the city, some of our improvements have been destroyed by looters.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_LOOTERS_OTHER_4	We have identified %s1_civ_adjective agents who are systematically and actively aggravating the situation in %s4_city!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_LOOTERS_3_HELP	[ICON_BULLET]Between %d1 and %d2 buildings destroyed in %s3_city	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_NUM_BUILDINGS_DESTROYED	%d1 %s2_civ_adjective [NUM1:building has:buildings have] been destroyed in %s3_city	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_BROTHERS_IN_NEED	%s1_civ_adjective leaders have met with their %s4_civ_adjective %s3_religion_adjective brothers to discuss the possibility of sending them strategic resources to aid in their war effort.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_BROTHERS_IN_NEED_1	Our brothers in the true %s4_religion_adjective faith who dwell in the %s1_civ_adjective Empire are at war. They lack for vital strategic resources that we have in abundance. This is our chance to come to their aid!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BROTHERS_IN_NEED_1	Although our brothers are in need, it is best not to get involved at this time.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BROTHERS_IN_NEED_2	Offer to send them a large supply of Copper for weapon making.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BROTHERS_IN_NEED_3	Provide Iron so that they may craft strong weaponry.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BROTHERS_IN_NEED_4	Send large herds of war-trained Horses to our brothers.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BROTHERS_IN_NEED_5	War Elephants are what they need. Send in the jumbos!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BROTHERS_IN_NEED_6	Their vehicles require diesel. Tanks cannot roll without fuel!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BROTHERS_IN_NEED_7	Anything for our brothers in need. There is no limit to our support.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BROTHERS_IN_NEED_OTHER_2	Our %s1_civ_adjective religious brothers have gifted us with [COLOR_HIGHLIGHT_TEXT]Copper[COLOR_REVERT] to aid us in our war effort!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BROTHERS_IN_NEED_OTHER_3	Our %s1_civ_adjective religious brothers have gifted us with [COLOR_HIGHLIGHT_TEXT]Iron[COLOR_REVERT] to aid us in our war effort!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BROTHERS_IN_NEED_OTHER_4	Our %s1_civ_adjective religious brothers have gifted us with [COLOR_HIGHLIGHT_TEXT]Horses[COLOR_REVERT] to aid us in our war effort!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BROTHERS_IN_NEED_OTHER_5	Our %s1_civ_adjective religious brothers have gifted us with [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT] to aid us in our war effort!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BROTHERS_IN_NEED_OTHER_6	Our %s1_civ_adjective religious brothers have gifted us with [COLOR_HIGHLIGHT_TEXT]Oil[COLOR_REVERT] to aid us in our war effort!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BROTHERS_IN_NEED_OTHER_7	Our %s1_civ_adjective religious brothers have gifted us with [COLOR_HIGHLIGHT_TEXT]Uranium[COLOR_REVERT] to aid us in our war effort!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_HURRICANE	The %s1_civ_adjective city of %s2_city took a direct hit from a powerful hurricane.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HURRICANE_1	A powerful hurricane has made a direct hit on %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HURRICANE_1	Buildings have been destroyed.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HURRICANE_2	Citizens have been killed.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_CYCLONE	A massive cyclone has made landfall at the %s1_civ city of %s2_city, causing widespread wind and storm surge damage.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_CYCLONE_1	A powerful cyclone originating in the southern hemisphere has made landfall at %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_TSUNAMI	A tsunami more than fifteen meters high has rolled over the %s1_civ_adjective city of %s2_city. The destruction is unprecedented in world history.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_TSUNAMI_1	A wall of water more than fifteen meters high has struck without warning at %s2_city. The tsunami has caused unprecedented destruction!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TSUNAMI_1	The city now lies in ruins. All life has been lost, all property obliterated.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TSUNAMI_2	The city has suffered massive loss of life and property. Recovery will take decades.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TSUNAMI_2_HELP	[ICON_BULLET]Up to %d1 buildings destroyed in %s2_city	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_MONSOON	Monsoon flooding, more severe than usual for %s2_city, has visited disaster upon the %s1_civ_adjective people there.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_MONSOON_1	Although %s2_city is used to some flooding during monsoon season, a rare and powerful monsoon has brought devastatingly strong floods this year.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_BLIZZARD_1	Severe winter weather is plaguing the %s1_civ_adjective people near their city of %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_BLIZZARD_2	A blizzard has dumped disastrous quantities of snow upon a %s1_civ_adjective region near %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_BLIZZARD_1	A blizzard has dumped several meters of snow on a region near %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_BLIZZARD_2	Massive snowfall has buried a region of our territory near %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BLIZZARD_1	The rescue and recovery efforts are best handled by the locals.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BLIZZARD_2	Organize and send assistance to help them dig out and to preserve threatened facilities.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_VOLCANO_1	A volcanic eruption near %s2_city has devastated the countryside. Fortunately, the %s1_civ_adjective city itself was spared.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_VOLCANO_2	The earth has spewed forth lava and ash from a previously dormant volcano near the %s1_civ_adjective city of %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_VOLCANO_1	A volcano has erupted near %s2_city, spewing deadly ash clouds, lava flows, and mud- and debris-filled snow melts.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_VOLCANO_1	Send what aid we can to the survivors. Be thankful that the city itself was not struck.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_VOLCANO_1_HELP	[ICON_BULLET]Suffer loss of plot improvements near the eruption	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_DUSTBOWL	Excessive farming with poor techniques has led to soil erosion and a dustbowl effect in the %s1_civ_adjective Empire.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_DUSTBOWL_CONT	%s1_civ_adjective farmers continue to suffer loss of their land due to ongoing dust storms sweeping across the plains.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_DUSTBOWL_1	Excessive tilling of the soil on the open plains has caused massive wind erosion and created a dustbowl effect, complete with dust storms.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_DUSTBOWL_CONT_1	The dustbowl effect continues. Another of our Farms has been wiped out by soil loss and by farmers abandoning their steads.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_DUSTBOWL_1	We need that food. Do whatever it takes to figure out how to mitigate the erosion of the soil and end the dust storms.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_DUSTBOWL_2	We cannot afford to spend gold on this problem. Leave the matter to the local authorities.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_DUSTBOWL_2_HELP	[ICON_BULLET]Significant chance the dustbowl will continue	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_PARROTS	%s1_civ_adjective merchants are now selling caged parrots as exotic pets.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_PARROTS_1	Tamers have figured out how to farm the abundant supply of parrots within one of our tropical forest regions.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_PARROTS_1	Parrots make fine pets. We should promote them as one of our trade goods.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_JADE	%s1_civ_adjective merchants are now selling jade carvings in small quantities.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_JADE_1	A rich source of jade has been found amongst the veins of iron at one of our mines.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_JADE_1	We can sell the precious jade for additional profit.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_BLACK_PEARLS	%s1_civ_adjective merchants are now selling black pearls in larger quantities.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_BLACK_PEARLS_1	Locals have figured out a way to obtain a higher yield of black pearls. They are guarding their secret with great care.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BLACK_PEARLS_1	Let them keep the secret. We are happy enough to tax their higher profits.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_SALTPETER	%s1_civ_adjective merchants are now selling gunpowder in larger quantities.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_SALTPETER_1	Our bat herds in the hills near %s2_city, legendary in quantity, are now providing us surplus sources of saltpeter for use in gunpowder.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SALTPETER_1	Our ability to manufacture large amounts of gunpowder should prove lucrative.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SALTPETER_HELP	[ICON_BULLET]+1[ICON_COMMERCE] in %d1 additional [NUM1:plot:plots]	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_CLUNKER_COAL	%s1_civ_adjective merchants are offering discounts on tons of their clunker coal, which is filled with impurities.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_CLUNKER_COAL_1	Most of the coal being mined from one of our sites is thick with rock, shale, and other impurities. We are stuck with a source of clunker coal!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_CLUNKER_COAL_1	Clunker coal? What a mess. Less valuable per ton, but it still burns, right? Just deal with it.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_SOUR_CRUDE	%s1_civ_adjective merchants are offering discounts on barrels of their sour crude oil, which is filled with impurities.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_SOUR_CRUDE_1	Most of the crude oil being pumped from one of our sites is thick with sulfur and other impurities. We are stuck with a source of sour crude!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SOUR_CRUDE_1	Sour crude? What a mess. Less valuable per barrel, but it still burns, right? Just deal with it.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_TRUFFLES	%s1_civ_adjective people are bragging about their truffles, claiming they are the most delicious in the world.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_TRUFFLES_1	A rich source of truffles has been discovered in a series of caves. The locals have begun to farm them.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRUFFLES_1	Truffles! How delicious. Our people eat richly, do they not?	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_SEA_TURTLES	%s1_civ_adjective people are now harvesting sea turtles on an annual basis.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_SEA_TURTLES_1	The locals have figured out the mating cycles of the sea turtles who flock to the shore in massive quantities. They have begun to harvest the turtles and eggs, in a way that does not endanger the long term survival of the creatures.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SEA_TURTLES_1	Turtles! What will they think of next?	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_TIN	The %s1_civ_adjective Empire has become the world's leading producer of tin.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_TIN_1	A rich source of Tin has been discovered in the hills!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TIN_1	Excellent news. Among other things, this will boost our production of bronze.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_PRAIRIE_DOGS	%s1_civ_adjective merchants are now selling domesticated prairie dogs as exotic pets.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_PRAIRIE_DOGS_1	Tamers have figured out how to domesticate the abundant supply of prairie dogs on the open range. They are now selling these as pets.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_PRAIRIE_DOGS_1	Prairie dogs? This is making us money? That's good, I suppose.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_ICE_SCULPTURE	A new art form involving the carving of large blocks of ice has been created in the icy tundra near the %s1_civ_adjective city of %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_ICE_SCULPTURE_1	An artist in the frozen tundra near %s2_city has perfected a means of crafting beautiful ice sculptures.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_ICE_SCULPTURE_1	We are glad to see that the local culture is thriving.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_ICE_SCULPTURE_2	This is an endeavor worth pursuing. Fund an effort to master this new art form and incorporate it in to the local culture.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_APPLESEED	A %s1_civ_adjective folk hero has caused the creation of a new forest of apple trees.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_APPLESEED_1	A passionate young man has undertaken a crusade to plant as many new apple trees as he can.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_MINING_ACCIDENT	A tragic mining accident near the %s1_civ_adjective city of %s2_city has claimed the lives of hundreds of their miners.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_MINING_ACCIDENT_1	A minor earthquake near %s2_city has caused the collapse of a nearby mine. Trapped miners have perished by the hundreds.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_MINING_ACCIDENT_2	A massive explosion has destroyed one of our mines. The cause is unknown, but hundreds are dead.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_MINING_ACCIDENT_3	Tragedy has struck near %s2_city as poisonous gases filled a mine and struck down most of the miners who were inside.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_MINING_ACCIDENT_1	Organize a rebuilding effort, with emphasis on improved mining safety.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_MINING_ACCIDENT_2	Send emissaries to assist the bereaved.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_MINING_ACCIDENT_3	We are too pressed to spare any aid for the city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_BREAKTHROUGH_1	%s1_civ_adjective researchers are rumored to have made a technological breakthrough, rapidly advancing their progress.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_BREAKTHROUGH_2	Discoveries made by the %s1_civ_adjective Empire have boosted progress on their current research project.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_BREAKTHROUGH_1	Our researchers have made a technological breakthrough, rapidly advancing their progress.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BREAKTHROUGH_1	Good job, knowledge is power!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_SETBACK_1	%s1_civ_adjective researchers are rumored to have suffered a major setback, slowing their progress.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_SETBACK_2	%s1_civ_adjective discoveries have turned out to be false! This dead end result has slowed their current research project.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_SETBACK_1	Our researchers have experienced a setback in their efforts.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SETBACK_1	Progress sometimes comes more slowly than we would wish.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_RUNNING_BULLS	"Running With the Bulls", an annual ritual practiced by the people of %s2_city, is gaining worldwide renown.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_RUNNING_BULLS_1	The people of %s2_city have launched a popular new tradition called "Running With the Bulls."	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_RUNNING_BULLS_1	We are glad to see that the local culture is thriving.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_RUNNING_BULLS_2	We should make this a national holiday!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_GREAT_DEPRESSION	Corporate fraud within %s6_corporation, headquartered in the %s1_civ_adjective Empire, has collapsed the company's stock price, taking the rest of the market down with it and triggering a global economic depression.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_GREAT_DEPRESSION_1	Corporate fraud within our own [COLOR_HIGHLIGHT_TEXT]%s11_corporation[COLOR_REVERT] has collapsed the company's stock price, taking the rest of the market down with it and triggering a global economic depression.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_GREAT_DEPRESSION_1	There is really not much we can do about this, is there?	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_GREAT_DEPRESSION_HELP	[ICON_BULLET]All nations in the world suffer the loss of %d1%% their national treasury.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_BERMUDA_TRIANGLE	%s1_civ_adjective ships and planes have disappeared without a trace in the Bermuda Triangle!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_BERMUDA_TRIANGLE_1	On a sunny day, with no storms in sight, one of our vessels has been lost at sea. Not only is the cause unknown, but there is no trace whatsoever of the ship or its crew or cargo. Several smaller vessels and some airplanes in the same general region also have vanished without a trace. Rumors are flying concerning this mystery. This region has been dubbed by the press as the Bermuda Triangle, named after a small island nearby.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BERMUDA_TRIANGLE_1	Our investigations have turned up no worthwhile results? This is most peculiar.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_PATRON_OF_KNOWLEDGE_1	A patron of knowledge from the %s1_civ_adjective city of %s2_city has donated a cache of rare writings to the local Library.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_PATRON_OF_KNOWLEDGE_2	The Library in the %s1_civ_adjective city of %s2_city has received an influx of precious writings thanks to the generosity of a wealthy family.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_PATRON_OF_KNOWLEDGE_1	Upon his passing, a patron of knowledge from %s2_city has willed his extensive collection of writings to the library.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_PATRON_OF_KNOWLEDGE_2	A wealthy family from %s2_city has discovered a cache of lost and rare writings in one of their vaults. They have opted to give these materials to the library.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_PATRON_OF_KNOWLEDGE_1	Disperse the writing to our researchers so that we may obtain some immediate benefit.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_PATRON_OF_KNOWLEDGE_2	Fund the expansion of the Library to include a new wing housing all of these precious writings.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_MASTER_SMITH	A grand master blacksmith has overseen improvements to the Forge in the %s1_civ_adjective city of %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_MASTER_SMITH_1	%s2_city has produced a grand master blacksmith who has overseen the expansion and upgrade of the Forge to increase its efficiency.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_MASTER_SMITH_1	We applaud the accomplishments of our revered grand master blacksmith.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_RURAL_FARMERS_1	Enterprising %s1_civ_adjective grocers in %s2_city have struck a deal to import surplus food from rural farmers outside the normal range of city business.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_RURAL_FARMERS_2	The Grocer in the %s1_civ_adjective city of %s2_city is becoming renowned for its superior selection, quality and quantity of foodstuffs.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_RURAL_FARMERS_1	A grocer in %s2_city has struck a deal with rural farmers who live outside the normal range of business of any major city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_RURAL_FARMERS_1	This arrangement brings more food to the city? Excellent.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_MONEY_CHANGERS_1	The Market in %s2_city has become renowned as a worldwide center of dealings in global currency. This is bolstering %s1_civ_adjective profits.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_MONEY_CHANGERS_2	Money changers have flocked to the Market in the %s1_civ_adjective city of %s2_city, attracting all manner of customers in need of changing one nation's currency for another's.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_MONEY_CHANGERS_1	The Market in %s2_city has attracted a number of prominent money changers and is becoming renowned for its dealings involving foreign currency.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_MONEY_CHANGERS_1	These dealings in foreign currency increase the Market's profitability? That is welcome news.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_BOWYER	A master bowyer has developed techniques that improve the strength of all %s1_civ_adjective war bows.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_BOWYER_1	A master bowyer has crafted a bow design that works particularly well with our native wood.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BOWYER_1	We will include the new design principles in all of our bowmaking.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_HORSESHOE	A master smith has developed improved horseshoes, boosting the chance for %s1_civ_adjective mounted units to strike and then escape.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HORSESHOE_1	A brilliant smith has developed significant innovation in the design of horseshoes.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HORSESHOE_1	We will utilize the improved shoes for all of our mounted units.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_CHAMPION	A champion unit has emerged from the war games conducted by the %s1_civ_adjective military. This unit is rumored to be the strongest and toughest amongst all their forces.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_CHAMPION_1	Our military leaders have held internal war games to strengthen our training and grit. One unit has emerged as the champion.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_CHAMPION_1	Decorate our champions! We shall celebrate their achievement.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_CHAMPION_HELP	[ICON_BULLET]Our %s1_unit will gain the [COLOR_HIGHLIGHT_TEXT]%s2_promotion[COLOR_REVERT] promotion	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_MOTOR_OIL	%s1_civ_adjective chemists have developed an advanced refinement process for motor oil.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_MOTOR_OIL_1	Our chemists have developed an improved motor oil that lasts longer and lubricates engines better.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_MOTOR_OIL_1	Authorize the selling of the improved motor oil on the open market.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_MOTOR_OIL_2	Fund upgrades to our army's vehicle fleet to make use of the new formula.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_FEDERAL_RESERVE	%s1_civ_adjective economists have developed advanced economic theory pertaining to inflation costs.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FEDERAL_RESERVE_1	Our economists have devised a system of regulating interest rates to help normalize economic growth.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FEDERAL_RESERVE_1	Let the free market make use of these techniques.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FEDERAL_RESERVE_2	Fund a national Federal Reserve Bank to carry out the new policy.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_ELECTRIC_COMPANY	Motivated by freedom and quality of life in the %s1_civ_adjective Empire, the power company workers restore electricity outages rapidly, making the citizens there even happier.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_ELECTRIC_COMPANY_1	The workers for our electric companies are so happy and well motivated, they repair damaged lines quickly no matter the conditions.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_ELECTRIC_COMPANY_1	Freedom is the best motivator. We are lucky to have workers like these, who keep the power flowing to our citizenry.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_HINDENBERG	A hydrogen-filled %s1_civ_adjective airship has exploded and crashed. Their government is scrambling to prevent a reoccurrence.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HINDENBERG_1	Reckless merchants used hydrogen instead of helium to fill their dirigibles and one has caught fire and crashed in a spectacularly fatal accident.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HINDENBERG_1	Outlaw the use of hydrogen in lighter-than-air vehicles.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HINDENBERG_2	Fund a drive to regulate air traffic, improve safety and ensure the viability of commercial air travel.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_COMET_FRAGMENT	A comet fragment has struck the earth in a remote tundra region, obliterating a whole forest. %s1_civ_adjective scientists are scrambling like mad to learn more about potential threats posed to our planet by other rogue heavenly bodies: comets, asteroids, meteors, and whatever else may be lurking out there.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_COMET_FRAGMENT_1	A comet fragment has crashed to earth in a remote tundra region, obliterating an entire forest and speeding the earth's rotation by two seconds.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_COMET_FRAGMENT_1	What if something even bigger is out there, on a collision course with our world? If so, we must find it. We must get into space!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_SUBWAY	The %s1_civ_adjective metropolis of %s2_city has constructed a mass transit marvel: an underground railroad network. They are calling it the Subway.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_SUBWAY_1	The glorious city of %s2_city has added an underground railroad network to its mass transit system, greatly boosting commercial traffic.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SUBWAY_1	This is a model for the entire world to follow! Great work.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_GOLD_RUSH_1	A gold rush has begun at the %s1_civ_adjective city of %s2_city. Fortune seekers from across the world travel there in hopes of getting rich quickly.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_GOLD_RUSH_2	The %s1_civ_adjective Empire is enjoying a population increase at %s2_city thanks to a gold rush bringing in prospectors and hopefuls.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_GOLD_RUSH_1	Small amounts of gold panned from streams have sparked a gold rush to the area by immigrants looking to strike it rich.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_GOLD_RUSH_2	Prospectors have successfully mined newly discovered veins of gold near %s2_city. The news has produced a gold rush.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_GOLD_RUSH_1	When the boom passes, many of the immigrants will settle down.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_GOLD_RUSH_2	Fund efforts to motivate more of the gold seekers to settle down when the rush ends.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_INFLUENZA	A deadly influenza epidemic has broken out amongst %s1_civ_adjective people, originating in the city of %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_INFLUENZA_1	An influenza epidemic has struck hard at the people of %s2_city. Most have fallen ill and many are dying.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_INFLUENZA_1	Spend whatever is necessary to quarrantine the city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_INFLUENZA_2	If only we had knowledge of Medicine!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_INFLUENZA_HELP_2	[ICON_BULLET]The virus spreads to some nearby cities and reduces their population by %d1	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_INFLUENZA_HIT_CITY	The Influenza virus has struck %s1_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_SOLO_FLIGHT	A daring %s1_civ_adjective pilot is the first to fly solo around the world, lifting spirits across the globe and winning admiration from all of humanity.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_SOLO_FLIGHT_1	A daring pilot has successfully flown around the globe in a single person airplane.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SOLO_FLIGHT_1	This grand achievement has won admiration from people across the globe!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SOLO_FLIGHT_HELP_1	[ICON_BULLET]Receive [COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT] attitude from all leaders	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_ANTELOPE	Antelope are thriving in %s1_civ_adjective territory well enough to serve as a new resource.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_ANTELOPE_1	With removal by man of natural predators, the antelope population has grown large enough to serve as a sustained food source.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_ANTELOPE_1	That sounds like welcome news for our economy.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_ANTELOPE_2	Commit our government to harvesting this new resource immediately.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_WHALEOFATHING	A new source of Whales has been located off the %s1_civ_adjective coast.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_WHALEOFATHING_1	Sailors have spotted a new population of whales.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_WHALEOFATHING_1	That sounds like welcome news for our economy.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_HIYOSILVER	%s1_civ_adjective miners have struck it rich with the discovery of new veins of Silver ore.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HIYOSILVER_1	Prospectors have discovered rich new veins of Silver ore.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HIYOSILVER_1	That sounds like welcome news for our economy.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HIYOSILVER_2	Commit our government to harvesting this new resource immediately.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_APPLESEED_1	How many trees were planted? That's amazing!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_WININGMONKS	%s1_civ_adjective monks who have grown their vinyards over the years are now producing Wines in significant quantities.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_WININGMONKS_1	Monks from the Monastery in %s2_city have grown their private vinyards large enough for them to become nationally significant.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_WININGMONKS_1	That sounds like welcome news for our economy.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_WININGMONKS_2	Commit our government to harvesting this new resource immediately.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_INDEPENDENTFILMS	%s1_civ_adjective filmmakers from %s2_city have managed to wrest control over a slice of the Hit Movies market.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_INDEPENDENTFILMS_1	A community of independent film producers based in %s2_city has managed to secure a slice of the Hit Movies market.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_INDEPENDENTFILMS_1	That sounds like welcome news for our economy.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_INDEPENDENTFILMS_HELP_1	[ICON_BULLET]%D1%F2 in %s3_city	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_ANCIENTOLYMPICS	The %s2_city Games have become a unifying event for all those who are able to participate.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_ANCIENTOLYMPICS_1	In honor of our gods, the city of %s2_city has organized and hosted a grand series of Games. Athletes from all over the nation travel there to compete.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_ANCIENTOLYMPICS_1	These Games are honorable, but overall their importance to our civilization is minor.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_ANCIENTOLYMPICS_2	These Games are grand! We should invite and sponsor athletes from neighboring civilizations to attend.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_ANCIENTOLYMPICS_HELP_2	[ICON_BULLET]Receive a %D1 diplomatic boost with all your close neighbors	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_MODERNOLYMPICS	The modern %s2_city Games have begun, with the full richness of the ancient athletic traditions brought back for all the world to enjoy.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_MODERNOLYMPICS_1	In the spirit of international cooperation, the city of %s2_city has decided to revive its ancient tradition of the Games, forming this in to a world event.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_MODERNOLYMPICS_1	The Games will be a grand spectacle, with athletes from all nations invited to attend!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_INTERSTATE	The %s1_civ_adjective Empire has begun construction of a modern national highway network that shall be the envy of the world.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_INTERSTATE_1	Our engineers have conceived a national highway system of divided highways free of all traffic stops, built in straight lines on smooth grades.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_INTERSTATE_1	Construction will begin as soon as plans are finalized.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_EARTHDAY	The %s1_civ_adjective Empire has announced the first annual Earth Day, crusading for the cause of Environmentalism.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_EARTHDAY_1	Our government announces the first annual Earth Day to raise awareness of all environmental issues among the populace.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_EARTHDAY_1	Enshrine the day as a national holiday.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_EARTHDAY_2	Fund an international awareness effort in addition to our local efforts.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_FREEDOMCONCERT	The %s1_civ_adjective Empire has donated funds raised at a charity event to the cause of religious freedom.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FREEDOMCONCERT_1	Musical artists from across our nation have gathered in %s2_city to raise money and awareness for the cause of religious freedom.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FREEDOMCONCERT_1	Donate the money raised to the local temples.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FREEDOMCONCERT_2	Use the money to fund a public service ad campaign for religious freedom and tolerance.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FREEDOMCONCERT_HELP_2	[ICON_BULLET]Spread each of the religions present to a new city	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_AXE_HAFT_1	%s1_civ_adjective craftsmen have improved the design of their axe manufacturing. These are the finest axes in the world.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_AXE_HAFT_1	Our craftsmen have devised a technique for improving the balance of our axes.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_AXE_HAFT_1	Convert our axemen to the new axe handles immediately.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_TOWER_SHIELD_1	%s1_civ_adjective Melee units are now deployed with new, larger shields, improving their defense versus Archery units.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_TOWER_SHIELD_1	Invention of the tower shield has provided our foot soldiers with some protection against archers.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TOWER_SHIELD_1	Issue shields to our troops as supplies permit.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_SMOKELESS_POWDER_1	%s1_civ_adjective weaponsmiths have invented smokeless powder, giving their musketmen a significant advantage.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_SMOKELESS_POWDER_1	The invention of smokeless powder has improved the effectiveness of our muskets on the battlefield.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SMOKELESS_POWDER_1	Convert our musketmen to the new gunpowder.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_STRONGER_FITTINGS_1	%s1_civ_adjective Crossbow units are rumored to be carrying improved weapons. Specifics on how or why their bows are stronger remains a mystery.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_STRONGER_FITTINGS_1	Weaponsmiths have improved the strength and durability of fittings used to make crossbows. This allows for stronger tension and improved power.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_STRONGER_FITTINGS_1	Commission the new fittings for all of our crossbow units.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_FIRING_PINS_1	%s1_civ_adjective Grenadier units have been issued more effective explosives: bombs that do not need a fuse.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FIRING_PINS_1	A master smith has devised a firing pin for our grenades, ending the need to use fuses.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FIRING_PINS_1	Supply our Grenadiers with the improved explosives.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_RIFLED_CANNON_1	%s1_civ_adjective Cannon units can now shoot farther and more accurately thanks to improved barrel design.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_RIFLED_CANNON_1	Our knowledge of rifled barrels has been successfully applied to new cannon designs.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_RIFLED_CANNON_1	Do we want stronger cannon? Is that a trick question?	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_METAL_DECKS_1	The %s1_civ_adjective Empire has halted production of aircraft carriers with wooden decks. Their decks are now made of steel.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_METAL_DECKS_1	Our shipmasters have concluded that switching to steel decks on our carriers instead of wooden decks would be to our advantage.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_METAL_DECKS_1	Make it so.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_LONG_RANGE_FIGHTERS_1	The %s1_civ_adjective Empire has developed a long range Fighter plane.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_LONG_RANGE_FIGHTERS_1	Our engineers have developed an advanced fighter design that is lighter and carries slightly more fuel, extending its operational range.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_LONG_RANGE_FIGHTERS_1	Begin production of the new fighter.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_HALBERD_1	%s1_civ_adjective Pikemen have begun using a new type of halberd, boosting their strength versus foot soldiers.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HALBERD_1	Our weapon masters have devised a halberd design that remains fully effective versus mounted units but will boost effectiveness versus foot soldiers.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HALBERD_1	Issue the new weapons to all of our pikemen.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_REINFORCED_HULL_1	Rumors abound that %s1_civ_adjective shipmasters are doing extensive refitting work on their trireme fleet.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_REINFORCED_HULL_1	Our shipmasters have devised a way to reinforce the hulls of our triremes. This will help with both ramming and being rammed.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_REINFORCED_HULL_1	Our existing ships can also be refitted? Begin immediately.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_CIGARETTE_SMOKER	Fire has destroyed the Theatre in %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_CIGARETTE_SMOKER_1	A careless cigarette smoker started a fire at the Theatre in %s2_city, during which the building was destroyed and numerous patrons died.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_CIGARETTE_SMOKER_2	An accident on stage at the Theatre in %s2_city started a fire that burned down the building. Most of the audience escaped alive, thank goodness.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_CIGARETTE_SMOKER_1	Organize a rebuilding effort.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_CIGARETTE_SMOKER_2	Investigate the cause of the fire.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_CIGARETTE_SMOKER_3	We are too pressed to spare any attention to a fire.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HEROIC_GESTURE_1	%s1_civ_adjective forces have unexpectedly shown mercy and compassion for our wounded, tending them on the battlefield and then returning the survivors safely to us.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HEROIC_GESTURE_1	No good deed shall go unpunished. Send our recovered soldiers back into battle the moment they are ready.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HEROIC_GESTURE_2	Perhaps this is a sign that enough blood has been shed. Send our emissaries to see if they are ready to discuss peace.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HEROIC_GESTURE_OTHER_3	A heroic gesture of mercy by your forces in regard to %s1_civ_adjective wounded has opened the door to a possible peace treaty. Do you wish to end the war?	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HEROIC_GESTURE_WORLD_2	A heroic gesture of mercy by the %s3_civ_adjective forces toward the %s1_civ_adjective wounded has brought an unexpected opportunity for peace. The two sides are at least pausing to consider the possibility.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_GREAT_MEDIATOR_1	A great mediator has emerged, offering to arbitrate the dispute between %s1_civ_adjective leadership and our nation. This could be a chance for peace.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_GREAT_MEDIATOR_1	We do not want peace! Let the war continue.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_GREAT_MEDIATOR_2	Peace would benefit both sides. Give our blessing to this mediator, and may his words prove sharper than their hatreds.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_GREAT_MEDIATOR_OTHER_3	A great mediator has offered to arbitrate our grievance with the %s1_civ_adjective Empire. This opens the door to a possible peace treaty. Do you wish to end the war?	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_MEDIATOR_WORLD_2	A great mediator has attempted to broker peace between the %s1_civ_adjective and %s3_adjective Empires!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_FORTY_THIEVES_1	The legend of Forty Thieves is luring treasure hunters and adventure seekers to %s2_civ_adjective lands.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FORTY_THIEVES_1	The legend of Forty Thieves has attracted treasure hunters and tourists to the area, boosting local commerce.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FORTY_THIEVES_1	Excellent.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_ANCIENT_TEXTS_1	In the sands of a %s2_civ_adjective desert, archaeologists have unearthed a cache of ancient texts.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_ANCIENT_TEXTS_1	Archaeologists have unearthed a cache of scrolls and stone tablets buried in the desert sands.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_ANCIENT_TEXTS_1	Disperse the texts to various researchers and specialists, to see what we might learn.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_ANCIENT_TEXTS_2	Fund an effort to preserve these artifacts in museums, accessible only to the most careful scholars.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_WATERS_OF_LIFE_1	The Waters of Life, drawn from a certain oasis in %s2_civ_adjective lands, are rumored to be able to cure the sick and heal the injured.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_WATERS_OF_LIFE_1	Folklore claims that the Waters of Life may be drawn from a certain oasis. Rumors are spreading that these waters can heal the sick and injured.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_WATERS_OF_LIFE_1	This will attract more traffic to the oasis? That sounds good.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_NEWS_IMPACT_CRATER_1	Discovery of naturally occurring glass globules has been ignored by %s1_civ_adjective leadership and will pass in to the dustbin of history.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_NEWS_IMPACT_CRATER_2	%s1_civ_adjective geologists have discovered a rich source of [COLOR_HIGHLIGHT_TEXT]Uranium[COLOR_REVERT] at what turned out to be a very large and ancient impact crater.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_IMPACT_CRATER_1	Researchers have discovered a large incidence of naturally formed glass globules in an area around a wide circular valley.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_IMPACT_CRATER_1	Why is this important? Do not bother me with petty details.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_IMPACT_CRATER_2	Commit our government to unlocking the secrets of this mystery.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BARBARIAN_UPRISING	We are likely to take the worst of the barbarian horde's fury.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_THE_HUNS	A massive barbarian uprising is occurring. Attila the Hun leads his forces in a crusade against the very concept of civilization.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_THE_HUNS_HELP_1	[ICON_BULLET]A dangerous number of barbarian [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT] units have spawned near our border.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_THE_VANDALS	A massive barbarian uprising is occurring. The Vandals strike out against civilization, seeking to claim its prizes with their swords.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_THE_VANDALS_HELP_1	[ICON_BULLET]A dangerous number of barbarian [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT] units have spawned near our border.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_THE_GOTHS	A massive barbarian uprising is occurring. The Goths have gathered an army and their axemen seek to plunder civilizations.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_THE_GOTHS_HELP_1	[ICON_BULLET]A dangerous number of barbarian [COLOR_UNIT_TEXT]Axeman[COLOR_REVERT] units have spawned near our border.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_THE_PHILISTINES	A massive barbarian uprising is occurring. The Philistines have gathered an army of spearmen and are on the march.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_THE_PHILISTINES_HELP_1	[ICON_BULLET]A dangerous number of barbarian [COLOR_UNIT_TEXT]Spearman[COLOR_REVERT] units have spawned near our border.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_THE_VEDIC_ARYANS	A massive barbarian uprising is occurring. The Vedic Aryans seek to plunder the riches of civilization.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_THE_VEDIC_ARYANS_HELP_1	[ICON_BULLET]A dangerous number of barbarian [COLOR_UNIT_TEXT]Archer[COLOR_REVERT] units have spawned near our border.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_HOLY_RITUAL	%s1_civ_adjective sales of incense are booming.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HOLY_RITUAL_1	The high priest of the temple in %s2_city has placed a large order for our domestically produced incense for use in holy rituals.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HOLY_RITUAL_1	Fill the order!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_SECURITY_TAX	The well-protected %s1_civ_adjective citizens endure paying a Security Tax to help maintain their city walls and guards.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_SECURITY_TAX_1	Our citizenry, fully protected by city walls, have accepted the burden of a Security Tax to help maintain their protection.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SECURITY_TAX_1	Collect the taxes!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_LITERACY	The learned %s1_civ_adjective people enjoy a virtually universal literacy rate.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_LITERACY_1	Our citizenry enjoys virtually universal literacy. This achievement is bound to pay off in unexpected ways.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_LITERACY_1	Continue to promote reading and writing. Knowledge is power!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_SALES_TAXES	The taxes from these sales should nicely boost our coffers.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_FARM_PLOWS	%s1_civ_adjective plow sales are booming.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FARM_PLOWS_1	A new plow design has become popular. Our Forges have filled orders for the new plows from farmers across our lands.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_STAINED_GLASS	%s1_civ_adjective stained glass sales are booming.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_STAINED_GLASS_1	A large order of stained glass has been shipped to %s2_city.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_MARBLE_STATUES	%s1_civ_adjective officials in %s2_city have lavishly decorated their public buildings with finely carved marble statues.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_MARBLE_STATUES_1	Local officials in %s2_city have ordered a large number of marble statues to adorn their public buildings and their forum.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_CRAB_CAKES	%s1_civ_adjective crab cake sales are booming.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_CRAB_CAKES_1	Crab cakes prepared in our cities have become enormously popular across the region.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_BOILERS	%s1_civ_adjective factories are benefitting from a new boiler design, providing a short term rise in their tax revenue.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_BOILERS_1	A new design of steel boiler is in demand, because it can raise manufacturing productivity.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_PERSONAL_COMPUTERS	%s1_civ_adjective personal computers, manufactured in %s2_city, are selling in record numbers.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_PERSONAL_COMPUTERS_1	Personal computers manufactured in %s2_city are in high demand among homes and small businesses.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_FUEL_ADDITIVES	The %s1_civ_adjective mass transit system in %s2_city has begun to use advanced fuel additives to reduce pollution, cut costs, and improve vehicle performance.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FUEL_ADDITIVES_1	The mass transit system in %s2_city has implemented a city-wide program of using fuel additives to reduce pollution and improve on maintenance costs and fuel efficiency.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FUEL_ADDITIVES_1	Reduced costs, lower pollution and improved revenues are always welcome news.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_HAMBURGER_JOINT	%s1_civ_adjective entrepreneurs have invented the fast food hamburger joint. Thanks to radio advertising, this phenomenon is spreading rapidly.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HAMBURGER_JOINT_1	A new type of rapid-service restaurant selling primarily hamburgers was launched recently. Thanks to successful radio advertising, the chain is now expanding across the nation.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HAMBURGER_JOINT_1	Can we have fries with that? Thanks!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_TEA	%s1_civ_adjective citizens who are socially advanced have adopted imported %s4_civ_adjective tea as their beverage of choice.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_TEA_1	Imported %s1_civ_adjective tea has become all the rage amongst our social elite.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TEA_1	The taxes from these sales should boost our coffers nicely, as well as boosting our relations.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TEA_OTHER_1	Tea exports to %s1_civ_adjective customers have provided a nice boost to our relations.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_FASHION	Silk dresses manufactured in %s1_civ_adjective factories have become an extremely popular fashion choice across the region, due in part to radio advertising.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_FASHION_1	Silk dresses have become the latest fashion, sweeping the nation thanks to radio advertising.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_THOROUGHBRED	Thoroughbred race horses raised by %s1_civ_adjective breeders have generated extra revenue for their treasury.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_THOROUGHBRED_1	A new breed of race horse is generating a lot of revenue from our stables.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_GIRLS_BEST_FRIEND	%s1_civ_adjective diamond ring sales are booming.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_GIRLS_BEST_FRIEND_1	Jewelers have successfully launched a tradition of the diamond ring as the gift of choice for wedding proposals.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_BANANA_SPLIT	Invention of the banana split by a %s1_civ_adjective businessman has led to booming ice cream sales for their vendors.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_BANANA_SPLIT_1	One of our ice cream parlors has invented the banana split.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_BANANA_SPLIT_1	Mmm, ice cream. The customers must be going bananas over that!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HORSE_WHISPERING	Our horse trainers believe that it would be possible to gain a much deeper bond with and understanding of our riding animals.[PARAGRAPH:1]They require a larger and more coordinated network of [COLOR_BUILDING_TEXT]Stables[COLOR_REVERT] to pursue this goal.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HORSE_WHISPERING_1	Horse Whispering[PARAGRAPH:1]You are tasked by your elite trainers to build enough stables for them to transcend the traditional limits of animal husbandry.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HORSE_WHISPERING_HELP	[PARAGRAPH:1]To complete this quest, you must build %d1 [COLOR_BUILDING_TEXT]Stables[COLOR_REVERT] in your various cities.[PARAGRAPH:1]You will fail this quest if a rival civilization completes it first, or if you reach the Renaissance Era without having met the conditions.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_FAIL_HORSE_WHISPERING	You have failed the quest of Horse Whispering	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_HORSE_WHISPERING_DONE	%s1_civ_adjective stable masters and horse trainers have completed the quest of Horse Whispering!	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HORSE_WHISPERING_DONE_1	Congratulations! You have met the goals of your horse trainers and built for them enough facilities to empower their plans. Please choose a reward from among the benefits your horse trainers are able to provide to you.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HORSE_WHISPERING_DONE_1	Use our advantage to immediately train [COLOR_UNIT_TEXT]Horse Archers[COLOR_REVERT].	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HORSE_WHISPERING_DONE_HELP_1	[ICON_BULLET]Receive %d1 [COLOR_UNIT_TEXT]Horse Archers[COLOR_REVERT].	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HORSE_WHISPERING_DONE_3	Our horses are trained to be more productive on the farm.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HORSE_WHISPERING_DONE_2	Use our existing horses as more effective scouts.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_TRIGGER_HARBORMASTER	Our harbormasters request government aid in expanding our overseas trading empire.[PARAGRAPH:1]We will need to build enough [COLOR_BUILDING_TEXT]Harbors[COLOR_REVERT] in our cities and construct enough ocean worthy ships.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENT_HARBORMASTER_1	The Harbormaster[PARAGRAPH:1]You are tasked by your merchant marine industry to build enough [COLOR_BUILDING_TEXT]Harbors[COLOR_REVERT] for them to become the undisputed trading kings of the sea. You will also need to build a fleet of [COLOR_UNIT_TEXT]Caravels[COLOR_REVERT] to help carry cargo across deep water.	
+CIV4GameText_Events_BTS.xml	TXT_KEY_EVENTTRIGGER_HARBORMASTER_DONE	The seaworthy %s1_civ_adjective people have completed the quest of The Harbormaster!	

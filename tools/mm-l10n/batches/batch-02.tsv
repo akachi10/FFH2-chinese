@@ -1,0 +1,691 @@
+file	key	english	chinese
+BUGOptions_RevDCMGameText.xml	TXT_KEY_BUG_OPT_REVDCM__REVDCMHIDDENATTITUDE_TEXT	Display detailed AI attitude info	
+BUGOptions_RevDCMGameText.xml	TXT_KEY_BUG_OPT_REVDCM__REVDCMHIDDENATTITUDE_HOVER	When checked, enables the Hidden Attitude Mod by DaveMcW	
+BUGOptions_RevDCMGameText.xml	TXT_KEY_BUG_OPT_REVDCM__OC_RESPAWN_HOLY_CITIES_TEXT	Holy City Relocation	
+BUGOptions_RevDCMGameText.xml	TXT_KEY_BUG_OPT_REVDCM__OC_RESPAWN_HOLY_CITIES_HOVER	Allows inquisitions to purge Holy Cities; if there exists a civilization that has two cities with the religion of the purged holy city, the holy city will relocate	
+BUGOptions_RevDCMGameText.xml	TXT_KEY_BUG_OPT_REVDCM__LIMITED_RELIGIONS_EXCEPTIONS_TEXT	Limited Religions Exceptions	
+BUGOptions_RevDCMGameText.xml	TXT_KEY_BUG_OPT_REVDCM__LIMITED_RELIGIONS_EXCEPTIONS_HOVER	When selected, Limited Religions will still allow multiple religion founding for single city civs and rebels	
+BUGOptions_RevDCMGameText.xml	TXT_KEY_BUG_OPT_REVDCM__OC_LIMITED_RELIGIONS_TEXT	Limited Religions	
+BUGOptions_RevDCMGameText.xml	TXT_KEY_BUG_OPT_REVDCM__OC_LIMITED_RELIGIONS_HOVER	A civ can only found one religion and thus possess only one holy city (unless more are obtained through conquest); Causes a more equal spread of religions in a game creating more diplomatic religious tensions	
+BUGOptions_RevDCMGameText.xml	TXT_KEY_BUG_OPT_REVDCM__CHOOSE_RELIGION_TEXT	Choose Religions	
+BUGOptions_RevDCMGameText.xml	TXT_KEY_BUG_OPT_REVDCM__CHOOSE_RELIGION_HOVER	Works the same as the game option version, except that you not only choose your own founding faith, but also the AI's	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ACTIVEPOPUP_TEXT	RevInit Popup	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ACTIVEPOPUP_HOVER	Display popup on initialization indicating what components are active	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__REVCONFIGDEBUGMODE_TEXT	RevConfig Debug	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__REVCONFIGDEBUGMODE_HOVER	Don't change this	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BARBCIVDEBUGMODE_TEXT	BarbCiv Debug	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BARBCIVDEBUGMODE_HOVER	Turn on Barbarian Civ Debug output	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ANNOUNCEBARBSETTLE_TEXT	Announce Barb Settling	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ANNOUNCEBARBSETTLE_HOVER	Enables announcment when Barbarian cities settle down and spawn new civs	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__USEPOPUP_TEXT	Barb Settle Popup	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__USEPOPUP_HOVER	Use a popup when announcing barbarian city settleing	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ONLYNOTIFYNEARBYPLAYERS_TEXT	Notify nearby players only	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ONLYNOTIFYNEARBYPLAYERS_HOVER	Only nearby players are notified when barbarian cities settle	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BLOCKPOPUPINAUTO_TEXT	No Auto Popup	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BLOCKPOPUPINAUTO_HOVER	Lock barb settle popup while AIAutoPlay is on (will show up as messages)	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BARBARIAN_CIV_TEXT	Barbarian Civ	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BARBARIAN_CIV_HOVER	Barbarian Civ	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDPOLICY_TEXT	New World Policy	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDPOLICY_HOVER	Sets New World policy on Barbarian civ settling in new world landmasses[NEWLINE]0:  New World treated like Old World[NEWLINE]1:  New World barb civs spawn as normal, but chance to settle into a full civ from a minor is reduced[NEWLINE]2:  New World barbarian civs stay minors until contact is made with an old world civ[NEWLINE]3:  Like 2, but New World barb civs cannot settle until an Old World unit lands on the landmass[NEWLINE]4:  Barb civs will not spawn until an old world civ unit lands on landmass[NEWLINE]5:  Barb civs will not spawn until an old world civ settles a city on the landmass	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MINORHALFLIFE_TEXT	Minor Half Life	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MINORHALFLIFE_HOVER	Average number of turns a new world minor civ remains a minor after the conditions under NewWorldPolicies 2 and higher are satisfied	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__FIERCENATIVES_TEXT	Fierce Natives	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__FIERCENATIVES_HOVER	New World barbcivs will attack Old World civs preferentially and in addition to wars against other new world civs	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__OFFERCONTROL_TEXT	Offer Control	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__OFFERCONTROL_HOVER	Offer player control of new barb civilizations	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CANCELAUTOFOROFFER_TEXT	Cancel Offer Control	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CANCELAUTOFOROFFER_HOVER	Cancels player control of new barb civilizations	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BARBCIVSBYSTYLE_TEXT	BarbCiv Style	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BARBCIVSBYSTYLE_HOVER	If a city has culture, spawn a new civ with same art style as highest culture player	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BARBCIVMAXCIVS_TEXT	Max BarbCivs	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BARBCIVMAXCIVS_HOVER	Barbcivs will not spawn if there are already this many civs in the game (-1 for DLL limit)	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__FORMMINORMODIFIER_TEXT	Form Minor Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__FORMMINORMODIFIER_HOVER	Change odds of barb city turning into a minor civ)	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MINPOPULATION_TEXT	Min City Pop	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MINPOPULATION_HOVER	Minimum population needed for a barb city to settle	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MINCONTACTS_TEXT	Min Contacts	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MINCONTACTS_HOVER	Minimum number of contacts (with any civ) a Barbarian Civ needs to settle from a minor to full civ	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MINFULLCONTACTS_TEXT	Min Full Contacts	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MINFULLCONTACTS_HOVER	Minimum number of contacts (with full civs) a Barbarian Civ needs to settle from a minor to full civ	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BASEMILITARYODDS_TEXT	Military Odds	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BASEMILITARYODDS_HOVER	Base odds of Military style buildup	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BARBTECHFRAC_TEXT	BarbTech Fraction	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BARBTECHFRAC_HOVER	Former barbarians get all techs known by this fraction of players	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDREDUCTION_TEXT	NewWorld Reduction	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDREDUCTION_HOVER	Reduce tech given to former barbarians alone on a continent (larger means they're more behind)	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDERASBEHIND_TEXT	NewWorld Eras Behind	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDERASBEHIND_HOVER	Eras behind New World BarbCivs will be before allowed to spawn	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BUILDERBONUSTECHS_TEXT	Builder Tech Bonus	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BUILDERBONUSTECHS_HOVER	Number of bonus techs that builder type BarbCivs get	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MILITARYWINDOW_HOVER_TEXT	Declare War Turns	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MILITARYWINDOW_HOVER_HOVER	After settling into a full civ from a minor, militaristic barb civ will declare war on the first civ it meets within this window of turns	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__WARCLOSEDIST_TEXT	Max Declare Distance	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__WARCLOSEDIST_HOVER	Max Distance between capitals for barb civ to consider immeadiate declaration of war (must also be on same continent)	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MILITARYSTRENGTH_TEXT	Bonus Units Multiplier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MILITARYSTRENGTH_HOVER	Affects number of (non-defense) military units given to barbs	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDBONUSES_TEXT	New World Bonuses	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDBONUSES_HOVER	Bonuses given to barbarian civs that spawn in the new world.[NEWLINE]0:  None - New world barb civs recieve no bonus techs, units or buildings when spawned or settled[NEWLINE]1:  Reduced - New World barb civs recieve all techs known by the barbarians, and recieve some culture and free units[NEWLINE]2:  Barbarian civs in the new world are treated the same as barbarian civs that spawn in the Old World	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MILITARYWINDOW_TEXT	Military Window	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MILITARYWINDOW_HOVER	Minimum turns a new created barb civ must remain a minor civ, before it can settle and engage in diplomacy.	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__REVDEBUGMODE_TEXT	Revolution Debug	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__REVDEBUGMODE_HOVER	Revolution Debug information displayed and debug information logging.	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__SHOWDEBUGMESSAGES_TEXT	Revolution Debug Messages	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__SHOWDEBUGMESSAGES_HOVER	Show Revolution Debug Messages	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CENTERPOPUPS_TEXT	Center Pop Ups	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CENTERPOPUPS_HOVER	Revolution Message Pop Ups are centered.	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__SHOWREVINDEXINPOPUP_TEXT	RevIndex pop up	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__SHOWREVINDEXINPOPUP_HOVER	Enables special RevIndex pop up (debugging info)	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MAXSCORELINES_TEXT	Max Score Lines	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MAXSCORELINES_HOVER	Max Score Lines displayed on Scoreboard (-1 for Maximum)	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ARTSTYLETYPES_TEXT	ArtStyle Types	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ARTSTYLETYPES_HOVER	Spawn Rebels with a preference for the artstyle type of the parent nation	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__OFFERDEFECTTOREVS_TEXT	Offer Defections	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__OFFERDEFECTTOREVS_HOVER	Offer human players with a rebelion the choice to defect and lead the rebels.	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ALLOWASSIMILATION_TEXT	Allow Assimilations	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ALLOWASSIMILATION_HOVER	Allow assimilations of vassal civs.	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ALLOWSMALLBARBREVS_TEXT	Unorganized Rebolutions	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ALLOWSMALLBARBREVS_HOVER	Small revolutions spawn as disorganized rebels (barbarians)	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ALLOWBREAKVASSAL_TEXT	Allow Vassal Breaking	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ALLOWBREAKVASSAL_HOVER	Allow Revolutions to break Vassal states	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ENDWARSONDEATH_TEXT	End Wars on Death	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ENDWARSONDEATH_HOVER	When a rebel civ dies, current wars are cancelled (in case of respawn)	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CULTURALREVOLUTION_TEXT	Cultural Revolutions	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CULTURALREVOLUTION_HOVER	Allow cultural revolutions	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__RELIGIOUSREVOLUTION_TEXT	Religious Revolutions	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__RELIGIOUSREVOLUTION_HOVER	Allow Religious Revolutions	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CIVICREVOLUTION_TEXT	Civics Revolutions	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CIVICREVOLUTION_HOVER	Allow Civics based Revolutions	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__LEADERREVOLUTION_TEXT	Leader Revolutions	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__LEADERREVOLUTION_HOVER	Allow Leader changing Revolutions	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__HUMANLEADERREVOLUTION_TEXT	Human Leader Revolutions	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__HUMANLEADERREVOLUTION_HOVER	Allow Human Player to have Leader changing Revolutions	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MAXNATIONALITY_TEXT	Max Nationality	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MAXNATIONALITY_HOVER	Nationality percentage cap in a city above which a city will cease to be effected by nationality based revolutions.	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CLOSERADIUS_TEXT	Close Radius	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CLOSERADIUS_HOVER	Limiting distance for colony negative revolutionary effects, and distance rebeling cities can effect and draw in other cities.	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ALLOWSTATERELIGIONTOJOIN_TEXT	Allow state religion to join	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ALLOWSTATERELIGIONTOJOIN_HOVER	Allows cities with state religion to join Religious Rebellions.	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__INDEXMODIFIER_TEXT	Index Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__INDEXMODIFIER_HOVER	Multiplier used to alter RevIdx changes	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__INDEXOFFSET_TEXT	Index Offset	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__INDEXOFFSET_HOVER	Offset used to alter RevIdx changes	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__HUMANINDEXMODIFIER_TEXT	Human Index Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__HUMANINDEXMODIFIER_HOVER	Multiplier used to alter RevIdx changes for Human Players	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__HUMANINDEXOFFSET_TEXT	Human Index Offset	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__HUMANINDEXOFFSET_HOVER	Offset used to alter RevIdx changes for Human Players	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CHANCEMODIFIER_TEXT	Chance Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CHANCEMODIFIER_HOVER	Multiplier used to alter chance of spawning a revolution	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__STRENGTHMODIFIER_TEXT	Strength Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__STRENGTHMODIFIER_HOVER	Multiplier used to alter initial Rebellion Strength	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__REINFORCEMENTMODIFIER_TEXT	Reinforcement Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__REINFORCEMENTMODIFIER_HOVER	Multiplier used to alter revolutionary reinforcement strength	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__HAPPINESSMODIFIER_TEXT	Happiness Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__HAPPINESSMODIFIER_HOVER	Multiplier used to alter Happiness based RevIdx changes	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__COLONYMODIFIER_TEXT	Colony Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__COLONYMODIFIER_HOVER	Multiplier used to alter Colony based RevIdx changes	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__DISTANCETOCAPITALMODIFIER_TEXT	Distance to Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__DISTANCETOCAPITALMODIFIER_HOVER	Multiplier used to alter Distance to Capital RevIdx penalty	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CULTURERATEMODIFIER_TEXT	Culture rate Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CULTURERATEMODIFIER_HOVER	Multiplier used to alter Culture Rate RevIdx bonus	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__NATIONALITYMODIFIER_TEXT	Nationality Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__NATIONALITYMODIFIER_HOVER	Multiplier used to alter Nationality based RevIdx changes	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__GARRISONMODIFIER_TEXT	Garrison Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__GARRISONMODIFIER_HOVER	Multiplier used to alter RevIdx bonus from city garrison	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__RELIGIONMODIFIER_TEXT	Religion Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__RELIGIONMODIFIER_HOVER	Multiplier used to alter Religion based RevIdx changes	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CIVSIZEMODIFIER_TEXT	Civ Size Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CIVSIZEMODIFIER_HOVER	Multiplier used to alter Civ Size based RevIdx changes	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CITYLOSTMODIFIER_TEXT	City Lost Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CITYLOSTMODIFIER_HOVER	Multiplier used to alter RevIdx penalty from loosing a city	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CITYACQUIREDMODIFIER_TEXT	City Acquired Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CITYACQUIREDMODIFIER_HOVER	Multiplier used to alter RevIdx bonus from conquering a city	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__REVCULTUREMODIFIER_TEXT	Culture Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__REVCULTUREMODIFIER_HOVER	Multiplier used to alter RevIdx bonus from Culture in a city	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CIVICSODDS_TEXT	Civics Odds	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CIVICSODDS_HOVER	Odds used to determine Revolution type when a rebellion occurs, adjusts chance of Civics type rebellion	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__RELIGIONODDS_TEXT	Religion Odds	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__RELIGIONODDS_HOVER	Odds used to determine Revolution type when a rebellion occurs, adjusts chance of Religious type rebellion	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__LEADERODDS_TEXT	Leader Odds	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__LEADERODDS_HOVER	Odds used to determine Revolution type when a rebellion occurs, adjusts chance of Leader type rebellion	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CRUSADEODDS_TEXT	Crusade Odds	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CRUSADEODDS_HOVER	Odds used to determine Revolution type when a rebellion occurs, adjusts chance of Crusade type rebellion	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__INDEPENDENCEODDS_TEXT	Independence Odds	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__INDEPENDENCEODDS_HOVER	Odds used to determine Revolution type when a rebellion occurs, adjusts chance of Independence type rebellion	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__HUMANWARNFRAC_TEXT	Warn Fraction	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__HUMANWARNFRAC_HOVER	Fraction of RevIdx used to warn a Human Player of an indpending Revolutionary issue in a city (1.0 equates to a RevIdx of 1000)	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__WARNTURNS_TEXT	Warn turns	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__WARNTURNS_HOVER	Mininum number of turns waited before repeating an inpending revolution warning	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__WARWEARINESSMOD_TEXT	WW Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__WARWEARINESSMOD_HOVER	Multiplier used to alter RevIdx penalty caused by War Weariness	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__REVMAXCIVS_TEXT	Rev Max Civs	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__REVMAXCIVS_HOVER	Maximum number for Players allowed in a game before Revolutions cease to occur (-1 for Maximum Players allowed by Engine)	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__TURNSBETWEENREVS_TEXT	Turns Between Revs	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__TURNSBETWEENREVS_HOVER	Minimum number of turns that must pass before a city that has already rebelled can spawn new revolution	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ACCEPTEDTURNS_TEXT	Accepted Turns	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ACCEPTEDTURNS_HOVER	Minimum number of turns that must pass before a revolution can be spawned after accepting rebel demands	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ACQUIREDTURNS_TEXT	Acquired Turns	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ACQUIREDTURNS_HOVER	Minimum number of turns that must pass before a recently conquered city may spawn a revolution	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BUYOFFTURNS_TEXT	Acquired Turns	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BUYOFFTURNS_HOVER	Minimum number of turns that must pass before a revolution can occur after rebels have been bought off	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BASEREINFORCEMENTTURNS_TEXT	Base Reinforcement Turns	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BASEREINFORCEMENTTURNS_HOVER	Average number of turns that pass before rebellions recieve reinforcements	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MINREINFORCEMENTTURNS_TEXT	Min Reinforcement Turns	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MINREINFORCEMENTTURNS_HOVER	Minumum number of turns that must pass between reinforcements	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ALWAYSVIOLENTTHRESHOLD_TEXT	Violent Threshold	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__ALWAYSVIOLENTTHRESHOLD_HOVER	RevIdx value at which a city that causes a rebellion will always be a violent and spawn rebel units	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__INSTIGATEREVOLUTIONTHRESHOLD_TEXT	Instigate Threshold	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__INSTIGATEREVOLUTIONTHRESHOLD_HOVER	RevIdx value at which a city can instigate rebellions	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__JOINREVOLUTIONFRAC_TEXT	Join Fraction	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__JOINREVOLUTIONFRAC_HOVER	Fraction of RevIdx Instigate Threshold at which a city may join an instigating city's rebellion	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BADLOCALTHRESHOLD_TEXT	Local Threshold	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BADLOCALTHRESHOLD_HOVER	Effects local RevIdx effects and bribing, as well as penalties added when a city is feeling rebelious	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__DENIEDTURNS_TEXT	Denied Turns	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__DENIEDTURNS_HOVER	Turns delay before a new rebellion can spawn, or rebels can make new demands, after rebel terms are rejected	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__AIAUTOPLAYENABLE_TEXT	Enable	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__AIAUTOPLAYENABLE_HOVER	Enables AIAutoplay	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BLOCKPOPUPS_TEXT	Block Pop Ups	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BLOCKPOPUPS_HOVER	Blocks pop ups while in AIAutoplay	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__SAVEALLDEATHS_TEXT	Save Deaths	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__SAVEALLDEATHS_HOVER	Not sure what this does	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__REFORTIFY_TEXT	Refortify	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__REFORTIFY_HOVER	Refortifies units when human takes control from AIAutoplay	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CHANGEPLAYERENABLE_TEXT	Enable	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CHANGEPLAYERENABLE_HOVER	Enables Change Player function	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CHANGEPLAYERDEBUGMODE_TEXT	Debug	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__CHANGEPLAYERDEBUGMODE_HOVER	Enables Debugging information and logging for Change Player functions	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__TECHDIFDEBUGMODE_TEXT	Debug	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__TECHDIFDEBUGMODE_HOVER	Enables Debugging information and logging for Tech Diffusion functions	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MINTECHSBEHIND_TEXT	Min Techs Behind	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__MINTECHSBEHIND_HOVER	Minimum number of techs a team must be behind before recieving Tech Diffusion bonuses	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__FULLEFFECTTECHSBEHIND_TEXT	Full Techs Behind	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__FULLEFFECTTECHSBEHIND_HOVER	Number of techs a team must be behind before recieving full Tech Diffusion bonuses	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BONUSTECHSBEHIND_TEXT	Bonus Techs Behind	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__BONUSTECHSBEHIND_HOVER	Offset number of techs behind used to give heavy Tech Diffusion bonuses to very behind civs	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__DIFFUSIONMOD_TEXT	Diffusion Modifier	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__DIFFUSIONMOD_HOVER	Modifier used in Tech Diffusion calculations	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__DYNAMICNAMESDEBUGMODE_TEXT	Debug	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__DYNAMICNAMESDEBUGMODE_HOVER	Enables Debugging information and logging for Dynamic Civ Names	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__DNCLEVEL_TEXT	Dynamic Names Level	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__DNCLEVEL_HOVER	Level of creativity the Dynamic Civ Names component employs to generate names	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__DNCLEVEL_LIST	Off|Minimal|Medium|High	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__TEAMNAMING_TEXT	Team Naming	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__TEAMNAMING_HOVER	Dynamic Civ Names applied across teams	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__LEAVEHUMANPLAYERNAME_TEXT	Leave Human	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__LEAVEHUMANPLAYERNAME_HOVER	Dynamic Civ Names are not applied to human players	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__EMPIREDEFAULTNAME_TEXT	"Empire" default names	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_OPT_REVOLUTION__EMPIREDEFAULTNAME_HOVER	Default names of the form "Amurite Empire" are used instead of "Amurites"	
+BUGOptions_RevoultionGameText.xml	TXT_KEY_BUG_DNC_DISABLED_MULTIPLAYER	Dynamic Civ Names is disabled in multiplayer	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_OPTIONS_KEY_REMINDER	Press [BOLD]ALT + CTRL + O[\\BOLD] to customize %s1	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_OPTIONS_KEY_REMINDER_MAC	Press [BOLD]ALT + CMD + O[\\BOLD] to customize %s1	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_CREATED_BY_HEADER	Created by The BUG Mod.	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_DEFAULT	Default	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_HELP_OPENING	Opening the BUG Mod help file...	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_HELP_LANGUAGE	BUG Mod Help - ENG.chm	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_HELP_MISSING_TITLE	Help File Not Found	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_HELP_MISSING_BODY	Could not find the file "%s1" in the search paths. See the System tab on the BUG Options screen [ALT + CTRL + O] for details.	
+BUG_CIV4GameText.xml	TXT_KEY_CIV_MINOR_PEDIA	No description provided.	
+BUG_CIV4GameText.xml	TXT_KEY_LEADER_BARBARIAN_PEDIA	No description provided.	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_RELIGIOUS_CITY	Cities	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_RELIGIOUS_TEMPLE	Temples:	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_RELIGIOUS_MONASTARY	Monastaries:	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_RELIGIOUS_MISSIONARY	Missionaries:	
+BUG_CIV4GameText.xml	TXT_KEY_MISC_NEG_WARNING_GOLD_PER_TURN	[SPACE][COLOR_YELLOW](%D1_Change/Turn)[COLOR_REVERT]	
+BUG_CIV4GameText.xml	TXT_KEY_MISC_POS_WARNING_GOLD_PER_TURN	[SPACE][COLOR_YELLOW](%D1_Change/Turn)[COLOR_REVERT]	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_ERA	%s1 Era	
+BUG_CIV4GameText.xml	INTERFACE_GREAT_PERSON_NONE	%s1: None	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_DEAD_CIV	DEAD	
+BUG_CIV4GameText.xml	TXT_KEY_CONCEPT_WORKED_TILES	Worked Tiles (%d1)	
+BUG_CIV4GameText.xml	TXT_KEY_CONCEPT_CITY_TILES	City's Tiles (%d1)	
+BUG_CIV4GameText.xml	TXT_KEY_CONCEPT_OWNED_TILES	Owned Tiles (%d1)	
+BUG_CIV4GameText.xml	TXT_KEY_CONCEPT_ALL_TILES	All Tiles (%d1)	
+BUG_CIV4GameText.xml	TXT_KEY_CONCEPT_BASE_MODIFIER	Modifiers (%D1%%)	
+BUG_CIV4GameText.xml	TXT_KEY_CONCEPT_SUBTOTAL	Subtotal	
+BUG_CIV4GameText.xml	TXT_KEY_CONCEPT_TOTAL	Total	
+BUG_CIV4GameText.xml	TXT_KEY_RAW_YIELD_VIEW_TRADE	[COLOR_HIGHLIGHT_TEXT]View Trade Routes[COLOR_REVERT][NEWLINE]Displays the Trade Routes for this city.	
+BUG_CIV4GameText.xml	TXT_KEY_RAW_YIELD_VIEW_FOOD	[COLOR_HIGHLIGHT_TEXT]View Raw Food[COLOR_REVERT][NEWLINE]Displays a breakdown of all [ICON_FOOD] sources.	
+BUG_CIV4GameText.xml	TXT_KEY_RAW_YIELD_VIEW_PRODUCTION	[COLOR_HIGHLIGHT_TEXT]View Raw Production[COLOR_REVERT][NEWLINE]Displays a breakdown of all [ICON_PRODUCTION] sources and modifiers.	
+BUG_CIV4GameText.xml	TXT_KEY_RAW_YIELD_VIEW_COMMERCE	[COLOR_HIGHLIGHT_TEXT]View Raw Commerce[COLOR_REVERT][NEWLINE]Displays a breakdown of all [ICON_COMMERCE] sources and modifiers.	
+BUG_CIV4GameText.xml	TXT_KEY_RAW_YIELD_TILES_WORKED	[COLOR_HIGHLIGHT_TEXT]Count Worked Tiles[COLOR_REVERT][NEWLINE]Counts the tiles the city is currently working.	
+BUG_CIV4GameText.xml	TXT_KEY_RAW_YIELD_TILES_CITY	[COLOR_HIGHLIGHT_TEXT]Count City's Tiles[COLOR_REVERT][NEWLINE]Counts the tiles the city controls.	
+BUG_CIV4GameText.xml	TXT_KEY_RAW_YIELD_TILES_OWNED	[COLOR_HIGHLIGHT_TEXT]Count Owned Tiles[COLOR_REVERT][NEWLINE]Counts the tiles in the city radius owned by your civilization.	
+BUG_CIV4GameText.xml	TXT_KEY_RAW_YIELD_TILES_ALL	[COLOR_HIGHLIGHT_TEXT]Count All Tiles[COLOR_REVERT][NEWLINE]Counts all tiles in the city radius regardless of owner.	
+BUG_CIV4GameText.xml	INTERFACE_CITY_GROWTH	Growth!	
+BUG_CIV4GameText.xml	INTERFACE_CITY_SHRINKING	[COLOR_YELLOW]Shrinking (%d1 [NUM1:Turn:Turns])[COLOR_REVERT]	
+BUG_CIV4GameText.xml	INTERFACE_CITY_HEALTH_BAD	%d1[ICON_HEALTHY] &lt; %d2[ICON_UNHEALTHY] = [COLOR_WARNING_TEXT]%d3[COLOR_REVERT][ICON_EATENFOOD]	
+BUG_CIV4GameText.xml	INTERFACE_CITY_UNHAPPY	%d1[ICON_HAPPY] &lt; %d2[ICON_UNHAPPY] = [COLOR_WARNING_TEXT]%d3[COLOR_REVERT][ICON_ANGRYPOP]	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_TYPE_GROUPING	Unit Type	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_COMBAT_GROUPING	Combat Type	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_COMBAT_GROUP_NONE	None	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_LEVEL_GROUPING	Level	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_LEVEL_GROUP	Level %s1	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_PROMOTION_GROUPING	Promotions	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_PROMOTION_GROUP_NONE	None	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_LOCATION_GROUPING	Location	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_DOMESTIC_CITY	Domestic City	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_DOMESTIC_TERRITORY	Domestic Territory	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_TEAM_CITY	Team City	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_TEAM_TERRITORY	Team Territory	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_FRIENDLY_CITY	Friendly City	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_FRIENDLY_TERRITORY	Friendly Territory	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_NEUTRAL_TERRITORY	Neutral Territory	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_ENEMY_TERRITORY	Enemy Territory	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_BARBARIAN_TERRITORY	Barbarian Territory	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUPING	Orders	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_AUTO_UPGRADE_GROUPING	Auto Upgrading	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_AUTO_PROMOTION_GROUPING	Auto Promoting	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_NONE	None	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_SKIP	Skip	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_SLEEP	Sleep	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_FORTIFY	Fortify	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_HEAL	Heal	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_SENTRY	Sentry	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_INTERCEPT	Intercept	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_PATROL	Patrol	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_PLUNDER	Blockade	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_BUILD	Build Improvement	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_CONSTRUCT	Construct Building	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_GOTO	Go To	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_EXPLORE	Explore	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AUTO_BUILD	Auto Build Improvements	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AUTO_NETWORK	Auto Trade Network	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AUTO_CITY	Auto Improve City	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AUTO_RELIGION	Spread Religion/Corporation	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_PILLAGESETTINGS	Auto Pillage	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_HUNTSETTINGS	Auto Hunt	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_DEFENSESETTINGS	Auto City Defense	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_PATROLSETTINGS	Auto Patrol	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_PIRATESETTINGS	Auto Pirate	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AIRSTRIKESETTINGS	Auto Air Strike	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AIRBOMBSETTINGS	Auto Air Bomb	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AIRUNITCANDEFEND_TEXT	Auto Air Patrol	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_UPGRADINGSETTINGS	Auto Upgrade	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_PROMOTESETTINGS	Auto Promote	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_PROTECTSETTINGS	Auto Protect	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_ESPIONAGESETTINGS	Auto Espionage	
+BUG_CIV4GameText.xml	TXT_KEY_UNIT_GROUPER_ORDER_GROUP_OTHER	Other	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_UNIT_LOCATION	Deployment	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_SITUATION_REPORT	Sit-Rep	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_STRATEGIC_ADVANTAGES	Strategic Advantages	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_SITREP_WORST	Worst	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_SITREP_ENEMY	Enemy	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_SITREP_THREAT_INDEX	Threat Index	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_SITREP_WARS	Wars	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_SITREP_WARS_ACTIVE	Active	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_SITREP_WARS_OPTIONAL	Possible	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_SITREP_POSSIBLE_EMBARGOS_1	Possible	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_SITREP_POSSIBLE_EMBARGOS_2	Embargos	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_SITREP_VASSALS	Vassals	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_SITREP_VASSAL	Vassal	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_SITREP_DEFPACTS	Def Pacts	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_THREAT_INDEX_LOW	Low	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_THREAT_INDEX_GUARDED	Guarded	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_THREAT_INDEX_ELEVATED	Elevated	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_THREAT_INDEX_HIGH	High	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_THREAT_INDEX_SEVERE	Severe	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_STRATADV_RESOURCES	Resources	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_STRATADV_OURS	Ours	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_STRATADV_THEIRS	Theirs	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_STRATADV_OUR_UNITS	Our Units	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_STRATADV_THEIR_UNITS	Their Units	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_STRATADV_KNOWN	Known	
+BUG_CIV4GameText.xml	TXT_KEY_MILITARY_STRATADV_POSSIBLE	Possible	
+BUG_CIV4GameText.xml	TXT_KEY_REMINDER_HEADER	Create Reminder	
+BUG_CIV4GameText.xml	TXT_KEY_REMINDER_PROMPT	Enter the number of turns until the reminder goes off and the message to display.	
+BUG_CIV4GameText.xml	TXT_KEY_REMIND_END_TURN_PROMPT	Show reminder again at the end of this turn?	
+BUG_CIV4GameText.xml	TXT_KEY_REMIND_NEXT_TURN_PROMPT	Show reminder again next turn?	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_TECH_PREFS_ALL	Research Preference Order	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_TECH_PREFS_CURRENT	Current Technologies	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_TECH_PREFS_FUTURE	Future Technologies	
+BUG_CIV4GameText.xml	TXT_KEY_FOREIGN_ADVISOR_INFO	Info	
+BUG_CIV4GameText.xml	TXT_KEY_POWER	Power	
+BUG_CIV4GameText.xml	TXT_KEY_SHOW_ALL	Show All	
+BUG_CIV4GameText.xml	TXT_KEY_SHOW_NONE	Show None	
+BUG_CIV4GameText.xml	TXT_KEY_LOGSCALE	Log Scale	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_CHART_HELP	Zoom in and out by clicking on the body of the chart	
+BUG_CIV4GameText.xml	TXT_KEY_WONDER_NAME	Name	
+BUG_CIV4GameText.xml	TXT_KEY_WONDER_DATE	Turn	
+BUG_CIV4GameText.xml	TXT_KEY_WONDER_OWNER	Owner	
+BUG_CIV4GameText.xml	TXT_KEY_WONDER_CITY	City	
+BUG_CIV4GameText.xml	TXT_KEY_PROJECT_APOLLO_PROGRAM	Apollo Program	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_VICTORY_TURNS_NEXT_VOTE	Turns until next Vote: %d1	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_VICTORY_VOTES_NEXT_ELECTION	Votes until next Election: %d1	
+BUG_CIV4GameText.xml	TXT_KEY_VOTESOURCE_NON_VOTING_MEMBER	Non Member	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_VICTORY_TOGGLE_VOTES	Toggle Votes	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_VICTORY_VASSALED	%d1 vassaled	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_VICTORY_UNKNOWN	%d1 unknown	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_VICTORY_DIPLOMATIC	Diplomatic Victory	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_VICTORY_VOTES_TOTAL	Total	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_VICTORY_VOTES_REQUIRED	[SPACE](%s1 votes required)	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_VICTORY_BUG_POLL_RESULT	%s1 (%s2) leads by %s3.	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_VICTORY_BUG_POLL_ERROR	Source: Recent BUG Poll, statistical margin of error %s1.	
+BUG_CIV4GameText.xml	TXT_KEY_GRAPH_SMOOTHING	Smooth Factor %d1_Num	
+BUG_CIV4GameText.xml	TXT_KEY_MAP_SCRIPT_MAZE_LAND_PLUS1	Extra Land Strip	
+BUG_CIV4GameText.xml	TXT_KEY_TRUE	True	
+BUG_CIV4GameText.xml	TXT_KEY_FALSE	False	
+BUG_CIV4GameText.xml	TXT_KEY_HOF_WINLOSS_WIN	W-	
+BUG_CIV4GameText.xml	TXT_KEY_HOF_WINLOSS_LOSS	L-	
+BUG_CIV4GameText.xml	TXT_KEY_ESPIONAGE_MISSIONS_TAB	Missions	
+BUG_CIV4GameText.xml	TXT_KEY_ESPIONAGE_SPYVSPY_TAB	Spy v Spy	
+BUG_CIV4GameText.xml	TXT_KEY_ESPIONAGE_AI_SPENDING_TOGGLE	Show AI Espionage	
+BUG_CIV4GameText.xml	TXT_KEY_CONCEPT_DOMESTIC_TRADE	Domestic Trade	
+BUG_CIV4GameText.xml	TXT_KEY_CONCEPT_FOREIGN_TRADE	Foreign Trade	
+BUG_CIV4GameText.xml	TXT_KEY_CONCEPT_FOREIGN_OVERSEAS_TRADE	Overseas Trade	
+BUG_CIV4GameText.xml	TXT_KEY_CONCEPT_RELIGIOUS_SHRINES	Religious Shrines	
+BUG_CIV4GameText.xml	TXT_KEY_BUG_FINANCIAL_ADVISOR_COMMERCE	Total Commerce	
+BUG_CIV4GameText.xml	TXT_KEY_FOREIGN_ADVISOR_ABBR_LEADER	Leader	
+BUG_CIV4GameText.xml	TXT_KEY_FOREIGN_ADVISOR_ABBR_ATTITUDE	Attitude	
+BUG_CIV4GameText.xml	TXT_KEY_FOREIGN_ADVISOR_POSSIBLE_FAV_CIVICS	Possible Favorite Civics	
+BUG_CIV4GameText.xml	TXT_KEY_CIVICOPTION_ABBR_GOVERNMENT	Govt	
+BUG_CIV4GameText.xml	TXT_KEY_CIVICOPTION_ABBR_LEGAL	Legal	
+BUG_CIV4GameText.xml	TXT_KEY_CIVICOPTION_ABBR_LABOR	Labor	
+BUG_CIV4GameText.xml	TXT_KEY_CIVICOPTION_ABBR_ECONOMY	Econ	
+BUG_CIV4GameText.xml	TXT_KEY_CIVICOPTION_ABBR_RELIGION	Religion	
+BUG_CIV4GameText.xml	TXT_KEY_CIVICOPTION_ABBR_CULTURAL_VALUES	Values	
+BUG_CIV4GameText.xml	TXT_KEY_CONCEPT_SETTLED_SPECIALISTS	Settled Specialists	
+BUG_CIV4GameText.xml	TXT_KEY_POPUP_SELECT_EVENT	Choose an event which should be triggered.	
+BUG_CIV4GameText.xml	TXT_KEY_BULL_REQUIRED	[COLOR_WARNING_TEXT]This feature requires the BUG DLL (BULL).[COLOR_REVERT]	
+BUG_CIV4GameText.xml	TXT_KEY_BULL_REQUIRED_NEWER	[COLOR_WARNING_TEXT]This feature requires a newer version of the BUG DLL (BULL).[COLOR_REVERT]	
+BULL Actions Options.xml	TXT_KEY_BUG_OPT_ACTIONS__ASKDECLAREWARUNITS_TEXT	Offer to Declare War	
+BULL Actions Options.xml	TXT_KEY_BUG_OPT_ACTIONS__ASKDECLAREWARUNITS_HOVER	When checked, gives you the option to declare war when moving into a tile containing a rival unit. Always gives the option when moving into rival territory without open borders.	
+BULL Actions Options.xml	TXT_KEY_BUG_OPT_ACTIONS__SENTRYHEALING_TEXT	Sentry While Healing	
+BULL Actions Options.xml	TXT_KEY_BUG_OPT_ACTIONS__SENTRYHEALING_HOVER	When checked, units ordered to heal will awaken when they spot danger, acting like sentries.	
+BULL Actions Options.xml	TXT_KEY_BUG_OPT_ACTIONS__SENTRYHEALINGONLYNEUTRAL_TEXT	Only Neutral Territory	
+BULL Actions Options.xml	TXT_KEY_BUG_OPT_ACTIONS__SENTRYHEALINGONLYNEUTRAL_HOVER	When checked, if Sentry While Healing is enabled, units will awaken to danger only when in neutral territory. This stops your attacking force from waking up each turn outside an enemy city or your defenders inside friendly territory.	
+BULL Actions Options.xml	TXT_KEY_BUG_OPT_ACTIONS__IGNOREHARMLESSBARBARIANS_TEXT	Ignore Harmless Barbarians	
+BULL Actions Options.xml	TXT_KEY_BUG_OPT_ACTIONS__IGNOREHARMLESSBARBARIANS_HOVER	When checked, barbarian units adjacent to your borders will not trigger a warning if they cannot enter.	
+BULL Actions Options.xml	TXT_KEY_BUG_OPT_ACTIONS__PRECHOPFORESTS_TEXT	PreChop Forests	
+BULL Actions Options.xml	TXT_KEY_BUG_OPT_ACTIONS__PRECHOPFORESTS_HOVER	When checked, Workers ordered to chop a forest will stop with 1 turn remaining. Issue the order again to finish the chop.	
+BULL Actions Options.xml	TXT_KEY_BUG_OPT_ACTIONS__PRECHOPIMPROVEMENTS_TEXT	PreChop Improvements	
+BULL Actions Options.xml	TXT_KEY_BUG_OPT_ACTIONS__PRECHOPIMPROVEMENTS_HOVER	When checked, Workers ordered to build an improvement that will remove a forest will stop with 1 turn remaining. Issue the order again to finish the improvement.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__AIRPORTICONS_TEXT	Airport Icons	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__AIRPORTICONS_HOVER	When checked, places an airport icon above the city bars of cities that have an airport.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__STARVATIONTURNS_TEXT	Turns to Starvation	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__STARVATIONTURNS_HOVER	When checked, shows how many turns until a city will lose population if it is shrinking.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__HEALTH_TEXT	Health	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__HEALTH_HOVER	When checked, shows the net health ([ICON_HEALTHY] or [ICON_UNHEALTHY]) for the city.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__HAPPINESS_TEXT	Happiness	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__HAPPINESS_HOVER	When checked, shows the net happiness ([ICON_HAPPY] or [ICON_UNHAPPY]) for the city.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__HURRYANGER_TEXT	Hurry Anger	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__HURRYANGER_HOVER	When checked, shows the number of angry population ([ICON_ANGRYPOP]) due to whipping and the number of turns left on the timer.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__DRAFTANGER_TEXT	Draft Anger	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__DRAFTANGER_HOVER	When checked, shows the number of angry population ([ICON_ANGRYPOP]) due to drafting and the number of turns left on the timer.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__FOODASSIST_TEXT	Growth Detail	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__FOODASSIST_HOVER	When checked, shows more detailed information about growth (growing, shrinking, starvation, stagnation).	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__BASEVALUES_TEXT	Base Values	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__BASEVALUES_HOVER	When checked, holding CTRL while hovering shows the base (without modifiers) values for most items: production, trade, commerce, maintenance, great people.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__BASEPRODUCTION_TEXT	Base Production	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__BASEPRODUCTION_HOVER	When checked, shows base production (excludes overflow, whipping, and chopping) in addition to the current turn's production.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__BUILDINGACTUALEFFECTS_TEXT	Building Actual Effects	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__BUILDINGACTUALEFFECTS_HOVER	When checked and a city is constructing a building, the actual yield of [ICON_COMMERCE], [ICON_HAPPY], [ICON_HEALTHY], and [ICON_GREATPEOPLE] it will produce are displayed.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__HURRYASSIST_TEXT	City Bar	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__HURRYASSIST_HOVER	When checked, shows the cost ([ICON_CITIZEN] or [ICON_GOLD]) and overflow ([ICON_PRODUCTION] and [ICON_GOLD]) for hurrying (whip and/or buy) the item being produced.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__HURRYASSISTINCLUDECURRENT_TEXT	Include Current	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__HURRYASSISTINCLUDECURRENT_HOVER	When checked, includes the current turn's production when calculating overflow ([ICON_PRODUCTION] and/or [ICON_GOLD]) from hurrying with the whip.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__TRADEDETAIL_TEXT	Trade	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__TRADEDETAIL_HOVER	When checked, shows breakdowns for trade: total, foreign, and foreign overseas. Each includes those after it: foreign includes foreign overseas, and total includes both foreign and foreign overseas.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__COMMERCE_TEXT	Commerce	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__COMMERCE_HOVER	When checked, the total commerce ([ICON_COMMERCE]) is shown before the individual commerce types ([ICON_GOLD], [ICON_RESEARCH], [ICON_CULTURE], and [ICON_ESPIONAGE]).	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__BUILDINGICONS_TEXT	Building Icons	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__BUILDINGICONS_HOVER	When checked, the list of buildings is shown using icons instead of their names.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__CULTURETURNS_TEXT	Culture Turns	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__CULTURETURNS_HOVER	When checked, shows the number of turns until the city's borders expand due to culture ([ICON_CULTURE]).	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__GREATPERSONTURNS_TEXT	Great Person Turns	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__GREATPERSONTURNS_HOVER	When checked, shows the number of turns until the city will create the next great person ([ICON_GREATPEOPLE]).	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__SPECIALISTS_TEXT	Specialists	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__SPECIALISTS_HOVER	When checked, shows icons for the city's specialists (both citizens and settled great people).	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__REVOLTCHANCE_TEXT	Revolt Chance	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__REVOLTCHANCE_HOVER	When checked, shows the probability that the city will revolt due to cultural pressure.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__HIDEINSTRUCTIONS_TEXT	Hide Instructions	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__HIDEINSTRUCTIONS_HOVER	When checked, hides the instructions for selecting cities and showing base values to make room for the new information.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__CITYCONTROLLEDPLOTS_TEXT	Highlight Workable Area	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__CITYCONTROLLEDPLOTS_HOVER	When checked, highlights the area of tiles controlled by the selected city, similar to when you select a Settler.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__CITYPLOTSTATUS_TEXT	Highlight Tile Improvability	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__CITYPLOTSTATUS_HOVER	When checked, highlights each tile controlled by the selected city using a color based on whether it's being worked and your ability to improve it.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__WORKINGIMPROVEDPLOT_TEXT	Improved	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__WORKINGIMPROVEDPLOT_HOVER	When checked, highlights tiles being worked that have already been improved.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__WORKINGIMPROVABLEPLOT_TEXT	Improvable	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__WORKINGIMPROVABLEPLOT_HOVER	When checked, highlights tiles being worked that can be improved.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__WORKINGIMPROVABLEBONUSPLOT_TEXT	Improvable w. Bonus	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__WORKINGIMPROVABLEBONUSPLOT_HOVER	When checked, highlights tiles being worked that can be improved to provide a bonus.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__WORKINGUNIMPROVABLEPLOT_TEXT	Unimprovable	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__WORKINGUNIMPROVABLEPLOT_HOVER	When checked, highlights tiles being worked that cannot be improved.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGIMPROVEDPLOT_TEXT	Improved	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGIMPROVEDPLOT_HOVER	When checked, highlights tiles not being worked that have already been improved.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGIMPROVABLEPLOT_TEXT	Improvable	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGIMPROVABLEPLOT_HOVER	When checked, highlights tiles not being worked that can be improved.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGIMPROVABLEBONUSPLOT_TEXT	Improvable w. Bonus	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGIMPROVABLEBONUSPLOT_HOVER	When checked, highlights tiles not being worked that can be improved to provide a bonus.	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGUNIMPROVABLEPLOT_TEXT	Unimprovable	
+BULL City Bar Options.xml	TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGUNIMPROVABLEPLOT_HOVER	When checked, highlights tiles not being worked that cannot be improved.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__LEADERHEADHIDDENATTITUDE_TEXT	Hidden Attitude	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__LEADERHEADHIDDENATTITUDE_HOVER	When checked, displays the hidden attitude modifiers (possibly spoiler).	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__LEADERHEADWORSTENEMY_TEXT	Worst Enemy	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__LEADERHEADWORSTENEMY_HOVER	When checked, the worst enemy of each AI rival is shown in the hover text for their icon.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__LEADERHEADDEFENSIVEPACTS_TEXT	Defensive Pacts	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__LEADERHEADDEFENSIVEPACTS_HOVER	When checked, the defensive pacts of each rival are shown in the hover text for their icon.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__LATLONGCOORDS_TEXT	Longitude / Latitude	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__LATLONGCOORDS_HOVER	When checked, the longitude and latitude are shown when hovering over a plot once you have centered the map.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__PLOTWORKINGCITY_TEXT	Working City	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__PLOTWORKINGCITY_HOVER	When checked, hovering over a tile your team owns shows which city controls it, in cyan if it is being worked.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__PLOTRECOMMENDEDBUILD_TEXT	Recommended Build	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__PLOTRECOMMENDEDBUILD_HOVER	When checked, hovering over a tile you own shows the improvement or route an automated worker would build.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__PARTIALBUILDS_TEXT	Partial Builds	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__PARTIALBUILDS_HOVER	When checked, hovering over a tile that has partially-completed builds (improvements, routes, and chops) will show how many worker turns are required to complete them as long as your workers can actually do so.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__UPDATEUNITNAMEONUPGRADE_TEXT	Upgrade Name	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__UPDATEUNITNAMEONUPGRADE_HOVER	When checked, if a unit's name contains its type (e.g. "Swordsman 5 of London"), it is replaced by the new type when upgrading (e.g. "Maceman 5 of London").	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__UNITEXPERIENCE_TEXT	Starting Experience	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__UNITEXPERIENCE_HOVER	When checked, displays the experience points and number of available promotions a new unit will receive in the Train Unit button hover.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__UNITEXPERIENCEMODIFIERS_TEXT	Starting Experience Modifiers	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__UNITEXPERIENCEMODIFIERS_HOVER	When checked, displays the experience point modifiers (buildings, military instructors, civics, and wonders) in the Train Unit button hover.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGACTUALEFFECTS_TEXT	Building	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGACTUALEFFECTS_HOVER	When checked, the actual yield of [ICON_COMMERCE], [ICON_HAPPY], [ICON_HEALTHY], [ICON_GREATPEOPLE], and [ICON_DEFENSE] the building will produce for the city are displayed in the building hover text.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__SPEDUPTECHS_TEXT	Speeds Up ...	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__SPEDUPTECHS_HOVER	When checked, displays the technologies that will be sped up by acquiring the technology you are hovering over (e.g. Animal Husbandry would be shown for Agriculture once you have acquired Hunting).	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__TECHTRADEDENIAL_TEXT	Technology Trade Denial	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__TECHTRADEDENIAL_HOVER	When checked, hovering over a technology in the "Won't Trade" column of the Foreign Advisor's TECHS page will show you the AI's reason for denying the trade.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BONUSTRADEDENIAL_TEXT	Resource Trade Denial	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BONUSTRADEDENIAL_HOVER	When checked, hovering over a resource in the "Won't Trade" column of the Foreign Advisor's RESOURCES page will show you the AI's reason for denying the trade.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BASECOMMERCE_TEXT	Commerce Subtotals	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BASECOMMERCE_HOVER	When checked, the subtotal (total before modifiers) is shown when necessary for each commerce type in its hover.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__GREATPEOPLERATEBREAKDOWN_TEXT	Rate Breakdown	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__GREATPEOPLERATEBREAKDOWN_HOVER	When checked, displays the individual [ICON_GREATPEOPLE] rate per turn for each type in the hover.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGSAVEDMAINTENANCE_TEXT	Maintenance	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGSAVEDMAINTENANCE_HOVER	When checked, displays the buildings that will affect maintenance costs ([ICON_GOLD]) and by how much.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALFOOD_TEXT	Food	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALFOOD_HOVER	When checked, displays the buildings that will affect the [ICON_FOOD] rate and by how much.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALPRODUCTION_TEXT	Production	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALPRODUCTION_HOVER	When checked, displays the buildings that will affect the [ICON_PRODUCTION] rate and by how much.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALCOMMERCE_TEXT	Commerce	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALCOMMERCE_HOVER	When checked, displays the buildings that will affect the [ICON_COMMERCE], [ICON_GOLD], [ICON_RESEARCH], [ICON_CULTURE], and [ICON_ESPIONAGE] rates and by how much.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALHEALTH_TEXT	Health	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALHEALTH_HOVER	When checked, displays the buildings that will affect the [ICON_HEALTHY] and [ICON_UNHEALTHY] rates and by how much.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALHAPPINESS_TEXT	Happiness	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALHAPPINESS_HOVER	When checked, displays the buildings that will affect the [ICON_HAPPY] and [ICON_UNHAPPY] rates and by how much.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALGREATPEOPLE_TEXT	Great People	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALGREATPEOPLE_HOVER	When checked, displays the buildings that will affect the [ICON_GREATPEOPLE] rate and by how much.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALDEFENSE_TEXT	City Defense	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALDEFENSE_HOVER	When checked, displays the buildings that will affect the [ICON_DEFENSE] of the city and from bombardment and by how much.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__CONSCRIPTUNIT_TEXT	Draft Unit Details	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__CONSCRIPTUNIT_HOVER	When checked, displays the full details of the unit that will be drafted in the Draft button hover.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__CONSCRIPTLIMIT_TEXT	Draft Limit	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__CONSCRIPTLIMIT_HOVER	When checked, displays the number of units you can draft this turn and whether the city has already drafted in the Draft button hover.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__HURRYOVERFLOW_TEXT	Whip Button	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__HURRYOVERFLOW_HOVER	When checked, the Whip Button hover includes the overflow ([ICON_PRODUCTION] and [ICON_GOLD]) created by applying the whip.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__HURRYOVERFLOWINCLUDECURRENT_TEXT	Include Current	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__HURRYOVERFLOWINCLUDECURRENT_HOVER	When checked, the whip overflow calculation includes the current [ICON_PRODUCTION] rate. Since applying the whip usually affects the rate, the actual overflow may be different.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__REMOVESPECIALIST_TEXT	Remove Specialist Button	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__REMOVESPECIALIST_HOVER	When checked, the hover text for the Remove Specialist button includes the same specialist information shown on the Add Specialist button.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__CDAZOOMCITYDETAILS_TEXT	Zoom to City Details	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__CDAZOOMCITYDETAILS_HOVER	When checked, the Zoom to City button includes detailed information about the city as when hovering over a city bar on the map.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__REMOVEFEATUREHEALTHEFFECTS_TEXT	Health Effects from Features	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__REMOVEFEATUREHEALTHEFFECTS_HOVER	When checked, the hover text for any Worker action that will remove a feature with health effects (e.g. Forest or Jungle) will list the effect on each nearby city.	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__REMOVEFEATUREHEALTHEFFECTSCOUNTOTHERTILES_TEXT	Consider Other Workers	
+BULL Misc Hovers Options.xml	TXT_KEY_BUG_OPT_MISCHOVER__REMOVEFEATUREHEALTHEFFECTSCOUNTOTHERTILES_HOVER	When checked, the effect of removing a feature on each nearby city will take into account Workers performing actions that will remove a feature from other tiles.	
+BULL_CIV4GameText.xml	TXT_KEY_CITY_BAR_CTRL_BASE_VALUES	[NEWLINE]Hold &lt;CTRL&gt; to see base values.	
+BULL_CIV4GameText.xml	TXT_KEY_CITY_BAR_FOOD_GROW	[NEWLINE]%d1 [ICON_FOOD]/Turn[NEWLINE]Growing: %d2/%d3 [ICON_FOOD] (%d4 [NUM4:Turn:Turns])	
+BULL_CIV4GameText.xml	TXT_KEY_CITY_BAR_FOOD_STAGNATE	[NEWLINE]Stagnant: %d1/%d2 [ICON_FOOD]	
+BULL_CIV4GameText.xml	TXT_KEY_CITY_BAR_FOOD_SHRINK	[NEWLINE]%d1 [ICON_BAD_FOOD]/Turn[NEWLINE][COLOR_YELLOW]Shrinking: %d2/%d3 [ICON_FOOD] (%d4 [NUM4:Turn:Turns])[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_CITY_BAR_FOOD_STARVE	[NEWLINE]%d1 [ICON_BAD_FOOD]/Turn[NEWLINE][COLOR_WARNING_TEXT]STARVATION: %d2/%d3 [ICON_FOOD][COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_CITY_BAR_HAMMER_PRODUCTION_WITH_BASE	[NEWLINE]%d1 [ICON_PRODUCTION]/Turn (%d6 [ICON_PRODUCTION]/Turn)[NEWLINE]%s2: %d3/%d4 [ICON_PRODUCTION] (%d5 [NUM5:Turn:Turns])	
+BULL_CIV4GameText.xml	TXT_KEY_CITY_BAR_FOOD_HAMMER_PRODUCTION_WITH_BASE	[NEWLINE]%d1 [ICON_FOOD] + %d2 [ICON_PRODUCTION]/Turn (%d7 [ICON_PRODUCTION]/Turn)[NEWLINE]%s3: %d4/%d5 [ICON_PRODUCTION] (%d6 [NUM6:Turn:Turns])	
+BULL_CIV4GameText.xml	TXT_KEY_CITY_BAR_BASE_PRODUCTION	[NEWLINE]%d1 [ICON_PRODUCTION]/Turn	
+BULL_CIV4GameText.xml	TXT_KEY_CITY_BAR_BASE_PRODUCTION_WITH_OVERFLOW	[NEWLINE]%d1 [ICON_PRODUCTION] (%d2 [ICON_PRODUCTION]/Turn)	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_FINANCIAL_ADVISOR_DOMESTIC_TRADE	The Total Commerce from Domestic Trade Routes	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_FINANCIAL_ADVISOR_FOREIGN_TRADE	The Total Commerce from Foreign Trade Routes	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_FINANCIAL_ADVISOR_SPECIALISTS	The Total Gold from Specialists	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_FINANCIAL_ADVISOR_SPECIALIST_TOTAL_GOLD	[NEWLINE]------------------------[NEWLINE]TOTAL SPECIALISTS: %d1[ICON_GOLD]	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_YEAR_BUILT	Built on turn %d1	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_DOUBLE_COMMERCE_NEXT_YEAR	[ICON_BULLET]Double %s1_commerce_type next turn	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_DOUBLE_COMMERCE_YEARS	[ICON_BULLET]Double %s1_commerce_type in %d2 turns	
+BULL_CIV4GameText.xml	TXT_KEY_PRODUCTION_DECAY	[COLOR_NEGATIVE_TEXT]Will lose %d1[ICON_PRODUCTION] this turn[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_PRODUCTION_DECAY_PRODUCING	[COLOR_WARNING_TEXT]Will lose %d1[ICON_PRODUCTION] if not produced this turn[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_PRODUCTION_DECAY_PRODUCING_PRODUCTION_DISABLED	[COLOR_WARNING_TEXT]Will lose %d1[ICON_PRODUCTION] if not produced as soon as production is enabled again[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_PRODUCTION_DECAY_TURNS	[COLOR_NEGATIVE_TEXT]Will lose %d1[ICON_PRODUCTION] in %d2 [NUM2:turn:turns][COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_PRODUCTION_DECAY_TURNS_PRODUCING	[COLOR_WARNING_TEXT]Will lose %d1[ICON_PRODUCTION] if not produced for %d2 [NUM2:turn:turns][COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_PRODUCTION_DECAY_TURNS_PRODUCING_PRODUCTION_DISABLED	[COLOR_WARNING_TEXT]Will lose %d1[ICON_PRODUCTION] if not produced for %d2 [NUM2:turn:turns] after production is enabled again[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_AT_WAR_WITH	[ICON_BULLET][COLOR_YELLOW]War with %s1_player[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_AT_WAR_WITH_YOU	[ICON_BULLET][COLOR_YELLOW]You are at war![COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_PEACE_TREATY_WITH	[ICON_BULLET][COLOR_CYAN]Peace Treaty with %s1_player[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_PEACE_TREATY_WITH_YOU	[ICON_BULLET][COLOR_CYAN]You have a Peace Treaty[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_WORST_ENEMY_OF	[ICON_BULLET][COLOR_YELLOW]Worst Enemy of %s1_player[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_WORST_ENEMY_IS	[ICON_BULLET][COLOR_YELLOW]%s1_player is Worst Enemy[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_WORST_ENEMY_IS_YOU	[ICON_BULLET][COLOR_YELLOW]You are Worst Enemy[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_DEFENSIVE_PACT_WITH	[ICON_BULLET][COLOR_BLUE]Defensive Pact with %s1_player[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_DEFENSIVE_PACT_WITH_YOU	[ICON_BULLET][COLOR_BLUE]You have a Defensive Pact[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_WARPLAN_TARGET_IS	[ICON_BULLET][COLOR_CYAN]War Plan against %s1_player[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_WARPLAN_TARGET_IS_YOU	[ICON_BULLET][COLOR_CYAN]You are War Target[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_WARPLAN_LIMITED_TARGET_IS	[ICON_BULLET][COLOR_CYAN]Limited War Plan against %s1_player[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_WARPLAN_LIMITED_TARGET_IS_YOU	[ICON_BULLET][COLOR_CYAN]You are Limited War Target[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_WARPLAN_TARGET_OF_YOU	[ICON_BULLET][COLOR_CYAN]You are preparing for War[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_SPEEDS_UP	[NEWLINE][ICON_BULLET]Speeds up[SPACE]	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_SPED_UP_BY	[NEWLINE][ICON_BULLET]Sped up by[SPACE]	
+BULL_CIV4GameText.xml	TXT_KEY_ACTUAL_EFFECTS	Actual	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_SET_RATE	Set %s1_CmrcType Rate to %d2_Value%%	
+BULL_CIV4GameText.xml	TXT_KEY_LATLONG_NORTH	N	
+BULL_CIV4GameText.xml	TXT_KEY_LATLONG_EAST	E	
+BULL_CIV4GameText.xml	TXT_KEY_LATLONG_SOUTH	S	
+BULL_CIV4GameText.xml	TXT_KEY_LATLONG_WEST	W	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_WORKED_TILES_YIELD	[ICON_BULLET]%D1%F2 from Worked Tiles	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_TOTAL_YIELD	-----------------------[NEWLINE]Total %s1_yield_type: %d2%F3	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_EATEN_FOOD	[ICON_BULLET]%D1[ICON_EATENFOOD] for Population	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_SPOILED_FOOD	[ICON_BULLET]%D1[ICON_EATENFOOD] for Health	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_BASE_FOOD_PRODUCED	-----------------------[NEWLINE]Base Food Produced: %d1[ICON_FOOD]	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_TOTAL_FOOD_PRODUCED	-----------------------[NEWLINE]Total Food Produced: %d1[ICON_FOOD]	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_TOTAL_FOOD_CONSUMED	-----------------------[NEWLINE]Total Food Consumed: %d1[ICON_EATENFOOD]	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_NET_FOOD_GROW	Net Food: %D1[ICON_FOOD]	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_NET_FOOD_SHRINK	Net Food: [COLOR_NEGATIVE_TEXT]%D1[COLOR_REVERT][ICON_BAD_FOOD]	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_NET_FOOD_STAGNATE	Net Food: +0[ICON_FOOD]	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_NET_FOOD_PRODUCTION	Net Food: %D1[ICON_FOOD] for %s2_production_type	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_COMMERCE_SUBTOTAL_YIELD_FLOAT	-----------------------[NEWLINE]Base %s1_commerce_type: %s2%F3	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_SLIDER_PERCENT_FLOAT	-----------------------[NEWLINE]%d1%% of %d2[ICON_COMMERCE] = %s3%F4	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_COMMERCE_FINAL_YIELD_FLOAT	-----------------------[NEWLINE]Total %s1_commerce_type: %s2%F3	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_BUILDING_DEFENSE	[ICON_BULLET]%D1%%[ICON_DEFENSE] from Buildings	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_CULTURE_DEFENSE	[ICON_BULLET]%D1%%[ICON_DEFENSE] from Culture	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_CULTURE_DEFENSE_PARTIAL	[ICON_BULLET]%D1%%[ICON_DEFENSE] from Culture (%d2%%)	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_WONDER_DEFENSE	[ICON_BULLET]%D1%%[ICON_DEFENSE] from Wonders	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_TOTAL_DEFENSE	Total Defense: %D1%%[ICON_DEFENSE]	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_DEFENSE_DAMAGE	[ICON_BULLET]%D1%%[ICON_DEFENSE] from Bombardment	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_NET_DEFENSE	Net Defense: %D1%%[ICON_DEFENSE]	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HELP_TOTAL_BOMBARD_DEFENSE	Total Bombard Defense: %d1%%[ICON_DEFENSE]	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_HURRY_OVERFLOW	[ICON_BULLET]%s1 Overflow	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_TRADE_HEADING	Trade	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_DOMESTIC_TRADE_HEADING	Domestic Trade	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_FOREIGN_TRADE_HEADING	Trade with %s1_PlyrName of %s2_CivName	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_CANNOT_TRADE_HEADING	No Trade with %s1_PlyrName of %s2_CivName	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_TOTAL_TRADE_YIELD	[NEWLINE]Total Yield: %s1[ICON_COMMERCE]	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_TOTAL_TRADE_ROUTES	[NEWLINE]Number of Routes: %d1	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_AVERAGE_TRADE_YIELD	[NEWLINE]Average Yield: %s1[ICON_COMMERCE]	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_CANNOT_TRADE_DEAD	[NEWLINE][ICON_BULLET]They are dead	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_CANNOT_TRADE_NETWORK_NOT_CONNECTED	[NEWLINE][ICON_BULLET]Your Trade Networks are not connected	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_CANNOT_TRADE_CLOSED_BORDERS	[NEWLINE][ICON_BULLET]You have not signed an Open Borders agreement	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_CANNOT_TRADE_FOREIGN_YOU	[NEWLINE][ICON_BULLET]Your Civics don't allow Foreign Trade	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_CANNOT_TRADE_FOREIGN_THEM	[NEWLINE][ICON_BULLET]Their Civics don't allow Foreign Trade	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_EXPERIENCE	%d1 XP	
+BULL_CIV4GameText.xml	TXT_KEY_CITY_FREE_EXPERIENCE	[ICON_BULLET][COLOR_POSITIVE_TEXT]%D1 XP from City[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_CITY_UNITCOMBAT_FREE_EXPERIENCE	[ICON_BULLET][COLOR_POSITIVE_TEXT]%D1 XP from City for %s2_UnitCombatName[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_PLAYER_FREE_EXPERIENCE	[ICON_BULLET][COLOR_POSITIVE_TEXT]%D1 XP from Wonders and Civics[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_SPECIALIST_FREE_EXPERIENCE	[ICON_BULLET][COLOR_POSITIVE_TEXT]%D1 XP from Specialists[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_BUILDING_FREE_EXPERIENCE	[ICON_BULLET][COLOR_POSITIVE_TEXT]%D1 XP from %s2_building[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_NO_BUILDING_FREE_EXPERIENCE	[ICON_BULLET][COLOR_NEGATIVE_TEXT]%D1 XP with %s2_building[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_STATE_RELIGION_FREE_EXPERIENCE	[ICON_BULLET][COLOR_POSITIVE_TEXT]%D1 XP from State Religion[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_NO_STATE_RELIGION_FREE_EXPERIENCE	[ICON_BULLET][COLOR_NEGATIVE_TEXT]%D1 XP with State Religion[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_CITY_HAS_CONSCRIPTED	[COLOR_NEGATIVE_TEXT]City cannot draft another unit this turn[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_CONSCRIPT_UNITS_LEFT	You can draft %d1 [NUM1:unit:units] this turn	
+BULL_CIV4GameText.xml	TXT_KEY_MISC_NO_CONSCRIPT_UNITS_LEFT	[COLOR_NEGATIVE_TEXT]You cannot draft any more units this turn[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_BUG_PRECLEARING_FEATURE_BONUS	Clearing a %s1_FeatName will create %d2_Num [ICON_PRODUCTION] for %s3_CityName.	
+BULL_CIV4GameText.xml	TXT_KEY_ACTION_CHANGE_IN_CITY	[ICON_BULLET]%s1 in %s2_CityName	
+BULL_CIV4GameText.xml	TXT_KEY_SAME_UNITS_TYPE	[SPACE](&lt;ALT&gt; for All Units of the active unit's type)	
+BULL_CIV4GameText.xml	TXT_KEY_TRADE_ROUTE_TOTAL_FRACTIONAL_PROFIT	%s1 [ICON_COMMERCE]: Total profit	
+BULL_CIV4GameText.xml	TXT_KEY_TRADE_ROUTE_MOD_CIVIC	%D2%%: for %s1	
+BULL_CIV4GameText.xml	TXT_KEY_TRADE_ROUTE_MOD_TRAIT	%D2%%: for %s1	
+BULL_CIV4GameText.xml	TXT_KEY_TRAIT_TRADE_YIELD_MODIFIERS	[NEWLINE][SPACE][SPACE][ICON_BULLET]%D1%%%F2_yield from Trade Routes ([ICON_TRADE])	
+BULL_CIV4GameText.xml	TXT_KEY_TRADE_ROUTE_TOTAL_FRACTIONAL	%s1 [ICON_COMMERCE]: Total	
+BULL_CIV4GameText.xml	TXT_KEY_CHEATERS_NEVER_PROSPER	[COLOR_NEGATIVE_TEXT]You have already chosen your free tech(s)[COLOR_REVERT]	
+BULL_CIV4GameText.xml	TXT_KEY_MOD_FRACTRADE	Fractional Trade Routes	
+BULL_CIV4GameText.xml	TXT_KEY_MOD_SENTRY	New Sentry Actions	
+BULL_CIV4GameText.xml	TXT_KEY_MOD_GOVWORKERS	City Governors Build Workers	
+BULL_CIV4GameText.xml	TXT_KEY_MOD_AIAUTOPLAY	AI AutoPlay	
+BULL_CIV4GameText.xml	TXT_KEY_MOD_GWARM	Global Warming	
+BULL_CIV4GameText.xml	TXT_KEY_MOD_SHAM_SPOILER	Show Hidden Attitudes	
+BuildingHelp.xml	TXT_KEY_PROMOTION_EXPIRES_END_OF_TURN	[ICON_BULLET]Wears off at end of turn	
+BuildingHelp.xml	TXT_KEY_PROMOTION_HELP_INVISIBLE	[ICON_BULLET]Makes the unit invisible (except in cities)	
+BuildingHelp.xml	TXT_KEY_PROMOTION_MIN_LEVEL	[ICON_BULLET]Requires level %d1 or higher	
+BuildingHelp.xml	TXT_KEY_BUILDING_UNHAPPY_PRODUCTION	[ICON_BULLET]Provides +1[ICON_PRODUCTION] per unhappy population	
+Buildings.xml	TXT_KEY_BUILDING_ASYLUM_HELP	[ICON_BULLET] Has a chance to bestow the [LINK=PROMOTION_CRAZED]Crazed[\\LINK] promotion on units built in the city.	
+Buildings.xml	TXT_KEY_BUILDING_CATACOMB_LIBRALUS_PEDIA	Sebill arrived at a door marked "Acquisitions." The coachman escorted her to the door and gave it two hard knocks. It opened to reveal a miniscule butcher. The dwarf looked up at the coachman and noted Sebill. "Good! Good!" he said and ushered them into what looked like a carpenter's workshop-only one in which the wood bled when cut. "I commend you on your haste; we here are great appreciators of body magic, you know. You ought to be well paid for your effort. Do you need new horses?"[NEWLINE][NEWLINE]"They are well," answered the coachman, "they're of strong breed and can withstand the spells. With enough food and rest tonight they'll have their stamina back."[NEWLINE][NEWLINE]"They're fine animals, aren't they?" the dwarf said affably, clearing tools off a table. He was joined by a graying female dwarf wearing an equally dirty apron. "Splendid!" she said. "Let's get started. I'm Odea, he's Hahm, in case he didn't introduce himself."[NEWLINE][NEWLINE]"Anton," said the coachman.[NEWLINE][NEWLINE]Odea turned to examine Sebill. "Let's get a look at you... Even better than I expected! Let's get you on the table." Anton stepped forward to help lift Sebill, but saw it was unnecessary as Odea, despite her size, moved Sebill to the dwarf-sized table without effort. Odea smiled, "She's empty. No organs. I asked our clients in Nubia to clean her to prevent spoiling. Kept out of the sun the bodies can make the trip in adequate shape." Anton nodded. Odea thought he seemed uneasy. "I'm sorry, did you know her?"[NEWLINE][NEWLINE]"No, no... I have no idea who she is, or why she's important to the nobles. She doesn't look like an aristocrat." He paused, then motioned toward the door, "I have the rest of the delivery in my carriage."[NEWLINE][NEWLINE]"Her blood I'm sure. Would you fetch that? Hahm needs to check it and make sure the preservers held up. There are a number of naturally occurring blood thinners in just about every land, but ours are better. I have some theories about speeding the reactions to make the ink less corrosive, but that would require entropy mana which can be hard to come by..."[NEWLINE][NEWLINE]Outside, Anton gave the blood to Hahm and moved his horses into the shade. This was his first visit to the Luchuirp lands. He admitted to himself that he'd always been a little racist toward dwarves, but couldn't think of any reason why. He looked at and admired the structure of the Catacomb Libralus; from what he'd heard he assumed it was nothing more than a one-trick curiosity shop. It was originally built as a catacomb open to all, until necromancers developed a habit of exploiting it, leading to the pejoration of the name "Free-Use Catacombs." Later it was acquired by a wealthy polymath, who turned it into the institution that is now commonly nicknamed the "Catacomb Librarius." Above ground it was a simple structure with short walls and an entrance adorned with arches and pillars.[NEWLINE][NEWLINE]Anton returned to the workshop to see Odea in the process of skinning Sebill. Incisions ran up the middle of her chest, along her collarbone, and above her hips. Odea was paring the fatty membrane holding skin to muscle as she pulled the skin upward. Anton groaned at the sight, which alerted Odea that he'd returned. She explained, her enthusiasm outweighing her sympathy for Anton's uneasiness, "The skin's in good shape. We use it all. Her back-because its smoother and thicker-will be tanned and used to make the cover. The rest we stretch into vellum for the pages." Odea paused, Anton was staring at Sebill's body. "It's not pretty, I know. This is an honorable afterlife though. I used to do golemcraft, but animating a golem is like rolling a stone down a hill-it's predictable, it's all it does. Books are the perfect synthesis of form and function, body and spirit, mythos and logos. They are us in every way." She put down her knife, and Anton sat on short ladder. Odea continued, "We can put any talent to use here. Do you practice magic?"[NEWLINE][NEWLINE]"I do some, just tricks to help my deliveries-speed the horses, hide my wares. Just dabblings."[NEWLINE][NEWLINE]"Ice! Imagine what you could do with ice mana! We could add people from any corner of Erebus to our collection. You could make your fortune just transporting food to soldiers. Ah, if only we could get some..." Anton laughed. He'd thought of this before. Odea continued, "We use a range of magic here: body helps us transform the person, but that's mostly handiwork; our diviners use spirit magic to contact the dead; and enchanters can infuse the books with special properties. Luckily we're in a land where necromancy is outlawed, or we'd have a lot to worry about. Should I take you to see some of our collection?"[NEWLINE][NEWLINE]"Thank you," he replied, "but I have to stable my horses first. I should find an inn."[NEWLINE][NEWLINE]"Fine by me. I need to work and I can't have distractions. Come back later for a tour." Odea smiled, "Now get out of here."[NEWLINE][NEWLINE][NEWLINE]A week had passed since Anton delivered Sebill. He'd gone north to meet a Calabim rendezvous who took the carriage, leaving Anton with a horse. Now returning to the fortified city, he spent the evening at a public house, waiting for nightfall. He made his way back to the Catacomb Libralus and to the door marked "Acquisitions." He knocked. If Odea answered he'd have an excuse for being there. If she didn't, then things would be according to plan. He picked the lock and slipped inside. There was barely any light and he waited for his eyes to adjust. The tables were clean and the tools put away. A door in back opened to a lantern-lit corridor.[NEWLINE][NEWLINE]When he entered the main hall he realized he'd underestimated the age and grandeur of this place. He thought the library at his former mages' guild was large, but he'd never seen this many books. The hall was lined with shelves of books in every skin color, all facing out. Numerous corridors descended into the catacombs, all filled with books. Anton despaired when he wondered how he would find a single book in all this, until he saw the years inscribed above the corridors' arches.[NEWLINE][NEWLINE]He entered the most recent corridor, which had just started to be used in the last five years. He walked straight to the end of the row. A small engraving was underneath the last book. Some Malakim name; the book was too dark anyway and had a tattoo of a lion on the cover. The second-to-last book was a pale tan, like a dry meadow. The engraving underneath read "unknown" and named the year of death. The book before that was grayish green and had a single horn jutting out from the spine. He picked up the tan one. It was about two hands tall and a little less wide. The cover was soft-it was leather after all. The spine was sturdy. Bone? He imagined it was her sternum, and thought of her breasts, one skinless, the other just dead. He opened the cover and ran his finger along the inside spine. The pages were sewn to the cover using string made of brown hair. There was writing on the first page, in ink that was still reddish and had not faded into brown. It said: My dear Ain-You'll never read this, but please know that I love you eternally. A chill shook him. He tucked Sebill's book into his pack and returned to the main hall.[NEWLINE][NEWLINE]He looked at the dates above the arches, and walked down the next corridor. Both sides of the corridor were lined with books facing each other. A jumble of names grew in his head as he scanned the engravings.[NEWLINE][NEWLINE]"Are you looking for something, Anton?" He spun to see Odea in the middle of the corridor. She looked relaxed; he tried his best to appear the same. Her apron was gone and she was dressed comfortably, striking Anton as quite pretty.[NEWLINE][NEWLINE]"Um... yes. A book. A book of... my grandfather."[NEWLINE][NEWLINE]"Anything else?"[NEWLINE][NEWLINE]"...No."[NEWLINE][NEWLINE]"What was his name?"[NEWLINE][NEWLINE]Anton glanced toward the main hall to see if Odea was alone. "Gerard Cormand."[NEWLINE][NEWLINE]"I know of him! Quite the revolutionary in his day. Did you know him?"[NEWLINE][NEWLINE]"I didn't. My father opposed his politics and left the city, taking his family along. I was born on a farm."[NEWLINE][NEWLINE]"Your grandfather was murdered before the revolution ended, wasn't he?"[NEWLINE][NEWLINE]"Yes. I have to know that it wasn't... my father."[NEWLINE][NEWLINE]"Your grandfather is here," she pointed farther down the corridor. Anton cautiously followed her lead. "Our diviners enjoy limited success as a writing tool for the dead, allowing them to make a final statement."[NEWLINE][NEWLINE]"The dead write?" probed Anton.[NEWLINE][NEWLINE]"We ask them if there's anything they'd like to say. They're usually thinking about what they would have done differently in life, so they're full of advice. They might eulogize themselves, or tell their entire life's story-we give the diviners a short vacation to recover after those. These are good souls, mind you; we don't even want to know the dangers of making an unscrupulous book."[NEWLINE][NEWLINE]"That woman," thought Anton, "what had she done to make her so valuable to the Calabim?"[NEWLINE][NEWLINE]"Victims of murder usually have something to say..." Odea stopped walking and motioned toward a book, smaller than Sebill's and paler.[NEWLINE][NEWLINE]Anton said, "Would he have named his killer?" Odea didn't answer, and Anton lifted his grandfather's book. He opened it and read: I liked the fleshy sins best. He turned the pages: blank. He sighed deeply, and put the book down. Odea took a step back. "Are you going to return the other book too?"[NEWLINE][NEWLINE]Anton faced Odea with a widened stance. "No. I'm sorry, but I'm stealing it." He held a knife at her eye level and took a slow step toward her.[NEWLINE][NEWLINE]"I can't stop you," she said calmly. "This is a mistake though. These books are extremely dangerous in the wrong hands. They must never leave."[NEWLINE][NEWLINE]"I know. Your &#145;clients' haven't given me any choice though." They circled each other in a cautious dance. Seeing the main hall clear, Anton left through the front door.[NEWLINE][NEWLINE][NEWLINE]Outside the city walls, Anton snuck to his horse, mounted her, and pointed her back north. He hadn't ridden far when a sudden strong wind, or that's what it felt like, threw him off his horse, spilling his pack. He saw in the dark the looming shape of a gargoyle, its wings blocking the light from the city. He ran, and would have died on the spot if it weren't for his haste spell. Instead, he died at the forest's edge a short length away, while the Book of Sebill remained beside the road.	
+Buildings.xml	TXT_KEY_BUILDING_CITADEL_OF_LIGHT_HELP	Causes fire damage to the most powerful enemy stack within 2 tiles of the city at the start of your turn.	
+Buildings.xml	TXT_KEY_BUILDING_COURTHOUSE_PEDIA	[TAB]Curse those cards! He'd been so close to winning his passage on the earlier ship, when he was dealt the Curse of Arawn-particularly sickening as it had followed a Seven of Towers which surely would have won him the pot. His luck had been horrendous since then, he'd lost most of his winnings on that game, and then spent a lot more drowning his sorrows. He'd then been woken with a pail of water, finding himself press-ganged into service on a galley heading for the unknown lands. After five torturous days of seasickness, Lanun pirates struck, the galley was sunk and here he was now-after being washed ashore-in a Svartalfar courtroom charged with spying.[PARAGRAPH:1]What did he know about these elves? Civil war was it? Something about Seelie and Unseelie Court. Growing up on a farmstead had left him a little vague on world politics. His eyes looked around this strange court-pretty grandiose d&#233;cor, with a sense of opulence, certainly not the functional style of his Hippus homeland. His eyes fell on a statuette. There was something not quite right about it... ah... yes... the scales, tipped with coins. So... Mammon has a part to play in this courtroom does he? There were still some coins in his hidden pouch. Once he signaled to the bailiff, things began to gather momentum, indeed Mammon had obviously provided a slick fast-tracking system as he found himself ushered away from the courtroom-at the cost of a few coins-to a private room.[PARAGRAPH:1]"It seems you have been a little down on your luck, and would like to... aha... speed the courtroom process up, so to speak?"[PARAGRAPH:1]"Yes, your honor."[PARAGRAPH:1]"...and you can pay the fine of five coins?"[PARAGRAPH:1]"Yes."[PARAGRAPH:1]"Okay... that seems in order. No need for paper work, I think we can come to a satisfactory conclusion here and now: Guilty as charged, you hang tomorrow. In Esus we Trust."[PARAGRAPH:1]"...but ...but the statuette to Mammon?!"[PARAGRAPH:1]"Yes, a pretty little thing isn't it? ...and worth its weight in gold I must say."[PARAGRAPH:2]-When entering a courtroom, effort should be made to check the patron Angel before constructing your defense.	
+Buildings.xml	TXT_KEY_BUILDING_DEMONS_ALTAR_HELP	[ICON_BULLET]Allows you to sacrifice your living units for extra research.[NEWLINE][ICON_BULLET]Grants +2 experience to [LINK=PROMOTION_DEMON]Demonic[\\LINK] units built in the city.	
+Buildings.xml	TXT_KEY_BUILDING_FORGE_STRATEGY	Boosts production in the city and removes the [LINK=PROMOTION_RUSTED]Rusted[\\LINK] promotion from units in the city.	
+Buildings.xml	TXT_KEY_BUILDING_GAMBLING_HOUSE_PEDIA	[TAB]Gambling houses are full of assorted dice, card and board games. Some even host pits for animal fights or darker pleasures. The Khazad are known to host rat races while Sheaim adepts summon minor creatures to battle against each other.[PARAGRAPH:1]But one thing is similar across all of them, their most popular game, Somnium. Played on cards among the Balseraphs, on tiles by the Elohim and on crude patches of dried leather by the Clan of Embers the game has permeated all layers of Erebus. That's not to say that house rules don't exist, Overlord faithful often offer extra points for Cups cards, followers of Kilmorph often make Tower cards immune to stealing. But regardless of the specific rules the game remains a fascination for kings and peasants and nearly every gambling house hosts a few men praying desperately to avoid death and turn over the 7 of the suit they are missing.	
+Buildings.xml	TXT_KEY_BUILDING_GAMBLING_HOUSE_HELP	[ICON_BULLET]Costs -75%[ICON_PRODUCTION] with Undercouncil and Gambling Ring resolution	
+Buildings.xml	TXT_KEY_BUILDING_GOVERNORS_MANOR_STRATEGY	[TAB]The Governor's Manor is the Calabim version of the Courthouse. It doesn't reduce maintenance as much as a typical courthouse but it reduces war weariness and provides +1 production for every unhappy citizen in the city.	
+Buildings.xml	TXT_KEY_BUILDING_GUILD_OF_THE_NINE_HELP	[ICON_BULLET]Allows the player to hire [LINK=literal]Mercenary[\\LINK] units.	
+Buildings.xml	TXT_KEY_BUILDING_HALL_OF_MIRRORS_STRATEGY	At the beginning of each turn, the [COLOR_BUILDING_TEXT]Hall of Mirrors[COLOR_REVERT] will create an Illusionary summons that is a copy of a random enemy unit who is within one tile of the city.	
+Buildings.xml	TXT_KEY_BUILDING_MAGE_GUILD_PEDIA	[LINK=UNIT_FAWN]Chapter 1: Beltane Cycle[\\LINK][NEWLINE][LINK=UNIT_SATYR]Chapter 2: Beltane Cycle[\\LINK][NEWLINE][LINK=BUILDING_MONUMENT]Chapter 3: Beltane Cycle[\\LINK][NEWLINE]Chapter 4: Beltane Cycle[NEWLINE][NEWLINE]Although it wasn't uncommon for disciples to miss the evening bell during Beltane, and not unheard of to still be missing the next morning, it was out of character for the bookish disciple Wyren. He had been the least interested in the festival and outside of his religious obligations hadn't attended many of the games or displays that crowded the elven capital.[PARAGRAPH:1]Priest Tuathal watched the flowerbed in concern. The flowers that each bloomed during different parts of the day, arrayed in an arc in order as they bloomed. Numbers marked each section and allowed the flowerbed to function as a large living clock as it was easy to tell the time by looking at the flowers that were in bloom. It was nearly noon and Wyren was still missing.[PARAGRAPH:1]A squirrel chattered loudly above the priest, hoping he may have some treats. Tuathal scowled back, unhappy to see the animal expecting to be fed rather than gathering the food from the forest himself. But the squirrel wouldn't give up and followed the priest from tree to tree as he walked into the grove between the three temples.[PARAGRAPH:1]Tuathal quietly prayed for some guidance. He couldn't help but feel that something bad had happened to Wyren even if everything else seemed normal. Unhappy at being ignored the squirrel climbed out on the branch closest to Tuathal and then jumped from there onto the satyr statue at the center of the grove. But instead of landing gracefully on the satyr's broad arm the squirrel passed completely through the statue and landed with a confused thud on the ground.[PARAGRAPH:1]Tuathal stared in surprise at the squirrel and the statue he had just jumped through. Pulling an acorn from his pocket he scooped the squirrel up onto his shoulder and gave him the nut while studying the statue. The squirrel studied it suspiciously as well.[PARAGRAPH:1]Slowly reaching out Tuathal's hand passed effortlessly through the statue; it was only an illusion. The real statue was gone.[PARAGRAPH:2]Hemah watched as the grove filled up with priests, city watch, and mages investigating the missing statue. He wasn't worried about being noticed, as a significant crowd of curious travelers, disciples and adepts had turned up to watch what was going on.[PARAGRAPH:1]Devon, an elven man with golden hair and green eyes was leading the investigation. He wore the garb of a watch captain but it was obvious from his bearing that he was nobility as well. The captain checked out the statue himself and then after conferring with a shrugging group of mages ordered someone to get Thessa. Hemah leaned forward in interest, this was the first time he had heard her name but he suspected he already knew who she was.[PARAGRAPH:1]While he waited the captain investigated the rest of the grove, ordering people back. He found wagon tracks leading into the grove, and the heavier set leading out. They lead back out to one of the busiest roads in Evermore, where they were impossible to track. But he sent a group of soldiers down the road anyway to see what they could find. He asked another to start questioning the local wagoneers to see if anyone had stored or purchased a wagon capable of carrying a marble statue in the past few days. The day after Beltane there were hundreds of wagons in Evermore that fit that description, but the lieutenant accepted his charge and set off to perform it.[PARAGRAPH:1]Shortly afterwards a beautiful archmage entered the grove and the theorizing mages grew quiet. She talked quietly with the captain, asked a few questions to the mages, who shrugged again, and then went over and knelt down by the statue.[PARAGRAPH:1]"Is the statue of anyone in particular?" she asked.[PARAGRAPH:1]Priest Tuathal scowled but controlled himself before responding, "Surely your studies keep you too long from the temple lady Thessa. The statue is of Gower, favored son of Cernunnos, who was killed by Agares during the first Age. This statue was erected by the elves of that age in memory of him. It is one of the oldest relics in Evermore."[PARAGRAPH:1]"Thieves usually aren't that interested in history and there are a thousand statues in Evermore that would have been easier to steal. Is there any reason why this one would be more valuable?"[PARAGRAPH:1]The priest cleared his throat. The eyes of everyone in the grove went to him and the squirrel on his shoulder glared back at everyone.[PARAGRAPH:1]After an awkward silence Tuathal said, "we may need to talk about that in private."[PARAGRAPH:1]Devon ordered one of his guards to have the priest taken into the temple for a more private conversation. But Thessa ignored the response, to her it was just another example of how the traditions of the Ljosalfar were keeping it from moving ahead. Taking a deep breath she closed her eyes and began to cast.[PARAGRAPH:1]If she was beautiful, she was even more beautiful while in the throes of magic. Her dark hair, unusual among the Ljosalfar, fluttered and her body strained as she channeled the power needed to cast the spell. Hemah recognized it, she would be trying to follow the link between the illusion and the one maintaining it. She was trying to find him. But just before her spell was completed Hemah released the illusion and the statue disappeared.[PARAGRAPH:1]"What happened, did you dispel it?" Devon asked.[PARAGRAPH:1]With the object of her spell gone Thessa struggled to release the magic harmlessly. Her hands glowed as if stars danced from them and then faded out.[PARAGRAPH:1]"No," Thessa answered, "I hadn't done anything yet. The caster released the spell before I could follow it back to him."[PARAGRAPH:1]Devon looked up at the assembled group of spectators, who dumbly returned his gaze. He turned to the last of his lieutenants.[PARAGRAPH:1]"Have everyone here be brought to the barracks for questioning."[PARAGRAPH:1]A few hours later Hemah was still sitting in the barracks waiting to be questioned. All of the citizens of Evermore had been first, and questioning them went relatively quickly. But they were taking their time with the travelers. Hemah had already released the spell he cast on Alazkan's amulet, he hoped it hid him for long enough. And unlike most mages he didn't keep anything magical on him. He was less concerned with the questioning then he was in making sure he got the right questioner.[PARAGRAPH:1]Fortunately Thessa was in charge of examining all the travelers and just after nightfall his name was called and he was shuffled into a small office with her. Thessa looked over the notes a soldier had collected on the group and the items they had taken from Hemah.[PARAGRAPH:1]"Are these yours?"[PARAGRAPH:1]"Yes," Hemah answered.[PARAGRAPH:1]"What are you doing in Evermore?"[PARAGRAPH:1]"I came for the festival." Hemah said somewhat honestly.[PARAGRAPH:1]"A common answer today, do you worship Cernunnos?" Thessa asked the questions as a matter of protocol, she was more interested in looking through the items he had. She had the golden feather, mask and bag of incense laid out on the table and she was carefully examining the feather.[PARAGRAPH:1]"No, I'm not really religious. Though I do enjoy the sights of Evermore and the festival."[PARAGRAPH:1]This was the first time Thessa looked up at him, most of the people she talked to today claimed to be worshipers even if they weren't. He had a gentle face, almost soft and would be handsome if he didn't look so tired. He didn't match what she would expect from a merchant, mage or one of the many people that flocked to Evermore for the festival.[PARAGRAPH:1]"What of these items?" she asked.[PARAGRAPH:1]"The mask is for the festival," Hemah lied, he wore the mask to keep him from seeing his own reflection. That helped keep him from dreaming about himself, which was an exhilarating and terrifying experience.[PARAGRAPH:1]"The feather I found on the edges of your empire. I've only had it for a few days and I'm not sure what to make of it."[PARAGRAPH:1]"It is beautiful." Thessa was more practical than most of the Ljosalfar, and had never seen much value in spiritual or artistic matters but she couldn't deny the draw of the feather. She tested it several times before Hemah came into the room and it was the reason she wanted to question him directly. It wasn't magical, but she couldn't believe the draw it had without magical means.[PARAGRAPH:1]"It's the second most beautiful thing I've seen in your lands."[PARAGRAPH:1]Hemah's meaning was obvious from the way he was looking at her, but Thessa pretended to miss the compliment.[PARAGRAPH:1]"And the incense?"[PARAGRAPH:1]"It helps me sleep." Hemah honestly responded, "I have troubling dreams sometimes, but if I burn the incense in the room with me I don't have them."[PARAGRAPH:1]"This is an ancient elven craft, I'm surprised to see anyone with it, especially a human. Did you buy it from someone at the festival?"[PARAGRAPH:1]"No, I met a merchant in Kingsport with it. But I don't know how he got it."[PARAGRAPH:1]Hemah paused before continuing.[PARAGRAPH:1]"About the feather... I'd like you to have it."[PARAGRAPH:1]Thessa looked surprised and suspicious so Hemah continued.[PARAGRAPH:1]"As I said, I found it at the edge of your empire, so if anything it is yours anyway. It is too beautiful to be stuffed into my tunic for months on end."[PARAGRAPH:1]Thessa would never accept a gift from someone being investigated. The fact that he was offering a gift implied his guilt. But she couldn't help feeling that this was different, that this man was lonely and out of place, but not responsible for the disappearance of the statue or disciple Wyren. And she found herself unable to turn down the feather.[PARAGRAPH:1]"Are you sure? This won't affect the investigation at all. You will still likely spend the night in jail."[PARAGRAPH:1]Hemah nodded, "I'm sure."[PARAGRAPH:1]Thessa tucked the feather in her dark hair and smiled at him. That vision was forever burned into Hemah's heart and it was all he could do to keep from professing his eternal love for her. Then she leaned across, kissed him gently on the cheek, whispered her thanks and left the room. He was left stunned.[PARAGRAPH:1]Devon was watching the interview. There were only a handful of suspects that seemed out of place. Though he suspected they were all dead ends. But seeing Thessa kiss the pale human caused a turmoil of emotions that he was unable to understand.[PARAGRAPH:1]When she came out of the room they met to discuss the results of the interviews. Thessa didn't know he had seen the kiss but sensed immediately that he was distant. As they went through each of the suspects they easily agreed to hold or release each of them until they came to Hemah.[PARAGRAPH:1]"Do you think he is a mage without magic, a kidnapper without a victim, an attacker without a weapon and a thief without the goods? We found the wagoneer that sold the missing wagon, the man he described doesn't match any of our suspects. What is it you suspect about this one?"[PARAGRAPH:1]Devon was unaccustomed to being so directly questioned from anyone except Thessa, it was one of the things that he loved about her. She was right, but even without the kiss there was something about Hemah that bothered him. Devon's father was an angel in Sucellus's charge and that divine birthright usually made his instincts correct.[PARAGRAPH:1]Unable to settle the dispute they asked priest Tuathal's opinion. He peeked into the room where Hemah sat quietly and considered him. After a few minutes he simply said, "I agree with Devon, there is something suspicious about the man that warrants more scrutiny. I would have him held until we find out more."[PARAGRAPH:1]Devon gave the order before Thessa could object. Then Tuathal stepped in to cool the stubborn archmage's temper.[PARAGRAPH:1]"I heard that Devon proposed to you at the festival dance last night. I am sorry it took me so long to congratulate your betrothal."[PARAGRAPH:1]Tuathal's tactic worked and Thessa let her argument go in the face of the priest's good wishes.[PARAGRAPH:1]"Yes, it was an amazing night. I couldn't be happier."[PARAGRAPH:1]Devon was also relaxed by the memories of the previous night, "Now we have only to set a day."[PARAGRAPH:1]Thessa smiled, Hemah's plight was forgotten.[PARAGRAPH:1]A few minutes later guards came and told Hemah he was to be held for further questioning. They led him to a cell where he was locked up with a few pickpockets and a handful of others that were suspected of having something to do with the theft. He went peacefully to the cell, and only argued that he needed his incense so he could sleep. They refused to give it to him and ignored his requests.[PARAGRAPH:1]Hemah stayed up for most of the night but as the hours went by he found himself drifting off in short bursts. The sleep from the incense wasn't that restful so it had been weeks since he had really slept. In his short bursts of dreams he saw visions of Thessa, the satyr statue, the golden feather as part of the wings of an ancient god, and that god's attack on this very forest. Visions of withered trees and disease.[PARAGRAPH:1]He shook himself awake. These dreams were horrible but he was so tired that he was falling asleep even as he paced back and forth. Eventually the dreams won.[PARAGRAPH:1]When he awoke the barracks was full of concerned guards, mages and priests. Devon was organizing the efforts and getting reports from scouts checking in from various edges of the forest. After a few hours the guards remembered the travelers they had detained and, seeing no opportunity to pursue the investigation and little hope of finding anything if they did, opened the cell and let them go.[PARAGRAPH:1]Hemah had his mask, incense and other items returned and he was released onto the streets of Evermore. Devon excused himself from his meeting and caught up with Hemah as he walked away from the barracks.[PARAGRAPH:1]"You, where are you going?"[PARAGRAPH:1]Hemah couldn't believe he was going to go through this again.[PARAGRAPH:1]"The guards released me, they said the investigation was suspended."[PARAGRAPH:1]"I know," Devon responded. "I mean you will be leaving Evermore. You will be leaving our forest. You won't return."[PARAGRAPH:1]The captain looked angry and Hemah noticed that the other suspects that had been released weren't given the same speech.[PARAGRAPH:1]"I was hoping to talk to the woman who questioned me before I left. Do you know where she is?"[PARAGRAPH:1]The captain's eyes narrowed, Hemah had found the point of the captain's anger at him and immediately regretted asking the question.[PARAGRAPH:1]"Her name is Thessa, and she is betrothed to me. You will not talk to her."[PARAGRAPH:1]At that Devon called a guard over and ordered him to escort Hemah to the edge of the forest. The guard agreed and with a final glare from Devon Hemah was led away from the barracks.[PARAGRAPH:1]As Hemah walked beside the guard he put on his mask. He was an amazing caster and could cast minor spells simply from sheer strength of will. Especially after the prior night's sleep, he felt more rested than he had in months. As he walked he reached out to the guard's mind. He would travel out to the forests edge alone, all the while believing Hemah walked beside him and left without any problems.[PARAGRAPH:1]After the spell was firmly in place Hemah cut down an alleyway and headed to the mage guild of the city, where he guessed Thessa would be searching for a cause of the corruption that occurred last night.[PARAGRAPH:1]There were three ways to become invisible. Bend light around your body, create an illusion on your body of the surface behind it or simply trick the mind of the person looking at you so that they don't think they see you. It was this last form that Hemah used as he walked into the mage guild. He scanned ahead, finding elves and blocking their mind to his presence. Technically everyone he walked by saw him as he wandered through the hallways and studies of the guild, but they didn't realize it.[PARAGRAPH:1]He didn't try to include Thessa in the spell. She was looking through piles of ancient tomes when he entered the room. She still had the golden feather in her hair.[PARAGRAPH:1]"Thessa."[PARAGRAPH:1]She didn't recognize the voice and it took her a second to match the mask with the one she examined the day before. He had a commanding presence and she could feel the magic radiating from him. This figure was much different than the lonely young man she interviewed and a quick touch of her ring warned Devon that she was in danger.[PARAGRAPH:1]"Hemah? What are you doing here?"[PARAGRAPH:1]She reached out and felt the magic flowing through the room, mentally preparing to defend herself against a mental or physical assault. Without thinking she pushed the tomes aside to keep them from getting damaged.[PARAGRAPH:1]"I came for you, this blight consumes hope. It will destroy you or Evermore. You must get out of here."[PARAGRAPH:1]"Did you create it?" What she had seen of the corruption growing in the forest was beyond anything she had seen before. She sensed a lot of power in Hemah, but the corruption was something greater.[PARAGRAPH:1]"No," Hemah replied. "You did. It's a memory of an affliction that struck the forest long ago. It was eventually stopped by an angel, but no such angel exists to stop it now. Come with me."[PARAGRAPH:1]"How do you know about the source of the corruption?"[PARAGRAPH:1]Hemah could feel her gathering power. She was planning to attack him but she wanted to see what she could learn from him first.[PARAGRAPH:1]"Thessa, I don't know the answer to that, things are revealed to me in dreams. Like I know that if you come with me we will be safe."[PARAGRAPH:1]Devon burst through the study door with sword in hand, followed by mages loudly claiming there was nothing threatening the guild. Devon raced across the room, yelling for Thessa to get back but she didn't listen. Instead she channeled a pulse of arcane energy into the room to disrupt any defensive spells Hemah may have active. The mages stopped in alarm as Hemah's invisibility spell dropped and the masked figure popped into view.[PARAGRAPH:1]Devon ducked under Hemah's arm and sliced up along his ribs. Hemah screamed in pain and visions of a sleeping god danced briefly in front of his eyes, in a distant place that god stirred. Thessa prepared another spell as Hemah fell to the floor.[PARAGRAPH:1]Looking up Hemah only said, "Forget," and the impact of the word on the room was dramatic and sudden. It was as if Hemah had never been there.[PARAGRAPH:1]"Why did you set off your ring?" Devon asked in exasperation.[PARAGRAPH:1]Thessa stood confused, the mages behind Devon continued their objections to his rush into the guild and their claims that there wasn't any danger here.[PARAGRAPH:1]"I don't know," she answered, "I'm sorry it was an accident."[PARAGRAPH:1]Devon took a deep breath and sheathed his sword. After a few minutes of apologizing to the mages they finally left him alone with Thessa. She pulled a golden feather out of her hair and stared at it in confusion.[PARAGRAPH:1]"Are you okay?" Devon asked.[PARAGRAPH:1]He sat down and wrapped his arms around her, kissing her lightly on the cheek. She relaxed in his arms.[PARAGRAPH:1]"Did you find anything?"[PARAGRAPH:1]"No," Thessa answered, "not yet."[PARAGRAPH:1]"Have you decided on a day for our wedding yet?"[PARAGRAPH:1]Thessa smiled, she wasn't accustomed to pushing off decisions. But she hadn't been able to pick a day yet.[PARAGRAPH:1]"Soon, I promise."[PARAGRAPH:1]Hemah watched Thessa and Devon leave the mage guild late that night. Devon held her as they walked and despite the corruption approaching the city they were enjoying the time they had together. Hemah dumped his incense onto the street, he was no longer afraid of the dreams.[PARAGRAPH:1][NEWLINE][NEWLINE][LINK=LEADER_THESSA]Chapter 5: Beltane Cycle[\\LINK]	
+Buildings.xml	TXT_KEY_BUILDING_PALLENS_ENGINE_HELP	[ICON_BULLET]Grants every golem built in the city the [LINK=PROMOTION_PERFECT_SIGHT]Perfect Sight[\\LINK] promotion, which makes them able to see invisible opponents.	
+Buildings.xml	TXT_KEY_BUILDING_PLANAR_GATE_PEDIA	[TAB]The creatures that are spawned by a Planar Gate depend on other buildings in your city. The following buildings effect the chance that these creatures will come through the gate:[NEWLINE][NEWLINE]Carnival: Chaos Marauder[NEWLINE]Mage Guild: Mobius Witch[NEWLINE]Gambling House: Reveler[NEWLINE]Grove: Manticore[NEWLINE]Public Baths: Succubus[NEWLINE]Obsidian Gate: Minotaur[NEWLINE]Temple of the Veil: Tar Demon[NEWLINE][NEWLINE][TAB]The amount of each unit you can have per gate is dependant on the Armageddon Counter. The higher the counter the more likely you are to get units and the more you can have at once.	
+Buildings.xml	TXT_KEY_BUILDING_SCULPTORS_STUDIO_PEDIA	[TAB]In most Luchuirp cities, the sculptor's studio can be found next to the graveyard. Charged with crafting both golems and gravestones, the mason's art perfectly embodies both life and death.[PARAGRAPH:1]It is a well-known fact that the craft of a sculptor is often one of the most profitable professions within Luchuirp society. Many years ago, a young sculptor carved an iron golem with the face of Athos Ulthane, the savior of Ironstone Pass. Since that day many prominent citizens became supporters of the arts in the hope that they might be remembered in a similar fashion.[PARAGRAPH:1]Yet what of the lesser golems, those baked from mud and clay and the detritus of the streets. The silent servants that perform the tasks that no one else wants to. Who knows what faces adorn these pitiless creatures? Ask all you want. For all the words written in the heads, none will ever emerge from their lips.[PARAGRAPH:1]But if you pay for sufficient drinks and listen carefully to the whispers of the right rotgut beggar in the wrong part of Ithralia, you might learn that the golem which cleans the sewers at the docks bears an uncanny resemblance to Hamish Two-Strings, the infamous murderer and thief.[PARAGRAPH:1]In death, as in life, social hierarchies remain, carved in metal and stone and clay forever.	
+Buildings.xml	TXT_KEY_BUILDING_SMOKEHOUSE_PEDIA	In the frozen tundra of the Age of Ice people rarely had to worry about preserving their meat for the future, for the incredibly low temperatures could keep most foodstuffs in stasis for an indefinite period. In the rare cases where hunters caught more meat than they could carry on their backs, they usually dug a hole a few feet deep and deposited it there, where the cold kept it fresh and several heavy boulders prevented scavengers. Once they lost this natural refrigeration in the Age of Rebirth though, they had to relearn how to properly treat meat against rot, generally by drying and smoking it as it hung from the rafters of a special smokehouse.	
+Buildings.xml	TXT_KEY_BUILDING_SMUGGLERS_PORT_HELP	[ICON_BULLET]Requires Undercouncil and Smuggling Ring resolution	
+Buildings.xml	TXT_KEY_BUILDING_TEMPLE_OF_KILMORPH	Kilmorphian Grotto	
+Buildings.xml	TXT_KEY_BUILDING_TEMPLE_OF_LEAVES	Sacred Grove	
+Buildings.xml	TXT_KEY_BUILDING_TEMPLE_OF_THE_EMPYREAN	Fenestran Temple	
+Buildings.xml	TXT_KEY_BUILDING_TEMPLE_OF_THE_HAND_HELP	[ICON_BULLET]Converts all land plots within two tiles of the city to snow tiles.	
+Buildings.xml	TXT_KEY_BUILDING_TEMPLE_OF_THE_ORDER	Basilica	
+Buildings.xml	TXT_KEY_BUILDING_TEMPLE_OF_THE_OVERLORDS	Asylum	
+Buildings.xml	TXT_KEY_BUILDING_THE_NECRONOMICON_PEDIA	As the sun set into the ocean, its colors multiplied and shone across the sedated waters. Dying light in grapefruit and blood-orange shades pierced the temple's windows and comingled with the blues and greens, never mixing. The lights shimmered across the town's rooftops, glowing like the tolling of church bells as worshippers walked to the ocean and temple. For some, worship was to admire the ocean, to be present at its show. Others preferred immersion, giving their bodies to the water (metaphorically) as a way of saying "I owe you everything." Inside the temple the faithful bathed in the flowing water, letting the incense riding in the thick air penetrate their skin. Their minds flowed with the water and gave way to visions and serenity. A Priest of Whispers watched over as the din of the chamber filled with echoes of mumblings, humming, and short cries of ecstasy.[NEWLINE][NEWLINE]Farther within the temple, Captain Grey-Eye of the Jury Rig raised his head after bowing to High Speaker The Bones of Its Mother Are Luminous Eyes.[NEWLINE][NEWLINE]"What have you brought us, Captain?"[NEWLINE][NEWLINE]Grey-Eye was as faithful to the priests as any successful sea captain should be. He prayed regularly, both on the waves and on shore, and always gave a portion of his gold spoils back to the sea. Such spoils were what brought him before the Speaker in his hometown temple.[NEWLINE][NEWLINE]"Rumors from the Calabim lands speak of rich bounties for a treasure they've apparently misplaced."[NEWLINE][NEWLINE]"I know. The ebb and flow of water brings me news from around the world."[NEWLINE][NEWLINE]"Then y'know better than I the significance of the Book of Sable; I know none more than what they've offered to pay."[NEWLINE][NEWLINE]The Speaker stared through unblinking, sunken eyes. He was hairless, pale, and skeletal but his voice was like the creaking of the Jury Rig's mast. He was Speaker when Grey-Eye worshipped here as a child and hadn't changed appearance.[NEWLINE][NEWLINE]"I will pay anything you ask. However, when the bargaining is done I have a favor to ask of you."[NEWLINE][NEWLINE]"You're too generous, Your Resonance. If you're paying in Lanun coins, I'll take the Calabim's price. I accept the favor-what is it?"[NEWLINE][NEWLINE]"I'm sending a priestess with you on your ship. She has a mission and you will find her abilities useful. Leave the book on the altar. Your service has been invaluable as always, Captain." Grey-Eye bowed his head and was escorted away. The Speaker regarded the book in front of him. The cover was a lightly colored and flimsy leather, dirty and weathered. The pages were becoming brittle. Human flesh no doubt; a product of the Catacomb Libralus, whose books were well guarded by the golems. No books ever left that city, making the Book of Sable especially rare. The High Speaker knew it was not chance, but the will of the unseen that brought the book to this temple.[NEWLINE][NEWLINE]He carried the book to the chamber of dreamers beneath the temple, where pools and pillars formed from mineral and organic deposits. The blessed seawater flowed throughout as dreamers lay in small pools. He approached a dreamer, a female in her teenage years, whose hair undulated like living tendrils in the water beneath her. A clay jar by her head had the words "the book of dead names sees beyond the depths" etched into it. The Speaker gave the book to one of the dreamers' attendants and ordered that it be placed in an empty pool.[NEWLINE][NEWLINE]"Speaker, do books dream?"[NEWLINE][NEWLINE]"It is the ocean that dreams. We are blessed to be a part of it."[NEWLINE][NEWLINE]A voice from one of the pools spoke, "the dreams of the unseen permeate all creation." Everyone awake in the room chanted in response, "the dreams of the unseen permeate all creation."[NEWLINE][NEWLINE]"And thus shall you be called," intoned the Speaker, his voice penetrating the sleep of the dreamer who spoke. He watched the attendant lay the book in the water. The attendant punctured a needle into the front cover, as he would into a vein, and lit the wick in the needle's tube. He did this out of habit; the book lacked the biology to carry the smoldering wax's substance throughout the bloodstream, but this was how the dreaming was induced.[NEWLINE][NEWLINE]It was two hours before any change was noted. The Speaker still stood over the dreamers, patient, faithful, and curious. The teenage girl stirred and minds melded in the stream. Her limbs twitched as the lingering consciousness from the book felt forgotten corporeality.[NEWLINE][NEWLINE]"Speak," commanded the Speaker. The girl remained silent and made small splashes as she moved. The Speaker said, "I seek the source of whispers."[NEWLINE][NEWLINE]He continued his commands until the girl settled down. Finally she spoke in her young voice, "I refuse."[NEWLINE][NEWLINE]"You are powerless to refuse. You will navigate the sea of dreams and find for me the source."[NEWLINE][NEWLINE]"I can't move."[NEWLINE][NEWLINE]"Tell me what you see."[NEWLINE][NEWLINE]"I see everything. The dreams of everything. All at once, every one a shadow, fluid."[NEWLINE][NEWLINE]"Look beyond them."[NEWLINE][NEWLINE]"There is only darkness beyond the dreams."[NEWLINE][NEWLINE]"Go there. I compel you." His voice reverberated in the chamber. He had not chosen to pursue this. He didn't consider it a choice. He was following the will of his masters, as spoken through the dreamers.[NEWLINE][NEWLINE]"Whispers... I feel them... Pressure... I can't understand them, but every syllable crushes me..."[NEWLINE][NEWLINE]"Move toward it. I will speak to it."[NEWLINE][NEWLINE]"There's a being-shapeless, immense... there's... an eye-"[NEWLINE][NEWLINE]At that moment the temple erupted with shrieks and wails of terror and pain. The Speaker fell forward and moaned, devoid of any thought or function. The young dreamer convulsed and died. At the temple's entrance worshippers ran into the town, possessed of nightmarish panic. They dashed themselves into walls and gouged at their throats with any tool available, trying to wake themselves from the nightmare they were in fact not in. Others remained in the temple, writhing and gurgling in the blessed water. Either they were stronger than the others, or perhaps more susceptible to the climactic vision, but they survived nonetheless. Of that moment, all could remember nothing more than the color yellow.[NEWLINE][NEWLINE]The temple was soon reopened for public worship. The surviving worshippers who rose to prominence joined the remaining priests. They became the caretakers of the temple that housed the Book of Sable, on whose pages appeared the names of the faithful who died for the Lord of Nightmares on that day.	
+Buildings.xml	TXT_KEY_BUILDING_TOWER_OF_NECROMANCY_HELP	[ICON_BULLET]Provides one Death Mana[NEWLINE][ICON_BULLET]Your Undead start with the [LINK=literal]Strong[\\LINK] promotion	
+Buildings.xml	TXT_KEY_BUILDING_TOWER_OF_THE_ELEMENTS_HELP	[ICON_BULLET]Your Elementals start with the [LINK=literal]Strong[\\LINK] promotion[NEWLINE]Summons a permanent elemental guardian.	
+CIV4DiplomacyText.xml	AI_DIPLO_DECLARE_WAR_1	This world isn't big enough for the two of us! ([OUR_NAME] declares war!)	
+CIV4DiplomacyText.xml	AI_DIPLO_DECLARE_WAR_2	We have suffered your insolence for long enough! ([OUR_NAME] declares war!)	
+CIV4DiplomacyText.xml	AI_DIPLO_DECLARE_WAR_3	Prepare to meet your doom! ([OUR_NAME] declares war!)	
+CIV4DiplomacyText.xml	AI_DIPLO_DECLARE_WAR_4	Now you shall pay for your many insults to the [OUR_EMPIRE]! ([OUR_NAME] declares war!)	
+CIV4DiplomacyText.xml	AI_DIPLO_DECLARE_WAR_5	The time for talking is over, [CT_NAME]! We shall shall settle this on the field of battle! ([OUR_NAME] declares war!)	
+CIV4DiplomacyText.xml	AI_DIPLO_DECLARE_WAR_6	Soon my numberless minions shall destroy you all! ([OUR_NAME] declares war!)	
+CIV4DiplomacyText.xml	AI_DIPLO_DECLARE_WAR_7	Time to die, [CT_NAME]. ([OUR_NAME] declares war!)	
+CIV4DiplomacyText.xml	AI_DIPLO_DECLARE_WAR_8	Fool! Now we shall destroy you! ([OUR_NAME] declares war!)	
+CIV4DiplomacyText.xml	AI_DIPLO_DECLARE_WAR_9	I suppose you realize, this means war. ([OUR_NAME] declares war!)	
+CIV4DiplomacyText.xml	AI_DIPLO_DECLARE_WAR_10	Mighty [OUR_EMPIRE] has had enough of your treachery and deceit! Now you must pay! ([OUR_NAME] declares war!)	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_FRANKLIN_ROOSEVELT_1	Greetings! I am [OUR_NAME] of the [OUR_EMPIRE]. I hope that our two great peoples can live together in peace.	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_WASHINGTON_1	Welcome, [CT_NAME]! I cannot tell a lie: I'm darned glad to meet you!	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_SALADIN_1	Greetings, [CT_NAME]! It is an honor to meet you! May the heavens bestow upon you an empire only slightly less glorious than mine!	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_MONTEZUMA_1	I am pleased to meet you, [CT_NAME]! Let us each slaughter fifty thousand slaves to celebrate this auspicious occasion.	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_QIN_SHI_HUANG_1	Greetings, honorable [CT_NAME]. Let us hope that there will always be peace and friendship between [OUR_EMPIRE] and [CT_CIV_SHORT] - for that is all that stands between you and immediate annihilation. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_CHINESE_LEADER_1	Greetings, [CT_NAME]. It is a pleasure to meet you. Here: have a copy of my little red book. You might learn something.	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_HATSHEPSUT_1	Surely the gods have smiled upon you, [CT_NAME] - for they have led you to me!	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_ELIZABETH_1	Welcome to my palace, [CT_NAME]. I'm [OUR_NAME], the wise and really quite beautiful leader of mighty [OUR_CIV_SHORT]. Let there be peace between us or we'll kill you.	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_VICTORIA_1	Good day to you, [CT_NAME]. We are [OUR_NAME], ruler of [OUR_CIV_SHORT]. Please do not hesitate to call upon us if you need assistance - God commands us give aid and comfort to our inferiors...	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_LOUIS_XIV_1	Welcome! I am [OUR_NAME], absolute monarch of mighty [OUR_CIV_SHORT] and indisputably the handsomest and best-dressed ruler in the entire history of the universe. Wouldn't you agree?	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_NAPOLEON_1	Greetings. I'm [OUR_NAME], Emperor, Marshal, and First Citizen of [OUR_CIV_SHORT]. You can call me "Little Corporal," but then I'll have to kill you.	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_BISMARCK_1	[OUR_CIV_SHORT] the great and its superior people greet you. I, [OUR_NAME], desire peace with all my neighbors - even with your puny culture.	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_ALEXANDER_1	Greetings, [CT_NAME]! I am [OUR_NAME], ruler of the warlike [OUR_EMPIRE]! Let us join together and crush the world's armies beneath our sandals! It'll be way cool!	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_HUAYNA_CAPAC_1	The [OUR_EMPIRE] welcomes the glorious [CT_CIV_ADJ] people and their leader, [CT_NAME]. You play ceremonial ball with us, we'll play ceremonial ball with you.	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_ASOKA_1	May peace and happiness go with you always, [CT_NAME]. I am [OUR_NAME] of [OUR_CIV_SHORT]. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_GANDHI_1	Welcome to my humble home, [CT_NAME]. [OUR_CIV_SHORT] desires peace with all of her neighbors - even the really annoying ones like yours.	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_TOKUGAWA_1	Welcome, [CT_NAME]! May your empire flourish and grow for as long as it remains useful to us! I mean that sincerely. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_MANSA_MUSA_1	Welcome, [CT_NAME]. I, [OUR_NAME], humble ruler of [OUR_CIV_SHORT], offer my hand to you in friendship. 	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_GENGHIS_KHAN_1	Welcome, oh leader of the [CT_EMPIRE]. My horde can beat your horde any day of the week. Shall we be friends or enemies?	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_KUBLAI_KHAN_1	The mighty [OUR_EMPIRE] greets you. Let us work together to achieve the total destruction of our foes, and only THEN betray and rend each other like the rabid dogs we truly are!	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_CYRUS_1	Greetings, oh wise ruler of the [CT_CIV_ADJ] peoples! [OUR_CIV_SHORT] is strong - shall we count you among our friends, or among our enemies?	
+CIV4DiplomacyText.xml	AI_DIPLO_FIRST_CONTACT_LEADER_JULIUS_CAESAR_1	Welcome to [OUR_CIV_SHORT], [CT_NAME]. Care for some salad? I made it myself.	

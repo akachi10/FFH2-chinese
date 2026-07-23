@@ -1,0 +1,255 @@
+file	key	english	chinese
+Units.xml	TXT_KEY_UNIT_LOKI_STRATEGY	Fun to play with, horrible to play against, most leaders would rather see a berserker horde wander into their lands than the clown prince. Loki can take gold from rival cities or cause unrest in the cities and flip them to the Balseraphs if their culture gets low enough.[PARAGRAPH:1]Loki can investigate cities and has effective spells for charming enemy units, but his most frustrating ability is that he is the most difficult unit in the game to kill. When attacked outide of cities, he simply runs away to any open tiles around him. Loki must be cornered or completely surrounded before he can be killed in combat.	
+Units.xml	TXT_KEY_UNIT_LOSHA_PEDIA	Three generals sat in the antechamber, awaiting their summons to the throne room. One, a battle hardened veteran, sat cold and stoic while the second man, younger and newer to his position, fidgeted nervously. The woman yawned and gazed out the window. Soon the doors opened and they were ushered in and arrayed themselves before the dual thrones. The guards left, leaving the three alone with Alexis and Flauros.[PARAGRAPH:1]Alexis arose at once, walking swiftly towards them. &#147;You three were ordered to hold our new settlement of Pavu'nar! Yet before you even returned to me, like beaten dogs, my scouts have informed me that our city is ruined! Tell me what happened and why I shouldn't consume- -why I shouldn't have you killed." [PARAGRAPH:1]"Sheol, your report first," Flauros interjected. He still slouched on his throne but his gaze narrowed upon the younger man. [PARAGRAPH:1]"Yes Master, Mistress. We...on Perdion's orders we split our command into three upon reaching the town. I took charge of the hunters. We headed for the hills and forests, finding the enemy well before they neared Pavu'nar. My, um, I broke my units into small groups to harass the enemy as they marched, and dispatched the scouts with information on their numbers and makeup back to Losha and Perdion. I continued to pick off the enemy through the month as they laid siege to the town. Then, the gates of the town opened! I had not force enough to beat the enemy, Masters...I must report that it was Losha and Perdion that failed you."[PARAGRAPH:1]"You all failed, fool," Alexis snarled. She stomped back to her throne and sat, withering Sheol with her glare. [PARAGRAPH:1]"Perdion, pray continue the tale," Flauros said.[PARAGRAPH:1]"It is as Sheol said, Masters, though I must place the blame squarely on Losha's shoulders. I took the shock troops and left her the archers and the settlers to arrange defense of the town. She should easily have been able to hold out all season, though the number of the enemy turned out to be larger than we expected. I returned to nearby Acaia to gather more forces, and was on my way back when I received the news the settlement had been razed. I left my men garrisoned there and returned when summoned. So clearly Losha cost us the battle," the general finished, stepping back and bowing his head.[PARAGRAPH:1]Flauros smiled. &#147;Losha, it appears as I have often told my sister: the weaker sex lacks judgment as well as strength. But please, tell your story, and we shall see."[PARAGRAPH:1]Losha calmly began. &#147;It is as they say, my prince and princess, though they underestimate the numbers of your foes. They had many times the number we set out with. In a battle we might have taken them, but the deaths of our troops would have been a great loss. So I decided that the loss of the settlers was preferable to battle." [PARAGRAPH:1]"How dare you! You were ordered to hold the settlement!" [PARAGRAPH:1]"My Mistress, I have the orders here with me. It says, &#145;stop the invading army when they reach our town of Pavu'nar.' That is what I did." [PARAGRAPH:1]"Losha, you just said that you lost the settlers." [PARAGRAPH:1]"Oh did I forget to mention? Before I abandoned the town-and its annoying inhabitants-to the enemy, I poisoned the food stores, and the wine, and the water." [PARAGRAPH:1]Alexis blinked; Flauros sat upright in his throne. &#147;Sheol, Perdion, you may leave, your orders will be forthcoming. Losha, stay." The young man skittered out, and the older man followed, but not before giving Losha a cruel smile. [PARAGRAPH:1]"So have I angered my Masters?" Losha asked.[PARAGRAPH:1]"Dear Losha," Alexis said with a smile, &#147;you have redeemed yourself utterly. Come, we have a gift for you."	
+Units.xml	TXT_KEY_UNIT_DISCIPLE_OF_ACHERON	Disciple of Acheron	
+Units.xml	TXT_KEY_UNIT_DISCIPLE_OF_ACHERON_PEDIA	Nervous, frenetic men descended on the ruined city. Their dreams led them here, dreams of a beautiful burning queen and the dragon that served her. They offered only feeble resistance as orc defenders fell upon them with axe's and teeth in an orgy of blood. Their dying screams called out to Acheron and Bhall, but their prayers were unanswered.[PARAGRAPH:1]Stories of the slaughter didn't deter others from coming to the city. Impressed by their passion, despite their obvious weakness, Orthus ordered that they get the chance to see the godspawn they called out to. The men were bound and carried down into the depths of the city where they were thrown into a great fire as a sacrifice to Acheron. [PARAGRAPH:1]Most died, still screaming Bhall's praises even as the fire consumed them. But once in a great while the flames consumed the ropes binding the man, but left him uninjured. These men would wander out of the fire and fall prostate before the great dragon. The orcs allowed these men to remain and after their ceremony the fire seemed to obey their commands.	
+Units.xml	TXT_KEY_UNIT_SON_OF_THE_INFERNO	Son of the Inferno	
+Units.xml	TXT_KEY_UNIT_MONK_PEDIA	Day 6. Encountered the remnants of a company of Macemen. They've seen my foe. If I make haste, I am but a day away from ridding the world of his evil. I must prepare.-Extract from the diary of Brother Kideran, Demon Hunter.[PARAGRAPH:1]Only the smartest, most evil of prey is worthy of the Monk's attention. These men have given their lives over to the intense focus and meditation required to leave behind the frail constraints of their bodies and become something more than mortal. Free from the laws of physics, Monks are equipped with the mental tools needed to take up the fight with the Demons themselves-and win.	
+Units.xml	TXT_KEY_UNIT_PARAMANDER_PEDIA	A holy warrior following the teachings of Kilmorph, the Paramander is a strong unit against demons and adepts. They require Copper and a Kilmorphian Grotto to be trained, and can be upgraded to Paladins.	
+Units.xml	TXT_KEY_UNIT_PRIEST_OF_WINTER_STRATEGY	Priests of Winter are only available to the Illian civilization, and are gifted when [LINK=literal]the White Hand[\\LINK] ritual is completed. Use them to heal your units and they can use the special [LINK=literal]Call Blizzard[\\LINK] ability.	
+Units.xml	TXT_KEY_UNIT_PROPHET_1	Tuatha D&#233; Danann	
+Units.xml	TXT_KEY_UNIT_REVELERS	Reveler	
+Units.xml	TXT_KEY_UNIT_SCORPION	Scorpion	
+Units.xml	TXT_KEY_UNIT_VALIN_PEDIA	The guardsman, Nathan, has died. It seems we will have another burial.[PARAGRAPH:1]Valin checked Nathan and gave one more prayer before we carried him off of the road and to a small glade with soft ground. Valin and a few guards started digging while I set the blanket-wrapped body down and sat waiting for them to finish or a turn at a shovel.[PARAGRAPH:1]The bandits, or someone, had used the glade to hang their catches. Cut ropes hung from a few spots on the tree, and the grass directly beneath the ropes was tinged a dull brown in places. There weren't any deer hanging here now, but this was a spot accustomed to death.[PARAGRAPH:1]I was never asked to dig, and didn't offer to help, except to place the body in the shallow hole when it was complete. After the hole was covered, the men stood quiet for a second, then wandered back to the wagons to sleep, exhausted from the day. No one said anything about the boy.[PARAGRAPH:1]I sat at the edge of the glade, silent myself. Valin said another of his prayers then turned to walk back.[PARAGRAPH:1]"Why didn't your prayers heal him?"[PARAGRAPH:1]Valin wiped the sweat from his forehead as he considered the question. He seemed to be effected by the boy's death, at least more than the guards, but he hadn't said anything about it either. He and I were the last ones in the glade, if you didn't count the newly buried corpse.[PARAGRAPH:1]"I don't know why some get healed and some don't. I don't pretend to understand. I just know that people die, both good and evil, every day. I know there is a war being fought, and casualties on both sides. I wouldn't assume that either side is so much stronger that it overwhelms the other side in every battle and suffers no losses."[PARAGRAPH:1]"So there is only so much healing to go around? Your god healed the bruise I left on your face, but wouldn't save this boys life. Did you pray for this boy to be healed?"[PARAGRAPH:1]"I did."[PARAGRAPH:1]Valin looked around the glade, noticing the cut ropes and the blood marks in the grass for the first time. He began smoothing out the dirt on the grave, hoping that whoever hung deer here wouldn't notice or mess with it.[PARAGRAPH:1]"It's a war, that's all I know." Valin said.[PARAGRAPH:1]"My experience with war tells me that they typically suit the desires of the generals and emperors that wage them, but not the people that fight and die in them."[PARAGRAPH:1]Valin seemed ready to quip back something at me, but he bit his tongue and looked only at the cut ropes before responding.[PARAGRAPH:1]"When I was a boy, maybe 6 or 7 years old, I couldn't hunt with my father. I was soft-hearted, unable to kill a rabbit. I would cry if I even saw one dead. My father was a very strict man, and he wanted to raise me well. I was punished for my weakness, lashed, hit. But I still couldn't get used to the sight of blood."[PARAGRAPH:1]Valin paused, caught up in the memories in his head, before continuing.[PARAGRAPH:1]"He had taken away my food, stating that if I was unwilling to hunt I wouldn't share in the rewards of that hunt. I began sneaking food, radishes and onions from the garden. When he caught me I was punished..." Valin spit out the word, "and then he locked me in the smokehouse for two days."[PARAGRAPH:1]"There were fresh deer bleeding out in the smokehouse, and it was a tiny wooden shack, barely larger than an outhouse. I was starving, tired, and spent those two days terrified by the blood dripping on me, and the deer faces staring down from the darkness above me."[PARAGRAPH:1]"It sounds horrible." I couldn't figure out any other way to respond.[PARAGRAPH:1]"It was..." he searched for the word, "Traumatic. But afterwards I wasn't afraid of blood anymore."[PARAGRAPH:1]"Or you were just more scared of your father." He ignored my statement. "So are you saying Junil is like your father?"[PARAGRAPH:1]"No, I'm saying we are like children. We can hope for a perfect world, we can plead with our superiors to provide it, be they our parents, our emperors, or our gods. But our world isn't perfect, all we can do is try to strengthen the good we find and weaken the evil, and sometimes that means we will have to deal with blood. To fix a meal, or protect a caravan from lawless men."[PARAGRAPH:1]I was unconvinced but I didn't want to push Valin any further, so I only nodded and picked myself up. I helped him finish covering up the grave and then we walked back to the caravan and I fell into more of my nightmares of battle and killing, but this time Valin was there with me.[PARAGRAPH:1]-The Tale of Saverous, Act I: Chapter 9	
+Units.xml	TXT_KEY_UNIT_WAR_MACHINE_PEDIA	Dentaro was not a typical Doviello. In battle he was as ferocious as the next, which earned him his place in the tribe, but after battle, he would not partake in the feasting, the telling of exaggerated stories of bravery, or even the sating of other desires with the conquered peoples.[PARAGRAPH:1]No, after every battle Dentaro scurried about the battlefield, picking through the rubble. He examined each rusty blade, axe handle, chariot wheel, bits of sturdy bone or even teeth. These would be placed in his pack, and deposited in his home the next time they returned to Doviello lands. Worse, to his kinsmen's estimation, he would inspect any books they came across, reading some, discarding others. His older brother laid Dentaro flat the first time he caught him reading. The second time, Dentaro broke his brother's axe arm and knocked out three teeth, so the others left him to his eccentricity. [PARAGRAPH:1]Any Dwarven prisoner would be questioned closely by Dentaro. Unlike his peers, he would not ask where their wine, weapons, or wealth were. He asked them about steam, about mechanics, about enchantment. [PARAGRAPH:1]On this continued, late into his life. The tribe's fortunes waxed and waned, but gradually the enemy pushed them back to their tundra homeland, and pressed further. Then one night Urslo itself was threatened in a surprise attack, by disciplined soldiers. The sounds of battle awakened Dentaro, and the sounds of battle continued until they were drowned out by an unearthly roar. Dentaro's ramshackle house burst apart. The Doviello word for &#145;machine' was invented that night, as Dentaro's War Machine emerged. [PARAGRAPH:1]It falls well short of even the practical Dwarves' standards of beauty, but no one can deny its effectiveness. Heavy crossbows fire as it drives forward, needing only periodic reloading. Blades sweep side to side, and more lances lead the War Machine's charge than a company of knights. Whether powered by magic, technology, some beasts running in circles inside, or an unholy combination of the three no one but Dentaro could even guess. [PARAGRAPH:1]The enemy at Urslo was wiped out to the man. The Doviello began to retake their old conquests, Dentaro at the lead. No one spoke of him as the odd one anymore, and even Dentaro's older brother began to introduce himself by his relation to the old misfit. Dentaro himself barely noticed his increased stature. After every battle, he climbs down from the War Machine, and begins to pick through the carnage, taking a blade here, a chariot wheel there, and adding it to his sack.	
+VoteHelp.xml	TXT_KEY_NO_ACTIVE_VOTE_SOURCES	No active councils	
+VoteHelp.xml	TXT_KEY_SECRETARY_GENERAL_UNKNOWN	Unknown	
+VoteHelp.xml	TXT_KEY_SECRETARY_GENERAL_VACANT	Vacant	
+VoteHelp.xml	TXT_KEY_TURNS_UNTIL_NEXT_VOTE	Turns until next vote	
+VoteHelp.xml	TXT_KEY_MSG_VOTE_PASSED	The members of the %s1_council have passed the resolution %s2_resolution.	
+VoteHelp.xml	TXT_KEY_MSG_VOTE_REJECTED	The members of the %s1_council have rejected the resolution %s2_resolution.	
+VoteHelp.xml	TXT_KEY_MSG_VOTE_PASSED_AGAIN	The members of the %s1_council have confirmed the resolution %s2_resolution.	
+VoteHelp.xml	TXT_KEY_MSG_VOTE_REPEALED	The members of the %s1_council have repealed the resolution %s2_resolution.	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_REQUIRED_VOTES	[ICON_BULLET]Requires %d1 of %d2 Total Votes	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_POPULATION_THRESHOLD	[ICON_BULLET]Requires %d1%% of all votes	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_MIN_VOTERS	[ICON_BULLET]Requires at least %d1 voting members	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_ALL_PLAYERS	[ICON_BULLET]All players must be voting members	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_CIV_VOTING	[ICON_BULLET]Each member has one vote	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_CIV_VOTING_RELIGION	[ICON_BULLET]Each member with a %F2_Religion city has one vote	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_CITY_VOTING	[ICON_BULLET]Each member has one vote per city	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_CITY_VOTING_RELIGION	[ICON_BULLET]Each member has one vote per %F2_Religion city	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_POP_VOTING	[ICON_BULLET]Each member has one vote per population point	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_POP_VOTING_RELIGION	[ICON_BULLET]Each member has one vote per %F2_Religion population point	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_STATE_RELIGION_VOTE_PERCENT	[ICON_BULLET]Players with correct state religion have %D1%% more votes	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_SEC_GEN_ELECTION	[ICON_BULLET]Election of the %s1 (can propose resolutions)	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_VICTORY	[ICON_BULLET]Makes a player win a diplomatic victory	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_TRADE_ROUTES	[ICON_BULLET]%D1 trade routes ([ICON_TRADE]) for all players	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_NO_NUKES	[ICON_BULLET]Forbids nukes	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_FREE_TRADE	[ICON_BULLET]Trade routes ([ICON_TRADE]) between all players	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_NO_BONUS	[ICON_BULLET]Disables access to %F1 for all members	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_FORCE_CIVIC	[ICON_BULLET]All members have to adopt [LINK=literal]%s1[\\LINK]	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_ENABLES_ABILITY	[ICON_BULLET]Enables the ability [LINK=literal]%s1[\\LINK]	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_ENABLES_SPELL	[ICON_BULLET]Enables the spell [LINK=literal]%s1[\\LINK]	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_DEFENSIVE_PACT	[ICON_BULLET]All members sign defensive pacts with each other	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_OPEN_BORDERS	[ICON_BULLET]All members sign an open borders agreement with each other	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_FORCE_PEACE	[ICON_BULLET]All other members sign a peace treaty with %s1	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_FORCE_PEACE_SOMEONE	[ICON_BULLET]All other members sign a peace treaty with a chosen member	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_FORCE_NO_TRADE	[ICON_BULLET]All members cancel all deals with %s1	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_FORCE_NO_TRADE_SOMEONE	[ICON_BULLET]All members cancel all deals with a chosen non-member	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_FORCE_WAR	[ICON_BULLET]All members declare war on %s1	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_FORCE_WAR_SOMEONE	[ICON_BULLET]All members declare war on a chosen non-member	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_NO_OUTSIDE_TECH_TRADES	[ICON_BULLET]Members cannot trade with non-members	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_CULTURE_NEEDS_EMPTY_RADIUS	[ICON_BULLET]Cannot overtake territory of other members via culture	
+VoteHelp.xml	TXT_KEY_VOTE_RECEIVE_UNIT_COST	[ICON_BULLET]Each member who can pay %d1 %F2 receives [LINK=literal]%s3[\\LINK]	
+VoteHelp.xml	TXT_KEY_VOTE_RECEIVE_UNIT	[ICON_BULLET]Each member receives %s1	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_CRIME	[ICON_BULLET]%D1 to the global crime rate	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_REASSIGN_CITY	[ICON_BULLET]Reassigns ownership of a city	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_REASSIGN_CITY_FROM_TO	[ICON_BULLET]Reassigns ownership of %s1 from %s2 to %s3	
+VoteHelp.xml	TXT_KEY_VOTE_HELP_TRADE_MAP	[ICON_BULLET]All members share their current world maps	
+Votes.xml	TXT_KEY_VOTE_DEVELOP_SECRET_CODES	Develop Secret Codes	
+Votes.xml	TXT_KEY_VOTE_ENLIST_THE_NIGHTWATCH	Enlist the Nightwatch	
+Votes.xml	TXT_KEY_VOTE_CULTURE_RADIUS	Fixed Borders	
+Votes.xml	TXT_KEY_VOTE_FORCE_NO_TRADE	Trade Embargo	
+Votes.xml	TXT_KEY_VOTE_FORCE_NO_TRADE_PARAM	Trade Embargo against %s1_player	
+Votes.xml	TXT_KEY_VOTE_FORCE_PEACE	Force Peace	
+Votes.xml	TXT_KEY_VOTE_FORCE_PEACE_PARAM	Force peace with %s1_player	
+Votes.xml	TXT_KEY_VOTE_FORCE_WAR	Call to Arms	
+Votes.xml	TXT_KEY_VOTE_FORCE_WAR_PARAM	Call to Arms against %s1_player	
+Votes.xml	TXT_KEY_VOTE_FREE_TRADE	Open Markets	
+Votes.xml	TXT_KEY_VOTE_FUND_DISSIDENTS	Fund Dissidents	
+Votes.xml	TXT_KEY_VOTE_FUND_DISSIDENTS_HELP	[ICON_BULLET]Could cause unhappiness in the cities of Overcouncil members	
+Votes.xml	TXT_KEY_VOTE_GAMBLING_RING_HELP	[ICON_BULLET]Gambling house costs -75%[ICON_PRODUCTION]	
+Votes.xml	TXT_KEY_VOTE_LIBERTY	Global Civic - Liberty	
+Votes.xml	TXT_KEY_VOTE_SECRETARY_GENERAL_OVERCOUNCIL	Head Councilor election	
+Votes.xml	TXT_KEY_VOTE_SECRETARY_GENERAL_UNDERCOUNCIL	Dark Magistrate election	
+Votes.xml	TXT_KEY_VOTE_SINGLE_CURRENCY	Single Currency	
+Votes.xml	TXT_KEY_VOTE_SLAVE_TRADE	Setup Slave Trade	
+Votes.xml	TXT_KEY_VOTE_SMUGGLING_RING	Setup Smuggling Ring	
+Votes.xml	TXT_KEY_VOTE_SMUGGLING_RING_HELP	[ICON_BULLET]Enables Smuggler's Port	
+Votes.xml	TXT_KEY_VOTE_TRADE_MAP	Map exchange	
+War_On_Barbarians.xml	TXT_KEY_SPELL_DECLARE_BARBS	Declare War on the Barbarians	
+War_On_Barbarians.xml	TXT_KEY_SPELL_DECLARE_BARBS_HELP	Ends the truce between you and the Barbarian faction. This is irreversible.	
+War_On_Barbarians.xml	TXT_KEY_POPUP_DECLARE_BARBS	You are currently at peace with the Barbarians. Would you like to end the truce?	
+WoC_Civ4GameText_Objects_BTS.xml	TXT_KEY_PEDIA_CATEGORY_EVENT	Events	
+WoC_Civ4GameText_Objects_BTS.xml	TXT_KEY_PEDIA_CATEGORY_EVENTAGE	Ages	
+WoC_Civ4GameText_Objects_BTS.xml	TXT_KEY_PEDIA_CATEGORY_GREAT_PERSONS	Great People	
+WoC_Civ4GameText_Objects_BTS.xml	TXT_KEY_PEDIA_CATEGORY_CONCEPT_DCM	DCM Concepts	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_TARGET_PLOT	Target Plot	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_PUSH_MISSION	Push Mission	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_ACTIVITY	Activity	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_FORTIFY	Fortifying	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_DONE	Done	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_WAIT	Waiting	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_DUPLICATE_CITY	Duplicate City	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_MOVE_CITY	Move City	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_RAZE_CITY	Raze City	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_SENSIBILITY	Checks Prerequisites for Multiple Tiles Mode	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_PLOT_TYPE	Plot Type	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_STARTING_PLOT	Starting Plot	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_PYTHON	Triggers Python Effects:	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_UNIT_AI	Unit AI	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_EVER	Ever	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_HIDE_DEAD	Hide Dead	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_STATE_RELIGION	State Religion	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_COMMANDS	Commands	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_XLEVEL	Level	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_PLOT	Plot	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_UNIT	Unit	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_CITY	City	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_GROUP	Group	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_LANDMARKS	Landmarks	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_MODIFY	Modify %s1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_AI_AUTOPLAY_WARNING	AI AutoPlay can be stopped with [COLOR_POSITIVE_TEXT]SPACE[COLOR_REVERT] or [COLOR_POSITIVE_TEXT]ESCAPE[COLOR_REVERT]	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_COASTAL_TRADE	Coastal [ICON_TRADE]: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_BASE_YIELD	Base %s1: %d2	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_CITY_DATA2	City Data II	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_BASE_RATE	Base Rate: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_PLAYER_DATA	Player Data	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_ERASE_ALL_PLOTS	Erase all plots	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_REPEATABLE	Can use Civilizations and Leaders already in the Game	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_REVEAL_PLOT	Reveal Plot	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_REVEAL_SUBMARINE	Reveal Submarine	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_REVEAL_STEALTH	Reveal Stealth	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_ADD_UNITS	Add Units	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_PLOT_DATA	Plot Data	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_DEFAULT	Default	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_SHOW_HIDDEN	Show Hidden Options	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_SCRIPT_DATA	Script Data	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_START_YEAR	Start Year	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_GAME_YEAR	Game Year: %s1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_MAX_TURNS	Max Turns: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_AI_AUTOPLAY	AI AutoPlay: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_GAME_TURN	Game Turn: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_ESTIMATED_END_TURN	Estimated End Turn: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_MAX_CITY_ELIMINATION	Max City Elimination: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_TARGET_SCORE	Target Score: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_NUKES_EXPLODED	Nukes Exploded: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_ADD_NEW_PLAYER	Add New Player	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_AREA_ID	Area ID	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_SINGLE_PLOT	Single Plot	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_AREA_PLOTS	Area Plots	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_ALL_PLOTS	All Plots	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_UNIT_DATA	Unit Data	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_DAMAGE	Damage	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_CARGO_SPACE	Cargo	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_MOVES	Moves Left	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_IMMOBILE_TIMER	Immobile Timer	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_PROMOTION_READY	Promotion Ready	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_MADE_ATTACK	Made Attack	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_MADE_INTERCEPT	Made Intercept	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_DIRECTION	Direction	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_HURRY_ANGER	Hurry [ICON_UNHAPPY]: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_DEFY_RESOLUTION	Defy Resolution [ICON_UNHAPPY]: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_TEMP_HAPPY	Temporary [ICON_HAPPY]: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_DEFENSE	Defense: %d1[ICON_DEFENSE]	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_GRANT_AVAILABLE	Grant Available	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_COPY_ALL	Apply to All %s1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_FREE_SPECIALISTS	Free Specialists	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_PROGRESS	Progress: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_GOLDEN_AGE_UNITS	[ICON_GREATPEOPLE] Required: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_ANARCHY	Anarchy: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_STATE_RELIGION_UNIT	[ICON_RELIGION] Unit [ICON_PRODUCTION]: %d1%%	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_STATE_RELIGION_BUILDING	[ICON_RELIGION] Building [ICON_PRODUCTION]: %d1%%	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_TEAM_DATA	Team Data	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_MAP_CENTERING	Map Centering	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_GOLD_TRADING	Gold Trading	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_TECH_TRADING	Tech Trading	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_MAP_TRADING	Map Trading	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_VASSAL_TRADING	Vassal Trading	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_WATER_WORK	Water Work	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_EXTRA_WATER_SIGHT	Extra Water Sight	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_BRIDGE_BUILDING	Bridge Building	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_IGNORE_IRRIGATION	Ignore Irrigation	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_MERGE_TEAM	Merge Team	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_NUKE_INTERCEPTION	Nuke Interception: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_ENEMY_WAR_WEARINESS	Enemy War Weariness: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_GUARANTEED_ELIGIBILITY	Guaranteed Eligibility	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_FEATURE_VARIETY	Variety: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_UPGRADE_PROGRESS	Upgrade Turns: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_TRIGGER_EVENT	Trigger %s1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_LATITUDE	Latitude: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_ATTITUDE	Attitude	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_CVASSAL	Capitulated	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_MODIFIER	Modifier	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_COUNTER_ESPIONAGE	Counter Espionage	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_MEMORY	Memory	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_KILL	Kill	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_STRENGTH_DEFENSE	Base Defensive Strength:	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_UNIT_RELIGION	Unit's Religion:	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_HAS_CAST	Has Casted	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_DURATION	Duration	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_OWNER	Owner:	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_MOVE_DISABLED_HUMAN	Move disabled for Humans	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_MOVE_DISABLED_AI	Move disabled for AIs	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_BUILD_DISABLED	Improvement Building Disabled	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_FOUND_DISABLED	City Founding Disabled	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_PYTHON_INACTIVE	Python Inactive	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_PORTAL_X_COORDINATE	Portal Exit X:	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_PORTAL_Y_COORDINATE	Portal Exit Y:	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_PLOT_MIN_LEVEL	Minimum Level:	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_PLOT_COUNTER	Plot Counter:	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_GLOBAL_COUNTER	Global Counter: 	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_GLOBAL_COUNTER_LIMIT	Global Counter Limit: 	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_SCENARIO_COUNTER	Scenario Counter: 	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_ALIGNMENT	Alignment:	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_COMMERCE_SLIDERS	Commerce Sliders:	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_GROUP_ID	Group ID: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_UNIT_ID	Unit ID:	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_UNIT_NAME	Unit Name:	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_CIV_TYPE	Civilization Type:	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_REV_INDEX	Revolution Index [ICON_UNHAPPY]: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_IS_IMMORTAL	Is Immortal	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_SPELL_SPHERES	Spell Spheres	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_CIV_BUILDINGS	Unique Buildings	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_REL_BUILDINGS	Religious Buildings	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_SPELL_BUILDINGS	Spell Buildings	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_CURRENT_UNIT	Current Unit:	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_HAS_CAST_WORLD_SPELL	Has Cast World Spell	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_SCENARIO_COUNTER_UNIT	Alternate Type	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_REASSIGN_PLAYER	Reassign Player	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_HANDICAP	Difficulty Level:	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_IS_PERMANENT_SUMMON	Is Permanent Summon	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_NO_RELIGION	No Religion	
+WorldBuilder_CIV4GameText.xml	TXT_WB_STRENGTH_DEFENSE	Defensive Strength	
+WorldBuilder_CIV4GameText.xml	TXT_WB_CURRENT_RESEARCH	Current Research: 	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_SUMMON	Summons	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_SUMMONER	Summoner	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_STANDARD_PROMOTIONS	Standard Promotions	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_REVIVE	Revive Player	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_SWITCH_PLAYER	Switch Player	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_TIER_#	Tier %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WORLD_UNITS	World Units	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_TEAM_UNITS	Team Units	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_NATIONAL_UNITS	National Units	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_UNLIMITED_UNITS	Unlimited Units	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_AVAILIBLE_PROMOTIONS	Available Promotions	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_CURRENT_PROMOTIONS	Has Promotions	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_LACKS_PROMOTIONS	Does Not Have Promotions	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_SAME_PLOT	Units On The Same Plot	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_UNLIMITED_PROJECT	Unlimited Projects	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_SPELL	Cast Spell	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_GO_TO	Go To	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_ALL	All	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_FEATS	Feats	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_SHRINE	Shrines	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_SANCTUARY_TIMER	Sanctuary Timer: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_TEMP_TIMER	Temporary Timer: %d1	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_REAL	Shows timers for temporary map items and allows the selection of the real types to which they revert when the timers expire	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_FORTIFY_TURNS	Fortify Turns	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_TOGGLE	Toggle[SPACE]	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_UNIT_CLASS	Unit Class Type	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_CAN_CAST	Can Cast	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_MISC_WAR_PLAN	Planning War	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_RESOLUTIONS	Resolutions	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_IGNORE_HIDE	Ignore Hide	
+WorldBuilder_CIV4GameText.xml	TXT_KEY_WB_BLOCKADING	Blockading	

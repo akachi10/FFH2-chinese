@@ -463,6 +463,8 @@ def write_report(stats, total, pending):
       "跳过入待翻译。")
     A("4. **纯排版标记差异**(`[NEWLINE]`/`[TAB]`/`[PARAGRAPH:N]`/`[COLOR_*]`/`[BOLD]`/"
       "`[ICON_*]`)保留原样,不做处理。")
+    A("5. **官方译文未译**:官方包部分条目 `<Chinese>` 列内容规范化后等于英文原文(译者仅把"
+      "英文复制进中文列)。回填等于保留英文,归入待翻译而非虚增回填数(不影响运行,只为统计准确)。")
     A("")
     A("## 总量")
     A("")
@@ -519,14 +521,14 @@ def write_report(stats, total, pending):
 
     A("## 按文件分列")
     A("")
-    A("| 文件 | key 数 | 回填 | 英文改过 | 占位符不守恒 | 未知标记 | LINK不守恒 | 无中文 | MM独有 |")
-    A("|------|-------|------|---------|------------|--------|----------|-------|--------|")
+    A("| 文件 | key 数 | 回填 | 英文改过 | 占位符不守恒 | 未知标记 | LINK不守恒 | 官方未译 | MM独有 |")
+    A("|------|-------|------|---------|------------|--------|----------|--------|--------|")
     for fn in sorted(stats):
         s = stats[fn]
         A("| %s | %d | %d | %d | %d | %d | %d | %d | %d |" %
           (fn, s['keys'], s['backfilled'], s['eng_changed'],
            s['ph_mismatch'], s['markup_unknown'], s['link_mismatch'],
-           s['no_translation'], s['mm_only']))
+           s['official_untranslated'], s['mm_only']))
     A("")
 
     # Top10 回填 / Top10 待翻译
@@ -540,7 +542,8 @@ def write_report(stats, total, pending):
     A("")
     def pend_of(s):
         return (s['mm_only'] + s['eng_changed'] + s['ph_mismatch']
-                + s['markup_unknown'] + s['link_mismatch'] + s['no_translation'])
+                + s['markup_unknown'] + s['link_mismatch']
+                + s['official_untranslated'] + s['no_translation'])
     top_pending = sorted(stats.items(), key=lambda kv: pend_of(kv[1]), reverse=True)[:10]
     A("## Top10 待翻译最多的文件")
     A("")
@@ -571,10 +574,10 @@ def main():
         pass
     print("加载官方译文 ...")
     stats, total, verify_samples, pending = backfill()
-    print("回填完成:%d 文件,%d key,回填 %d,英文改过 %d,占位符不守恒 %d,未知标记 %d,LINK不守恒 %d,无中文 %d,MM独有 %d"
+    print("回填完成:%d 文件,%d key,回填 %d,英文改过 %d,占位符不守恒 %d,未知标记 %d,LINK不守恒 %d,官方未译 %d,无中文 %d,MM独有 %d"
           % (len(stats), total['keys'], total['backfilled'], total['eng_changed'],
              total['ph_mismatch'], total['markup_unknown'], total['link_mismatch'],
-             total['no_translation'], total['mm_only']))
+             total['official_untranslated'], total['no_translation'], total['mm_only']))
     ok = self_verify(verify_samples, pending, stats, total)
     write_report(stats, total, pending)
     sys.exit(0 if ok else 1)

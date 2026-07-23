@@ -1,0 +1,701 @@
+file	key	english	chinese
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_CANCEL	Cancel	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_PICK_CIV	Pick a civ	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_CIV_DIED	Your civ has died.[NEWLINE]Would you like to lead another civ?[NEWLINE]	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_TAKE_CONTROL_CIV	Take control of this civ ...	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_OF_THE	%s of the %s	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_NOW_CONTROL	You now control the %s	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_NONE	None	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_TURN_ON	Turn on AI Auto Control?	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_AUTOMATION	Choose type of automation	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_TURN_OFF	AI Auto Control Ended	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_TURN_OFF_TEXT	Control returned.	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_TURN_ABDICATE	Turn AI Auto Controled	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_TURN_ABDICATE_TEXT	LEADER: %s1_Leader[NEWLINE]CIVILIZATION: %s2_CivilizationAdj[NEWLINE][NEWLINE]START TURN: %d3_StartTurn[NEWLINE]END TURN: %d4_EndTurn[NEWLINE]AUTO TURNS: %d5_AutoTurn[NEWLINE][NEWLINE]Game AI Auto Controled for a single Turn.	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_MP_ANNOUNCE_ABDICATE	AI Auto Control On	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_MP_ANNOUNCE_ABDICATE_TEXT	LEADER: %s1_Leader[NEWLINE]CIVILIZATION: %s2_CivilizationAdj[NEWLINE][NEWLINE]START TURN: %d3_StartTurn[NEWLINE]END TURN: %d4_EndTurn[NEWLINE]AUTO TURNS: %d5_AutoTurn[NEWLINE][NEWLINE]Game AI Auto Control is Now Active.	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_TURNS	How many turns would you like the AI to control?	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_NO	No automation	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_LIMIT_DIPLO	Limit diplomacy changes	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_FULLY	Fully Automate	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_UNIT	Automate unit moves only (not fully tested)	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_DEBUG	Debug Mode (will reveal entire world!!!)	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_NEW_LEADER	There is a new leader!!!	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_ABDICATE	Old age has finally caught up with you and you decide to abdicate rule.	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_USURPATOR	Terrible news:[NEWLINE][NEWLINE]Coniving rivals have overthrown you in a coup![NEWLINE]A little to much "Let them eat cake" perhaps?	
+AIAutoPlay_CIV4GameText.xml	TXT_KEY_AIAUTOPLAY_GOOD_NEWS	[NEWLINE][NEWLINE]However, there is good news![NEWLINE]Mystical advisors report that you will be reincarnated and return to power in %d turns.[NEWLINE][NEWLINE]In the meantime, you can only hope your successor proves worthy.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__ENABLED_TEXT	Advanced Combat Odds	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__ENABLED_HOVER	When checked, PieceOfMind's ACO shows more detailed combat odds information when you hover over a unit to attack.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__DEBUG_TEXT	Debug	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__DEBUG_HOVER	When checked, shows debugging information in the combat odds calculations.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__FORCEORIGINALODDS_TEXT	Force Original Odds	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__FORCEORIGINALODDS_HOVER	When checked, shows the original odds in addition to ACO's.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__IGNOREBARBFREEWINS_TEXT	Ignore Free Wins	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__IGNOREBARBFREEWINS_HOVER	When checked, ignores any free wins versus barbarians you have left due to the difficulty level.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SWAPVIEWS_TEXT	Swap Views	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SWAPVIEWS_HOVER	When checked, swaps the normal and alternate views.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__MERGESHORTBARS_TEXT	Merge Short Bars	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__MERGESHORTBARS_HOVER	When checked, merges the bars of probabilities that are less than half of one percent.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWMODIFIERLABELS_TEXT	Modifier Labels	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWMODIFIERLABELS_HOVER	When checked, displays "attacker" and "defender" labels before each non-empty set of modifiers.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWBASICINFO_TEXT	Basic Info	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWBASICINFO_HOVER	Select when to show the basic odds information.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWBASICINFO_LIST	Never|Normal|Alternate|Always	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWATTACKERINFO_TEXT	Attacker Info	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWATTACKERINFO_HOVER	Select when to show the attacking unit's information.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWDEFENDERINFO_TEXT	Defender Info	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWDEFENDERINFO_HOVER	Select when to show the defending unit's information.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWSURVIVALODDS_TEXT	Survival Odds	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWSURVIVALODDS_HOVER	Select when to show the odds that each unit will survive.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWUNHARMEDODDS_TEXT	Unharmed Odds	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWUNHARMEDODDS_HOVER	Select when to show the odds that each unit will survive without taking any damage.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWAVERAGEHEALTH_TEXT	Average Health	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWAVERAGEHEALTH_HOVER	Select when to show the average (expected) health each unit will have after the battle.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWATTACKERHEALTHBARS_TEXT	Attacker Health Bars	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWATTACKERHEALTHBARS_HOVER	Select when to show the probability bars of each possible ending health for the attacker.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWDEFENDERHEALTHBARS_TEXT	Defender Health Bars	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWDEFENDERHEALTHBARS_HOVER	Select when to show the probability bars of each possible ending health for the defender.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWUNROUNDEDEXPERIENCE_TEXT	Unrounded XP	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWUNROUNDEDEXPERIENCE_HOVER	Select when to show the unrounded XP values in addition to the actual rounded values the units will gain.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWEXPERIENCERANGE_TEXT	XP Range	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWEXPERIENCERANGE_HOVER	Select when to show the R values on either side of the actual value that will produce +/- 1 XP.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWDEFENSEMODIFIERS_TEXT	Defense Modifiers	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWDEFENSEMODIFIERS_HOVER	Select when to show the defense modifiers.	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWTOTALDEFENSEMODIFIER_TEXT	Total Defense Modifier	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWTOTALDEFENSEMODIFIER_HOVER	Select when to show the total defense modifiers (includes attacker's non-combat modifiers that apply to the defender).	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWSHIFTINSTRUCTIONS_TEXT	[SHIFT] Instructions	
+Advanced Combat Odds Options.xml	TXT_KEY_BUG_OPT_ACO__SHOWSHIFTINSTRUCTIONS_HOVER	Select when to show the instructions for pressing [SHIFT] to see the alternate view.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__SHOWMINOR_TEXT	Show Minor Civilizations	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__SHOWMINOR_HOVER	When checked, minor civilizations are shown (some scenarios consider certain civs to be minor).	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__SHOWDEAD_TEXT	Show	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__SHOWDEAD_HOVER	When checked, dead civilizations will remain on the scoreboard.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__TAGDEAD_TEXT	Tag as "DEAD"	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__TAGDEAD_HOVER	When checked, dead civilizations will be tagged as "DEAD" when shown.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__GREYDEAD_TEXT	Use Grey Color	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__GREYDEAD_HOVER	When checked, dead civilizations will be greyed out when not shown.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__DELTA_TEXT	Score Delta	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__DELTA_HOVER	When checked, shows the change in score since the previous turn	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__DELTAINCLUDECURRENT_TEXT	Include Current Turn	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__DELTAINCLUDECURRENT_HOVER	When checked, includes the current turn's change in the score change.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__DISPLAYNAME_TEXT	Display Name	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__DISPLAYNAME_HOVER	Determines how civilizations are labeled on the scoreboard.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Leader[COLOR_REVERT] - Name of the leader or player (Victoria or EmperorFool).[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Civilization[COLOR_REVERT] - Name of the civilization (England).[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Description[COLOR_REVERT] - Descriptive name of the civilization (English Empire).	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__DISPLAYNAME_LIST	Leader|Civilization|Civ Description|Leader / Civ|Leader / Civ Desc	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__USEPLAYERNAME_TEXT	Use Player Name	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__USEPLAYERNAME_HOVER	When checked, the human players' names are used in place of those of the leaders they are playing as.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__ATTITUDE_TEXT	Attitude Icons	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__ATTITUDE_HOVER	When checked, shows faces depicting each AI's attitude toward you.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__WORSTENEMY_TEXT	Worst Enemy Icons	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__WORSTENEMY_HOVER	When checked, shows an angry person icon when you are an AI's worst enemy.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__WHEOOH_TEXT	War Mobilization Icons	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__WHEOOH_HOVER	When checked, shows an orange fist icon when the AI is mobilizing for war (We Have Enough on Our Hands).	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__CITIES_TEXT	Number of Cities	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__CITIES_HOVER	When checked, shows a count of the number of cities for each leader.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__ALIGNICONS_TEXT	Enabled	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__ALIGNICONS_HOVER	When checked, the scoreboard is drawn as a grid, and the other options in this column affect it.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__MAXPLAYERS_TEXT	Maximum Civilizations	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__MAXPLAYERS_HOVER	Select the maximum number of civilizations to display (0 for unlimited).	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__LINEHEIGHT_TEXT	Line Height	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__LINEHEIGHT_HOVER	Select the height of each civilization's line (default value is 22).	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__DEFAULTSPACING_TEXT	Default Spacing	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__DEFAULTSPACING_HOVER	The spacing between columns (in pixels) to use when none is specified for a column.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__DISPLAYORDER_TEXT	Column Order:	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__DISPLAYORDER_HOVER	This determines the order in which the score columns appear.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]W[COLOR_REVERT] - You are at war or have a peace treaty with the civ.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]S[COLOR_REVERT] - The civ's score.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Z[COLOR_REVERT] - The change in the civ's score since previous turn.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]K[COLOR_REVERT] - The civ's rank based on their score.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Q[COLOR_REVERT] - The number of cities the civ owns.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]V[COLOR_REVERT] - The civ has at least one vassal.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]I[COLOR_REVERT] - The civ's player ID number.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]C[COLOR_REVERT] - The civ's/leader's/player's name.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]?[COLOR_REVERT] - You have not yet met the civ.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]E[COLOR_REVERT] - You have a positive espionage point ratio against the civ.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]P[COLOR_REVERT] - The civ's power ratio compared to you.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]T[COLOR_REVERT] - The tech the civ is researching (vassals, teammates and espionage).[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]U[COLOR_REVERT] - The number of research turns left.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]N[COLOR_REVERT] - The civ is connected to your trade network.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]B[COLOR_REVERT] - You have an open borders agreement with the civ.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]D[COLOR_REVERT] - You have a defensive pact with the civ.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]R[COLOR_REVERT] - The civ's state religion.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]A[COLOR_REVERT] - The civ's attitude toward you.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]H[COLOR_REVERT] - You are the civ's worst enemy.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]F[COLOR_REVERT] - The civ refuses to talk to you.[DLL=1][NEWLINE]\t\t[DLLMSG][/DLL][NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]M[COLOR_REVERT] - The civ is mobilizing for war (WHEOOH).[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]*[COLOR_REVERT] - This civ is waiting for you to finish your turn in multiplayer.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]L[COLOR_REVERT] - Civ's network stats (ping).[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]O[COLOR_REVERT] - The network player is out-of-sync.[NEWLINE][NEWLINE]You can place a number (positive or negative) between column codes to override the default spacing.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__GROUPVASSALS_TEXT	Group Vassals	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__GROUPVASSALS_HOVER	When checked, vassals are group together under their master(s).	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__LEFTALIGNNAME_TEXT	Left-Align Name	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__LEFTALIGNNAME_HOVER	When checked, the civ/leader name is left-aligned instead of right-aligned.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__RESEARCHICONS_TEXT	Research Icons	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__RESEARCHICONS_HOVER	When checked, shows icons instead of names for civs whose research you can see.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__RESEARCHICONSIZE_TEXT	Size	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__RESEARCHICONSIZE_HOVER	Select the size of the research icons when displayed (default value is 24).	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWER_TEXT	Power Ratio	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWER_HOVER	When checked, shows the ratio of your power rating to those of civilizations with whom you have an embassy (only available with the Advanced Tactics option).	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWERFORMULA_TEXT	Power Formula	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWERFORMULA_HOVER	Select the formula to use for calculating the power ratio:[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Rival vs. You[COLOR_REVERT] - Lower numbers are better.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]You vs. Rival[COLOR_REVERT] - Higher numbers are better.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWERFORMULA_LIST	Rival vs. You|You vs. Rival	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWERDECIMALS_TEXT	Ratio Decimal Places	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWERDECIMALS_HOVER	Number of decimal places to show for power ratio display.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWERCOLOR_TEXT	Default Color	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWERCOLOR_HOVER	Color used by default for power ratios.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWERHIGHRATIO_TEXT	High Ratio Cutoff	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWERHIGHRATIO_HOVER	Power ratings greater than or equal to this value are shown in the High Color.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWERHIGHCOLOR_TEXT	High Color	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWERHIGHCOLOR_HOVER	Color used for high power ratios.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWERLOWRATIO_TEXT	Low Ratio Cutoff	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWERLOWRATIO_HOVER	Power ratings less than or equal to this value are shown in in the Low Color.	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWERLOWCOLOR_TEXT	Low Color	
+Advanced Scoreboard Options.xml	TXT_KEY_BUG_OPT_SCORES__POWERLOWCOLOR_HOVER	Color used for low power ratios.	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_VS	[COLOR_POSITIVE_TEXT]%s1[COLOR_REVERT] vs. [COLOR_NEGATIVE_TEXT]%s2[COLOR_REVERT]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_BarbFreeWinsLeft	[COLOR_HIGHLIGHT_TEXT]Barbarian free wins left:[SPACE][COLOR_REVERT]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_PressSHIFT	[COLOR_HIGHLIGHT_TEXT]Press SHIFT for more detail[COLOR_REVERT]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_SurvivalOdds	Survival odds:[SPACE]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_SurvivalGuaranteed	[COLOR_HIGHLIGHT_TEXT]Survival Guaranteed![COLOR_REVERT]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_Victory	[COLOR_POSITIVE_TEXT]Victory[COLOR_REVERT]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_Defeat	[COLOR_NEGATIVE_TEXT]Defeat[COLOR_REVERT]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_Withdraw	[COLOR_POSITIVE_TEXT]Withdraw[COLOR_REVERT]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_Retreat	[COLOR_UNIT_TEXT]Retreat[COLOR_REVERT]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_AverageHP	[NEWLINE]Average HP:[SPACE]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_Unharmed	[NEWLINE]Unharmed:[SPACE]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_UnroundedXP	[NEWLINE]Unrounded XP:[SPACE]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_TotalDefenseModifier	[NEWLINE]Total defense modifier:[SPACE]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_AttackModifiers	[NEWLINE][COLOR_POSITIVE_TEXT]Attack modifiers:[COLOR_REVERT]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_DefenseModifiers	[NEWLINE][COLOR_NEGATIVE_TEXT]Defense modifiers:[COLOR_REVERT]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_GuaranteedNoDefenderHit	[NEWLINE][COLOR_HIGHLIGHT_TEXT]Guaranteed! Defender cannot score a hit.[COLOR_REVERT]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_HitsAt	hits at	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_HP	HP	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_HP_NEUTRAL	[COLOR_UNIT_TEXT]HP[COLOR_REVERT]	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_ACO_XP	XP	
+AdvancedCombatOdds_CIV4GameText.xml	TXT_KEY_BUG_ACO__HEADER	[COLOR_POSITIVE_TEXT]%s1_attacker[COLOR_REVERT] vs. [COLOR_NEGATIVE_TEXT]%s2_defender[COLOR_REVERT]	
+AutoSave Options.xml	TXT_KEY_BUG_OPT_AUTOSAVE__CREATESTARTSAVE_TEXT	Start Save	
+AutoSave Options.xml	TXT_KEY_BUG_OPT_AUTOSAVE__CREATESTARTSAVE_HOVER	When checked, a saved game is created after (re)generating the map.	
+AutoSave Options.xml	TXT_KEY_BUG_OPT_AUTOSAVE__CREATEENDSAVE_TEXT	End Save	
+AutoSave Options.xml	TXT_KEY_BUG_OPT_AUTOSAVE__CREATEENDSAVE_HOVER	When checked, a saved game is created when the game is won/lost.	
+AutoSave Options.xml	TXT_KEY_BUG_OPT_AUTOSAVE__CREATEEXITSAVE_TEXT	Exit Save	
+AutoSave Options.xml	TXT_KEY_BUG_OPT_AUTOSAVE__CREATEEXITSAVE_HOVER	When checked, a saved game is created when you exit using the menu's EXIT TO DESKTOP or EXIT TO MENU commands. [COLOR_YELLOW]The game is not saved automatically if you press ALT + F4.[COLOR_REVERT]	
+AutoSave Options.xml	TXT_KEY_BUG_OPT_AUTOSAVE__USEPLAYERNAME_TEXT	Use Player Name	
+AutoSave Options.xml	TXT_KEY_BUG_OPT_AUTOSAVE__USEPLAYERNAME_HOVER	When checked, your player name is used for the saved game name along with the turn year. Otherwise the name is a concatenation of 3-letter versions of Leader Name, Difficulty, Map Size, Map Type, Speed, Era, Year, Climate and Sea Level. This setting does not affect MapFinder saves.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__ENABLED_TEXT	Enable Logging	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__ENABLED_HOVER	When checked, various game events are logged to a text file using eotinb's AutoLog mod.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__SILENT_TEXT	Start Automatically	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__SILENT_HOVER	When checked, the logger is automatically started and doesn't wait for the manual start (or stop) command which can be issued by using [Alt + L].	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__DEFAULTFILENAME_TEXT	Use Default File Name	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__DEFAULTFILENAME_HOVER	When checked, the default (playername.txt) will be used, ignores log file name option.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__FILEPATH_TEXT	Path	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__FILEPATH_HOVER	Directory where log file resides (fully qualified path, i.e. C:\\folder\\subfolder or blank).	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__FILENAME_TEXT	File	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__FILENAME_HOVER	Name of log file. If there is no file of this name in the directory above, one will be created.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__FORMAT_TEXT	Format Style	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__FORMAT_HOVER	The format of the log output.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__FORMAT_LIST	Plain|HTML Tags|Forum Tags, With " around color codes|Forum Tags, No " around color codes	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__COLORCODING_TEXT	Color Coding	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__COLORCODING_HOVER	When checked, comments are color-coded for forum posts.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__4000BC_TEXT	4000BC is Turn	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__4000BC_HOVER	Select which turn number 4000BC should be.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__IBT_TEXT	Show IBT	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__IBT_HOVER	When checked, the logger inserts IBT (in between turns) at the end of the player's turn.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__PREFIX_TEXT	Custom Entry Prefix	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__PREFIX_HOVER	Used as a prefix before custom entries in the log (use [ALT + E]), e.g. your nick.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGTECH_TEXT	Technologies	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGTECH_HOVER	When checked, will log techs acquired and research started.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGBUILDSTARTED_TEXT	Builds Started	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGBUILDSTARTED_HOVER	When checked, will log when a city starts a build.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGBUILDCOMPLETED_TEXT	Builds Completed	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGBUILDCOMPLETED_HOVER	When checked, will log when a city completes a build.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGPROJECTS_TEXT	Projects Completed	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGPROJECTS_HOVER	When checked, will log completion of projects (certain wonders are technically projects -- other wonders are treated like normal buildings).	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGIMPROVEMENTS_TEXT	Improvements	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGIMPROVEMENTS_HOVER	When checked, will log when your improvements are built or destroyed by you.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCITYFOUNDED_TEXT	City Founded	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCITYFOUNDED_HOVER	When checked, will log when you found a city.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCITYGROWTH_TEXT	City Growth	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCITYGROWTH_HOVER	When checked, will log when one of your cities grows in population.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCITYBORDERS_TEXT	City Borders	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCITYBORDERS_HOVER	When checked, will log when one of your city's borders expand.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCITYOWNER_TEXT	City Ownership	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCITYOWNER_HOVER	When checked, will log when you acquire or lose a city through conquest or trade.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCITYRAZED_TEXT	City Razed	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCITYRAZED_HOVER	When checked, will log when you raze another civ's city or one of your cities is razed.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCITYWHIPSTATUS_TEXT	City Whip	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCITYWHIPSTATUS_HOVER	When checked, will log when you whip a city or when the whip anger decreases in a city.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGGOODIES_TEXT	Tribal Villages	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGGOODIES_HOVER	When checked, will log results from popping tribal villages.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGRELIGION_TEXT	Religions	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGRELIGION_HOVER	When checked, will log[NEWLINE][ICON_BULLET]When you found a religion[NEWLINE][ICON_BULLET]Spread of any religion to your cities[NEWLINE][ICON_BULLET]Spread of religions whose Holy city you control to foreign cities	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCORPORATION_TEXT	Corporations	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCORPORATION_HOVER	When checked, will log[NEWLINE][ICON_BULLET]When you found a corporation[NEWLINE][ICON_BULLET]Spread of any corporation to your cities[NEWLINE][ICON_BULLET]Spread of corporation whose headquarters you control to foreign cities	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGGP_TEXT	Great People	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGGP_HOVER	When checked, will log the birth of great people (in your cities).	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGGA_TEXT	Golden Age	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGGA_HOVER	When checked, will log begin and end of your Golden Ages.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCONTACT_TEXT	Contact	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCONTACT_HOVER	When checked, will log first contact with other civs.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGATTITUDE_TEXT	Attitude	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGATTITUDE_HOVER	When checked, will log any change in attitude between civs known to you.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGWAR_TEXT	War	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGWAR_HOVER	When checked, will log start and end of wars between civs known to you.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGVASSALS_TEXT	Vassal States	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGVASSALS_HOVER	When checked, will log when any civ becomes a vassal state of or frees itself from another.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCIVICS_TEXT	Civics	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCIVICS_HOVER	When checked, will log any change in civics of civs known to you.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCOMBAT_TEXT	Combat	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCOMBAT_HOVER	When checked, will log combat results involving your units.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGPROMOTIONS_TEXT	Promotions	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGPROMOTIONS_HOVER	When checked, will log when you promote one of your units.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGPILLAGE_TEXT	Pillaging	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGPILLAGE_HOVER	When checked, will log when you pillage or your improvements are pillaged.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGTRADEALL_TEXT	Trade/Demands	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGTRADEALL_HOVER	When checked, will log all AI-initiated trade offers and demands along with your responses.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGTRADEOFFER_TEXT	Trade Offers	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGTRADEOFFER_HOVER	When checked, will log AI-initiated trades and gift offers and your responses.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGTRIBUTEDEMAND_TEXT	Tribute/Help	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGTRIBUTEDEMAND_HOVER	When checked, will log AI demands for tribute or help and your responses.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGRELIGIONDEMAND_TEXT	Change Religion	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGRELIGIONDEMAND_HOVER	When checked, will log AI demands that you change religion and your responses.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCIVICDEMAND_TEXT	Change Civics	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGCIVICDEMAND_HOVER	When checked, will log AI demands that you change civics and your responses.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGWARDEMAND_TEXT	Declare War	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGWARDEMAND_HOVER	When checked, will log AI requests to declare war on a third party and your responses.	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGEMBARGODEMAND_TEXT	Stop Trading	
+Autolog Options.xml	TXT_KEY_BUG_OPT_AUTOLOG__LOGEMBARGODEMAND_HOVER	When checked, will log AI requests to stop trading with a third party and your responses.	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_BC	[SPACE]BC	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_AD	[SPACE]AD	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_TURN	Turn %s1 (%s2) [%s3]	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_LOGGING_GAME	Logging Game to File: %s1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_POPUP_QUESTION	Do you want to log this game?	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_POPUP_ANSWERS	OK for YES, Cancel for NO	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_ENTER_LOG_NAME	Enter new or existing log file name	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_NO_LOGGING	No Logging of this Game	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CUSTOM_ENTRY	Enter custom log entry	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_BATTLE_STATS	Battle Stats:	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_UNITS_VICTORIOUS_ATTACKING	Units victorious while attacking: %d1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_UNITS_VICTORIOUS_DEFENDING	Units victorious while defending: %d1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_UNITS_WITHDRAWING_ATTACKING	Units withdrawing while attacking: %d1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_UNITS_DEFEATED_ATTACKING	Units defeated while attacking: %d1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_UNITS_DEFEATED_DEFENDING	Units defeated while defending: %d1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_UNITS_ESCAPING_ATTACKING	Units escaping while attacking: %d1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_BATTLE_STATS_WRITTEN	Battle stats written to log and reset	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_AFTER_END_TURN	After End Turn:	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_WHIP_APPLIED	The whip was applied in %s1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CONSCRIPT	A %s1 was drafted in %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_WHIP_ANGER_DECREASED	Whip anger has decreased in %s1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DRAFT_ANGER_DECREASED	Draft anger has decreased in %s1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_OTHER_PLAYER_ACTIONS	Other Player Actions:	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_FIRST_CONTACT_TEAM	Team contact made: %s1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_FIRST_CONTACT_PLAYER	Player contact made: %s1 of %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_COMMERCE_GOLD_SLIDERS	%d1%% %s2: %d3 per turn, %d4 in the bank	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_COMMERCE_OTHER_SLIDERS	%d1%% %s2: %d3 per turn	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_WHILE_ATTACKING_DEFEATS	While attacking %s1, %s2 (%s3/%d4) defeats %s5 %s6 (Prob Victory: %s7%s8)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_WHILE_DEFENDING_DEFEATS	While defending %s1, %s2 (%s3/%d4) defeats %s5 %s6 (Prob Victory: %s7%s8)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_WHILE_ATTACKING_LOSES	While attacking %s1, %s2 loses to %s3 %s4 (%s5/%d6) (Prob Victory: %s7%s8)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_WHILE_DEFENDING_LOSES	While defending %s1, %s2 loses to %s3 %s4 (%s5/%d6) (Prob Victory: %s7%s8)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_WHILE_ATTACKING_ESCAPES	While attacking, %s1 escapes from %s2 %s3 (Prob Victory: %s4%s5)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_WHILE_ATTACKING_DECIMATES	While attacking, %s1 decimates %s2 %s3 (Prob Victory: %s4%s5)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_ON_A_LAKE	on a lake	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_JUST_OFF_SHORE	just off shore	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_ON_THE_HIGH_SEAS	on the high seas	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_IN_THE_WILD	in the wild	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_IN_TERRITORY	in %s1 territory	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_IN_TERRITORY_AT	%s1 at %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_IN_TERRITORY_NEAR	%s1 near %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_FINISH_BUILDING	%s1 finishes: %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_FINISH_PROJECT	%s1 finishes: %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_FINISH_UNIT	%s1 finishes: %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_PROMOTION	%s1 promoted: %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VILLAGE_RESULT	Tribal village results: %s1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VILLAGE_RESULT_NOTHING	nothing	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VILLAGE_RESULT_LITTLEGOLD	a little gold	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VILLAGE_RESULT_LOTSOFGOLD	lots of gold	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VILLAGE_RESULT_MAP	map	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VILLAGE_RESULT_SETTLER	settler	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VILLAGE_RESULT_WARRIOR	warrior	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VILLAGE_RESULT_SCOUT	scout	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VILLAGE_RESULT_WORKER	worker	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VILLAGE_RESULT_XP	experience	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VILLAGE_RESULT_HEALING	healing	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VILLAGE_RESULT_TECH	technology	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VILLAGE_RESULT_WEAKHOSTILES	weak hostiles	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VILLAGE_RESULT_STRONGHOSTILES	strong hostiles	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_GP_BORN	%s1 born in %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_TECH_RESEARCHED	Tech research finished: %s1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_TECH_ACQUIRED	Tech acquired (trade, lightbulb, hut, espionage): %s1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_TECH_TRADED	Tech traded to %s1: %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_RESEARCH_BEGUN	Research begun: %s1 (%d2 Turns)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DISTANT_LAND	a distant land	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_RELIGION_FOUNDED	%s1 founded in %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_RELIGION_SPREAD_IN	%s1 has spread: %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_RELIGION_SPREAD_OUT	%s1 has spread: %s2 (%s3)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_RELIGION_REMOVED_IN	%s1 has been removed: %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_RELIGION_REMOVED_OUT	%s1 has been removed: %s2 (%s3)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CORP_FOUNDED	%s1 founded in %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CORP_SPREAD_IN	%s1 has spread: %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CORP_SPREAD_OUT	%s1 has spread: %s2 (%s3)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CORP_REMOVED_IN	%s1 has been removed: %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CORP_REMOVED_OUT	%s1 has been removed: %s2 (%s3)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_GOLDENAGE_BEGINS	Golden Age begins	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_GOLDENAGE_ENDS	Golden Age ends	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DECLARES_WAR	%s1 declares war on %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_PEACE_TREATY	%s1 and %s2 have signed a peace treaty	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CIV_ELIMINATED	%s1 has been eliminated	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_ANOTHER_CIV_ELIMINATED	Another civilization has been eliminated	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CITY_FOUNDED	%s1 founded	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CITY_RAZED	Razed %s1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CITY_RAZED_BY	%s1 razed by %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CITY_CAPTURED	Captured %s1 (%s2)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CITY_TRADED	Traded for %s1 (%s2)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CITY_FLIPPED	%s1 (%s2) culture flips	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CITY_LOST	%s1 lost	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CITY_EXPANDED	%s1's borders expand	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CITY_GROWS	%s1 grows to size %d2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CITY_PRODUCES_UNIT	%s1 begins: %s2 (%d3 turns)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CITY_PRODUCES_BUILDING	%s1 begins: %s2 (%d3 turns)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_IMPROVEMENT_BUILT	A %s1 was built	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_NEAR	[SPACE]near %s1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_IMPROVEMENT_DESTROYED	A %s1 was destroyed	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_IMPROVEMENT	A %s1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_ROUTE	A %s1	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_IMPROVEMENT_UNKNOWN	An improvement	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_IMPROVEMENT_DESTROYED_BY_GOLD	[SPACE]was destroyed by %s1 %s2 (%d3 gold)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_IMPROVEMENT_DESTROYED_BY_NOGOLD	[SPACE]was destroyed by %s1 %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VASSAL_BECOMES	%s1 becomes a Vassal State of %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_VASSAL_REVOLTS	%s1 revolts and is no longer a Vassal State of %s2	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_NO_STATE_RELIGION	no State Religion	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_RELIGION_CHANGE	State Religion Change: %s1 from '%s2' to '%s3'	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_ATTITUDE_CHANGE	Attitude Change: %s1 towards %s2, from '%s3' to '%s4'	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_CIVIC_CHANGE	Civics Change: %s1 from '%s2' to '%s3'	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_DEAL_OFFER	Diplomacy: %s1 (%s2) offers to trade %s3 to %s4 (%s5) for %s6	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_CITY_OFFER	Diplomacy: %s1 (%s2) offers to give the city %s3 to %s4 (%s5)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_HELP_OFFER	Diplomacy: %s1 (%s2) offers to give help (%s3) to %s4 (%s5)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_PEACE_OFFER	Diplomacy: %s1 (%s2) offers to make peace with %s3 (%s4)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_VASSAL_OFFER	Diplomacy: %s1 (%s2) offers to become a vassal of %s3 (%s4)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_DEAL_CANCEL	Diplomacy: %s1 (%s2) cancels trade of %s3 to %s4 (%s5) for %s6	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_GIFT_CANCEL	Diplomacy: %s1 (%s2) cancels gift of %s3 to %s4 (%s5)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_DEAL_ACCEPT	Diplomacy: %s1 (%s2) accepts trade of %s3 to %s4 (%s5) for %s6	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_GIFT_ACCEPT	Diplomacy: %s1 (%s2) accepts gift of %s3 from %s4 (%s5)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_DEAL_REJECT	Diplomacy: %s1 (%s2) rejects trade of %s3 to %s4 (%s5) for %s6	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_GIFT_REJECT	Diplomacy: %s1 (%s2) rejects gift of %s3 from %s4 (%s5)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_GENERIC_ACCEPT	; %s1 AGREES.	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_GENERIC_REJECT	; %s1 REFUSES.	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_HELP_DEMAND	Diplomacy (Help Request): %s1 (%s2) asks %s3 (%s4) for %s5	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_TRIBUTE_DEMAND	Diplomacy (Tribute Demand): %s1 (%s2) demands that %s3 (%s4) gives %s5	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_RELIGION_DEMAND	Diplomacy (Religion Request): %s1 (%s2) asks %s3 (%s4) to convert to %s5	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_CIVIC_DEMAND	Diplomacy (Civic Request): %s1 (%s2) asks %s3 (%s4) to switch to %s5	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_WAR_DEMAND	Diplomacy (War Request): %s1 (%s2) asks %s3 (%s4) to declare war on %s5 (%s6)	
+Autolog_CIV4GameText.xml	TXT_KEY_AUTOLOG_DIPLO_EMBARGO_DEMAND	Diplomacy (Embargo Request): %s1 (%s2) asks %s3 (%s4) to stop trading with %s5 (%s6)	
+BUFFY Options.xml	TXT_KEY_BUG_OPT_BUFFY__ENABLED_TEXT	Enabled	
+BUFFY Options.xml	TXT_KEY_BUG_OPT_BUFFY__ENABLED_HOVER	When checked, BUFFY is in operation.	
+BUFFY Options.xml	TXT_KEY_BUG_OPT_BUFFY__WARNINGSDAWNOFMAN_TEXT	Warnings on Dawn of Man	
+BUFFY Options.xml	TXT_KEY_BUG_OPT_BUFFY__WARNINGSDAWNOFMAN_HOVER	When checked, BUFFY warnings are shown on the Dawn of Man screen.	
+BUFFY Options.xml	TXT_KEY_BUG_OPT_BUFFY__WARNINGSSETTINGS_TEXT	Warnings on Settings tab	
+BUFFY Options.xml	TXT_KEY_BUG_OPT_BUFFY__WARNINGSSETTINGS_HOVER	When checked, BUFFY warnings are shown on the Settings tab of the Victory Screen.	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFY_INVALID_HOF_GOTM	[COLOR_WARNING_TEXT]Warning:[COLOR_REVERT] This game is not valid for HOF or GOTM use.	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFY_INVALID_HOF	[COLOR_WARNING_TEXT]HOF Warning:[COLOR_REVERT] This game is not valid for HOF use. See the Settings page of the Victory screen for details.	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_NOT_VALID	This game is not valid for HOF use. See the [COLOR_WARNING_TEXT]highlighted[COLOR_REVERT] in the boxes below for the specific invalid settings.	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING	HOF Warning	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_MAC	[COLOR_WARNING_TEXT]Mac Players cannot submit HoF Entries[COLOR_REVERT]	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_NO_TEAMS	[COLOR_WARNING_TEXT]Team play is not allowed[COLOR_REVERT]	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_MULT_LEADERS	[COLOR_WARNING_TEXT]%s1 has been chosen %d2 times[COLOR_REVERT]	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_TOO_FEW_OPPONENTS	[COLOR_WARNING_TEXT]%d1 or more opponents are required for a %s2[COLOR_REVERT]	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_TOO_MANY_OPPONENTS	[COLOR_WARNING_TEXT]%d1 or less opponents are required for a %s2[COLOR_REVERT]	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_INSTALL_LOCATION	[COLOR_WARNING_TEXT]BUFFY must be installed to:[COLOR_REVERT]	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_MULTI_PLAYER_NOT_ALLOWED	[COLOR_WARNING_TEXT]Multi-player games not allowed[COLOR_REVERT]	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_DLL_MISSING	[COLOR_WARNING_TEXT]The BUFFY DLL is missing.[COLOR_REVERT]	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_CHECKSUM_SKIPPED	[COLOR_WARNING_TEXT]Skipped Checksum.[COLOR_REVERT]	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_CHECKSUM_MISSING	[COLOR_WARNING_TEXT]CRCs are missing. This game can't be used. Check Locked Modified Assets if unchecked.[COLOR_REVERT]	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_CHECKSUM_DIFFERENT	[COLOR_WARNING_TEXT]The assets are different from a standard install. Contact the HOF staff.[COLOR_REVERT]	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_CHECKSUM_FAILED	[COLOR_WARNING_TEXT]Failed to check CRCs.[COLOR_REVERT]	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_VICTORY_CONDITIONS	[COLOR_WARNING_TEXT]All Victory Conditions must be enabled. The following are missing:[COLOR_REVERT]	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_REQUIRED	[COLOR_WARNING_TEXT](Required)[COLOR_REVERT]	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_NOT_ALLOWED	[COLOR_WARNING_TEXT](Not allowed)[COLOR_REVERT]	
+BUFFY_CIV4GameText.xml	TXT_KEY_BUFFYWARNING_BALANCED_RESOUCES_NOT_ALLOWED	[COLOR_WARNING_TEXT]Balanced resources not allowed[COLOR_REVERT]	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGFINANCEADVISOR_TEXT	BUG Finance Advisor	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGFINANCEADVISOR_HOVER	When checked, uses the BUG Finance Advisor (requires restart).	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__EFAGLANCETAB_TEXT	Glance Tab	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__EFAGLANCETAB_HOVER	When checked, displays the 'Glance' tab on the Exotic Foreign Advisor screen.	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__EFAGLANCEATTITUDES_TEXT	Smilies	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__EFAGLANCEATTITUDES_LIST	Numbers|Smilies|Both	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__EFAGLANCEATTITUDES_HOVER	Select how to display AI attitudes on the GLANCE tab: numbers, smilies, or both.	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__EFAIMPROVEDINFO_TEXT	Improved Info Tab	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__EFAIMPROVEDINFO_HOVER	When checked, uses improved Foreign Advisor 'Info' tab instead of default.	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__EFADEALTURNSLEFT_TEXT	Deal Turns Left	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__EFADEALTURNSLEFT_HOVER	When checked, shows how many turns are left before you can cancel each deal on the 'Active' tab.	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGMA_TEXT	BUG Military Advisor	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGMA_HOVER	When checked, uses the BUG Militiary Advisor (requires restart).	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__GPTECHPREFS_TEXT	GP Research	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__GPTECHPREFS_HOVER	When checked, displays the technology each type of great person will research.	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__FULLSCREENADVISORS_TEXT	Full Screen Advisors	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__FULLSCREENADVISORS_HOVER	When checked, some (WIP) advisors will be full-screen (requires restart).	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__WIDETECHSCREEN_HOVER	When checked, the width of the tech screen will be linked to your screen resolution (requires restart).	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__SHOWTECHERA_TEXT	Show Era	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__SHOWTECHERA_HOVER	When selected, shows the technology's associated era.	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGRELIGIOUSTAB_TEXT	BUG Religion Advisor	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGRELIGIOUSTAB_HOVER	When checked, displays extra information on the Religious tab.	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__SHOWRELIGIONS_TEXT	Show Religions	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__SHOWRELIGIONS_LIST	All|Founded|Player's	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__SHOWRELIGIONS_HOVER	Select which religions should be shown in the top area of the Religion Advisor.	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGVICTORIESTAB_TEXT	BUG Victories tab	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGVICTORIESTAB_HOVER	When checked, displays extra information on the Victories tab.	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGMEMBERSTAB_TEXT	BUG Members tab	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGMEMBERSTAB_HOVER	When checked, displays extra information on the Members tab.	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGGRAPHSTAB_TEXT	Graphs tab	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGGRAPHSTAB_HOVER	When checked, displays graphs in BUG format.	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGGRAPHSLOGSCALE_TEXT	Graphs Log Scale	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGGRAPHSLOGSCALE_HOVER	When checked, displays graphs are displayed in Log(10) scale.	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGINFOWONDERS_TEXT	Wonders tab	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGINFOWONDERS_HOVER	When checked, displays the BUG version of the Wonders tab.	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGINFOWONDERSPLAYERCOLOR_TEXT	Use Player Color	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGINFOWONDERSPLAYERCOLOR_HOVER	When checked, displays wonders on the BUG version of the Wonders tab using the owning player's color.	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGSTATSTAB_TEXT	Stats tab	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__BUGSTATSTAB_HOVER	When checked, displays improvements on Stats tab.	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__SEVOPEDIA_TEXT	Enabled	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__SEVOPEDIA_HOVER	When checked, uses the Sevopedia (requires restart).	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__SEVOPEDIASORTITEMLIST_TEXT	Sort Lists	
+BUG Advisors Options.xml	TXT_KEY_BUG_OPT_ADVISORS__SEVOPEDIASORTITEMLIST_HOVER	When checked, the lists of units, buildings, technologies, etc. are sorted.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__RAWYIELDS_TEXT	Raw Yields	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__RAWYIELDS_HOVER	When checked, the raw breakdowns for [ICON_FOOD], [ICON_PRODUCTION], and [ICON_COMMERCE] are displayed in the trade routes table.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__RAWYIELDSVIEW_TEXT	Default View	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__RAWYIELDSVIEW_HOVER	Determines the Raw Yields view used when Civ is started.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__RAWYIELDSVIEW_LIST	Trade Routes|Food|Production|Commerce	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__RAWYIELDSTILES_TEXT	Count Tiles	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__RAWYIELDSTILES_HOVER	Select which tiles to count in Raw Yields when Civ is started.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__RAWYIELDSTILES_LIST	Worked|City|Owned	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__FOODASSIST_TEXT	Detailed Food Info	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__FOODASSIST_HOVER	When checked, displays the food difference generated per turn (plus or minus) and the number of turns until starvation when the food supply is shrinking.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__WHIPASSIST_TEXT	Production Bar	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__WHIPASSIST_HOVER	When checked, displays the [ICON_CITIZEN] cost and [ICON_PRODUCTION]/[ICON_GOLD] overflow for whipping and/or the [ICON_GOLD] cost for buying the item being produced in the Production Bar.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__WHIPASSISTOVERFLOWCOUNTCURRENTPRODUCTION_TEXT	Include Current	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__WHIPASSISTOVERFLOWCOUNTCURRENTPRODUCTION_HOVER	When checked, whip production overflow estimates will include the city's current [ICON_PRODUCTION].	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__CULTURETURNS_TEXT	Culture Turns	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__CULTURETURNS_HOVER	When checked, displays the number of turns until the city's borders expand.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__GREATPERSONTURNS_TEXT	Turns Until Birth	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__GREATPERSONTURNS_HOVER	When checked, displays the number of turns until the city will produce a [ICON_GREATPEOPLE].	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__GREATPERSONINFO_TEXT	Types and Percentages	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__GREATPERSONINFO_HOVER	When checked, displays the percentage chance and type of each possible [ICON_GREATPEOPLE] on the bar. The number shown is controlled by the General setting.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__ANGER_COUNTER_TEXT	Anger Counter	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__ANGER_COUNTER_HOVER	When checked, puts anger countdown on city screen.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__ONLYPRESENTRELIGIONS_TEXT	Only Present Religions	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__ONLYPRESENTRELIGIONS_HOVER	When checked, displays only the religions that are present in the city and allows for more than seven religions.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__ONLYPRESENTCORPORATIONS_TEXT	Only Present Corporations	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__ONLYPRESENTCORPORATIONS_HOVER	When checked, displays only the corporations that are present in the city and allows for more than seven corporations.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__SPECIALISTS_TEXT	City Specialists	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__SPECIALISTS_HOVER	Determines how specialists are displayed:[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Default[COLOR_REVERT] - Shows specialists using the vanilla BtS format.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Stacker[COLOR_REVERT] - Shows specialists stacked using the Stacked Specialist mod.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Chevron[COLOR_REVERT] - Shows specialists grouped into 5 (single chevron), 10 (capped chevron) and 20 (boxed capped chevron) format.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__SPECIALISTS_LIST	Default|Stacker|Chevron	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONSTARTED_TEXT	Color Started Items	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONSTARTED_HOVER	When checked, displays the remaining turns in cyan for items that have been started.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONDECAYQUEUE_TEXT	Queue	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONDECAYQUEUE_HOVER	When checked, displays a yellow exclamation point (!) next to items in the build queue that are close to decaying from being left in the queue without adding [ICON_PRODUCTION] for too long. Two red exclamation points signify that the item will decay this turn if it is not first in the queue.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONDECAYQUEUEUNITTHRESHOLD_TEXT	Unit Warning	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONDECAYQUEUEUNITTHRESHOLD_HOVER	Select the number of turns before a unit will decay at which time a yellow exclamation mark is shown. Units decay after being in the queue without adding [ICON_PRODUCTION] for 10 turns.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONDECAYQUEUEBUILDINGTHRESHOLD_TEXT	Building Warning	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONDECAYQUEUEBUILDINGTHRESHOLD_HOVER	Select the number of turns before a building will decay at which time a yellow exclamation mark is shown. Buildings decay after being in the queue without adding [ICON_PRODUCTION] for 50 turns. Projects never decay.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONDECAYHOVER_TEXT	Hover	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONDECAYHOVER_HOVER	When checked, displays the number of turns before and amount of decay in the hover text for units and buildings in the build queue.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONDECAYHOVERUNITTHRESHOLD_TEXT	Unit Warning	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONDECAYHOVERUNITTHRESHOLD_HOVER	Select the number of turns before a unit will decay at which time the decay information is first displayed.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONDECAYHOVERBUILDINGTHRESHOLD_TEXT	Building Warning	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONDECAYHOVERBUILDINGTHRESHOLD_HOVER	Select the number of turns before a building will decay at which time the decay information is first displayed.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONPOPUPTRAINCIVILIANUNITSFOREVER_TEXT	Train Civilian Units Forever	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONPOPUPTRAINCIVILIANUNITSFOREVER_HOVER	When checked, selecting a civilian unit in the Choose Production popup sets the city to train that unit repeatedly.	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONPOPUPTRAINMILITARYUNITSFOREVER_TEXT	Train Military Units Forever	
+BUG City Screen Options.xml	TXT_KEY_BUG_OPT_CITYSCREEN__PRODUCTIONPOPUPTRAINMILITARYUNITSFOREVER_HOVER	When checked, selecting a military unit in the Choose Production popup sets the city to train that unit repeatedly.	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__SCREENLOGLEVEL_TEXT	Screen Logging Level	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__SCREENLOGLEVEL_HOVER	Selects which logging messages get printed to the screen. Each level includes messages of all levels below it.	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__SCREENLOGLEVEL_LIST	Debug|Info|Warning|Error|None	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__FILELOGLEVEL_TEXT	File Logging Level	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__FILELOGLEVEL_HOVER	Selects which logging messages get printed to the PythonDbg.log file. Each level includes messages of all levels below it.	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__FILELOGLEVEL_LIST	Debug|Info|Warning|Error|None	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__LOGTIME_TEXT	Include Time	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__LOGTIME_HOVER	When checked, each log file message includes the current time in HH:MM:SS format.	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__CHECKFORUPDATES_TEXT	Check for Updates	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__CHECKFORUPDATES_HOVER	When checked, BUG will look for SVN updates and/or releases each time you launch Civilization and notify you when new ones are found.	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__LOCALROOT_TEXT	BUG Install Folder	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__LOCALROOT_HOVER	Location where BUG files are installed.	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__LOCALVERSION_TEXT	Installed Revision	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__LOCALVERSION_HOVER	Revision number of the BUG installation.	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__REPOSITORYURL_TEXT	Repository URL	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__REPOSITORYURL_HOVER	URL for the BUG repository.	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__REPOSITORYVERSION_TEXT	Repository Revision	
+BUG Core Options.xml	TXT_KEY_BUG_OPT_CORE__REPOSITORYVERSION_HOVER	Revision number of the BUG repository.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__OPTIONSKEY_TEXT	Options Shortcut Reminder	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__OPTIONSKEY_HOVER	When checked, displays a message about Alt + Ctrl + O when a game is started or loaded.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__OPTIONSBUTTON_TEXT	Options Button	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__OPTIONSBUTTON_HOVER	When checked, shows the BUG Option Screen button.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__GOLDRATEWARNING_TEXT	Gold Rate Warning	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__GOLDRATEWARNING_HOVER	When checked, displays your gold rate in yellow if it is negative but not enough to drop your treasury below zero.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__GPBAR_TEXT	Great Person	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__GPBAR_HOVER	When checked, displays the progress and city of the next Great Person.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__GPBAR_TYPES_TEXT	GP Bar Types	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__GPBAR_TYPES_HOVER	Determines how many GP types to display in the GP Progress Bar. The [COLOR_HIGHLIGHT_TEXT]Maximum[COLOR_REVERT] setting also displays the percent chance for each.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__GPBAR_TYPES_LIST	None|One|Maximum	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__COMBAT_COUNTER_TEXT	Great General	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__COMBAT_COUNTER_HOVER	When checked, displays a progress bar for the next Great General.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__MINMAX_COMMERCE_TEXT	Min/Max Commerce Buttons	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__MINMAX_COMMERCE_HOVER	When checked, displays a second pair of +/- buttons for each commerce type that set the rate to 100% and 0% respectively.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__CITYARROWS_TEXT	City Cycle Arrows	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__CITYARROWS_HOVER	When checked, displays arrows to cycle through cities above your civ's flag.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__FIELDOFVIEW_TEXT	Field of View	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__FIELDOFVIEW_HOVER	When checked, displays a slide bar which can be used to change the field of view.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__PROGRESSBARSTICKMARKS_TEXT	Tick Marks	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__PROGRESSBARSTICKMARKS_HOVER	When checked, displays tick marks on selected progress bars that illustrate estimated future turn progress.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__FIELDOFVIEW_REMEMBER_TEXT	Remember Field of View	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__FIELDOFVIEW_REMEMBER_HOVER	When checked, the Field of View value is remembered from game to game.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__FIELDOFVIEW_VALUE_TEXT	Field of View - Value	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__FIELDOFVIEW_VALUE_HOVER	Stores the Field of View value	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__UNITMOVEMENTPOINTSFRACTION_TEXT	Fractional Movement Points	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__UNITMOVEMENTPOINTSFRACTION_HOVER	When checked, shows the Movement Points for a single unit as a fraction in the Info Pane.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__STACKMOVEMENTPOINTS_TEXT	Stack Movement Points	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__STACKMOVEMENTPOINTS_HOVER	When checked, shows the minimum and maximum Movement Points for all selected units in the Info Pane.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__STACKPROMOTIONS_TEXT	Stack Promotions	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__STACKPROMOTIONS_HOVER	When checked, shows the promotions possessed by at least one unit in the stack.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__STACKPROMOTIONCOUNTS_TEXT	Counts	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__STACKPROMOTIONCOUNTS_HOVER	When checked, shows the number of units in a stack that possess each promotion if more than one.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__STACKPROMOTIONCOLOR_TEXT	Some	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__STACKPROMOTIONCOLOR_HOVER	When checked, shows the number of units in a stack that possess each promotion if more than one.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__STACKPROMOTIONCOLORALL_TEXT	All	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__STACKPROMOTIONCOLORALL_HOVER	When checked, shows the number of units in a stack that possess each promotion if more than one.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__BUILDICONSIZE_TEXT	Build/Action Icon Size	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__BUILDICONSIZE_HOVER	Determines the size of the build and action buttons in the bottom center of the screen.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__BUILDICONSIZE_LIST	Small|Medium|Large	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__UNITCOMBATICONS_TEXT	Unit Combat Icons	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__UNITCOMBATICONS_HOVER	When checked, shows the Unit Combat icon in the Unit help display.	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__MINIMAPWATEROVERLAY_TEXT	Overlay Minimap Water Tiles	
+BUG Main Interface Options.xml	TXT_KEY_BUG_OPT_MAININTERFACE__MINIMAPWATEROVERLAY_HOVER	When checked, overlays water tiles in the minimap with their owner's color.	
+BUG Options Screen.xml	TXT_KEY_BUG_OPT_TITLE	BUG Mod Options	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTBUTTON_HELP	BUG Mod Help	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTBUTTON_HELP_HOVER	Opens the BUG Mod help file. You can hit [ALT + CTRL + F1] from the main interface.	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTBUTTON_EXIT_HOVER	Exits the BUG Options screen.	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTIONS_SCREEN_HOVER	Shows the BUG Option Screen.	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTTAB_GENERAL	General	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_PROGRESSBARS	Progress Bars:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_LEADERHEADS	Leaderheads:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_AUTOSAVE	AutoSave:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_ACTIONS	Actions:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_INFOPANE	Unit/Stack Info:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_TECHWINDOW	Tech Splash Screen:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_BUFFY	BUFFY:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_MISC	Miscellaneous:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_INIFILENOTFOUND	Cannot Find INI File	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTTAB_MAP	Map	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_STRATEGYOVERLAY	Strategy Layer:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_CITYBAR	City Bar:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_TILEHOVER	Tile Hover:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_CITYPLOTS	City Tiles:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_WORKINGPLOTS	Working:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_NOTWORKINGPLOTS	Not Working:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_MAPFINDER	MapFinder:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTTAB_ADVISORS	Advisors	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_DOMESTIC_ADVISOR	Domestic [F1]:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_FINANCE_ADVISOR	Finance [F2]:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_FOREIGN_ADVISOR	Foreign [F4]:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_MILITARY_ADVISOR	Military [F5]:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_TECHNOLOGY_ADVISOR	Technology [F6]:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_RELIGIOUS_ADVISOR	Religion [F7]:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_VICTORY_CONDITIONS	Victory [F8]:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_INFO_SCREENS	Info [F9]:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_SEVOPEDIA	Sevopedia [F12]:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_ESPIONAGE_SCREEN	Espionage [CTRL + E]:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_ESPIONAGE_RATIO	Ratio:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_ESPIONAGE_MISSIONS	Missions:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTTAB_CITYSCREEN	City Screen	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_HURRYDETAIL	Hurry Detail:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_GREATPERSONBAR	Great Person Bar:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_BUILDINGEFFECTS	Building Actual Effects:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_BUILDINGSUGGESTIONS	Building Suggestions:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_PRODUCTIONQUEUE	Production Queue:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_PRODUCTIONDECAY	Decay:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_CITYBAR_HOVER	City Bar Hover:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_CITYANGER	City Anger:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTTAB_NJAGC	Clock	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_NJAGC_REGULAR	Standard View:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_NJAGC_ALTERNATE	Alternate View:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTTAB_SCORES	Scoreboard	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_SCORES_GENERAL	General:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_SCORES_DEAD_CIVS	Dead Civilizations:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_SCORES_NEW_COLUMNS	Additional Columns:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_SCORES_GRID	Advanced Layout:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_SCORES_ORDER	Column Order:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTTAB_PLE	Plot List	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_PLE_INDICATORS	Indicators:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_PLE_UNIT_INFO_TOOLTIP	Unit Info Tooltip:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_PLE_UPGRADE_COST	Upgrade Cost:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_PLE_SPECIALTIES	Unit Specialties:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTTAB_ACO	Odds	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTTAB_ALERTS	Alerts	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_ALERTS_CITY	City:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_ALERTS_DIPLOMACY	Diplomacy:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_ALERTS_TRADE	Trading:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_ALERTS_VICTORY	Victory:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTTAB_AUTOLOG	Logging	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_AUTOLOG_BUILDS	Research and Builds:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_AUTOLOG_CITIES	Cities:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_AUTOLOG_EVENTS	Events:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_AUTOLOG_POLITICS	Diplomacy:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_AUTOLOG_COMBAT	Combat:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_AUTOLOG_TRADE	Trade and Demands:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTTAB_UNITNAMING	Unit Naming	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTTAB_SYSTEM	System	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_SUBVERSION	Subversion (SVN):	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_DEBUG_LOGGING	Debug Output:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTTAB_CONFIG	Config	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_MOD_DIRECTORY	Mod Directory:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_ROOT_DIRECTORY	CivilizationIV.ini Directory:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_SETTINGS_DIRECTORY	Settings Directory:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_ASSET_SEARCH_PATHS	Asset Search Paths:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_CDA_CONFIG	CDA Pages File:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_UNITNAMING_CONFIG	Advanced Unit Naming Options File:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_AUTOLOG_LOG	Autolog File:	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTTAB_CREDITS	Credits	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_BUG_TEAM	BUG Team	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_MOD_AUTHORS	Mod Authors	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_MAP_SCRIPTS	Map Scripts	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_TRANSLATORS	Translators	
+BUG Options Screen.xml	TXT_KEY_BUG_OPTLABEL_THANKS	Special Thanks	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_CATEGORY_WORLD_WONDERS	World Wonders	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_CATEGORY_EQUIPMENTS	Equipments	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_CATEGORY_SPELLS	Spells	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_CATEGORY_ABILITY	Special Abilities	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_PRODUCING_BUILDINGS	Producing Buildings	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_REQ_STATE_RELIGION	State[ICON_RELIGION] is	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_REQ_CITY_HAS	City Has	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_BASE_YIELDS	Base Yields	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_IMPROVEMENT_COST_TITLE	Build Cost:	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_IMPROVEMENT_COST	[ICON_BULLET]%d1 [NUM1:Turn:Turns] by %s2_improvement	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_IMPROVEMENT_COST_KILL	[ICON_BULLET]%s1_unit Unit	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_IMPROVEMENT_COST_KILL_MULTIPLE	[ICON_BULLET]%d1 [NUM1:Unit:Units] of %s2_unit	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_IMPROVEMENT_BONUS	[ICON_BULLET] Provides [LINK=literal]%s1_mana[\\LINK]	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_DOUBLE_SPEED	Double Speed Production with	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_PLAYER_PREREQ	Requires of Player	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_REQ_UNIT_RELIGION	Unit[ICON_RELIGION] is	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_FOUNDED_BY_FIRST	Founded by First to Discover	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_HEROES_OR_WONDERS_ENABLED	Heroes or Wonders Enabled	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_ENABLED_WITHOUT_STATE	Enabled without State Religion	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_GAIN	Gain: %d1_Num	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_DELAY	Delay: %d1_turns [NUM1:Turn:Turns]	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_CASTER_PREREQ	Requires of Caster	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_OTHERS_ENABLED	Others Enabled	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_UNRESEARCHABLE	Can not be Researched	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_TERRAIN_EARTHLY	Earthly Terrain	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_TERRAIN_HELL	Hell Terrain	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_BONUS_TILE_MODIFIER	Tile Modifier:	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_BONUS_FREE_PROMOTION_CHANCE	[ICON_BULLET]%D1_chance% chance free %s2_promotion for new units belonging to available category in the city	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_BONUS_FORBIDDEN_MANA_PENALTY	[ICON_BULLET]%D1_penalty Attitude Modifier (Each Leader evaluates this coefficient value)	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_BUILDING_FREE_PROMOTION_STAYED	[ICON_BULLET]Free %s1_Name Promotion for Units Stayed in this City	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_MISC_IGNORE_REQUIREMENT	[SPACE](Ignoring Requirements)	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_MISC_REQ_STATE_RELIGION	[COLOR_WARNING_TEXT]Requires %F1_RelIcon as State[ICON_RELIGION][COLOR_REVERT]	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_MISC_REQ_CITY_HAS_RELIGION	[COLOR_WARNING_TEXT]Requires %F1_RelIcon in the City[COLOR_REVERT]	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_MISC_REQ_CITY_HAS	[COLOR_WARNING_TEXT]Requires %s1_requirement in the City[COLOR_REVERT]	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_BUILDING_DWARVEN_VAULT_HELP	[ICON_BULLET]Be upgraded automatically depending on the amount of Empire Treasury per City.[NEWLINE][SPACE][SPACE][ICON_BULLET]000-049 [ICON_GOLD] per City: +2 [ICON_UNHAPPY][NEWLINE][SPACE][SPACE][ICON_BULLET]050-099 [ICON_GOLD] per City: +1 [ICON_UNHAPPY][NEWLINE][SPACE][SPACE][ICON_BULLET]100-149 [ICON_GOLD] per City: None[NEWLINE][SPACE][SPACE][ICON_BULLET]150-199 [ICON_GOLD] per City: +1 [ICON_HAPPY][NEWLINE][SPACE][SPACE][ICON_BULLET]200-299 [ICON_GOLD] per City: +2 [ICON_HAPPY], +10% [ICON_PRODUCTION][NEWLINE][SPACE][SPACE][ICON_BULLET]300-499 [ICON_GOLD] per City: +2 [ICON_HAPPY], +25% [ICON_PRODUCTION][NEWLINE][SPACE][SPACE][ICON_BULLET]500over [ICON_GOLD] per City: +3 [ICON_HAPPY], +40% [ICON_PRODUCTION], +25% [ICON_GREATPEOPLE]	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_CIVIC_YIELD_FROM_IMPROVEMENT	[SPACE]from %s1_ImprovementName	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_FEATURE_GROWING_TO_NEAR_TILE	[ICON_BULLET]1 in %d1_denominator% chance of growing per each %d2_num_directions adjacent tiles[NEWLINE][ICON_BULLET]1 in %d3_denominator% chance of growing per each tiles with any route	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_FEATURE_FLAMMABLE	[NEWLINE][ICON_BULLET]Can catch [LINK=IMPROVEMENT_SMOKE]Fire[\\LINK]	
+BUGFfH2_Civ4GameText.xml	TXT_KEY_PEDIA_CATEGORY_MANANODES	Mana	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_INTERFACE_1	*BUG Hint*: Press [ALT + CTRL + O] to enter The BUG Mod Options Screen.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_INTERFACE_2	*BUG Hint*: Ever forget to build that Barracks?  [ALT +M] -OR- [ALT + CTRL + R] will allow you to set up reminders so you don't forget again!	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_INTERFACE_3	*BUG Hint*: [ALT + S] allows you to make Sticky Notes on tiles.  Just click and type.  Pressing [ALT + S] again, and then clicking on an existing note will remove it.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_INTERFACE_4	*BUG Hint*: To cancel all Worker Orders quickly, select 1 worker with orders, and while holding the [ALT] key, click the cancel orders button.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_INTERFACE_5	*BUG Hint*: [ALT + E] will allow you to make a custom Event in the autologger.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_INTERFACE_6	*BUG Hint*: Clicking on the Scroll button within the Domestic Advisor will allow you to customize it to your playing style.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_INTERFACE_7	*BUG Hint*: To create rally points, select the city, or cities, you are building units it, hold down the [SHIFT] key and Right Click on the tile you want your rally point to be at.  You will see a yellow circle showing the rally point.[NEWLINE]To cancel orders select the same city or cities, [SHIFT] and Right click on any city square, and it will cancel the rally orders.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_1	*BUG Hint*: When a tile is in the City Cross of two different cities, you can change its city ownership by clicking on that tile from the chosen city's City Screen.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_2	*BUG Hint*: When you're weak there is no shame in giving into rivals demands.  This will give you time to build your defenses as you enjoy the short improvement in relations between your nations.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_3	*BUG Hint*: When at War, use fast moving units to pillage strategic resources such as Iron, or Aluminum first, and leave a sentry to prevent the enemy from reconnecting that resource.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_4	*BUG Hint*: Save your promotions for when your unit is injured to speed up healing, and when you promote, use them to tailor your unit for the type of enemy you are facing.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_5	*BUG Hint*: Always consider having siege equipment before attacking a city.  A Swordsman can do more damage entering through a hole in the wall, then trying to climb over it with arrows raining down from above.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_6	*BUG Hint*: Examine what resources are available before researching worker techs.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_7	*BUG Hint*: Always consider escorting your Settlers.  It's mighty dangerous out in the Wilderness.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_8	*BUG Hint*: Play to your Civilization's traits, and specialize your Empire.  No use being Charismatic and Aggressive and never starting a war.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_9	*BUG Hint*: Selling resources that you no longer use, such as copper or iron, can pay off nicely over the long run.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_10	*BUG Hint*: Don't neglect your Diplomacy!  Pay attention to the information you gather, telling you what is available out there.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_11	*BUG Hint*: Be the first to circle the globe, and your Naval Units all receive +1 movement.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_12	*BUG Hint*: Animals can't enter your land, so it can be worth the risk to leave your city undefended and use your warrior for early exploration.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_13	*BUG Hint*: Form trade relations with nations that get along with each other to avoid an diplomatic repercussions.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_14	*BUG Hint*: If you neglect your military, and your power becomes weak, a neighbor WILL attack you.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_15	*BUG Hint*: Station naval units near your water based resources, and put them on Sea Patrol to protect your resources.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_16	*BUG Hint*: When selling Technologies, shop around for the highest bidder, and then work your way down.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_17	*BUG Hint*: Watch your neighbors' civics changes.  A change from Free Religion to Theocracy could mean an arms build-up.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_18	*BUG Hint*: Speak softly and carry a big stick, and you will go far.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_19	*BUG Hint*: Sometimes it's better to stop a Scout or Explorer on a forest, hill, or jungle tile and lose the extra movement in favor of safety.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_20	*BUG Hint*: Never go up against a Sicilian when death is on the line.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_21	*BUG Hint*: Be nice to your mother.	
+BUGHints_CIV4GameText.xml	TXT_KEY_BUG_HINT_22	*BUG Hint*: The cake is a lie.	
+BUGOptions_RevDCMGameText.xml	TXT_KEY_BUG_OPT_REVDCM__REVDCMRESET_TEXT	Reset Options To Defaults	
+BUGOptions_RevDCMGameText.xml	TXT_KEY_BUG_OPT_REVDCM__REVDCMRESET_HOVER	Reset all options back to mod defaults (game effect is immediate but reload BUG options screen to visually confirm)	
