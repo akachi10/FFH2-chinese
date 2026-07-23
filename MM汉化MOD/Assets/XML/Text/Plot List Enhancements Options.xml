@@ -8,7 +8,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__ENABLED_TEXT</Tag>
-		<English>Enabled</English>
+		<English>&#x542f;&#x7528;</English>
 		<French>Activer</French>
 		<German>Aktivieren</German>
 		<Italian>Abilitato</Italian>
@@ -16,7 +16,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__ENABLED_HOVER</Tag>
-		<English>Enables the Plot List Enhancements mod and the rest of the options on this tab.</English>
+		<English>&#x542f;&#x7528;&#x5355;&#x4f4d;&#x5217;&#x8868;&#x589e;&#x5f3a;&#x6a21;&#x7ec4;&#x4ee5;&#x53ca;&#x672c;&#x6807;&#x7b7e;&#x9875;&#x4e0a;&#x7684;&#x5176;&#x4f59;&#x9009;&#x9879;&#x3002;</English>
 		<French>Active le mod Plot List Enhancements ainsi que le reste des options sur cet onglet.</French>
 		<German>Aktiviert die Verbesserungen der Einheitenliste am unteren Bildschirmrand (verwendet 12monkeys' "Plot List Enhancements"-Mod)</German>
 		<Italian>Abilita il mod 'Plot List Enhancements' (PLE, Icone delle Unit&#224; Avanzate) e le altre opzioni in questa pagina.</Italian>
@@ -24,14 +24,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__PLE_STYLE_TEXT</Tag>
-		<English>PLE Style</English>
+		<English>PLE &#x6837;&#x5f0f;</English>
 		<German>PLE aktivieren</German>
 		<Italian>Stile PLE</Italian>
 		<Spanish>Estilo PLE</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__PLE_STYLE_HOVER</Tag>
-		<English>Enables the Plot List Enhancements mod and the rest of the options on this tab.</English>
+		<English>&#x542f;&#x7528;&#x5355;&#x4f4d;&#x5217;&#x8868;&#x589e;&#x5f3a;&#x6a21;&#x7ec4;&#x4ee5;&#x53ca;&#x672c;&#x6807;&#x7b7e;&#x9875;&#x4e0a;&#x7684;&#x5176;&#x4f59;&#x9009;&#x9879;&#x3002;</English>
 		<French>Active le mod Plot List Enhancements ainsi que le reste des options sur cet onglet.</French>
 		<German>Aktiviert die Verbesserungen der Einheitenliste am unteren Bildschirmrand (verwendet 12monkeys' "Plot List Enhancements"-Mod)</German>
 		<Italian>Abilita il mod 'Plot List Enhancements' (PLE, Icone delle Unit&#224; Avanzate) e le altre opzioni in questa pagina.</Italian>
@@ -39,7 +39,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__DEFAULT_VIEW_MODE_TEXT</Tag>
-		<English>Default View</English>
+		<English>&#x9ed8;&#x8ba4;&#x89c6;&#x56fe;</English>
 		<French>Vue par d&#233;faut</French>
 		<German>Standardansicht</German>
 		<Italian>Visualizzazione</Italian>
@@ -47,7 +47,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__DEFAULT_VIEW_MODE_HOVER</Tag>
-		<English>Sets the view mode used when you start Civ IV.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Single Row[COLOR_REVERT] - Original Civ IV view[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Multiple Rows[COLOR_REVERT] - Standard Beyond the Sword view[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Vertical Groups[COLOR_REVERT] - Units are grouped together in columns[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Horizontal Groups[COLOR_REVERT] - Units are grouped together in rows</English>
+		<English>&#x8bbe;&#x5b9a;&#x4f60;&#x542f;&#x52a8;&#x300a;&#x6587;&#x660e; IV&#x300b;&#x65f6;&#x6240;&#x7528;&#x7684;&#x89c6;&#x56fe;&#x6a21;&#x5f0f;&#x3002;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]&#x5355;&#x884c;[COLOR_REVERT] - &#x539f;&#x7248;&#x300a;&#x6587;&#x660e; IV&#x300b;&#x89c6;&#x56fe;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]&#x591a;&#x884c;[COLOR_REVERT] - &#x6807;&#x51c6;&#x300a;&#x8d85;&#x8d8a;&#x5251;&#x950b;&#x300b;&#x89c6;&#x56fe;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]&#x7eb5;&#x5411;&#x5206;&#x7ec4;[COLOR_REVERT] - &#x5355;&#x4f4d;&#x6309;&#x5217;&#x5206;&#x7ec4;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]&#x6a2a;&#x5411;&#x5206;&#x7ec4;[COLOR_REVERT] - &#x5355;&#x4f4d;&#x6309;&#x884c;&#x5206;&#x7ec4;</English>
 		<French>D&#233;termine le mode de vue quand vous d&#233;marrez Civ IV.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Une Ligne[COLOR_REVERT] - Vue par d&#233;faut de Civ IV[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Plusieures Lignes[COLOR_REVERT] - Vue par d&#233;faut de Beyond the Sword[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Groupes Verticaux[COLOR_REVERT] - Les Unit&#233;s sont group&#233;es en colonnes[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Groupes Horizontaux[COLOR_REVERT] - Les Unit&#233;s sont group&#233;es en rang&#233;es</French>
 		<German>Bestimmt die Standardansicht f&#252;r die Einheitenliste:[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Einzeilig[COLOR_REVERT] - Einheiten werden wie in "Civilization 4" (Hauptspiel) angeordnet[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Mehrzeilig[COLOR_REVERT] - Einheiten werden wie in "Beyond the Sword" angeordnet[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Spalten[COLOR_REVERT] - Einheiten werden in Spalten gruppiert angeordnet[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Zeilen[COLOR_REVERT] - Einheiten werden in Zeilen gruppiert angeordnet</German>
 		<Italian>Determina la modalit&#224; di visualizzazione utilizzata all'avvio del gioco:[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Riga singola[COLOR_REVERT] - visualizzazione originale di Civ4;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Righe multiple[COLOR_REVERT] - visualizzazione originale di Civ4:BtS;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Gruppi verticali[COLOR_REVERT] - le Unit&#224; vengono raggruppate per colonna;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Gruppi orizzontali[COLOR_REVERT] - le Unit&#224; vengono raggruppate per riga.</Italian>
@@ -55,7 +55,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__DEFAULT_VIEW_MODE_LIST</Tag>
-		<English>Single Row|Multiple Rows|Vertical Groups|Horizontal Groups</English>
+		<English>&#x5355;&#x884c;|&#x591a;&#x884c;|&#x7eb5;&#x5411;&#x5206;&#x7ec4;|&#x6a2a;&#x5411;&#x5206;&#x7ec4;</English>
 		<French>Une Ligne|Plusieurs Lignes|Groupes Verticaux|Groupes Horizontaux</French>
 		<German>Einzeilig|Mehrzeilig|Spalten|Zeilen</German>
 		<Italian>Riga singola|Righe multiple|Gruppi verticali|Gruppi orizzontali</Italian>
@@ -63,7 +63,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__DEFAULT_GROUP_MODE_TEXT</Tag>
-		<English>Default Grouping</English>
+		<English>&#x9ed8;&#x8ba4;&#x5206;&#x7ec4;</English>
 		<French>Groupement</French>
 		<German>Gruppierung nach</German>
 		<Italian>Raggruppamento</Italian>
@@ -71,7 +71,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__DEFAULT_GROUP_MODE_HOVER</Tag>
-		<English>Sets the grouping mode used when you start Civ IV. It alters how units are grouped in the different view modes.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Unit Type[COLOR_REVERT] - Units are grouped by their type (Archer, Chariot, Tank, etc)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Selection Groups[COLOR_REVERT] - Units are grouped by the selection groups they are in</English>
+		<English>&#x8bbe;&#x5b9a;&#x4f60;&#x542f;&#x52a8;&#x300a;&#x6587;&#x660e; IV&#x300b;&#x65f6;&#x6240;&#x7528;&#x7684;&#x5206;&#x7ec4;&#x6a21;&#x5f0f;&#x3002;&#x5b83;&#x51b3;&#x5b9a;&#x5355;&#x4f4d;&#x5728;&#x4e0d;&#x540c;&#x89c6;&#x56fe;&#x6a21;&#x5f0f;&#x4e0b;&#x5982;&#x4f55;&#x5206;&#x7ec4;&#x3002;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]&#x5355;&#x4f4d;&#x7c7b;&#x578b;[COLOR_REVERT] - &#x5355;&#x4f4d;&#x6309;&#x5176;&#x7c7b;&#x578b;&#x5206;&#x7ec4;&#xff08;&#x5f13;&#x5175;&#x3001;&#x6218;&#x8f66;&#x3001;&#x5766;&#x514b;&#x7b49;&#xff09;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]&#x7f16;&#x961f;[COLOR_REVERT] - &#x5355;&#x4f4d;&#x6309;&#x5176;&#x6240;&#x5728;&#x7684;&#x7f16;&#x961f;&#x5206;&#x7ec4;</English>
 		<French>D&#233;termine le groupement quand vous d&#233;marrez Civ IV. Ceci influence comment les groupes sont montr&#233;s dans les diff&#233;rents modes de vue.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Type d'Unit&#233;[COLOR_REVERT] - Les Unit&#233;s sont group&#233;es par type (Archer, Chariot, Char, etc)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Groupe de S&#233;lection[COLOR_REVERT] - Les Unit&#233;s sont group&#233;es bas&#233; sur leur groupe de s&#233;lection</French>
 		<German>Bestimmt, wie Einheiten in der Einheitenliste bei den Anzeigemethoden "Spalten" bzw. "Zeilen" gruppiert werden:[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Einheitentyp[COLOR_REVERT] - Einheiten werden nach Typ zusammengefasst (Bogensch&#252;tzen, Streitwagen, Panzer etc.)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Einheitenverband[COLOR_REVERT] - Einheiten werden in den vom Spieler definierten Gruppen zusammengefasst</German>
 		<Italian>Determina la modalit&#224; di raggruppamento utilizzata all'avvio del gioco. Modifica il raggruppamento delle Unit&#224; nelle diverse modalit&#224; di visualizzazione.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Tipo Unit&#224;[COLOR_REVERT] - le Unit&#224; vengono raggruppate per tipo (Arciere, Cocchio, Carrarmato, ecc.);[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Gruppo selezione[COLOR_REVERT] - le Unit&#224; vengono raggruppate in base al gruppo di selezione (1, 2, 3, ecc.) in cui si trovano.</Italian>
@@ -79,7 +79,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__DEFAULT_GROUP_MODE_LIST</Tag>
-		<English>Unit Type|Selection Group</English>
+		<English>&#x5355;&#x4f4d;&#x7c7b;&#x578b;|&#x7f16;&#x961f;</English>
 		<French>Type d'Unit&#233;|Groupe de S&#233;lection</French>
 		<German>Einheitentyp|Einheitenverband</German>
 		<Italian>Tipo Unit&#224;|Gruppo selezione</Italian>
@@ -87,14 +87,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__SHOW_BUTTONS_TEXT</Tag>
-		<English>Show Mode/Filter Buttons</English>
+		<English>&#x663e;&#x793a;&#x6a21;&#x5f0f;/&#x7b5b;&#x9009;&#x6309;&#x94ae;</English>
 		<German>Filterschaltfl&#228;chen</German>
 		<Italian>Pulsanti per raggruppamenti e filtri</Italian>
 		<Spanish>Mostrar Botones Modo/Filtro</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__SHOW_BUTTONS_HOVER</Tag>
-		<English>When checked, the buttons for changing the view, grouping and filter modes are displayed above the action buttons.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x7528;&#x4e8e;&#x5207;&#x6362;&#x89c6;&#x56fe;&#x3001;&#x5206;&#x7ec4;&#x4e0e;&#x7b5b;&#x9009;&#x6a21;&#x5f0f;&#x7684;&#x6309;&#x94ae;&#x5c06;&#x663e;&#x793a;&#x5728;&#x64cd;&#x4f5c;&#x6309;&#x94ae;&#x4e0a;&#x65b9;&#x3002;</English>
 		<German>Zeigt unter der Einheitenliste Schaltfl&#228;chen f&#252;r die Anzeigemethode der Liste, die Gruppierung von Einheiten und die Einheitenfilter an</German>
 		<Italian>Quando &#232; selezionato, mostra al di sopra dei pulsanti di azione i pulsanti per modificare i raggruppamenti ed i filtri.</Italian>
 		<Spanish>Cuando se activa, se muestran los botones para cambiar los modos de vista, agrupar y filtrar encima de los botones de acci&#243;n.</Spanish>
@@ -102,32 +102,32 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__DRAW_METHOD_LIST</Tag>
-		<English>PLE|Vanilla|BUG</English>
+		<English>PLE|&#x539f;&#x7248;|BUG</English>
 		<Italian>PLE|Standard|BUG</Italian>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__DRAW_METHOD_TEXT</Tag>
-		<English>Draw Method</English>
+		<English>&#x7ed8;&#x5236;&#x65b9;&#x5f0f;</English>
 		<German>Draw-Methode</German>
 		<Italian>Modalit&#224; Disegno</Italian>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__DRAW_METHOD_HOVER</Tag>
-		<English>Sets the draw method.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]PLE[COLOR_REVERT] - uses the 'draw' code that was originally provided by the PLE enhancement[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Vanilla[COLOR_REVERT] - uses the 'draw' code that was in the original game (or close enough)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]BUG[COLOR_REVERT] - uses the 'draw' code that is currently being developed by the BUG team to only redraw those graphical items that have changed</English>
+		<English>&#x8bbe;&#x5b9a;&#x7ed8;&#x5236;&#x65b9;&#x5f0f;&#x3002;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]PLE[COLOR_REVERT] - &#x4f7f;&#x7528;&#x6700;&#x521d;&#x7531; PLE &#x589e;&#x5f3a;&#x63d0;&#x4f9b;&#x7684;&#x201c;&#x7ed8;&#x5236;&#x201d;&#x4ee3;&#x7801;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]&#x539f;&#x7248;[COLOR_REVERT] - &#x4f7f;&#x7528;&#x539f;&#x7248;&#x6e38;&#x620f;&#x4e2d;&#x7684;&#x201c;&#x7ed8;&#x5236;&#x201d;&#x4ee3;&#x7801;&#xff08;&#x6216;&#x8db3;&#x591f;&#x63a5;&#x8fd1;&#xff09;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]BUG[COLOR_REVERT] - &#x4f7f;&#x7528; BUG &#x56e2;&#x961f;&#x5f53;&#x524d;&#x6b63;&#x5728;&#x5f00;&#x53d1;&#x7684;&#x201c;&#x7ed8;&#x5236;&#x201d;&#x4ee3;&#x7801;&#xff0c;&#x53ea;&#x91cd;&#x7ed8;&#x53d1;&#x751f;&#x53d8;&#x5316;&#x7684;&#x56fe;&#x5f62;&#x9879;</English>
 		<German>Stellt die "Draw"-Methode ein.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]PLE[COLOR_REVERT] - verwendet den 'Draw'-Code, der urspr&#252;nglich von der PLE-Verbesserung stammt[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Vanilla[COLOR_REVERT] - verwendet den 'Draw'-Code des Original-Spieles (nahezu)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]BUG[COLOR_REVERT] - verwendet den 'Draw'-Code, der derzeit vom BUG-Team entwickelt wird und nur die Grafikdetails neu zeichnet, die sich ver&#228;ndert haben</German>
 		<Italian>Seleziona la modali&#224; di disegno.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]PLE[COLOR_REVERT] - usa l'algoritmo di 'disegno' introdotto dal MOD PLE[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Standard[COLOR_REVERT] - usa l'algoritmo di 'disegno' originale (o simile)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]BUG[COLOR_REVERT] - usa l'algoritmo di 'disegno' sviluppato dal Team BUG che rideisegna solo gli elementi grafici che sono cambiati </Italian>
 	</TEXT>
 
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__FILTER_BEHAVIOR_TEXT</Tag>
-		<English>Filter Behavior</English>
+		<English>&#x7b5b;&#x9009;&#x884c;&#x4e3a;</English>
 		<German>Filterfunktion</German>
 		<Italian>Modalit&#224; filtri</Italian>
 		<Spanish>Comportamiento de los Filtros</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__FILTER_BEHAVIOR_HOVER</Tag>
-		<English>Sets how the filter buttons behave.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]PLE[COLOR_REVERT] - Selected filters remove the units they match from view, and related filters operate independently from each other (you can select both wounded and healthy, resulting in an empty view)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]BUG[COLOR_REVERT] - Selected filters remove non-matching units from view, and related filters are exclusive (selecting wounded deselects healthy, selecting air deselects both land and sea)</English>
+		<English>&#x8bbe;&#x5b9a;&#x7b5b;&#x9009;&#x6309;&#x94ae;&#x7684;&#x884c;&#x4e3a;&#x65b9;&#x5f0f;&#x3002;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]PLE[COLOR_REVERT] - &#x9009;&#x4e2d;&#x7684;&#x7b5b;&#x9009;&#x5668;&#x4f1a;&#x628a;&#x5339;&#x914d;&#x7684;&#x5355;&#x4f4d;&#x4ece;&#x89c6;&#x56fe;&#x4e2d;&#x79fb;&#x9664;&#xff0c;&#x4e14;&#x76f8;&#x5173;&#x7b5b;&#x9009;&#x5668;&#x5f7c;&#x6b64;&#x72ec;&#x7acb;&#x8fd0;&#x4f5c;&#xff08;&#x4f60;&#x53ef;&#x4ee5;&#x540c;&#x65f6;&#x9009;&#x4e2d;&#x8d1f;&#x4f24;&#x4e0e;&#x5065;&#x5eb7;&#xff0c;&#x7ed3;&#x679c;&#x5f97;&#x5230;&#x4e00;&#x4e2a;&#x7a7a;&#x89c6;&#x56fe;&#xff09;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]BUG[COLOR_REVERT] - &#x9009;&#x4e2d;&#x7684;&#x7b5b;&#x9009;&#x5668;&#x4f1a;&#x628a;&#x4e0d;&#x5339;&#x914d;&#x7684;&#x5355;&#x4f4d;&#x4ece;&#x89c6;&#x56fe;&#x4e2d;&#x79fb;&#x9664;&#xff0c;&#x4e14;&#x76f8;&#x5173;&#x7b5b;&#x9009;&#x5668;&#x4e92;&#x65a5;&#xff08;&#x9009;&#x4e2d;&#x8d1f;&#x4f24;&#x4f1a;&#x53d6;&#x6d88;&#x9009;&#x4e2d;&#x5065;&#x5eb7;&#xff0c;&#x9009;&#x4e2d;&#x7a7a;&#x4e2d;&#x4f1a;&#x540c;&#x65f6;&#x53d6;&#x6d88;&#x9009;&#x4e2d;&#x9646;&#x5730;&#x4e0e;&#x6d77;&#x4e0a;&#xff09;</English>
 		<German>Bestimmt, wie die Schaltfl&#228;chen der Einheitenfilter funktionieren:[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]PLE[COLOR_REVERT] - Ausgew&#228;hlte Filter blenden &#252;bereinstimmende Einheiten aus und verwandte Filter funktionieren unabh&#228;ngig voneinander (d.h. es ist m&#246;glich, sowohl den Filter f&#252;r verwundete als auch f&#252;r unverwundete Einheiten auszuw&#228;hlen, so dass in der Einheitenliste nichts angezeigt wird)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]BUG[COLOR_REVERT] - Ausgew&#228;hlte Filter blenden nicht-&#252;bereinstimmende Einheiten aus und verwandte Filter schlie&#223;en sich gegenseitig aus (d.h. bei Auswahl des Filters f&#252;r verwundete Einheiten wird jener f&#252;r unverwundete Einheiten abgew&#228;hlt, bei Auswahl des Filters f&#252;r Lufteinheiten werden jene f&#252;r Land- und Marineeinheiten abgew&#228;hlt)</German>
 		<Italian>Determina il comportamento dei pulsanti di filtro.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]PLE[COLOR_REVERT] - I pulsanti selezionati nascondono le icone delle Unit&#224; corrispondenti al filtro in questione; i filtri corrispondenti funzionano indipendentemente (per esempio &#232; possibile selezionare sia il filtro per le unit&#224; ferite che quello per le unit&#224; sane, il che fornisce ovviamente una selezione vuota)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]BUG[COLOR_REVERT] - I pulsanti selezionati nascondono le icone delle Unit&#224; NON corrispondenti al filtro in questione; ; i filtri corrispondenti funzionano in modo mutuamente esclusivo (la selezione del filtro per le unit&#224; ferite comporta la deselezione automatica di quello per le unit&#224; sane)</Italian>
 		<Spanish>Selecciona como se comportaran los filtros.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]PLE[COLOR_REVERT] - Los filtros elegidos eliminaran las unidades que concuerden con la vista, y los filtros relacionados trabajaran independientemente unos de otros (puedes seleccionar los filtros de heridos y sanos, resultando en una vista vacia)[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]BUG[COLOR_REVERT] - Los filtros elegidos eliminaran las unidades que no concuerden con la vista, y los filtros relacionados son exclusivos (al seleccionar el filtro de heridos se deselecciona el de sanos, seleccionar el de Ej&#233;rcito del Aire deselecciona tanto el de Tierra como el de Mar)</Spanish>
@@ -138,7 +138,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__HEALTH_BAR_TEXT</Tag>
-		<English>Health Bar</English>
+		<English>&#x751f;&#x547d;&#x6761;</English>
 		<French>Barre de Vie</French>
 		<German>Gesundheitsbalken</German>
 		<Italian>Barra della salute</Italian>
@@ -146,7 +146,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__HEALTH_BAR_HOVER</Tag>
-		<English>Shows a bar above the unit icon displaying the unit's health and damage.</English>
+		<English>&#x5728;&#x5355;&#x4f4d;&#x56fe;&#x6807;&#x4e0a;&#x65b9;&#x663e;&#x793a;&#x4e00;&#x6839;&#x6761;&#xff0c;&#x6807;&#x793a;&#x8be5;&#x5355;&#x4f4d;&#x7684;&#x751f;&#x547d;&#x503c;&#x4e0e;&#x6240;&#x53d7;&#x4f24;&#x5bb3;&#x3002;</English>
 		<French>Montre les points de vie et les dommages d'une Unit&#233; dans une barre au-dessus de l'ic&#244;ne.</French>
 		<German>Zeigt einen Balken f&#252;r die Gesundheit einer Einheit &#252;ber dem Einheitensymbol an</German>
 		<Italian>Mostra una barra sopra l'icona dell'Unit&#224; che rappresenta la salute ed i danni subiti dall'Unit&#224;.</Italian>
@@ -154,7 +154,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__HIDE_HEALTH_FIGHTING_TEXT</Tag>
-		<English>Hide During Combat</English>
+		<English>&#x6218;&#x6597;&#x4e2d;&#x9690;&#x85cf;</English>
 		<French>Cach&#233; pendant le combat</French>
 		<German>Bei K&#228;mpfen ausblenden</German>
 		<Italian>Nascondi in battaglia</Italian>
@@ -162,7 +162,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__HIDE_HEALTH_FIGHTING_HOVER</Tag>
-		<English>Hides the Health Bar when a unit is in combat.</English>
+		<English>&#x5f53;&#x5355;&#x4f4d;&#x5904;&#x4e8e;&#x6218;&#x6597;&#x4e2d;&#x65f6;&#x9690;&#x85cf;&#x751f;&#x547d;&#x6761;&#x3002;</English>
 		<French>Cache la Barre de Vie pendant qu'une Unit&#233; combat.</French>
 		<German>Blendet den Gesundheitsbalken &#252;ber dem Einheitensymbol w&#228;hrend eines Kampfes aus</German>
 		<Italian>Nasconde la Barra della salute quando un'Unit&#224; &#232; in combattimento.</Italian>
@@ -170,7 +170,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__HEALTHY_COLOR_TEXT</Tag>
-		<English>Healthy</English>
+		<English>&#x5065;&#x5eb7;</English>
 		<French>Vie</French>
 		<German>Gesund</German>
 		<Italian>Sana</Italian>
@@ -178,7 +178,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__HEALTHY_COLOR_HOVER</Tag>
-		<English>The color to use for the healthy portion of the bar.</English>
+		<English>&#x751f;&#x547d;&#x6761;&#x4e2d;&#x5065;&#x5eb7;&#x90e8;&#x5206;&#x6240;&#x7528;&#x7684;&#x989c;&#x8272;&#x3002;</English>
 		<French>La couleur pour le c&#244;t&#233; points de vie de la barre.</French>
 		<German>Bestimmt die Farbe des Teils des Gesundheitsbalkens f&#252;r keine oder leichte Verwundungen einer Einheit</German>
 		<Italian>Il colore da utilizzare per la barra corrispondente ad una Unit&#224; in salute.</Italian>
@@ -186,7 +186,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__WOUNDED_COLOR_TEXT</Tag>
-		<English>Wounded</English>
+		<English>&#x8d1f;&#x4f24;</English>
 		<French>Dommages</French>
 		<German>Verwundet</German>
 		<Italian>Ferita</Italian>
@@ -194,7 +194,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__WOUNDED_COLOR_HOVER</Tag>
-		<English>The color to use for the wounded portion of the bar.</English>
+		<English>&#x751f;&#x547d;&#x6761;&#x4e2d;&#x8d1f;&#x4f24;&#x90e8;&#x5206;&#x6240;&#x7528;&#x7684;&#x989c;&#x8272;&#x3002;</English>
 		<French>La couleur pour le c&#244;t&#233; dommages de la barre.</French>
 		<German>Bestimmt die Farbe des Teils des Gesundheitsbalkens f&#252;r schwere Verwundungen einer Einheit</German>
 		<Italian>Il colore da utilizzare per la barra corrispondente ad una Unit&#224; ferita.</Italian>
@@ -202,7 +202,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__MOVE_BAR_TEXT</Tag>
-		<English>Movement Bar</English>
+		<English>&#x79fb;&#x52a8;&#x6761;</English>
 		<French>Barre de Mouvement</French>
 		<German>Bewegungspunktebalken</German>
 		<Italian>Barra di movimento</Italian>
@@ -210,7 +210,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__MOVE_BAR_HOVER</Tag>
-		<English>Shows a bar above the unit icon displaying the unit's movement points.</English>
+		<English>&#x5728;&#x5355;&#x4f4d;&#x56fe;&#x6807;&#x4e0a;&#x65b9;&#x663e;&#x793a;&#x4e00;&#x6839;&#x6761;&#xff0c;&#x6807;&#x793a;&#x8be5;&#x5355;&#x4f4d;&#x7684;&#x79fb;&#x52a8;&#x70b9;&#x6570;&#x3002;</English>
 		<French>Montre les points de mouvement d'une unit&#233; dans une barre au-dessus de l'ic&#244;ne.</French>
 		<German>Zeigt einen Balken f&#252;r die verbleibenden Bewegungspunkte einer Einheit &#252;ber dem Einheitensymbol an</German>
 		<Italian>Mostra una barra sopra l'icona dell'Unit&#224; che rappresenta i punti di movimento dell'Unit&#224;.</Italian>
@@ -218,7 +218,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__FULL_MOVEMENT_COLOR_TEXT</Tag>
-		<English>Available</English>
+		<English>&#x53ef;&#x7528;</English>
 		<French>Disponibles</French>
 		<German>Verf&#252;gbar</German>
 		<Italian>Disponibili</Italian>
@@ -226,7 +226,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__FULL_MOVEMENT_COLOR_HOVER</Tag>
-		<English>The color to use for the available movement portion of the bar.</English>
+		<English>&#x79fb;&#x52a8;&#x6761;&#x4e2d;&#x53ef;&#x7528;&#x79fb;&#x52a8;&#x90e8;&#x5206;&#x6240;&#x7528;&#x7684;&#x989c;&#x8272;&#x3002;</English>
 		<French>La couleur pour indiquer les points de mouvement disponibles.</French>
 		<German>Bestimmt die Farbe des Teils des Bewegungspunktebalkens f&#252;r noch nicht verbrauchte Bewegungspunkte</German>
 		<Italian>Il colore da utilizzare per la porzione della barra corrispondente ai punti-movimento ancora disponibili.</Italian>
@@ -234,7 +234,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__HAS_MOVED_COLOR_TEXT</Tag>
-		<English>Used</English>
+		<English>&#x5df2;&#x7528;</English>
 		<French>Utilis&#233;s</French>
 		<German>Verbraucht</German>
 		<Italian>Utilizzati</Italian>
@@ -242,7 +242,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__HAS_MOVED_COLOR_HOVER</Tag>
-		<English>The color to use for the used movement portion of the bar.</English>
+		<English>&#x79fb;&#x52a8;&#x6761;&#x4e2d;&#x5df2;&#x7528;&#x79fb;&#x52a8;&#x90e8;&#x5206;&#x6240;&#x7528;&#x7684;&#x989c;&#x8272;&#x3002;</English>
 		<French>La couleur pour indiquer les points de mouvement utilis&#233;s.</French>
 		<German>Bestimmt die Farbe des Teils des Bewegungspunktebalkens f&#252;r bereits verbrauchte Bewegungspunkte</German>
 		<Italian>Il colore da utilizzare per la porzione della barra corrispondente ai punti-movimento utilizzati.</Italian>
@@ -250,7 +250,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__NO_MOVEMENT_COLOR_TEXT</Tag>
-		<English>Cannot Move</English>
+		<English>&#x65e0;&#x6cd5;&#x79fb;&#x52a8;</English>
 		<French>Immobile</French>
 		<German>Unbeweglich</German>
 		<Italian>Immobile</Italian>
@@ -258,7 +258,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__NO_MOVEMENT_COLOR_HOVER</Tag>
-		<English>The color to use for the whole bar when the unit cannot move anymore.</English>
+		<English>&#x5f53;&#x5355;&#x4f4d;&#x518d;&#x4e5f;&#x65e0;&#x6cd5;&#x79fb;&#x52a8;&#x65f6;&#xff0c;&#x6574;&#x6839;&#x6761;&#x6240;&#x7528;&#x7684;&#x989c;&#x8272;&#x3002;</English>
 		<French>La couleur pour la barre enti&#232;re quand l'unit&#233; ne peut plus bouger.</French>
 		<German>Bestimmt die Farbe des gesamten Bewegungspunktebalkens bei Verbrauch aller Bewegungspunkte</German>
 		<Italian>Il colore da utilizzare per l'intera barra corrispondente ad una Unit&#224; che non pu&#242; pi&#249; muoversi.</Italian>
@@ -266,7 +266,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__WOUNDED_INDICATOR_TEXT</Tag>
-		<English>Wounded Dot</English>
+		<English>&#x8d1f;&#x4f24;&#x70b9;</English>
 		<French>Point Endommag&#233;</French>
 		<German>Verwundung</German>
 		<Italian>Disco di stato</Italian>
@@ -274,7 +274,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__WOUNDED_INDICATOR_HOVER</Tag>
-		<English>Darkens the dot in the upper-left corner of units that are wounded.</English>
+		<English>&#x5c06;&#x8d1f;&#x4f24;&#x5355;&#x4f4d;&#x5de6;&#x4e0a;&#x89d2;&#x7684;&#x5706;&#x70b9;&#x8c03;&#x6697;&#x3002;</English>
 		<French>En activant, le point dans le coin sup&#233;rieur gauche des unit&#233;s endommag&#233;es sera plus fonc&#233;.</French>
 		<German>F&#228;rbt den Punkt oben links &#252;ber einer Einheit dunkler, wenn diese verwundet wurde</German>
 		<Italian>Rende pi&#249; scuro il dischetto nell'angolo superiore sinistro per le Unit&#224; non in piena salute.</Italian>
@@ -282,7 +282,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__LEAD_BY_GG_INDICATOR_TEXT</Tag>
-		<English>Great General</English>
+		<English>&#x5927;&#x5c06;&#x519b;</English>
 		<French>G&#233;n&#233;ral Illustre</French>
 		<German>Gro&#223;er General</German>
 		<Italian>Grande Generale</Italian>
@@ -290,7 +290,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__LEAD_BY_GG_INDICATOR_HOVER</Tag>
-		<English>Places a star on units that are lead by a Great General.</English>
+		<English>&#x5728;&#x7531;&#x5927;&#x5c06;&#x519b;&#x7edf;&#x9886;&#x7684;&#x5355;&#x4f4d;&#x4e0a;&#x6807;&#x4e00;&#x9897;&#x661f;&#x3002;</English>
 		<French>Une &#233;toile dor&#233;e indiquera une unit&#233; qui contient un G&#233;n&#233;ral Illustre.</French>
 		<German>F&#252;gt den Einheitensymbolen von Einheiten, die von Gro&#223;en Gener&#228;len gef&#252;hrt werden, einen kleinen goldenen Stern hinzu</German>
 		<Italian>Visualizza una piccola stella dorata sulle Unit&#224; guidate da un Grande Generale.</Italian>
@@ -298,7 +298,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__PROMOTION_INDICATOR_TEXT</Tag>
-		<English>Promotion Available</English>
+		<English>&#x53ef;&#x664b;&#x5347;</English>
 		<French>Promotion Disponible</French>
 		<German>Bef&#246;rderung verf&#252;gbar</German>
 		<Italian>Promozione disponibile</Italian>
@@ -306,7 +306,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__PROMOTION_INDICATOR_HOVER</Tag>
-		<English>Places a light blue border around units that can be promoted.</English>
+		<English>&#x5728;&#x53ef;&#x664b;&#x5347;&#x7684;&#x5355;&#x4f4d;&#x5468;&#x56f4;&#x52a0;&#x4e00;&#x5708;&#x6d45;&#x84dd;&#x8272;&#x8fb9;&#x6846;&#x3002;</English>
 		<French>Un bord bleu sera mis autour des unit&#233;s qui ont une promotion disponible.</French>
 		<German>Legt einen blauen Rahmen um das Einheitensymbol, wenn eine Einheit bef&#246;rdert werden kann</German>
 		<Italian>Visualizza dei bordi blu attorno alle Unit&#224; che hanno una promozione disponibile.</Italian>
@@ -314,14 +314,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__UPGRADE_INDICATOR_TEXT</Tag>
-		<English>Upgrade Available</English>
+		<English>&#x53ef;&#x5347;&#x7ea7;</English>
 		<German>Modernisierung verf&#252;gbar</German>
 		<Italian>Avanzamento disponibile</Italian>
 		<Spanish>Actualizaci&#243;n Disponible</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__UPGRADE_INDICATOR_HOVER</Tag>
-		<English>Places an orange up arrow on the lower-right corner of units that can be upgraded, ignoring cost.</English>
+		<English>&#x5728;&#x53ef;&#x5347;&#x7ea7;&#x7684;&#x5355;&#x4f4d;&#x53f3;&#x4e0b;&#x89d2;&#x6807;&#x4e00;&#x4e2a;&#x6a59;&#x8272;&#x4e0a;&#x7bad;&#x5934;&#xff0c;&#x4e0d;&#x8003;&#x8651;&#x8d39;&#x7528;&#x3002;</English>
 		<French>Place une fl&#232;che orange sur les Unit&#233;s capables de s'am&#233;liorer, sans tenir compte des frais.</French>
 		<German>Zeigt einen orangenen nach oben gerichteten Pfeil in der unteren rechten Ecke des Einheitensymbols an, wenn eine Einheit modernisiert werden kann (unabh&#228;ngig von den Kosten)</German>
 		<Italian>Visualizza una freccia arancio nell'angolo inferiore destro delle Unit&#224; che possono godere di un avanzamento (non tenendo conto del costo dell'avanzamento).</Italian>
@@ -329,7 +329,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__MISSION_INFO_TEXT</Tag>
-		<English>Mission Tag</English>
+		<English>&#x4efb;&#x52a1;&#x6807;&#x7b7e;</English>
 		<French>Actions d'Unit&#233;</French>
 		<German>Einheitenaktion</German>
 		<Italian>Azioni delle Unit&#224;</Italian>
@@ -337,7 +337,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__MISSION_INFO_HOVER</Tag>
-		<English>Places a tag below units showing their current mission (action).</English>
+		<English>&#x5728;&#x5355;&#x4f4d;&#x4e0b;&#x65b9;&#x6807;&#x4e00;&#x4e2a;&#x6807;&#x7b7e;&#xff0c;&#x663e;&#x793a;&#x5176;&#x5f53;&#x524d;&#x4efb;&#x52a1;&#xff08;&#x884c;&#x52a8;&#xff09;&#x3002;</English>
 		<French>Le texte des actions des unit&#233;s est ajout&#233;e &#224; leur ic&#244;ne.</French>
 		<German>F&#252;gt den Einheitensymbolen die gerade ausgef&#252;hrte Aktion als Symbol hinzu</German>
 		<Italian>Visualizza le azioni delle Unit&#224; sulle loro icone.</Italian>
@@ -345,7 +345,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__HORIZONTAL_SPACING_TEXT</Tag>
-		<English>Horizontal Spacing</English>
+		<English>&#x6c34;&#x5e73;&#x95f4;&#x8ddd;</English>
 		<French>Espacement Horizontal</French>
 		<German>Horizontaler Abstand</German>
 		<Italian>Spaziatura orizzontale</Italian>
@@ -353,7 +353,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__HORIZONTAL_SPACING_HOVER</Tag>
-		<English>Specifies the horizontal spacing between icons (default value is 34).</English>
+		<English>&#x6307;&#x5b9a;&#x56fe;&#x6807;&#x4e4b;&#x95f4;&#x7684;&#x6c34;&#x5e73;&#x95f4;&#x8ddd;&#xff08;&#x9ed8;&#x8ba4;&#x503c;&#x4e3a; 34&#xff09;&#x3002;</English>
 		<French>Specifie l'espacement horizontal des ic&#244;nes (valeur par d&#233;faut = 34).</French>
 		<German>Bestimmt den horizontalen Abstand zwischen den Einheitensymbolen (der Standardwert ist 34)</German>
 		<Italian>Indica la spaziatura orizzontale fra le icone (il valore predefinito &#232; '34').</Italian>
@@ -361,7 +361,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__VERTICAL_SPACING_TEXT</Tag>
-		<English>Vertical Spacing</English>
+		<English>&#x5782;&#x76f4;&#x95f4;&#x8ddd;</English>
 		<French>Espacement Vertical</French>
 		<German>Vertikaler Abstand</German>
 		<Italian>Spaziatura verticale</Italian>
@@ -369,7 +369,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__VERTICAL_SPACING_HOVER</Tag>
-		<English>Specifies the vertical spacing between icons (default value is 42).</English>
+		<English>&#x6307;&#x5b9a;&#x56fe;&#x6807;&#x4e4b;&#x95f4;&#x7684;&#x5782;&#x76f4;&#x95f4;&#x8ddd;&#xff08;&#x9ed8;&#x8ba4;&#x503c;&#x4e3a; 42&#xff09;&#x3002;</English>
 		<French>Specifie l'espacement vertical des ic&#244;nes (valeur par d&#233;faut = 42).</French>
 		<German>Bestimmt den vertikalen Abstand zwischen den Einheitensymbolen (der Standardwert ist 42)</German>
 		<Italian>Indica la spaziatura orizzontale fra le icone (il valore predefinito &#232; '42').</Italian>
@@ -377,7 +377,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__INFO_PANE_TEXT</Tag>
-		<English>Enabled</English>
+		<English>&#x542f;&#x7528;</English>
 		<French>Activ&#233;</French>
 		<German>Aktivieren</German>
 		<Italian>Attivato</Italian>
@@ -385,7 +385,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__INFO_PANE_HOVER</Tag>
-		<English>Replaces the default Unit Info displayed when you hover over a unit.</English>
+		<English>&#x66ff;&#x6362;&#x4f60;&#x60ac;&#x505c;&#x4e8e;&#x5355;&#x4f4d;&#x4e0a;&#x65f6;&#x663e;&#x793a;&#x7684;&#x9ed8;&#x8ba4;&#x5355;&#x4f4d;&#x4fe1;&#x606f;&#x3002;</English>
 		<French>Remplace l'infobulle par d&#233;faut des Infos d'Unit&#233;.</French>
 		<German>Ersetzt die Informationen, die standardm&#228;&#223;ig angezeigt werden, wenn der Mauszeiger &#252;ber ein Einheitensymbol bewegt wird</German>
 		<Italian>Sostituisce le informazioni sulle Unit&#224; normalmente visualizzate quando si mantiene il cursore su una Unit&#224;.</Italian>
@@ -393,7 +393,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__INFO_PANE_X_TEXT</Tag>
-		<English>Horizontal Position</English>
+		<English>&#x6c34;&#x5e73;&#x4f4d;&#x7f6e;</English>
 		<French>Position Horizontale</French>
 		<German>Horizontale Position</German>
 		<Italian>Posizione orizzontale</Italian>
@@ -401,7 +401,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__INFO_PANE_X_HOVER</Tag>
-		<English>Specifies the horizontal position of the Unit Info hover pane (default value is 5).</English>
+		<English>&#x6307;&#x5b9a;&#x5355;&#x4f4d;&#x4fe1;&#x606f;&#x60ac;&#x6d6e;&#x9762;&#x677f;&#x7684;&#x6c34;&#x5e73;&#x4f4d;&#x7f6e;&#xff08;&#x9ed8;&#x8ba4;&#x503c;&#x4e3a; 5&#xff09;&#x3002;</English>
 		<French>Specifie la position horizontale de l'infobulle d'Info d'Unit&#233; (valeur par d&#233;faut = 5).</French>
 		<German>Bestimmt die horizontale Position des neuen Info-Tooltips der Einheitensymbole (der Standardwert ist 5)</German>
 		<Italian>Indica la posizione orizzontale del Pannello di Informazioni sulle Unit&#224; (il valore predefinito &#232; '5').</Italian>
@@ -409,7 +409,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__INFO_PANE_Y_TEXT</Tag>
-		<English>Vertical Position</English>
+		<English>&#x5782;&#x76f4;&#x4f4d;&#x7f6e;</English>
 		<French>Position Verticale</French>
 		<German>Vertikale Position</German>
 		<Italian>Posizione  verticale</Italian>
@@ -417,7 +417,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__INFO_PANE_Y_HOVER</Tag>
-		<English>Specifies the vertical position of the Unit Info hover pane (default value is 160).</English>
+		<English>&#x6307;&#x5b9a;&#x5355;&#x4f4d;&#x4fe1;&#x606f;&#x60ac;&#x6d6e;&#x9762;&#x677f;&#x7684;&#x5782;&#x76f4;&#x4f4d;&#x7f6e;&#xff08;&#x9ed8;&#x8ba4;&#x503c;&#x4e3a; 160&#xff09;&#x3002;</English>
 		<French>Specifie la position verticale de l'infobulle d'Info d'Unit&#233; (valeur par d&#233;faut = 160).</French>
 		<German>Bestimmt die vertikale Position des neuen Info-Tooltips der Einheitensymbole (der Standardwert ist 160)</German>
 		<Italian>Indica la posizione verticale del Pannello di Informazioni sulle Unit&#224; (il valore predefinito &#232; '160').</Italian>
@@ -425,98 +425,98 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__INFO_PANE_PROMO_ICON_OFFSET_Y_TEXT</Tag>
-		<English>Promotion Icon Offset</English>
+		<English>&#x664b;&#x5347;&#x56fe;&#x6807;&#x504f;&#x79fb;</English>
 		<German>Bef&#246;rderungen (Abstand)</German>
 		<Italian>Posiz. Icone Promozione</Italian>
 		<Spanish>Desplazamiento Icono Ascenso</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__INFO_PANE_PROMO_ICON_OFFSET_Y_HOVER</Tag>
-		<English>Specifies the vertical offset of the promotion icons on the Unit Info hover pane (default value is 0, positive is up). Use this to adjust the placement of the icons when using themes that change the font. For example, use 6 with BlueMarble.</English>
+		<English>&#x6307;&#x5b9a;&#x5355;&#x4f4d;&#x4fe1;&#x606f;&#x60ac;&#x6d6e;&#x9762;&#x677f;&#x4e0a;&#x664b;&#x5347;&#x56fe;&#x6807;&#x7684;&#x5782;&#x76f4;&#x504f;&#x79fb;&#xff08;&#x9ed8;&#x8ba4;&#x503c;&#x4e3a; 0&#xff0c;&#x6b63;&#x503c;&#x5411;&#x4e0a;&#xff09;&#x3002;&#x4f7f;&#x7528;&#x4f1a;&#x6539;&#x53d8;&#x5b57;&#x4f53;&#x7684;&#x4e3b;&#x9898;&#x65f6;&#xff0c;&#x7528;&#x5b83;&#x6765;&#x8c03;&#x6574;&#x56fe;&#x6807;&#x7684;&#x4f4d;&#x7f6e;&#x3002;&#x4f8b;&#x5982;&#xff0c;&#x914d;&#x5408; BlueMarble &#x4f7f;&#x7528; 6&#x3002;</English>
 		<German>Legt den vertikalen Abstand der Bef&#246;rderungssymbole im Info-Tooltip fest, um bei Themes, die die Schriftart ver&#228;ndern, diese Symbole richtig anzuordnen (der Standardwert ist 0, der beste Wert f&#252;r "Blue Marble" ist 6)</German>
 		<Italian>Determina il posizionamento verticale delle Icone di Promozione nel Pannello di Informazioni sulle Unit&#224; (il valore predefinito &#232; '0', i valori positivi indicano uno spostamento verso l'alto e quelli negativi verso il basso). Utilizza questa impostazione per aggiustare il piazzamento delle icone di promozione quando utilizzi dei temi personalizzati che modificano il font predefinito di Civ4 (per esempio, ti consigliamo di impostare un valore di '6' se utilizzi il tema del mod BlueMarble).</Italian>
 		<Spanish>Unidad que se muestra cuando pasas el rat&#243;n por encima (Predeterminado 0, positivo indica arriba). Util&#237;zalo para ajustar el posicionamiento de iconos al usar temas que cambian la fuente del texto. Por ejemplo, usa 6 con BlueMarble.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__UNIT_NAME_COLOR_TEXT</Tag>
-		<English>Unit Name</English>
+		<English>&#x5355;&#x4f4d;&#x540d;&#x79f0;</English>
 		<German>Einheitenname</German>
 		<Italian>Nome</Italian>
 		<Spanish>Nombre de Unidad</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__UNIT_NAME_COLOR_HOVER</Tag>
-		<English>Color of the unit's name.</English>
+		<English>&#x5355;&#x4f4d;&#x540d;&#x79f0;&#x7684;&#x989c;&#x8272;&#x3002;</English>
 		<German>Bestimmt die Farbe von Einheitennamen</German>
 		<Italian>Colore del nome dell'Unit&#224;.</Italian>
 		<Spanish>Color del nombre de unidad.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__UPGRADE_POSSIBLE_COLOR_TEXT</Tag>
-		<English>Can Afford</English>
+		<English>&#x8d1f;&#x62c5;&#x5f97;&#x8d77;</English>
 		<German>Erschwinglich</German>
 		<Italian>Possibile</Italian>
 		<Spanish>Puede Permitirselo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__UPGRADE_POSSIBLE_COLOR_HOVER</Tag>
-		<English>Color of the upgrade cost when you can afford to upgrade the unit.</English>
+		<English>&#x5f53;&#x4f60;&#x8d1f;&#x62c5;&#x5f97;&#x8d77;&#x5347;&#x7ea7;&#x8be5;&#x5355;&#x4f4d;&#x65f6;&#xff0c;&#x5347;&#x7ea7;&#x8d39;&#x7528;&#x7684;&#x989c;&#x8272;&#x3002;</English>
 		<German>Bestimmt die Farbe, in der die Modernisierungskosten eingef&#228;rbt werden, wenn gen&#252;gend Gold verf&#252;gbar ist</German>
 		<Italian>Colore del costo di avanzamento quando ce lo si pu&#242; permettere economicamente.</Italian>
 		<Spanish>Color del coste de actualizaci&#243;n cuando puedes permit&#237;rtelo.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__UPGRADE_NOT_POSSIBLE_COLOR_TEXT</Tag>
-		<English>Cannot Afford</English>
+		<English>&#x8d1f;&#x62c5;&#x4e0d;&#x8d77;</English>
 		<German>Unerschwinglich</German>
 		<Italian>Non possibile</Italian>
 		<Spanish>No Puede Permitirselo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__UPGRADE_NOT_POSSIBLE_COLOR_HOVER</Tag>
-		<English>Color of the upgrade cost when you cannot afford to upgrade the unit.</English>
+		<English>&#x5f53;&#x4f60;&#x8d1f;&#x62c5;&#x4e0d;&#x8d77;&#x5347;&#x7ea7;&#x8be5;&#x5355;&#x4f4d;&#x65f6;&#xff0c;&#x5347;&#x7ea7;&#x8d39;&#x7528;&#x7684;&#x989c;&#x8272;&#x3002;</English>
 		<German>Bestimmt die Farbe, in der die Modernisierungskosten eingef&#228;rbt werden, wenn nicht gen&#252;gend Gold verf&#252;gbar ist</German>
 		<Italian>Colore del costo di avanzamento quando non ce lo si pu&#242; permettere economicamente.</Italian>
 		<Spanish>Color del coste de actualizaci&#243;n cuando no puedes permit&#237;rtelo.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__UNIT_TYPE_SPECIALTIES_COLOR_TEXT</Tag>
-		<English>Unit Type</English>
+		<English>&#x5355;&#x4f4d;&#x7c7b;&#x578b;</English>
 		<German>Einheitentyp</German>
 		<Italian>Tipo</Italian>
 		<Spanish>Tipo de Unidad</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__UNIT_TYPE_SPECIALTIES_COLOR_HOVER</Tag>
-		<English>Color of the specialties a unit has due to its type.</English>
+		<English>&#x5355;&#x4f4d;&#x56e0;&#x5176;&#x7c7b;&#x578b;&#x800c;&#x62e5;&#x6709;&#x7684;&#x7279;&#x957f;&#x7684;&#x989c;&#x8272;&#x3002;</English>
 		<German>Bestimmt die Farbe zur Hervorhebung besonderer F&#228;higkeiten, &#252;ber die eine Einheit auf Grund ihres Typs verf&#252;gt</German>
 		<Italian>Colore delle caratteristiche di una unit&#224; dovute al suo Tipo.</Italian>
 		<Spanish>Color de las habilidades que una unidad tiene debido a su tipo.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__PROMOTION_SPECIALTIES_COLOR_TEXT</Tag>
-		<English>Promotion</English>
+		<English>&#x664b;&#x5347;</English>
 		<German>Bef&#246;rderung</German>
 		<Italian>Promozioni</Italian>
 		<Spanish>Ascensos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__PROMOTION_SPECIALTIES_COLOR_HOVER</Tag>
-		<English>Color of the specialties a unit has due to its promotions.</English>
+		<English>&#x5355;&#x4f4d;&#x56e0;&#x5176;&#x664b;&#x5347;&#x800c;&#x62e5;&#x6709;&#x7684;&#x7279;&#x957f;&#x7684;&#x989c;&#x8272;&#x3002;</English>
 		<German>Bestimmt die Farbe zur Hervorhebung besonderer F&#228;higkeiten, &#252;ber die eine Einheit auf Grund ihrer Bef&#246;rderungen verf&#252;gt</German>
 		<Italian>Colore delle caratteristiche di una unit&#224; dovute alle sue Promozioni.</Italian>
 		<Spanish>Color de las habilidades que una unidad tiene debido a sus ascensos.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__MOVE_HIGHLIGHTER_TEXT</Tag>
-		<English>Move Highlighter</English>
+		<English>&#x79fb;&#x52a8;&#x9ad8;&#x4eae;</English>
 		<German>Zugoptionen</German>
 		<Italian>Visualizzatore di movimento</Italian>
 		<Spanish>Remarcar Movimiento</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_PLE__MOVE_HIGHLIGHTER_HOVER</Tag>
-		<English>Highlights the moves a unit can make when you hover the mouse over the unit's icon while holding [ALT].</English>
+		<English>&#x5f53;&#x4f60;&#x6309;&#x4f4f; [ALT] &#x5e76;&#x5c06;&#x9f20;&#x6807;&#x60ac;&#x505c;&#x5728;&#x5355;&#x4f4d;&#x56fe;&#x6807;&#x4e0a;&#x65f6;&#xff0c;&#x9ad8;&#x4eae;&#x8be5;&#x5355;&#x4f4d;&#x53ef;&#x79fb;&#x52a8;&#x5230;&#x7684;&#x4f4d;&#x7f6e;&#x3002;</English>
 		<German>Zeigt die Zugoptionen einer Einheit an, wenn der Mauszeiger bei gedr&#252;ckter [ALT]-Taste &#252;ber das Einheitensymbol bewegt wird</German>
 		<Italian>Visualizza il movmento disponibile per una Unit&#224; quando premete il tasto [ALT] e posizionate il mouse sull'icona di tale Unit&#224;.</Italian>
 		<Spanish>Remarca los movimientos que una unidad puede cuando pasas el rat&#243;n por encima del icono de la unidad apretando [ALT].</Spanish>

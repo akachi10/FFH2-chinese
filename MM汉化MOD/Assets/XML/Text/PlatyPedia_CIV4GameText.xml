@@ -3,31 +3,31 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_HIDE_INACTIVE</Tag>
-		<English>Hide Inactive</English>
+		<English>&#x9690;&#x85cf;&#x672a;&#x542f;&#x7528;&#x9879;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_ROUTE</Tag>
-		<English>Routes</English>
+		<English>&#x8def;&#x7ebf;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_DOMAIN</Tag>
-		<English>Domain</English>
+		<English>&#x9886;&#x57df;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_PEDIA_NATIONAL_STUFF</Tag>
-		<English>National %s1</English>
+		<English>&#x56fd;&#x5bb6; %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_PEDIA_TEAM_STUFF</Tag>
-		<English>Team %s1</English>
+		<English>&#x56e2;&#x961f; %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_PEDIA_WORLD_STUFF</Tag>
-		<English>World %s1</English>
+		<English>&#x4e16;&#x754c; %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_PEDIA_NON_COMBAT</Tag>
-		<English>Non-Combat Units</English>
+		<English>&#x975e;&#x6218;&#x6597;&#x5355;&#x4f4d;</English>
 		<French>Unit&#233;s sans type de combat</French>
 		<German>Zivile Einheiten</German>
 		<Italian>Unit?non da combattimento</Italian>
@@ -35,7 +35,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PLOT_HILLS</Tag>
-		<English>Hills</English>
+		<English>&#x4e18;&#x9675;</English>
 		<French>Collines</French>
 		<German>H&#252;gel</German>
 		<Italian>Colline</Italian>
@@ -43,7 +43,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PLOT_FLATLANDS</Tag>
-		<English>Flatlands</English>
+		<English>&#x5e73;&#x539f;</English>
 		<French>Les Plaines</French>
 		<German>Flachland</German>
 		<Italian>Pianura</Italian>

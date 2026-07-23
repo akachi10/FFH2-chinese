@@ -6,7 +6,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_MOD_REVUTILS_CAPTURE</Tag>
-		<English>With your capture of %s, support for the rebellion in the city swells...</English>
+		<English>&#x968f;&#x7740;&#x4f60;&#x653b;&#x5360; %s&#xff0c;&#x57ce;&#x4e2d;&#x5bf9;&#x53db;&#x4e71;&#x7684;&#x652f;&#x6301;&#x9ad8;&#x6da8;&#x2026;&#x2026;</English>
 		<French>Avec votre capture de %s, le soutien de la r&#233;bellion dans la ville gonfle&#8230;</French>
 		<German>Mit Ihrer Eroberung von %s w&#228;chst die Unterst&#252;tzung f&#252;r die Rebellion in der Stadt</German>
 		<Italian>Con la tua conquista di %s, aumenta la spinta alla rivolta nella citt&#224;..</Italian>
@@ -15,7 +15,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MOD_REVUTILS_CONTROL</Tag>
-		<English>The rebel %s have taken control of %s![NEWLINE]Support for the rebellion swells...</English>
+		<English>&#x53db;&#x519b; %s &#x5df2;&#x63a7;&#x5236;&#x4e86; %s&#xff01;[NEWLINE]&#x5bf9;&#x53db;&#x4e71;&#x7684;&#x652f;&#x6301;&#x9ad8;&#x6da8;&#x2026;&#x2026;</English>
 		<French>Le rebelle %s ont pris la commande de %s ! [NEWLINE] de la r&#233;bellion gonfle&#8230;</French>
 		<German>Die Aufr&#252;hrer %s haben %s &#252;bernommen! [NEWLINE] Die Unterst&#252;tzung f&#252;r den Aufstand w&#228;chst...</German>
 		<Italian>Il ribelle %s ha preso il controllo di %s! Aumenta [NEWLINE] la spinta alla rivolta  #8230;</Italian>
@@ -24,7 +24,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MOD_REVUTILS_WARNING</Tag>
-		<English>WARNING: Passed an arealess plot!</English>
+		<English>&#x8b66;&#x544a;&#xff1a;&#x4f20;&#x5165;&#x4e86;&#x4e00;&#x4e2a;&#x65e0;&#x533a;&#x57df;&#x5730;&#x5757;&#xff01;</English>
 		<French>AVERTISSEMENT : A pass&#233; une parcelle de terrain arealess !</French>
 		<Italian>ATTENZIONE: Superata una casella senza area (arealess)!</Italian>
 		<Spanish>&#161;Atenci&#243;n: superada una conspiraci&#243;n menor!</Spanish>
@@ -32,7 +32,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MOD_REVUTILS_ERROR1</Tag>
-		<English>ERROR: Failure to set human flag in new player.[NEWLINE]You will probably need to reload a save.</English>
+		<English>&#x9519;&#x8bef;&#xff1a;&#x672a;&#x80fd;&#x5728;&#x65b0;&#x73a9;&#x5bb6;&#x4e2d;&#x8bbe;&#x7f6e;&#x4eba;&#x7c7b;&#x6807;&#x5fd7;&#x3002;[NEWLINE]&#x4f60;&#x5927;&#x6982;&#x9700;&#x8981;&#x91cd;&#x65b0;&#x8f7d;&#x5165;&#x5b58;&#x6863;&#x3002;</English>
 		<French>ERREUR : Manque de placer le drapeau humain dans le nouveau joueur. [NEWLINE] vous devrez probablement recharger des &#233;conomies.</French>
 		<German>Fehler beim Setzen eines menschlichen Flags f&#252;r einen neuen Spieler. [NEWLINE] Sie m&#252;ssen vermutlich ein gespeichertes Spiel neu laden.</German>
 		<Italian>ERRORE: Impossibile settare flag "Umano" per un nuovo giocatore. [NEWLINE] Probabilimente &#232; necessario caricare una partita salvata.</Italian>
@@ -41,7 +41,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MOD_REVUTILS_ERROR2</Tag>
-		<English>ERROR: Failure to unset human flag in old player.[NEWLINE]You will probably need to reload a save.</English>
+		<English>&#x9519;&#x8bef;&#xff1a;&#x672a;&#x80fd;&#x5728;&#x65e7;&#x73a9;&#x5bb6;&#x4e2d;&#x6e05;&#x9664;&#x4eba;&#x7c7b;&#x6807;&#x5fd7;&#x3002;[NEWLINE]&#x4f60;&#x5927;&#x6982;&#x9700;&#x8981;&#x91cd;&#x65b0;&#x8f7d;&#x5165;&#x5b58;&#x6863;&#x3002;</English>
 		<French>ERREUR : Manque de supprimer le drapeau humain dans le vieux joueur. [NEWLINE] vous devrez probablement recharger des &#233;conomies.</French>
 		<German>ST&#214;RUNG: Fehler beim Entfernen der menschlichen Flag bei einem alten Spieler. [NEWLINE] Sie m&#252;ssen vermutlich ein gespeichertes Spiel neu laden.</German>
 		<Italian>ERRORE: Impossibile togliere flag "Umano" per un giocatore. [NEWLINE] Probabilimente &#232; necessario caricare una partita salvata.</Italian>

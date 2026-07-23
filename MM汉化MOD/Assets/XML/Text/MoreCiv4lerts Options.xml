@@ -11,14 +11,14 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__CITYFOUNDED_TEXT</Tag>
-		<English>City Founded by Rival</English>
+		<English>&#x5bf9;&#x624b;&#x5efa;&#x7acb;&#x57ce;&#x5e02;</English>
 		<German>Gegnerische Stadtgr&#252;ndungen</German>
 		<Italian>Citt&#224; fondate dagli avversari</Italian>
 		<Spanish>Ciudad Fundada por un Rival</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__CITYFOUNDED_HOVER</Tag>
-		<English>When checked, displays an alert when a rival founds a city.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x5bf9;&#x624b;&#x5efa;&#x7acb;&#x4e00;&#x5ea7;&#x57ce;&#x5e02;&#x65f6;&#x663e;&#x793a;&#x63d0;&#x9192;&#x3002;</English>
 		<German>L&#228;sst eine Warnung erscheinen, wenn eine gegnerische Zivilisation eine Stadt gr&#252;ndet</German>
 		<Italian>Quando &#232; selezionato,  viene visualizzato un avviso quando una Civilt&#224; avversaria fonda una Citt&#224;.</Italian>
 		<Spanish>Cuando se activa, muestra una alerta cuando un rival funda una ciudad.</Spanish>
@@ -26,7 +26,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__CITYPENDINGBORDEREXPANSION_TEXT</Tag>
-		<English>Pending Border Expansion</English>
+		<English>&#x8fb9;&#x754c;&#x5373;&#x5c06;&#x6269;&#x5f20;</English>
 		<French>Expansion Culturelle</French>
 		<German>Bevorstehende Grenzerweiterung</German>
 		<Italian>Espansione dei confini imminente</Italian>
@@ -34,7 +34,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__CITYPENDINGBORDEREXPANSION_HOVER</Tag>
-		<English>When checked, displays an alert when a city will expand its cultural borders next turn.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x4e00;&#x5ea7;&#x57ce;&#x5e02;&#x5c06;&#x5728;&#x4e0b;&#x56de;&#x5408;&#x6269;&#x5f20;&#x5176;&#x6587;&#x5316;&#x8fb9;&#x754c;&#x65f6;&#x663e;&#x793a;&#x63d0;&#x9192;&#x3002;</English>
 		<French>En activant, une alerte sera montr&#233;e quand les fronti&#232;res culturelles d'une ville s'aggrandiront au prochain tour.</French>
 		<German>L&#228;sst eine Warnung erscheinen, wenn sich die Kulturgrenzen einer Stadt in der n&#228;chsten Runde erweitern</German>
 		<Italian>Quando &#232; selezionato, viene visualizzato un avviso quando una citt&#224; espander&#224; i suoi confini culturali al turno successivo.</Italian>
@@ -45,21 +45,21 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__OPENBORDERSTRADE_TEXT</Tag>
-		<English>Open Borders</English>
+		<English>&#x5f00;&#x653e;&#x8fb9;&#x5883;</English>
 		<French>Fronti&#232;res Ouvertes</French>
 		<German>Offene Grenzen</German>
 		<Italian>Diritto di passaggio</Italian>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__OPENBORDERSTRADE_HOVER</Tag>
-		<English>When checked, displays an alert when a civilization is willing to sign an "Open Borders" agreement.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x67d0;&#x4e2a;&#x6587;&#x660e;&#x613f;&#x610f;&#x7b7e;&#x8ba2;&#x201c;&#x5f00;&#x653e;&#x8fb9;&#x5883;&#x201d;&#x534f;&#x8bae;&#x65f6;&#x663e;&#x793a;&#x63d0;&#x9192;&#x3002;</English>
 		<German>L&#228;sst eine Warnung erscheinen, wenn eine Zivilisation einem Abkommen &#252;ber "Offene Grenzen" zustimmen wird</German>
 		<Italian>Quando &#232; selezionato, viene visualizzato un avviso quando una Civilt&#224; &#232; disponibile a firmare un trattato per il 'Diritto di passaggio'.</Italian>
 		<Spanish>Cuando se activa, muestra una alerta cuando una civilizaci&#243;n est&#225; dispuesta a firmar un tratado de Apertura de Fronteras.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__DEFENSIVEPACTTRADE_TEXT</Tag>
-		<English>Defensive Pact</English>
+		<English>&#x9632;&#x5fa1;&#x540c;&#x76df;</English>
 		<French>Pacte D&#233;fensif</French>
 		<German>Verteidigungsb&#252;ndnis</German>
 		<Italian>Patto Difensivo</Italian>
@@ -67,14 +67,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__DEFENSIVEPACTTRADE_HOVER</Tag>
-		<English>When checked, displays an alert when a civilization is willing to sign a "Defensive Pact" agreement.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x67d0;&#x4e2a;&#x6587;&#x660e;&#x613f;&#x610f;&#x7b7e;&#x8ba2;&#x201c;&#x9632;&#x5fa1;&#x540c;&#x76df;&#x201d;&#x534f;&#x8bae;&#x65f6;&#x663e;&#x793a;&#x63d0;&#x9192;&#x3002;</English>
 		<German>L&#228;sst eine Warnung erscheinen, wenn eine Zivilisation einem "Verteidigungsb&#252;ndnis" zustimmen wird</German>
 		<Italian>Quando &#232; selezionato, viene visualizzato un avviso quando una Civilt&#224; &#232; disponibile a firmare un Patto Difensivo.</Italian>
 		<Spanish>Cuando se activa, muestra una alerta cuando una civilizaci&#243;n est&#225; dispuesta a firmar un Acuerdo de protecci&#243;n.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__PERMANENTALLIANCETRADE_TEXT</Tag>
-		<English>Permanent Alliance</English>
+		<English>&#x6c38;&#x4e45;&#x540c;&#x76df;</English>
 		<French>Alliance Permanente</French>
 		<German>Allianz</German>
 		<Italian>Alleanza Permanente</Italian>
@@ -82,35 +82,35 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__PERMANENTALLIANCETRADE_HOVER</Tag>
-		<English>When checked, displays an alert when a civilization is willing to sign a "Permanent Alliance" agreement.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x67d0;&#x4e2a;&#x6587;&#x660e;&#x613f;&#x610f;&#x7b7e;&#x8ba2;&#x201c;&#x6c38;&#x4e45;&#x540c;&#x76df;&#x201d;&#x534f;&#x8bae;&#x65f6;&#x663e;&#x793a;&#x63d0;&#x9192;&#x3002;</English>
 		<German>L&#228;sst eine Warnung erscheinen, wenn eine Zivilisation einer "Allianz" zustimmen wird</German>
 		<Italian>Quando &#232; selezionato, viene visualizzato un avviso quando una Civilt&#224; &#232; disponibile a firmare una Alleanza Permanente.</Italian>
 		<Spanish>Cuando se activa, muestra una alerta cuando una civilizaci&#243;n est&#225; dispuesta a firmar una Alianza permanente.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__VASSALTRADE_TEXT</Tag>
-		<English>Vassal</English>
+		<English>&#x9644;&#x5eb8;</English>
 		<German>Vasall</German>
 		<Italian>Vassallaggio</Italian>
 		<Spanish>Vasallo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__VASSALTRADE_HOVER</Tag>
-		<English>When checked, displays an alert when a civilization is willing to become your vassal.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x67d0;&#x4e2a;&#x6587;&#x660e;&#x613f;&#x610f;&#x6210;&#x4e3a;&#x4f60;&#x7684;&#x9644;&#x5eb8;&#x65f6;&#x663e;&#x793a;&#x63d0;&#x9192;&#x3002;</English>
 		<German>L&#228;sst eine Warnung erscheinen, wenn eine Zivilisation bereit ist, zu einem Vasallen der eigenen Zivilisation zu werden</German>
 		<Italian>Quando &#232; selezionato, viene visualizzato un avviso quando una Civilt&#224; &#232; disponibile a diventare Vassallo del giocatore.</Italian>
 		<Spanish>Cuando se activa, muestra una alerta cuando una civilizaci&#243;n est&#225; dispuesta a convertirse en Vasallo.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__PEACETRADE_TEXT</Tag>
-		<English>Peace Treaty</English>
+		<English>&#x548c;&#x5e73;&#x6761;&#x7ea6;</English>
 		<German>Friedensvertrag</German>
 		<Italian>Trattato di Pace</Italian>
 		<Spanish>Tratado de Paz</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__PEACETRADE_HOVER</Tag>
-		<English>When checked, displays an alert when a civilization is willing to sign a Peace Treaty.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x67d0;&#x4e2a;&#x6587;&#x660e;&#x613f;&#x610f;&#x7b7e;&#x8ba2;&#x548c;&#x5e73;&#x6761;&#x7ea6;&#x65f6;&#x663e;&#x793a;&#x63d0;&#x9192;&#x3002;</English>
 		<German>L&#228;sst eine Warnung erscheinen, wenn eine Zivilisation einem "Friedensvertrag" zustimmen wird</German>
 		<Italian>Quando &#232; selezionato, viene visualizzato un avviso quando una Civilt&#224; &#232; disponibile a firmare un Trattato di Pace.</Italian>
 		<Spanish>Cuando se activa, muestra una alerta cuando una civilizaci&#243;n est&#225; dispuesta a firmar un Tratado de Paz.</Spanish>
@@ -118,23 +118,23 @@
 		<!-- RevolutionDCM start - extra civlerts -->
 		<TEXT>
 				<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__WARTRADE_TEXT</Tag>
-				<English>War Trade</English>
+				<English>&#x53c2;&#x6218;&#x4ea4;&#x6613;</English>
 		</TEXT>
 		<TEXT>
 				<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__WARTRADE_HOVER</Tag>
-				<English>When checked, displays an alert when a civilization is willing to trade for war.</English>
+				<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x67d0;&#x4e2a;&#x6587;&#x660e;&#x613f;&#x610f;&#x8fdb;&#x884c;&#x53c2;&#x6218;&#x4ea4;&#x6613;&#x65f6;&#x663e;&#x793a;&#x63d0;&#x9192;&#x3002;</English>
 		</TEXT>
 		<!-- RevolutionDCM end -->
 		<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__SURRENDERTRADE_TEXT</Tag>
-		<English>Capitulation</English>
+		<English>&#x6295;&#x964d;</English>
 		<German>Kapitulation</German>
 		<Italian>Capitolazione</Italian>
 		<Spanish>Capitulaci&#243;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__SURRENDERTRADE_HOVER</Tag>
-		<English>When checked, displays an alert when a civilization is willing to capitulate during war.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x67d0;&#x4e2a;&#x6587;&#x660e;&#x613f;&#x610f;&#x5728;&#x6218;&#x4e89;&#x4e2d;&#x6295;&#x964d;&#x65f6;&#x663e;&#x793a;&#x63d0;&#x9192;&#x3002;</English>
 		<German>L&#228;sst eine Warnung erscheinen, wenn eine Zivilisation bereit ist, einen Krieg durch eine Kapitulation zu beenden</German>
 		<Italian>Quando &#232; selezionato, viene visualizzato un avviso quando una Civilt&#224; &#232; disponibile a firmare un Atto di Capitolazione</Italian>
 		<Spanish>Cuando se activa, muestra una alerta cuando una civilizaci&#243;n est&#225; dispuesta a Capitular durante la guerra.</Spanish>
@@ -144,35 +144,35 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__TECHTRADE_TEXT</Tag>
-		<English>Technologies</English>
+		<English>&#x79d1;&#x6280;</English>
 		<German>Technologien</German>
 		<Italian>Tecnologie</Italian>
 		<Spanish>Tecnolog&#237;as</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__TECHTRADE_HOVER</Tag>
-		<English>When checked, displays an alert when a civilization is willing to trade technologies.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x67d0;&#x4e2a;&#x6587;&#x660e;&#x613f;&#x610f;&#x4ea4;&#x6613;&#x79d1;&#x6280;&#x65f6;&#x663e;&#x793a;&#x63d0;&#x9192;&#x3002;</English>
 		<German>L&#228;sst eine Warnung erscheinen, wenn eine Zivilisation Technologien handeln m&#246;chte</German>
 		<Italian>Quando &#232; selezionato, viene visualizzato un avviso quando una Civilt&#224; &#232; disponibile a commerciare Tecnologie.</Italian>
 		<Spanish>Cuando se activa, muestra una alerta cuando una civilizaci&#243;n est&#225; dispuesta a comerciar tecnolog&#237;as.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__BONUSTRADE_TEXT</Tag>
-		<English>Resources</English>
+		<English>&#x8d44;&#x6e90;</English>
 		<German>Ressourcen</German>
 		<Italian>Risorse</Italian>
 		<Spanish>Recursos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__BONUSTRADE_HOVER</Tag>
-		<English>When checked, displays an alert when a civilization is willing to trade resources.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x67d0;&#x4e2a;&#x6587;&#x660e;&#x613f;&#x610f;&#x4ea4;&#x6613;&#x8d44;&#x6e90;&#x65f6;&#x663e;&#x793a;&#x63d0;&#x9192;&#x3002;</English>
 		<German>L&#228;sst eine Warnung erscheinen, wenn eine Zivilisation Ressourcen handeln m&#246;chte</German>
 		<Italian>Quando &#232; selezionato, viene visualizzato un avviso quando una Civilt&#224; &#232; disponibile a commerciare Risorse.</Italian>
 		<Spanish>Cuando se activa, muestra una alerta cuando una civilizaci&#243;n est&#225; dispuesta a comerciar recursos.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__MAPTRADE_TEXT</Tag>
-		<English>Maps</English>
+		<English>&#x5730;&#x56fe;</English>
 		<French>Cartes</French>
 		<German>Karten</German>
 		<Italian>Mappe</Italian>
@@ -180,7 +180,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__MAPTRADE_HOVER</Tag>
-		<English>When checked, displays an alert when a civilization is willing to trade their map.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x67d0;&#x4e2a;&#x6587;&#x660e;&#x613f;&#x610f;&#x4ea4;&#x6613;&#x5176;&#x5730;&#x56fe;&#x65f6;&#x663e;&#x793a;&#x63d0;&#x9192;&#x3002;</English>
 		<German>L&#228;sst eine Warnung erscheinen, wenn eine Zivilisation ihre Karte handeln m&#246;chte</German>
 		<Italian>Quando &#232; selezionato, viene visualizzato un avviso quando una Civilt&#224; &#232; disponibile a commerciare la propria Mappa</Italian>
 		<Spanish>Cuando se activa, muestra una alerta muestra una alerta cuando una civilizaci&#243;n est&#225; dispuesta a intercambiar mapas.</Spanish>
@@ -190,21 +190,21 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__DOMPOP_TEXT</Tag>
-		<English>Domination: Population</English>
+		<English>&#x7edf;&#x6cbb;&#xff1a;&#x4eba;&#x53e3;</English>
 		<German>Bev&#246;lkerung</German>
 		<Italian>Popolazione</Italian>
 		<Spanish>Dominaci&#243;n: Poblaci&#243;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__DOMPOP_HOVER</Tag>
-		<English>When checked, displays an alert when your population is close to or exceeds the limit for a Domination victory.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x4f60;&#x7684;&#x4eba;&#x53e3;&#x63a5;&#x8fd1;&#x6216;&#x8d85;&#x8fc7;&#x7edf;&#x6cbb;&#x80dc;&#x5229;&#x7684;&#x4e0a;&#x9650;&#x65f6;&#x663e;&#x793a;&#x63d0;&#x9192;&#x3002;</English>
 		<German>L&#228;sst eine Warnung erscheinen, wenn sich die eigene Bev&#246;lkerungszahl dem Grenzbereich f&#252;r einen Vorherrschafts-Sieg n&#228;hert oder ihn &#252;berschreitet</German>
 		<Italian>Quando &#232; selezionato, viene visualizzato un avviso quando la tua Popolazione &#232; vicina al limite (o oltre) per una Vittoria di Dominazione.</Italian>
 		<Spanish>Cuando se activa, muestra una alerta cuando tu poblaci&#243;n est&#225; cerca o excede el l&#237;mite para una victoria por Dominaci&#243;n.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__DOMPOPTHRESH_TEXT</Tag>
-		<English>Pop Threshold</English>
+		<English>&#x4eba;&#x53e3;&#x9608;&#x503c;</English>
 		<French>Seuil de Population</French>
 		<German>Grenzbereich Bev.</German>
 		<Italian>Limite di popolazione</Italian>
@@ -212,7 +212,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__DOMPOPTHRESH_HOVER</Tag>
-		<English>Population threshold for Domination victory.</English>
+		<English>&#x7edf;&#x6cbb;&#x80dc;&#x5229;&#x7684;&#x4eba;&#x53e3;&#x9608;&#x503c;&#x3002;</English>
 		<French>Seuil de Population pour une Victoire par Domination.</French>
 		<German>Bestimmt den Grenzbereich f&#252;r die Bev&#246;lkerungszahl, ab dem eine Warnung vor einem Vorherrschafts-Sieg erscheint</German>
 		<Italian>Livello limite di popolazione per una Vittoria di Dominazione.</Italian>
@@ -220,7 +220,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__DOMLAND_TEXT</Tag>
-		<English>Domination: Land</English>
+		<English>&#x7edf;&#x6cbb;&#xff1a;&#x9886;&#x571f;</English>
 		<French>Domination: Territoire</French>
 		<German>Landmasse</German>
 		<Italian>Territorio</Italian>
@@ -228,14 +228,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__DOMLAND_HOVER</Tag>
-		<English>When checked, displays an alert when your land area is close to or exceeds the limit for a Domination victory.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x4f60;&#x7684;&#x9886;&#x571f;&#x9762;&#x79ef;&#x63a5;&#x8fd1;&#x6216;&#x8d85;&#x8fc7;&#x7edf;&#x6cbb;&#x80dc;&#x5229;&#x7684;&#x4e0a;&#x9650;&#x65f6;&#x663e;&#x793a;&#x63d0;&#x9192;&#x3002;</English>
 		<German>L&#228;sst eine Warnung erscheinen, wenn sich die eigene Landmasse dem Grenzbereich f&#252;r einen Vorherrschafts-Sieg n&#228;hert oder ihn &#252;berschreitet</German>
 		<Italian>Quando &#232; selezionato, viene visualizzato un avviso quando il tuo Territorio &#232; vicino al limite (o oltre) per una Vittoria di Dominazione.</Italian>
 		<Spanish>Cuando se activa, muestra una alerta when tu territorio est&#225; cerca o excede el l&#237;mite para una victoria por Dominaci&#243;n.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__DOMLANDTHRESH_TEXT</Tag>
-		<English>Land Threshold</English>
+		<English>&#x9886;&#x571f;&#x9608;&#x503c;</English>
 		<French>Seuil de Territoire</French>
 		<German>Grenzbereich Land</German>
 		<Italian>Limite di territorio</Italian>
@@ -243,7 +243,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__DOMLANDTHRESH_HOVER</Tag>
-		<English>Land threshold for Domination victory.</English>
+		<English>&#x7edf;&#x6cbb;&#x80dc;&#x5229;&#x7684;&#x9886;&#x571f;&#x9608;&#x503c;&#x3002;</English>
 		<French>Seuil de Territoire pour une Victoire par Domination.</French>
 		<German>Bestimmt den Grenzbereich f&#252;r die Gr&#246;&#223;e der Landmasse, ab dem eine Warnung vor einem Vorherrschafts-Sieg erscheint</German>
 		<Italian>Livello limite di popolazione per una Vittoria di Dominazione.</Italian>

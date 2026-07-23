@@ -8,7 +8,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REMINDER__ENABLED_TEXT</Tag>
-		<English>Enable Reminders [ALT + M]</English>
+		<English>&#x542f;&#x7528;&#x63d0;&#x9192; [ALT + M]</English>
 		<French>Activer les Rappels [ALT + M]</French>
 		<German>Erinnerungen aktivieren</German>
 		<Italian>Abilita i Promemoria [ALT + M]</Italian>
@@ -16,7 +16,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REMINDER__ENABLED_HOVER</Tag>
-		<English>When checked, you can create messages using [ALT + M] that pop up in a specified number of turns using eotinb's Reminders mod.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x4f60;&#x53ef;&#x4ee5;&#x7528; [ALT + M] &#x521b;&#x5efa;&#x6d88;&#x606f;&#xff0c;&#x501f;&#x52a9; eotinb &#x7684;&#x63d0;&#x9192;&#x6a21;&#x7ec4;&#xff0c;&#x5728;&#x6307;&#x5b9a;&#x7684;&#x56de;&#x5408;&#x6570;&#x540e;&#x5f39;&#x51fa;&#x3002;</English>
 		<French>En activant, vous pourrez cr&#233;er des messages avec [ALT + M] qui r&#233;appara&#238;tront un nombre de tours sp&#233;cifi&#233;s plus tard, gr&#226;ce au mod Reminders de eotinb.</French>
 		<German>Erm&#246;glicht das Schreiben von Erinnerungsmeldungen (Tastenkombination [ALT + M]), die nach einer bestimmten Anzahl Runden wieder erscheinen (verwendet eotinbs "Reminders"-Mod)</German>
 		<Italian>Quando &#232; selezionato, usando [ALT + M] durante il gioco potrai creare messaggi che appariranno dopo un numero definito di turni (utilizzando il Reminders Mod di Eotinb).</Italian>
@@ -24,7 +24,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REMINDER__DISPLAYMETHOD_TEXT</Tag>
-		<English>Display Method</English>
+		<English>&#x663e;&#x793a;&#x65b9;&#x5f0f;</English>
 		<French>M&#233;thode d'affichage</French>
 		<German>Anzeigemethode</German>
 		<Italian>Modalit&#224; di visualizzazione</Italian>
@@ -32,7 +32,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REMINDER__DISPLAYMETHOD_HOVER</Tag>
-		<English>Determines how reminders are displayed to you:[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Message[COLOR_REVERT] - On-screen message with entry in the log[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Popup[COLOR_REVERT] - A modal popup message with the option to retrigger the event next turn[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Both[COLOR_REVERT] - Both the on-screen message and the popup are displayed</English>
+		<English>&#x51b3;&#x5b9a;&#x63d0;&#x9192;&#x5982;&#x4f55;&#x5411;&#x4f60;&#x663e;&#x793a;&#xff1a;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]&#x6d88;&#x606f;[COLOR_REVERT] - &#x5c4f;&#x5e55;&#x6d88;&#x606f;&#xff0c;&#x5e76;&#x5728;&#x65e5;&#x5fd7;&#x4e2d;&#x7559;&#x6709;&#x8bb0;&#x5f55;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]&#x5f39;&#x7a97;[COLOR_REVERT] - &#x4e00;&#x4e2a;&#x6a21;&#x6001;&#x5f39;&#x7a97;&#x6d88;&#x606f;&#xff0c;&#x53ef;&#x9009;&#x62e9;&#x5728;&#x4e0b;&#x56de;&#x5408;&#x518d;&#x6b21;&#x89e6;&#x53d1;&#x8be5;&#x4e8b;&#x4ef6;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]&#x4e24;&#x8005;[COLOR_REVERT] - &#x540c;&#x65f6;&#x663e;&#x793a;&#x5c4f;&#x5e55;&#x6d88;&#x606f;&#x4e0e;&#x5f39;&#x7a97;</English>
 		<French>Determine comment les rappels vous sont montr&#233;s.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Message[COLOR_REVERT] - Un message qui s'affich &#224; l'&#233;cran plus entr&#233;e dans le log[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Popup[COLOR_REVERT] - Popup modal avec l'option de le faire r&#233;appara&#238;tre le tour suivant[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Les deux[COLOR_REVERT] - Both the on-screen message and the popup are displayed</French>
 		<German>Bestimmt die Anzeigemethode f&#252;r Erinnerungen:[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Meldung[COLOR_REVERT] - einfache Meldung mit einem Eintrag im Log[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Popup[COLOR_REVERT] - Dialogfenster mit der M&#246;glichkeit, die Meldung in der n&#228;chsten Runde erneut anzeigen zu lassen[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Beides[COLOR_REVERT] - Sowohl die Meldung als auch das Dialogfenster werden angezeigt</German>
 		<Italian>Determina come i Promemoria verranno visualizzati:[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Messaggio[COLOR_REVERT] - un messaggio sullo schermo e una nota nel registro;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Popup[COLOR_REVERT] - un messaggio interattivo con l'opzione di ripetere il promemoria al turno successivo;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]entrambi[COLOR_REVERT] - Both the on-screen message and the popup are displayed</Italian>
@@ -40,7 +40,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REMINDER__DISPLAYMETHOD_LIST</Tag>
-		<English>Message|Popup|Both</English>
+		<English>&#x6d88;&#x606f;|&#x5f39;&#x7a97;|&#x4e24;&#x8005;</English>
 		<French>Message|Popup|Les deux</French>
 		<German>Meldung|Popup|Beides</German>
 		<Italian>Messaggio|Popup|Entrambe</Italian>
@@ -48,7 +48,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REMINDER__AUTOLOG_TEXT</Tag>
-		<English>Log w. Autolog</English>
+		<English>&#x7528;&#x81ea;&#x52a8;&#x65e5;&#x5fd7;&#x8bb0;&#x5f55;</English>
 		<French>Log avec Autolog</French>
 		<German>Mit Autolog protokollieren</German>
 		<Italian>Registra con Autolog</Italian>
@@ -56,7 +56,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REMINDER__AUTOLOG_HOVER</Tag>
-		<English>When checked, reminders will be logged using Autolog when created and triggered.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x63d0;&#x9192;&#x5728;&#x521b;&#x5efa;&#x4e0e;&#x89e6;&#x53d1;&#x65f6;&#x5c06;&#x7528;&#x81ea;&#x52a8;&#x65e5;&#x5fd7;&#x8bb0;&#x5f55;&#x3002;</English>
 		<French>En activant, les rappels seront &#233;crits dans le log &#224; travers Autolog quand ils sont cr&#233;&#233;s et montr&#233;s.</French>
 		<German>Protokolliert die Erstellung und Ausl&#246;sung von Erinnerungen (verwendet eotinbs "Autolog"-Mod)</German>
 		<Italian>Quando &#232; selezionato, i Promemoria verranno registrati dal Registro Automatico quando vengono creati e quando vengono mostrati.</Italian>

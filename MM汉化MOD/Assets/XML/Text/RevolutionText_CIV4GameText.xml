@@ -6,7 +6,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_INFO_PANE</Tag>
-		<English>Revolution Watch &lt;Ctrl+Shift+G&gt;</English>
+		<English>&#x9769;&#x547d;&#x76d1;&#x89c6; &lt;Ctrl+Shift+G&gt;</English>
 		<French>Montre de r&#233;volution &lt;Ctrl+Shift+G&gt;</French>
 		<German>Revolutions-&#220;berwachung &lt;Ctrl+Shift+G&gt;</German>
 		<Italian>Consigliere Rivoluzionario &lt;Ctrl+Shift+G&gt;</Italian>
@@ -14,7 +14,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_STATUS</Tag>
-		<English>Revolt Status</English>
+		<English>&#x53db;&#x4e71;&#x72b6;&#x6001;</English>
 		<French>Statut de r&#233;volte</French>
 		<German>Aufruhr-Status</German>
 		<Italian>Stato della Rivolta</Italian>
@@ -22,7 +22,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_STATUS_HEADER</Tag>
-		<English>- click to offer bribe to city[NEWLINE]==========================</English>
+		<English>- &#x70b9;&#x51fb;&#x4ee5;&#x5411;&#x57ce;&#x5e02;&#x63d0;&#x51fa;&#x8d3f;&#x8d42;[NEWLINE]==========================</English>
 		<French>- clic pour offrir le paiement illicite &#224; la ville[NEWLINE]==========================</French>
 		<German>- Klicken, um der Stadt Bestechungsgeld anzubieten.[NEWLINE]==========================</German>
 		<Italian>- clicca per offrire una 'donazione' alla citt&#224;[NEWLINE]==========================</Italian>
@@ -33,7 +33,7 @@
 	<!-- GENERAL EVENT TEXT -->
 	<TEXT>
 		<Tag>TXT_KEY_REV_CITY_OF</Tag>
-		<English>The city of</English>
+		<English>&#x57ce;&#x5e02;</English>
 		<French>La ville de</French>
 		<German>Die Stadt</German>
 		<Italian>La citt&#224; di</Italian>
@@ -41,7 +41,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CITY</Tag>
-		<English>City</English>
+		<English>&#x57ce;&#x5e02;</English>
 		<French>Ville</French>
 		<German>Stadt</German>
 		<Italian>Citt&#224;</Italian>
@@ -49,7 +49,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CITIES_OF</Tag>
-		<English>The cities of</English>
+		<English>&#x8bf8;&#x57ce;</English>
 		<French>Les villes de</French>
 		<German>Die St&#228;dte von</German>
 		<Italian>Le citt&#224; di</Italian>
@@ -57,7 +57,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CITIES</Tag>
-		<English>Cities</English>
+		<English>&#x57ce;&#x5e02;</English>
 		<French>Villes</French>
 		<German>St&#228;dte</German>
 		<Italian>Citt&#224;</Italian>
@@ -65,7 +65,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CITIZENS_OF</Tag>
-		<English>The citizens of</English>
+		<English>&#x5e02;&#x6c11;</English>
 		<French>Les citoyens de</French>
 		<German>Die B&#252;rger von</German>
 		<Italian>I cittadini di</Italian>
@@ -73,7 +73,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_ALONG_WITH</Tag>
-		<English>, along with</English>
+		<English>&#xff0c;&#x8fde;&#x540c;</English>
 		<French>, avec</French>
 		<German>, zusammen mit</German>
 		<Italian>, con</Italian>
@@ -97,7 +97,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CURRENTLY</Tag>
-		<English>Currently,</English>
+		<English>&#x76ee;&#x524d;&#xff0c;</English>
 		<French>Actuellement,</French>
 		<German>Z.Zt.,</German>
 		<Italian>Attualmente,</Italian>
@@ -105,7 +105,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_AND</Tag>
-		<English>and</English>
+		<English>&#x4ee5;&#x53ca;</English>
 		<French>et</French>
 		<German>und</German>
 		<Italian>e</Italian>
@@ -113,7 +113,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_ARE</Tag>
-		<English>are</English>
+		<English>&#x6b63;</English>
 		<French>soyez</French>
 		<German>sind</German>
 		<Italian>stanno</Italian>
@@ -121,7 +121,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_IS</Tag>
-		<English>is</English>
+		<English>&#x6b63;</English>
 		<French>est</French>
 		<German>ist</German>
 		<Italian>sta</Italian>
@@ -129,7 +129,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_YOU</Tag>
-		<English>you</English>
+		<English>&#x4f60;</English>
 		<French>vous</French>
 		<German>Sie</German>
 		<Italian>tu</Italian>
@@ -137,7 +137,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_YOUR_CIV</Tag>
-		<English>you</English>
+		<English>&#x4f60;</English>
 		<French>vous</French>
 		<German>Sie</German>
 		<Italian>voi</Italian>
@@ -145,7 +145,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_TURNS</Tag>
-		<English>turns</English>
+		<English>&#x56de;&#x5408;</English>
 		<French>tours</French>
 		<German>Runden</German>
 		<Italian>turni</Italian>
@@ -153,7 +153,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_LEADER</Tag>
-		<English>, leader of the</English>
+		<English>&#xff0c;&#x5176;&#x9886;&#x8896;&#x4e3a;</English>
 		<French>, chef de</French>
 		<German>, Anf&#252;hrer der</German>
 		<Italian>, capo del</Italian>
@@ -161,7 +161,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_PREPARING_WAR</Tag>
-		<English>preparing for WAR!!!  You should make your final preparations, as the rebels will strike very soon ...</English>
+		<English>&#x6b63;&#x51c6;&#x5907;&#x5f00;&#x6218;&#xff01;&#xff01;&#xff01;&#x4f60;&#x5e94;&#x4f5c;&#x6700;&#x540e;&#x7684;&#x51c6;&#x5907;&#xff0c;&#x56e0;&#x4e3a;&#x53db;&#x519b;&#x5f88;&#x5feb;&#x5c31;&#x4f1a;&#x53d1;&#x96be;&#x2026;&#x2026;</English>
 		<French>eparing pour la GUERRE ! ! !  Vous devriez faire vos pr&#233;parations finales, car les rebelles frapperont tr&#232;s bient&#244;t...</French>
 		<German>KRIEGSVORBEREITUNGEN!!!  Sie sollten Ihre Vorbereitungen abschlie&#223;en, da die Aufr&#252;hrer sehr bald zuschlagen werden...</German>
 		<Italian>preparandosi alla GUERRA!!!  Affretta i tuoi preparativi, poich&#232; i ribelli colpiranno molto presto ...</Italian>
@@ -169,7 +169,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_JOINING_WAR</Tag>
-		<English>preparing for WAR!!!  You should make your final preparations, as the rebels will join the %s very soon ...</English>
+		<English>&#x6b63;&#x51c6;&#x5907;&#x5f00;&#x6218;&#xff01;&#xff01;&#xff01;&#x4f60;&#x5e94;&#x4f5c;&#x6700;&#x540e;&#x7684;&#x51c6;&#x5907;&#xff0c;&#x56e0;&#x4e3a;&#x53db;&#x519b;&#x5f88;&#x5feb;&#x5c31;&#x4f1a;&#x52a0;&#x5165; %s&#x2026;&#x2026;</English>
 		<French>pr&#233;paration &#224; la GUERRE ! ! !  Vous devriez faire vos pr&#233;parations finales, car les rebelles joindront le %s tr&#232;s bient&#244;t...</French>
 		<German>KRIEGSVORBEREITUNGEN!!!  Sie sollten Ihre Vorbereitungen abschlie&#223;en, da die Aufr&#252;hrer sich sehr bald mit %s vereinen werden ...</German>
 		<Italian>preparandosi alla GUERRA!!!  Affretta i tuoi preparativi, poich&#232; i ribelli si uniranno al/la %s molto presto ...</Italian>
@@ -177,7 +177,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_NONE</Tag>
-		<English>None</English>
+		<English>&#x65e0;</English>
 		<French>Aucun</French>
 		<German>Kein</German>
 		<Italian>Nessuno</Italian>
@@ -187,7 +187,7 @@
 	<!-- Revolution warning text -->
 	<TEXT>
 		<Tag>TXT_KEY_REV_WARN_TITLE</Tag>
-		<English>Revolution is in the air!</English>
+		<English>&#x9769;&#x547d;&#x4e4b;&#x52bf;&#x6b63;&#x5728;&#x915d;&#x917f;&#xff01;</English>
 		<French>La r&#233;volution est dans le ciel !</French>
 		<German>Revolution liegt in der Luft!</German>
 		<Italian>C'&#232; aria di rivolta!</Italian>
@@ -195,7 +195,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WARN_NEWS</Tag>
-		<English>Grave news!  The citizens of</English>
+		<English>&#x5669;&#x8017;&#xff01;&#x4ee5;&#x4e0b;&#x5730;&#x65b9;&#x7684;&#x5e02;&#x6c11;</English>
 		<French>Nouvelles graves !  Les citoyens de</French>
 		<German>Ernste Nachrichten!  Die B&#252;rger von</German>
 		<Italian>Gravi notizie!  I cittadini di</Italian>
@@ -203,7 +203,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WARN_CONTEMPLATING</Tag>
-		<English>are contemplating revolution.  It may not yet be too late to maintain order, if you take steps to improve the local situation in these cities.</English>
+		<English>&#x6b63;&#x5728;&#x915d;&#x917f;&#x9769;&#x547d;&#x3002;&#x82e5;&#x4f60;&#x91c7;&#x53d6;&#x63aa;&#x65bd;&#x6539;&#x5584;&#x8fd9;&#x4e9b;&#x57ce;&#x5e02;&#x7684;&#x5f53;&#x5730;&#x5c40;&#x52bf;&#xff0c;&#x7ef4;&#x6301;&#x79e9;&#x5e8f;&#x6216;&#x8bb8;&#x8fd8;&#x4e3a;&#x65f6;&#x4e0d;&#x665a;&#x3002;</English>
 		<French>contemplent la r&#233;volution.  Elle peut encore ne pas &#234;tre trop tardive pour maintenir l'ordre, si vous prenez des mesures pour am&#233;liorer la situation locale dans ces villes.</French>
 		<German>erw&#228;gen eine Revolution.  Es ist m&#246;glicherweise nicht zu sp&#228;t die Ordnung aufrecht zu erhalten, wenn Sie Schritte ergreifen, die die Situation in diesen St&#228;dten verbessert.</German>
 		<Italian>potrebbero rivoltarsi.  Non &#232; ancora troppo tardi per riportare l'ordine, se agirai per migliorare la situazione in queste citt&#224;.</Italian>
@@ -211,7 +211,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WARN_WARS</Tag>
-		<English>While victory in our current wars may calm the cities cries, the shame of losing another city to our enemies could erode our support.  Carefully consider your chances for a quick victory.</English>
+		<English>&#x5c3d;&#x7ba1;&#x5728;&#x6211;&#x4eec;&#x5f53;&#x524d;&#x7684;&#x6218;&#x4e89;&#x4e2d;&#x53d6;&#x80dc;&#x6216;&#x80fd;&#x5e73;&#x606f;&#x57ce;&#x5e02;&#x7684;&#x547c;&#x58f0;&#xff0c;&#x4f46;&#x53c8;&#x4e00;&#x5ea7;&#x57ce;&#x5e02;&#x5931;&#x4e8e;&#x654c;&#x624b;&#x7684;&#x803b;&#x8fb1;&#x53ef;&#x80fd;&#x4fb5;&#x8680;&#x6211;&#x4eec;&#x7684;&#x652f;&#x6301;&#x3002;&#x8bf7;&#x614e;&#x91cd;&#x6382;&#x91cf;&#x4f60;&#x901f;&#x80dc;&#x7684;&#x80dc;&#x7b97;&#x3002;</English>
 		<French>Tandis que la victoire dans nos guerres courantes peut calmer les cris de villes, la honte de perdre une autre ville &#224; nos ennemis pourrait &#233;roder notre appui.  Consid&#233;rez soigneusement vos chances pour une victoire rapide.</French>
 		<German>W&#228;hrend ein Sieg in unseren gegenw&#228;rtigen Kriegen die Freiheitsrufe beruhigen kann, k&#246;nnte die Schande des Verlustes einer weiteren Stadt an unsere Feinde unsere Anh&#228;ngerschaft verringern.  &#220;berlegen Sie gr&#252;ndlich, wie Sie einen schnellen Sieg erringen k&#246;nnen.</German>
 		<Italian>Mentre una vittoria nella guerra in corso potr&#224; diminuire la tensione nelle citt&#224;, l'umiliazione di farsi strappare un'altra citt&#224; dai nemici potrebbe fare crollare il tuo consenso.  Valuta con attenzione le probabilit&#224; di una vittoria rapida.</Italian>
@@ -219,7 +219,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WARN_GLORY</Tag>
-		<English>The glory of conquering other lands might convince the cities to stay, if you have your eyes on foreign lands it might be time to strike.</English>
+		<English>&#x5f81;&#x670d;&#x4ed6;&#x56fd;&#x7684;&#x8363;&#x8000;&#x6216;&#x80fd;&#x8bf4;&#x670d;&#x8fd9;&#x4e9b;&#x57ce;&#x5e02;&#x7559;&#x4e0b;&#xff0c;&#x4f60;&#x82e5;&#x6b63;&#x89ca;&#x89ce;&#x5916;&#x90a6;&#xff0c;&#x6216;&#x8bb8;&#x662f;&#x65f6;&#x5019;&#x51fa;&#x51fb;&#x4e86;&#x3002;</English>
 		<French>La gloire de conqu&#233;rir d'autres terres pourrait convaincre les villes pour rester, si vous avez vos yeux sur les terres &#233;trang&#232;res qu'il pourrait &#234;tre temps de frapper.</French>
 		<German>Der Ruhm der Eroberung anderer L&#228;nder k&#246;nnte die St&#228;dte &#252;berzeugen, bei Ihnen zu bleiben. Wenn Sie bereits fremde L&#228;nder im Auge haben, k&#246;nnte es jetzt an der Zeit sein zuzuschlagen.</German>
 		<Italian>La gloria delle tue conquiste potrebbe convincere le citt&#224; in rivolta a desistere: se hai sotto mira territori stranieri potrebbe essere il momento di attaccare.</Italian>
@@ -227,7 +227,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WARN_LOST</Tag>
-		<English>Particularly, if you could regain some of the cities you might have lost earlier, the glory would be great.</English>
+		<English>&#x5c24;&#x5176;&#x662f;&#xff0c;&#x4f60;&#x82e5;&#x80fd;&#x593a;&#x56de;&#x4e00;&#x4e9b;&#x6b64;&#x524d;&#x6216;&#x5df2;&#x5931;&#x53bb;&#x7684;&#x57ce;&#x5e02;&#xff0c;&#x90a3;&#x4efd;&#x8363;&#x8000;&#x5c06;&#x65e0;&#x6bd4;&#x5de8;&#x5927;&#x3002;</English>
 		<French>En particulier, si vous pourriez regagner certaines des villes vous pourriez avoir perdu plus t&#244;t, la gloire seriez grand.</French>
 		<German>Besonders wenn Sie einige der St&#228;dte wiedergewinnen k&#246;nnten, die  Sie fr&#252;her verloren haben, w&#228;re der Ruhm gewaltig.</German>
 		<Italian>In pi&#249;, se riuscirai a riconquistare citt&#224; perse recentemente, per te sar&#224; il trionfo.</Italian>
@@ -235,7 +235,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WARN_TEMPORARY</Tag>
-		<English>But be warned, this is only a temporary solution!</English>
+		<English>&#x4f46;&#x987b;&#x8b66;&#x60d5;&#xff0c;&#x8fd9;&#x53ea;&#x662f;&#x4e00;&#x4e2a;&#x4e34;&#x65f6;&#x7684;&#x6743;&#x5b9c;&#x4e4b;&#x8ba1;&#xff01;</English>
 		<French>Mais soyez averti, ceci est seulement une solution provisoire!</French>
 		<German>Aber seien Sie gewarnt, dies ist nur eine tempor&#228;re L&#246;sung!</German>
 		<Italian>Attento, questa &#232; solo una soluzione momentanea!</Italian>
@@ -245,7 +245,7 @@
 	<!-- Revolution watch text -->
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_DANGER_CITIES</Tag>
-		<English>Cities that might start a revolution</English>
+		<English>&#x53ef;&#x80fd;&#x53d1;&#x52a8;&#x9769;&#x547d;&#x7684;&#x57ce;&#x5e02;</English>
 		<French>Villes qui pourraient commencer une r&#233;volution</French>
 		<German>St&#228;dte, die eine Revolution beginnen k&#246;nnten</German>
 		<Italian>Citt&#224; che potrebbero scatenare una rivolta</Italian>
@@ -253,7 +253,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_WARNING_CITIES</Tag>
-		<English>Cities that might join a revolution</English>
+		<English>&#x53ef;&#x80fd;&#x52a0;&#x5165;&#x9769;&#x547d;&#x7684;&#x57ce;&#x5e02;</English>
 		<French>Villes qui pourraient joindre une r&#233;volution</French>
 		<German>St&#228;dte, die sich einer Revolution anschlie&#223;en k&#246;nnten</German>
 		<Italian>Citt&#224; che potrebbero unirsi ad una rivolta</Italian>
@@ -261,7 +261,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_SAFE_CITIES</Tag>
-		<English>Cities that will not revolt</English>
+		<English>&#x4e0d;&#x4f1a;&#x53db;&#x4e71;&#x7684;&#x57ce;&#x5e02;</English>
 		<French>Villes qui ne r&#233;volteront pas</French>
 		<German>St&#228;dte, die nicht revoltieren werden</German>
 		<Italian>Citt&#224; che non si rivolteranno</Italian>
@@ -269,7 +269,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_TITLE</Tag>
-		<English>Revolution Watch</English>
+		<English>&#x9769;&#x547d;&#x76d1;&#x89c6;</English>
 		<French>Montre de r&#233;volution</French>
 		<German>Revolutions-&#220;berwachung</German>
 		<Italian>Schermata "Rivoluzioni"</Italian>
@@ -277,7 +277,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_DETAIL</Tag>
-		<English>Detail View</English>
+		<English>&#x8be6;&#x7ec6;&#x89c6;&#x56fe;</English>
 		<French>Vue de d&#233;tail</French>
 		<German>Detailansicht</German>
 		<Italian>Particolare</Italian>
@@ -285,7 +285,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_BRIBE</Tag>
-		<English>Bribe a city</English>
+		<English>&#x8d3f;&#x8d42;&#x4e00;&#x5ea7;&#x57ce;&#x5e02;</English>
 		<French>Subornez une ville</French>
 		<German>Bestechen Sie eine Stadt</German>
 		<Italian>Corrompi una citt&#224;</Italian>
@@ -293,7 +293,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_NO_CITIES</Tag>
-		<English>No cities</English>
+		<English>&#x65e0;&#x57ce;&#x5e02;</English>
 		<French>Aucunes villes</French>
 		<German>Keine St&#228;dte</German>
 		<Italian>Nessuna citt&#224;</Italian>
@@ -301,7 +301,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_CITY_BY_CITY</Tag>
-		<English>City by city:</English>
+		<English>&#x9010;&#x57ce;&#x67e5;&#x770b;&#xff1a;</English>
 		<French>Ville par la ville:</French>
 		<German>Stadt f&#252;r Stadt:</German>
 		<Italian>Citt&#224; per citt&#224;:</Italian>
@@ -309,7 +309,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_DEBUG_NOTE</Tag>
-		<English>(Note:  Specific numbers will not add up to total in many circumstances)</English>
+		<English>&#xff08;&#x6ce8;&#x610f;&#xff1a;&#x5728;&#x8bb8;&#x591a;&#x60c5;&#x5f62;&#x4e0b;&#xff0c;&#x5177;&#x4f53;&#x6570;&#x5b57;&#x52a0;&#x8d77;&#x6765;&#x4e0d;&#x7b49;&#x4e8e;&#x603b;&#x6570;&#xff09;</English>
 		<French>(Note :  Les nombres sp&#233;cifiques n'ajouteront pas au total dans beaucoup de circonstances)</French>
 		<German>(Anmerkung:  Einzelne Zahlen lassen sich in vielen F&#228;llen nicht zum Ganzen addieren)</German>
 		<Italian>(Nota:  In molti casi, i numeri specifici non si sommano al totale)</Italian>
@@ -317,7 +317,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_HAPPINESS</Tag>
-		<English>Happiness</English>
+		<English>&#x5e78;&#x798f;</English>
 		<French>Bonheur</French>
 		<German>Zufriedenheit</German>
 		<Italian>Felicit&#224;</Italian>
@@ -325,7 +325,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_NOT_CONNECTED</Tag>
-		<English>Not connected to capital</English>
+		<English>&#x672a;&#x4e0e;&#x9996;&#x90fd;&#x8fde;&#x901a;</English>
 		<French>Non reli&#233; au capital</French>
 		<German>Nicht an Hauptstadt angeschlossen</German>
 		<Italian>Non collegata a capitale</Italian>
@@ -333,7 +333,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_HUGE_EMP</Tag>
-		<English>Huge Empire</English>
+		<English>&#x5de8;&#x578b;&#x5e1d;&#x56fd;</English>
 		<French>Empire &#233;norme</French>
 		<German>Sehr gro&#223;es Imperium</German>
 		<Italian>Impero enorme</Italian>
@@ -341,7 +341,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_LARGE_EMP</Tag>
-		<English>Large Empire</English>
+		<English>&#x5927;&#x578b;&#x5e1d;&#x56fd;</English>
 		<French>Grand Empire</French>
 		<German>Gro&#223;es Imperium</German>
 		<Italian>Grande impero</Italian>
@@ -349,14 +349,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_MED_EMP</Tag>
-		<English>Med. Empire</English>
+		<English>&#x4e2d;&#x578b;&#x5e1d;&#x56fd;</English>
 		<German>Mittleres Imperium</German>
 		<Italian>Med. Impero</Italian>
 		<Spanish>Mediano Imperio</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_SMALL_EMP</Tag>
-		<English>Small Empire</English>
+		<English>&#x5c0f;&#x578b;&#x5e1d;&#x56fd;</English>
 		<French>Petit Empire</French>
 		<German>Kleines Imperium</German>
 		<Italian>Piccolo impero</Italian>
@@ -364,7 +364,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_DISTANT</Tag>
-		<English>Distant Location</English>
+		<English>&#x9065;&#x8fdc;&#x4f4d;&#x7f6e;</English>
 		<French>Endroit &#233;loign&#233;</French>
 		<German>Entfernte Lage</German>
 		<Italian>Posizione distante</Italian>
@@ -372,7 +372,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_COLONY</Tag>
-		<English>Colony</English>
+		<English>&#x6b96;&#x6c11;&#x5730;</English>
 		<French>Colonie</French>
 		<German>Kolonie</German>
 		<Italian>Colonia</Italian>
@@ -380,7 +380,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_HOLY_CITY</Tag>
-		<English>Holy city</English>
+		<English>&#x5723;&#x57ce;</English>
 		<French>Ville Sainte</French>
 		<German>Heilige Stadt</German>
 		<Italian>Citt&#224; Santa</Italian>
@@ -388,7 +388,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_HEATHENS</Tag>
-		<English>Holy city owned by heathens</English>
+		<English>&#x5723;&#x57ce;&#x4e3a;&#x5f02;&#x6559;&#x5f92;&#x6240;&#x6709;</English>
 		<French>Ville Sainte poss&#233;d&#233;e par des heathens</French>
 		<German>Heilige Stadt im Besitz von Heiden</German>
 		<Italian>Citt&#224; Santa posseduta da infedeli</Italian>
@@ -396,13 +396,13 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_RELIGION</Tag>
-		<English>Religion</English>
+		<English>&#x5b97;&#x6559;</English>
 		<Italian>Religione</Italian>
 		<Spanish>Religi&#243;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_STATE_RELIGION</Tag>
-		<English>State Religion</English>
+		<English>&#x56fd;&#x6559;</English>
 		<French>Religion d'&#233;tat</French>
 		<German>Staatsreligion</German>
 		<Italian>Religione di Stato</Italian>
@@ -410,7 +410,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_NON_STATE_RELIGION</Tag>
-		<English>Non-state Religion</English>
+		<English>&#x975e;&#x56fd;&#x6559;</English>
 		<French>religion de Non-&#233;tat</French>
 		<German>Nicht-staatliche Religion</German>
 		<Italian>Religione 'non di Stato'</Italian>
@@ -418,7 +418,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_CULTURE_RATE</Tag>
-		<English>Cult. rate</English>
+		<English>&#x6587;&#x5316;&#x901f;&#x7387;</English>
 		<French>Culte. taux</French>
 		<German>Kulturrate</German>
 		<Italian>Tasso culturale</Italian>
@@ -426,7 +426,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_NATIONALITY</Tag>
-		<English>Nationality</English>
+		<English>&#x6c11;&#x65cf;</English>
 		<French>Nationalit&#233;</French>
 		<German>Nationalit&#228;t</German>
 		<Italian>Nazionalit&#224;</Italian>
@@ -434,7 +434,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_SMALL_CITY</Tag>
-		<English>Small City</English>
+		<English>&#x5c0f;&#x57ce;&#x5e02;</English>
 		<French>Petite ville</French>
 		<German>Kleine Stadt</German>
 		<Italian>Piccola citt&#224;</Italian>
@@ -442,7 +442,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_UNHEALTHY</Tag>
-		<English>Unhealthy</English>
+		<English>&#x4e0d;&#x536b;&#x751f;</English>
 		<French>Malsain</French>
 		<German>Ungesund</German>
 		<Italian>Insalubre</Italian>
@@ -450,7 +450,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_GARRISON</Tag>
-		<English>Garrison</English>
+		<English>&#x9a7b;&#x519b;</English>
 		<French>Garnison</French>
 		<German>Garnison</German>
 		<Italian>Guarnigione</Italian>
@@ -458,7 +458,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_SPIRIT</Tag>
-		<English>Rebellious Spirit</English>
+		<English>&#x53db;&#x9006;&#x7cbe;&#x795e;</English>
 		<French>Esprit rebelle</French>
 		<German>Rebellischer Geist</German>
 		<Italian>Spirito ribelle</Italian>
@@ -466,7 +466,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_STARVATION</Tag>
-		<English>Starvation</English>
+		<English>&#x9965;&#x8352;</English>
 		<French>Famine</French>
 		<German>Hunger</German>
 		<Italian>Carestia</Italian>
@@ -474,7 +474,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_DISORDER</Tag>
-		<English>Disorder</English>
+		<English>&#x52a8;&#x4e71;</English>
 		<French>D&#233;sordre</French>
 		<German>Unruhe</German>
 		<Italian>Disordine</Italian>
@@ -482,14 +482,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_DANGER</Tag>
-		<English>Danger</English>
+		<English>&#x5371;&#x9669;</English>
 		<German>Gefahr</German>
 		<Italian>Pericolo</Italian>
 		<Spanish>En peligro</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_WARNING</Tag>
-		<English>Warning</English>
+		<English>&#x8b66;&#x544a;</English>
 		<French>Avertissement</French>
 		<German>Warnung</German>
 		<Italian>Attenzione</Italian>
@@ -497,7 +497,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_SAFE</Tag>
-		<English>Safe</English>
+		<English>&#x5b89;&#x5168;</English>
 		<French>S&#251;r</French>
 		<German>Sicher</German>
 		<Italian>Sicuro</Italian>
@@ -505,7 +505,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_TREND</Tag>
-		<English>Trend:</English>
+		<English>&#x8d8b;&#x52bf;&#xff1a;</English>
 		<French>Tendance:</French>
 		<German>Tendenz:</German>
 		<Italian>Tendenza:</Italian>
@@ -513,7 +513,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_FLAT</Tag>
-		<English>(Flat)</English>
+		<English>&#xff08;&#x6301;&#x5e73;&#xff09;</English>
 		<French>(Plat)</French>
 		<German>(gleichbleibend)</German>
 		<Italian>(costante)</Italian>
@@ -521,7 +521,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_IMPROVING</Tag>
-		<English>(Improving)</English>
+		<English>&#xff08;&#x6539;&#x5584;&#x4e2d;&#xff09;</English>
 		<French>(Am&#233;lioration)</French>
 		<German>(verbessernd)</German>
 		<Italian>(Migliora)</Italian>
@@ -529,7 +529,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_RAPIDLY_IMPROVING</Tag>
-		<English>(Rapidly Improving)</English>
+		<English>&#xff08;&#x8fc5;&#x901f;&#x6539;&#x5584;&#x4e2d;&#xff09;</English>
 		<French>(Rapidement s'am&#233;liorant)</French>
 		<German>(schnell verbessernd)</German>
 		<Italian>(Migliora velocemente)</Italian>
@@ -537,7 +537,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_WORSENING</Tag>
-		<English>(Worsening)</English>
+		<English>&#xff08;&#x6076;&#x5316;&#x4e2d;&#xff09;</English>
 		<French>(D&#233;t&#233;rioration)</French>
 		<German>(verschlechternd)</German>
 		<Italian>(Peggiora)</Italian>
@@ -545,7 +545,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_RAPIDLY_WORSENING</Tag>
-		<English>(Rapidly Worsening)</English>
+		<English>&#xff08;&#x8fc5;&#x901f;&#x6076;&#x5316;&#x4e2d;&#xff09;</English>
 		<French>(Rapidement empirant)</French>
 		<German>(Schnell verschlechternd)</German>
 		<Italian>(Peggiora velocemente)</Italian>
@@ -553,12 +553,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_THIS_TURN_AND_AFTER_ADJUSTMENTS</Tag>
-		<English>This turn: %D1 (%D2 after game speed adjustments)</English>
+		<English>&#x672c;&#x56de;&#x5408;&#xff1a;%D1&#xff08;&#x7ecf;&#x6e38;&#x620f;&#x901f;&#x5ea6;&#x8c03;&#x6574;&#x540e;&#x4e3a; %D2&#xff09;</English>
 		<German>Dieser Zug: %D1 (%D2 nach Anpassungen wegen Spielgeschwindigkeit)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_POSITIVE</Tag>
-		<English>Good factors:</English>
+		<English>&#x6709;&#x5229;&#x56e0;&#x7d20;&#xff1a;</English>
 		<French>Bon:</French>
 		<German>Gut:</German>
 		<Italian>Fattori Positivi: </Italian>
@@ -567,7 +567,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_NEGATIVE</Tag>
-		<English>Bad factors:</English>
+		<English>&#x4e0d;&#x5229;&#x56e0;&#x7d20;&#xff1a;</English>
 		<French>Mauvais:</French>
 		<German>Schlecht:</German>
 		<Italian>Fattori Negativi: </Italian>
@@ -576,13 +576,13 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_TOTAL</Tag>
-		<English>Total: %D1</English>
+		<English>&#x603b;&#x8ba1;&#xff1a;%D1</English>
 		<German>Gesamt: %D1</German>
 		<Spanish>Total: %D1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_DANGEROUSLY_UNSTABLE</Tag>
-		<English>Dangerously Unstable:</English>
+		<English>&#x5371;&#x9669;&#x5730;&#x4e0d;&#x7a33;&#x5b9a;&#xff1a;</English>
 		<French>Dangereusement instable:</French>
 		<German>Gef&#228;hrlich instabil:</German>
 		<Italian>Pericolosamente instabile </Italian>
@@ -590,7 +590,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_UNSTABLE</Tag>
-		<English>Unstable</English>
+		<English>&#x4e0d;&#x7a33;&#x5b9a;</English>
 		<French>Instable</French>
 		<German>Instabil</German>
 		<Italian>Instabile</Italian>
@@ -598,20 +598,20 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_NEUTRAL</Tag>
-		<English>Neutral</English>
+		<English>&#x4e2d;&#x7acb;</English>
 		<French>Neutre</French>
 		<Italian>Neutro</Italian>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_STABLE</Tag>
-		<English>Stable</English>
+		<English>&#x7a33;&#x5b9a;</English>
 		<German>Stabil</German>
 		<Italian>Stabile</Italian>
 		<Spanish>Estable</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_VERY_STABLE</Tag>
-		<English>Very Stable</English>
+		<English>&#x975e;&#x5e38;&#x7a33;&#x5b9a;</English>
 		<French>Tr&#232;s &#233;curie</French>
 		<German>Sehr stabil</German>
 		<Italian>Molto stabile</Italian>
@@ -619,7 +619,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_SERIOUS_FINANCIAL</Tag>
-		<English>Serious financial trouble</English>
+		<English>&#x4e25;&#x91cd;&#x7684;&#x8d22;&#x653f;&#x56f0;&#x5883;</English>
 		<French>Ennui financier s&#233;rieux</French>
 		<German>Ernste Finanzprobleme</German>
 		<Italian>Seria difficolt&#224; finanziaria </Italian>
@@ -627,7 +627,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_FINANCIAL_NEG</Tag>
-		<English>Financial trouble</English>
+		<English>&#x8d22;&#x653f;&#x56f0;&#x5883;</English>
 		<French>Ennui financier</French>
 		<German>Finanzprobleme</German>
 		<Italian>Difficolt&#224; finanziaria </Italian>
@@ -635,7 +635,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_FINANCIAL_POS</Tag>
-		<English>Financial stability</English>
+		<English>&#x8d22;&#x653f;&#x7a33;&#x5b9a;</English>
 		<French>La stabilite financiere</French>
 		<German>Finanzielle Stabilitat</German>
 		<Italian>Stabilit&#224; finanziaria </Italian>
@@ -644,7 +644,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_TAXES</Tag>
-		<English>High taxes</English>
+		<English>&#x9ad8;&#x7a0e;&#x6536;</English>
 		<French>Imp&#244;ts &#233;lev&#233;s</French>
 		<German>Hohe Steuern</German>
 		<Italian>Tasse elevate </Italian>
@@ -652,7 +652,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_LOW_TAXES</Tag>
-		<English>Low taxes</English>
+		<English>&#x4f4e;&#x7a0e;&#x6536;</English>
 		<French>Bas imp&#244;ts</French>
 		<German>Niedrige Steuern</German>
 		<Italian>Tasse basse </Italian>
@@ -660,7 +660,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_CULTURE_SPENDING</Tag>
-		<English>Cult. spending</English>
+		<English>&#x6587;&#x5316;&#x5f00;&#x652f;</English>
 		<French>Culte. d&#233;pense</French>
 		<German>Kulturausgaben</German>
 		<Italian>Spesa per Cultura </Italian>
@@ -668,7 +668,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_MILITARY</Tag>
-		<English>Oversize military</English>
+		<English>&#x519b;&#x961f;&#x89c4;&#x6a21;&#x8fc7;&#x5927;</English>
 		<French>Militaires surdimensionn&#233;s</French>
 		<German>&#220;bergro&#223;es Milit&#228;r</German>
 		<Italian>Esercito sovradimensionato </Italian>
@@ -676,7 +676,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_ANARCHY</Tag>
-		<English>Anarchy</English>
+		<English>&#x65e0;&#x653f;&#x5e9c;</English>
 		<French>Anarchie</French>
 		<German>Anarchie</German>
 		<Italian>Anarchia</Italian>
@@ -684,7 +684,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_GOLDEN_AGE</Tag>
-		<English>Golden Age</English>
+		<English>&#x9ec4;&#x91d1;&#x65f6;&#x4ee3;</English>
 		<French>&#194;ge d'or</French>
 		<German>Goldenes Zeitalter</German>
 		<Italian>Et&#224; dell'oro</Italian>
@@ -692,7 +692,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_WATCH_CIV_STABILITY</Tag>
-		<English>Empire stability:</English>
+		<English>&#x5e1d;&#x56fd;&#x7a33;&#x5b9a;&#xff1a;</English>
 		<French>Stabilit&#233; Civ:</French>
 		<German>Imperiumweite Stabilit&#228;t:</German>
 		<Italian>Stabilit&#224; Nazionale: </Italian>
@@ -702,7 +702,7 @@
 	<!-- Bribe city text -->
 	<TEXT>
 		<Tag>TXT_KEY_REV_BRIBE_CITY_WHICH</Tag>
-		<English>Which city would you like to bribe?</English>
+		<English>&#x4f60;&#x60f3;&#x8d3f;&#x8d42;&#x54ea;&#x5ea7;&#x57ce;&#x5e02;&#xff1f;</English>
 		<French>Quelle ville aimez-vous suborner?</French>
 		<German>Welche Stadt m&#246;chten Sie bestechen?</German>
 		<Italian>Quale citt&#224; vorresti corrompere?</Italian>
@@ -710,7 +710,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BRIBE_CITY_VIOLENT</Tag>
-		<English>The citizen's of %s will not accept any money from you, they would rather be rid of you entirely!</English>
+		<English>%s &#x7684;&#x5e02;&#x6c11;&#x4e0d;&#x4f1a;&#x63a5;&#x53d7;&#x4f60;&#x7684;&#x4efb;&#x4f55;&#x94b1;&#x8d22;&#xff0c;&#x4ed6;&#x4eec;&#x5b81;&#x53ef;&#x628a;&#x4f60;&#x5f7b;&#x5e95;&#x8d76;&#x8d70;&#xff01;</English>
 		<French>Le citizen&#039; s de %s n'acceptera aucun argent de vous, ils plut&#244;t serait d&#233;barrass&#233; de vous enti&#232;rement!</French>
 		<German>Die B&#252;rger von %s nehmen kein Geld von Ihnen an, sie m&#246;chten Sie vielmehr v&#246;llig los werden!</German>
 		<Italian>I cittadini di %s non accetteranno il tuo denaro, piuttosto preferiscono sbarazzarsi completamente di te!</Italian>
@@ -718,7 +718,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BRIBE_CITY_POOR</Tag>
-		<English>Unfortunately, you do not have enough gold in the treasury to be able to bribe this city.</English>
+		<English>&#x5f88;&#x9057;&#x61be;&#xff0c;&#x4f60;&#x56fd;&#x5e93;&#x91cc;&#x7684;&#x9ec4;&#x91d1;&#x4e0d;&#x8db3;&#x4ee5;&#x8d3f;&#x8d42;&#x8fd9;&#x5ea7;&#x57ce;&#x5e02;&#x3002;</English>
 		<French>Malheureusement, vous n'avez pas assez d'or dans le tr&#233;sor &#224; pouvoir suborner cette ville.</French>
 		<German>Leider haben Sie nicht gen&#252;gend Gold in der Schatzkammer, um diese Stadt bestechen zu k&#246;nnen.</German>
 		<Italian>Purtroppo, non hai abbastanza oro per poter corrompere questa citt&#224;.</Italian>
@@ -726,7 +726,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BRIBE_CITY_NO_NEED</Tag>
-		<English>There is no need to bribe %s, the local situation is favorable for now.</English>
+		<English>&#x65e0;&#x9700;&#x8d3f;&#x8d42; %s&#xff0c;&#x5f53;&#x5730;&#x5c40;&#x52bf;&#x6682;&#x65f6;&#x5c1a;&#x4e14;&#x6709;&#x5229;&#x3002;</English>
 		<French>Il n'y a aucun besoin de suborner %s, la situation locale est favorable pour maintenant.</French>
 		<German>Es ist nicht notwendig %s zu bestechen, die &#246;rtlichen Verh&#228;ltnisse sind derzeit g&#252;nstig.</German>
 		<Italian>Non serve corrompere %s, la situazione locale &#232; favorevole, per ora.</Italian>
@@ -734,7 +734,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BRIBE_CITY_RECENT</Tag>
-		<English>You bribed this city %d turns ago, so the cost to produce the desired effect will be higher than normal.  Costs will decrease every turn you wait, if you can wait at all.</English>
+		<English>&#x4f60;&#x5728; %d &#x56de;&#x5408;&#x524d;&#x8d3f;&#x8d42;&#x8fc7;&#x8fd9;&#x5ea7;&#x57ce;&#x5e02;&#xff0c;&#x56e0;&#x6b64;&#x8981;&#x8fbe;&#x5230;&#x9884;&#x671f;&#x6548;&#x679c;&#xff0c;&#x82b1;&#x8d39;&#x5c06;&#x9ad8;&#x4e8e;&#x5e38;&#x6001;&#x3002;&#x4f60;&#x6bcf;&#x591a;&#x7b49;&#x4e00;&#x56de;&#x5408;&#xff0c;&#x82b1;&#x8d39;&#x4fbf;&#x4f1a;&#x4e0b;&#x964d;&#xff0c;&#x524d;&#x63d0;&#x662f;&#x4f60;&#x8fd8;&#x7b49;&#x5f97;&#x8d77;&#x3002;</English>
 		<French>Vous avez suborn&#233; cette ville %d il y a des tours, ainsi le co&#251;t pour produire l'effet d&#233;sir&#233; sera plus haut que la normale.  Les co&#251;ts diminueront chaque tour que vous attendez, si vous pouvez attendre du tout.</French>
 		<German>Sie bestachen diese Stadt vor %d Runden, deshalb sind die Kosten, um den gew&#252;nschten Effekt zu erzielen h&#246;her als &#252;blich.  Die Kosten verringern sich jede Runde, die Sie warten, falls Sie &#252;berhaupt warten k&#246;nnen.</German>
 		<Italian>Hai corrotto questa citt&#224; %d turni fa, il costo per ottenere l'effetto desiderato sar&#224; superiore al normale.  Questo costo diminuir&#224; ogni turno che passa, se sei in grado di aspettare.</Italian>
@@ -742,7 +742,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BRIBE_CITY_SMALL</Tag>
-		<English>A small gift of %d gold to buy some time before they contemplate rebelling.</English>
+		<English>&#x4e00;&#x4efd; %d &#x9ec4;&#x91d1;&#x7684;&#x5c0f;&#x793c;&#xff0c;&#x5728;&#x4ed6;&#x4eec;&#x915d;&#x917f;&#x53db;&#x4e71;&#x4e4b;&#x524d;&#x4e89;&#x53d6;&#x4e9b;&#x8bb8;&#x65f6;&#x95f4;&#x3002;</English>
 		<French>Un petit cadeau de l'or de %d pour acheter une certaine heure avant qu'ils contemplent se rebeller.</French>
 		<German>Ein kleines Geschenk von %d Gold, um sich etwas Zeit kaufen zu k&#246;nnen bis sie eine Rebellion in Erw&#228;gung ziehen.</German>
 		<Italian>Un piccolo regalo (%d [ICON_GOLD]) per guadagnare un po' di tempo prima che scoppi una rivolta.</Italian>
@@ -750,7 +750,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BRIBE_CITY_MED</Tag>
-		<English>A middle-sized gift at a cost of %d gold to push rebelling further from their thoughts.</English>
+		<English>&#x4e00;&#x4efd;&#x4ef7;&#x503c; %d &#x9ec4;&#x91d1;&#x7684;&#x4e2d;&#x7b49;&#x793c;&#x7269;&#xff0c;&#x628a;&#x53db;&#x4e71;&#x7684;&#x5ff5;&#x5934;&#x4ece;&#x4ed6;&#x4eec;&#x8111;&#x4e2d;&#x63a8;&#x5f97;&#x66f4;&#x8fdc;&#x3002;</English>
 		<French>Un cadeau de taille moyenne &#224; un co&#251;t d'or de %d pour pousser se rebeller plus loin de leurs pens&#233;es.</French>
 		<German>Ein mittelgro&#223;es Geschenk in H&#246;he von %d Gold um den Gedanken an Rebellion etwas l&#228;nger aus ihren Gedanken zu streichen.</German>
 		<Italian>Un discreto regalo (%d [ICON_GOLD]), per allontanare la rivolta dai loro pensieri...</Italian>
@@ -758,7 +758,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BRIBE_CITY_LARGE</Tag>
-		<English>A lavish gift, at %d gold, to remind them of your benevolence and keep them from rebelling for longer.</English>
+		<English>&#x4e00;&#x4efd; %d &#x9ec4;&#x91d1;&#x7684;&#x4e30;&#x539a;&#x793c;&#x7269;&#xff0c;&#x63d0;&#x9192;&#x4ed6;&#x4eec;&#x4f60;&#x7684;&#x4ec1;&#x6148;&#xff0c;&#x4ee4;&#x4ed6;&#x4eec;&#x66f4;&#x957f;&#x4e45;&#x5730;&#x4e0d;&#x751f;&#x53db;&#x5fc3;&#x3002;</English>
 		<French>Un cadeau somptueux, &#224; l'or de %d, pour les rappeler votre bienveillance et les garder de se rebeller pour plus longtemps.</French>
 		<German>Ein verschwenderisches Geschenk in H&#246;he von %d Gold, um sie an Ihre Wohlt&#228;tigkeit zu erinnern und sie f&#252;r l&#228;ngere Zeit vom Rebellieren abzuhalten.</German>
 		<Italian>Un regalo sontuoso (%d [ICON_GOLD]), per ricordare loro la tua benevolenza e impedirgli di ribellarsi per molto tempo.</Italian>
@@ -766,7 +766,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BRIBE_CITY_OPTIONS</Tag>
-		<English>You can choose to give one of the following 'donations' to the city:</English>
+		<English>&#x4f60;&#x53ef;&#x4ee5;&#x9009;&#x62e9;&#x5411;&#x8fd9;&#x5ea7;&#x57ce;&#x5e02;&#x505a;&#x51fa;&#x4ee5;&#x4e0b;&#x201c;&#x6350;&#x8d60;&#x201d;&#x4e4b;&#x4e00;&#xff1a;</English>
 		<French>Vous pouvez choisir de donner un du &#039; suivant donations&#039; &#224; la ville:</French>
 		<German>Sie k&#246;nnen der Stadt eine der folgenden &#039;Spenden&#039; geben:</German>
 		<Italian>Puoi scegliere di fare una delle seguenti &#039;donazioni&#039; alla citt&#224;: </Italian>
@@ -774,7 +774,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BRIBE_CITY_BUTTON</Tag>
-		<English>%d Gold Bribe</English>
+		<English>%d &#x9ec4;&#x91d1;&#x8d3f;&#x8d42;</English>
 		<French>%d Paiement illicite d'or</French>
 		<German>%d Bestechung mit Gold</German>
 		<Italian>Dona %d oro</Italian>
@@ -782,7 +782,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BRIBE_CITY_NO_BRIBE</Tag>
-		<English>No bribe</English>
+		<English>&#x4e0d;&#x8d3f;&#x8d42;</English>
 		<French>Aucun paiement illicite</French>
 		<German>Kein Bestechungsgeld</German>
 		<Italian>Nessun dono</Italian>
@@ -792,7 +792,7 @@
 	<!-- Revolution messages -->
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_YOU_BARB</Tag>
-		<English>Disorganized rebels have risen up against you!</English>
+		<English>&#x4e00;&#x7fa4;&#x4e4c;&#x5408;&#x4e4b;&#x4f17;&#x7684;&#x53db;&#x519b;&#x5df2;&#x8d77;&#x6765;&#x53cd;&#x6297;&#x4f60;&#xff01;</English>
 		<French>Les rebelles d&#233;sorganis&#233;s se sont lev&#233;s vers le haut contre vous!</French>
 		<German>Unorganisierte Aufr&#252;hrer haben sich gegen Sie erhoben!</German>
 		<Italian>Bande disorganizzate di ribelli si sono sollevate contro di te!</Italian>
@@ -800,14 +800,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_JOIN</Tag>
-		<English>The revolutionionaries join forces with %s1_leader of the %s2_civ.</English>
+		<English>&#x9769;&#x547d;&#x8005;&#x4e0e; %s2_civ &#x7684; %s1_leader &#x8054;&#x624b;&#x4e86;&#x3002;</English>
 		<German>Die Revolution&#228;re vereinigen sich mit %s1_leader vom %s2_civ.</German>
 		<Spanish>Los revolucionarios se han unido [NUM1:al:a la:a los:a las] %s1_leader [NUM1:del:de la:de los:de las] %s2_civ.</Spanish>
 		<Finnish>The revolutionionaries join the</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_YOU_RISEN</Tag>
-		<English>%s1_leader of the %s2_civ has risen up against you!</English>
+		<English>%s2_civ &#x7684; %s1_leader &#x5df2;&#x8d77;&#x6765;&#x53cd;&#x6297;&#x4f60;&#xff01;</English>
 		<French>se sont lev&#233;s vers le haut contre vous en r&#233;volution!</French>
 		<German>haben sich in einer Revolution gegen Sie erhoben!</German>
 		<Italian>si sono sollevati in rivolta contro di te!</Italian>
@@ -816,7 +816,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_VIOLENT</Tag>
-		<English>A violent revolution has occured in the</English>
+		<English>&#x4e00;&#x573a;&#x66b4;&#x529b;&#x9769;&#x547d;&#x5df2;&#x7206;&#x53d1;&#x4e8e;</English>
 		<French>Une r&#233;volution violente s'est produite dans</French>
 		<German>Eine gewaltt&#228;tige Revolution findet statt im</German>
 		<Italian>Una violenta rivolta &#232; scoppiata nel/la </Italian>
@@ -824,7 +824,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_BARB</Tag>
-		<English>Disorganized rebels have risen up as the region descends into civil war!</English>
+		<English>&#x968f;&#x7740;&#x8fd9;&#x4e00;&#x5730;&#x533a;&#x9677;&#x5165;&#x5185;&#x6218;&#xff0c;&#x4e00;&#x7fa4;&#x4e4c;&#x5408;&#x4e4b;&#x4f17;&#x7684;&#x53db;&#x519b;&#x5df2;&#x7136;&#x63ed;&#x7aff;&#x800c;&#x8d77;&#xff01;</English>
 		<French>Les rebelles d&#233;sorganis&#233;s se sont lev&#233;s vers le haut pendant que la r&#233;gion descend dans la guerre civile!</French>
 		<German>Unorganisierte Aufr&#252;hrer haben sich erhoben, die Region versinkt im B&#252;rgerkrieg!</German>
 		<Italian>Bande disorganizzate di ribelli sono in rivolta e la regione sprofonda nella guerra civile!</Italian>
@@ -832,11 +832,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_RISEN</Tag>
-		<English>The %s1_civ under the command of %s2_leader have taken up arms as war engulfs the region!</English>
+		<English>&#x5728; %s2_leader &#x6307;&#x6325;&#x4e0b;&#x7684; %s1_civ &#x5df2;&#x62ff;&#x8d77;&#x6b66;&#x5668;&#xff0c;&#x6218;&#x706b;&#x541e;&#x6ca1;&#x4e86;&#x8fd9;&#x4e00;&#x5730;&#x533a;&#xff01;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_NEW_LEADER</Tag>
-		<English>has taken over control of the</English>
+		<English>&#x5df2;&#x63a5;&#x7ba1;&#x4e86;</English>
 		<French>a assur&#233; la commande du</French>
 		<German>hat die Kontrolle &#252;bernommen von</German>
 		<Italian>ha assunto il comando del/la</Italian>
@@ -844,7 +844,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_REINFORCEMENTS</Tag>
-		<English>Rebel reinforcements for %s1_leader spotted outside of %s2_city</English>
+		<English>&#x5728; %s2_city &#x57ce;&#x5916;&#x53d1;&#x73b0;&#x4e86;&#x589e;&#x63f4; %s1_leader &#x7684;&#x53db;&#x519b;</English>
 		<French>Renforts rebelles for %s1_leader rep&#233;r&#233;s dehors de %s2_city</French>
 		<German>Rebellenverst&#228;rkungen wurden gesichtet for %s1_leader vor den Toren von %s2_city</German>
 		<Italian>Rinforzi ribelli for %s1_leader avvistati vicino %s2_city</Italian>
@@ -852,7 +852,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_YOUR_REINFORCEMENTS</Tag>
-		<English>%s1_civ reinforcements join your cause outside of %s2_city</English>
+		<English>%s1_civ &#x7684;&#x589e;&#x63f4;&#x5728; %s2_city &#x57ce;&#x5916;&#x52a0;&#x5165;&#x4e86;&#x4f60;&#x7684;&#x4e8b;&#x4e1a;</English>
 		<French>Les renforts joignent votre cause dehors de %s2_city</French>
 		<German>Verst&#228;rkungen schlie&#223;en sich Ihrer Sache an, vor den Toren von %s2_city</German>
 		<Italian>Rinforzi si uniscono al tuo esercito, nei pressi di %s2_city</Italian>
@@ -860,7 +860,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_SMALL_REVOLT</Tag>
-		<English>A small revolt has taken place in %s!</English>
+		<English>%s &#x53d1;&#x751f;&#x4e86;&#x4e00;&#x573a;&#x5c0f;&#x89c4;&#x6a21;&#x53db;&#x4e71;&#xff01;</English>
 		<French>Une petite r&#233;volte a eu lieu dans %s!</French>
 		<German>Ein kleiner Aufstand hat in %s stattgefunden!</German>
 		<Italian>Una piccola rivolta &#232; scoppiata a %s!</Italian>
@@ -868,7 +868,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_FREED</Tag>
-		<English>%s have liberated the cities of %s, allowing them to form the %s!</English>
+		<English>%s &#x89e3;&#x653e;&#x4e86; %s &#x8bf8;&#x57ce;&#xff0c;&#x4f7f;&#x5b83;&#x4eec;&#x5f97;&#x4ee5;&#x7ec4;&#x6210; %s&#xff01;</English>
 		<French>%s ont lib&#233;r&#233; les villes de %s, leur permettant de former le %s!</French>
 		<German>%s haben die St&#228;dte von %s befreit und sie das %s bilden lassen!</German>
 		<Italian>%s hanno liberato le citt&#224; di %s,  e cos&#236; hanno formato il/la %s!</Italian>
@@ -876,7 +876,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_CEDE</Tag>
-		<English>Under pressure from rebel groups, %s have ceded control of %s to %s!</English>
+		<English>&#x8feb;&#x4e8e;&#x53db;&#x519b;&#x56e2;&#x4f53;&#x7684;&#x538b;&#x529b;&#xff0c;%s &#x5df2;&#x5c06; %s &#x7684;&#x63a7;&#x5236;&#x6743;&#x8ba9;&#x4e88; %s&#xff01;</English>
 		<French>Sous pression des groupes rebelles, %s ont c&#233;d&#233; la commande de %s to %s!</French>
 		<German>Unter dem Druck von Rebellengruppen haben %s die Kontrolle von %s an %s &#252;bergeben!</German>
 		<Italian>Sotto pressione di gruppi ribelli, %s ha ceduto il controllo di %s a: %s!</Italian>
@@ -884,7 +884,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_YOUR_CAPTURE</Tag>
-		<English>With your capture of %s, support for the rebellion in the city swells ...</English>
+		<English>&#x968f;&#x7740;&#x4f60;&#x653b;&#x5360; %s&#xff0c;&#x57ce;&#x4e2d;&#x5bf9;&#x53db;&#x4e71;&#x7684;&#x652f;&#x6301;&#x9ad8;&#x6da8;&#x2026;&#x2026;</English>
 		<French>Avec votre capture de %s, le soutien de la r&#233;bellion dans la ville gonfle&#8230;...</French>
 		<German>Durch Ihre Eroberung von %s w&#228;chst die Unterst&#252;tzung f&#252;r den Aufstand in der Stadt...</German>
 		<Italian>Dopo la cattura di %s, cresce la forza della rivolta nella citt&#224;...</Italian>
@@ -892,7 +892,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_YOUR_CAPTURE_GOLD</Tag>
-		<English>The grateful city of %s gives you %d gold to support the rebellion!</English>
+		<English>&#x6ee1;&#x6000;&#x611f;&#x6fc0;&#x7684; %s &#x57ce;&#x7ed9;&#x4e86;&#x4f60; %d &#x9ec4;&#x91d1;&#x4ee5;&#x652f;&#x6301;&#x53db;&#x4e71;&#xff01;</English>
 		<French>il ville reconnaissante de %s te donne l'or de %d pour soutenir la r&#233;bellion !</French>
 		<German>Die dankbare Stadt %s gibt Ihnen %d Gold, um den Aufstand zu unterst&#252;tzen!</German>
 		<Italian>La citt&#224; di %s, per riconoscenza, ti dona %d oro per sostenere la rivolta!</Italian>
@@ -900,7 +900,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_GOLDEN_AGE</Tag>
-		<English>The continued success of your rebellion launches a Golden Age!</English>
+		<English>&#x4f60;&#x53db;&#x4e71;&#x7684;&#x6301;&#x7eed;&#x6210;&#x529f;&#x5f00;&#x542f;&#x4e86;&#x4e00;&#x4e2a;&#x9ec4;&#x91d1;&#x65f6;&#x4ee3;&#xff01;</English>
 		<French>Le succ&#232;s continu de votre r&#233;bellion lance un &#226;ge d'or !</French>
 		<German>Der anhaltende Erfolg Ihres Aufstands startet ein goldenes Zeitalter!</German>
 		<Italian>Il continuo successo della tua rivolta fa partire un'Et&#224; dell'oro!</Italian>
@@ -908,7 +908,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_REBEL_CONTROL</Tag>
-		<English>The rebels from the %s have taken control of %s!  Support for the rebellion swells ...</English>
+		<English>&#x6765;&#x81ea; %s &#x7684;&#x53db;&#x519b;&#x5df2;&#x63a7;&#x5236;&#x4e86; %s&#xff01;&#x5bf9;&#x53db;&#x4e71;&#x7684;&#x652f;&#x6301;&#x9ad8;&#x6da8;&#x2026;&#x2026;</English>
 		<French>Les rebelles du %s ont pris la commande de %s!  Le soutien de la r&#233;bellion gonfle&#8230;</French>
 		<German>Die Aufr&#252;hrer vom %s kontrollieren %s!  Unterst&#252;tzung f&#252;r den Aufstand w&#228;chst...</German>
 		<Italian>I ribelli del %s hanno preso il controllo di %s!  Cresce la forza della rivolta!</Italian>
@@ -916,7 +916,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_BREWING</Tag>
-		<English>A revolution is brewing in %s!</English>
+		<English>%s &#x6b63;&#x5728;&#x915d;&#x917f;&#x4e00;&#x573a;&#x9769;&#x547d;&#xff01;</English>
 		<French>Une r&#233;volution brasse dans %s!</French>
 		<German>Eine Revolution braut sich in %s zusammen!</German>
 		<Italian>Cova la rivolta a %s!</Italian>
@@ -924,7 +924,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_REPORT</Tag>
-		<English>Our agents report that tension in the %s of %s in %s has</English>
+		<English>&#x6211;&#x4eec;&#x7684;&#x5bc6;&#x63a2;&#x7980;&#x62a5;&#xff0c;%s &#x4e4b; %s &#x4e2d;&#x3001;&#x4f4d;&#x4e8e; %s &#x7684;&#x7d27;&#x5f20;&#x5c40;&#x52bf;&#x5df2;</English>
 		<French>Nos agents signalent que la tension dans le %s de %s dans %s a</French>
 		<German>Unsere Agenten berichten, dass die Spannung im %s von %s in %s</German>
 		<Italian>Nostri agenti segnalano che la tensione nella %s di %s, in %s </Italian>
@@ -932,7 +932,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_REPORT_EASED</Tag>
-		<English>eased after the government accepted the rebel terms.</English>
+		<English>&#x5728;&#x653f;&#x5e9c;&#x63a5;&#x53d7;&#x4e86;&#x53db;&#x519b;&#x6761;&#x4ef6;&#x540e;&#x6709;&#x6240;&#x7f13;&#x548c;&#x3002;</English>
 		<French>soulag&#233; apr&#232;s le gouvernement a accept&#233; les limites rebelles.</French>
 		<German>nachgelassen hat, nachdem die Regierung die Forderungen der Rebellen akzeptierte.</German>
 		<Italian>si &#232; attenuata dopo che il governo ha accettato le condizioni dei ribelli.</Italian>
@@ -940,7 +940,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_MESS_REPORT_INCREASED</Tag>
-		<English>increased after the government rejected the rebel terms.</English>
+		<English>&#x5728;&#x653f;&#x5e9c;&#x62d2;&#x7edd;&#x4e86;&#x53db;&#x519b;&#x6761;&#x4ef6;&#x540e;&#x6709;&#x6240;&#x52a0;&#x5267;&#x3002;</English>
 		<French>accru apr&#232;s le gouvernement a rejet&#233; les limites rebelles.</French>
 		<German>sich erh&#246;ht hat, nachdem die Regierung die Forderungen der Rebellen ablehnte.</German>
 		<Italian>&#232; aumentata dopo che il governo ha respinto le condizioni dei ribelli.</Italian>
@@ -950,7 +950,7 @@
 	<!-- General revolution popup text -->
 	<TEXT>
 		<Tag>TXT_KEY_REV_HONORING</Tag>
-		<English>While they have not yet begun preparations for war, if you deny their request they may not put up with your current policies much longer.  Honoring their request is by far the quickest and easiest path to keeping them in your empire for the forseeable future.</English>
+		<English>&#x5c3d;&#x7ba1;&#x4ed6;&#x4eec;&#x5c1a;&#x672a;&#x7740;&#x624b;&#x5907;&#x6218;&#xff0c;&#x4f46;&#x4f60;&#x82e5;&#x62d2;&#x7edd;&#x4ed6;&#x4eec;&#x7684;&#x8bf7;&#x6c42;&#xff0c;&#x4ed6;&#x4eec;&#x6216;&#x8bb8;&#x4e0d;&#x4f1a;&#x518d;&#x957f;&#x4e45;&#x5bb9;&#x5fcd;&#x4f60;&#x5f53;&#x524d;&#x7684;&#x653f;&#x7b56;&#x3002;&#x7b54;&#x5e94;&#x4ed6;&#x4eec;&#x7684;&#x8bf7;&#x6c42;&#xff0c;&#x662f;&#x8fc4;&#x4eca;&#x4e3a;&#x6b62;&#x5728;&#x53ef;&#x9884;&#x89c1;&#x7684;&#x672a;&#x6765;&#x5c06;&#x4ed6;&#x4eec;&#x7559;&#x5728;&#x4f60;&#x5e1d;&#x56fd;&#x5185;&#x6700;&#x8fc5;&#x901f;&#x3001;&#x6700;&#x7b80;&#x4fbf;&#x7684;&#x9014;&#x5f84;&#x3002;</English>
 		<French>Tandis qu'ils n'ont pas encore commenc&#233; des pr&#233;parations pour la guerre, si vous niez leur demande elles peuvent ne pas accepter vos politiques courantes beaucoup plus longtemps.  Honorer leur demande est le chemin de loin le plus rapide et le plus facile &#224; les maintenir dans votre empire &#224; l'avenir pr&#233;visible.</French>
 		<German>Sie haben zwar noch nicht mit Kriegsvorbereitungen begonnen, doch wenn Sie ihre Forderungen ablehnen, werden sie Ihre gegenw&#228;rtige Politik m&#246;glicherweise nicht l&#228;nger dulden.  Ihre Forderung zu erf&#252;llen ist der bei weitem schnellste und einfachste Weg sie in absehbaren Zukunft in Ihrem Imperium zu halten.</German>
 		<Italian>Per ora non hanno cominciato i preparativi per la guerra, ma se non accetti la loro richiesta, non potranno sopportare per molto la tua politica.  Accettare la loro richiesta &#232;la scelta pi&#249; rapida e pi&#249; semplice per mantenerli nel tuo impero, per il prossimo futuro.</Italian>
@@ -958,7 +958,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_PEACEFUL_CONCLUSION</Tag>
-		<English>The demonstrators have not yet turned to violence, and there is still time to bring the situation to a peaceful conclusion.  Honoring their request is by far the quickest and easiest path to keeping these cities in your empire for the forseeable future.</English>
+		<English>&#x793a;&#x5a01;&#x8005;&#x5c1a;&#x672a;&#x8bc9;&#x8bf8;&#x66b4;&#x529b;&#xff0c;&#x4ecd;&#x6709;&#x65f6;&#x95f4;&#x5c06;&#x5c40;&#x52bf;&#x5bfc;&#x5411;&#x548c;&#x5e73;&#x7684;&#x7ed3;&#x5c40;&#x3002;&#x7b54;&#x5e94;&#x4ed6;&#x4eec;&#x7684;&#x8bf7;&#x6c42;&#xff0c;&#x662f;&#x8fc4;&#x4eca;&#x4e3a;&#x6b62;&#x5728;&#x53ef;&#x9884;&#x89c1;&#x7684;&#x672a;&#x6765;&#x5c06;&#x8fd9;&#x4e9b;&#x57ce;&#x5e02;&#x7559;&#x5728;&#x4f60;&#x5e1d;&#x56fd;&#x5185;&#x6700;&#x8fc5;&#x901f;&#x3001;&#x6700;&#x7b80;&#x4fbf;&#x7684;&#x9014;&#x5f84;&#x3002;</English>
 		<French>Les d&#233;monstrateurs ne se sont pas encore tourn&#233;s vers la violence, et il reste l'heure d'apporter la situation &#224; une conclusion paisible.  Honorer leur demande est le chemin de loin le plus rapide et le plus facile &#224; maintenir ces villes dans votre empire &#224; l'avenir pr&#233;visible.</French>
 		<German>Die Demonstranten sind noch nicht gewaltt&#228;tig geworden, es ist immer noch Zeit die Situation friedlich beizulegen.  Ihre Forderung zu erf&#252;llen ist der bei weitem schnellste und einfachste Weg sie in absehbarer Zukunft in Ihrem Imperium zu halten.</German>
 		<Italian>I dimostranti ancora non sono arrivati alla violenza e ti rimane tempo per giungere ad una conclusione pacifica.  Accettare la loro richiesta &#232; la scelta pi&#249; rapida e pi&#249; semplice per mantenerli nel tuo impero, per il prossimo futuro.</Italian>
@@ -966,7 +966,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BRIBE</Tag>
-		<English>You may also choose to bribe the agitators and they will drop their cause and quiet down.</English>
+		<English>&#x4f60;&#x4e5f;&#x53ef;&#x4ee5;&#x9009;&#x62e9;&#x8d3f;&#x8d42;&#x8fd9;&#x4e9b;&#x717d;&#x52a8;&#x8005;&#xff0c;&#x4ed6;&#x4eec;&#x4fbf;&#x4f1a;&#x653e;&#x5f03;&#x5176;&#x4e8b;&#x4e1a;&#x3001;&#x5e73;&#x9759;&#x4e0b;&#x6765;&#x3002;</English>
 		<French>Vous pouvez &#233;galement choisir de suborner les agitateurs et ils laisseront tomber leur cause et apaiseront vers le bas.</French>
 		<German>Sie k&#246;nnen auch beschlie&#223;en, die Aufwiegler zu bestechen und sie werden ihre Sache aufgeben und sich beruhigen.</German>
 		<Italian>Puoi anche scegliere di corrompere gli agitatori, cominceranno ad abbandonare la loro causa e la situazione comincer&#224; a calmarsi.</Italian>
@@ -974,7 +974,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_ADVISOR_ACCEPT</Tag>
-		<English>(Your advisors recommend accepting the terms)</English>
+		<English>&#xff08;&#x4f60;&#x7684;&#x987e;&#x95ee;&#x5efa;&#x8bae;&#x63a5;&#x53d7;&#x8fd9;&#x4e9b;&#x6761;&#x4ef6;&#xff09;</English>
 		<French>(Vos conseillers recommandent d'accepter les limites)</French>
 		<German>(Ihre Berater empfehlen, die Bedingungen zu akzeptieren)</German>
 		<Italian>(I tuoi consiglieri ti suggeriscono di accettare le condizioni)</Italian>
@@ -982,7 +982,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_ADVISOR_REJECT</Tag>
-		<English>(Your advisors recommend rejecting the terms)</English>
+		<English>&#xff08;&#x4f60;&#x7684;&#x987e;&#x95ee;&#x5efa;&#x8bae;&#x62d2;&#x7edd;&#x8fd9;&#x4e9b;&#x6761;&#x4ef6;&#xff09;</English>
 		<French>(Vos conseillers recommandent de rejeter les limites)</French>
 		<German>(Ihre Berater empfehlen, die Bedingungen zur&#252;ckzuweisen)</German>
 		<Italian>(I tuoi consiglieri ti suggeriscono di rifiutare le condizioni)</Italian>
@@ -990,7 +990,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_ADVISOR_NEUTRAL</Tag>
-		<English>(Your advisors are neutral on these terms)</English>
+		<English>&#xff08;&#x4f60;&#x7684;&#x987e;&#x95ee;&#x5bf9;&#x8fd9;&#x4e9b;&#x6761;&#x4ef6;&#x6301;&#x4e2d;&#x7acb;&#x6001;&#x5ea6;&#xff09;</English>
 		<French>(Vos conseillers sont neutres &#224; ces conditions)</French>
 		<German>(Ihre Berater stehen diesen Bedingungen neutral gegen&#252;ber)</German>
 		<Italian>(I tuoi consiglieri non hanno preferenze verso queste condizioni)</Italian>
@@ -998,7 +998,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_ADVISOR_APPROVAL</Tag>
-		<English>Your adjusted approval rating is</English>
+		<English>&#x4f60;&#x7ecf;&#x8c03;&#x6574;&#x540e;&#x7684;&#x652f;&#x6301;&#x7387;&#x4e3a;</English>
 		<French>Votre estimation d'approbation ajust&#233;e est</French>
 		<German>Ihr neuer Beliebtheitsgrad ist</German>
 		<Italian>Il tuo grado di approvazione (stimato) &#232;</Italian>
@@ -1006,7 +1006,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_ADVISOR_ELEC_LOSE</Tag>
-		<English>You will certainly lose any fair election.</English>
+		<English>&#x4f60;&#x5728;&#x4efb;&#x4f55;&#x516c;&#x6b63;&#x7684;&#x9009;&#x4e3e;&#x4e2d;&#x90fd;&#x5fc5;&#x8f93;&#x65e0;&#x7591;&#x3002;</English>
 		<French>Vous perdrez certainement n'importe quelle &#233;lection juste.</French>
 		<German>Sie werden zweifellos jede gerechte Wahl verlieren.</German>
 		<Italian>In caso di elezioni regolari, certamente perderai.</Italian>
@@ -1014,7 +1014,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BUTTON_ACCEPT</Tag>
-		<English>Accept Terms</English>
+		<English>&#x63a5;&#x53d7;&#x6761;&#x4ef6;</English>
 		<French>Acceptez les limites</French>
 		<German>Bedingungen akzeptieren</German>
 		<Italian>Accetta</Italian>
@@ -1022,7 +1022,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BUTTON_REJECT</Tag>
-		<English>Reject Terms</English>
+		<English>&#x62d2;&#x7edd;&#x6761;&#x4ef6;</English>
 		<French>Limites de rejet</French>
 		<German>Bedingungen ablehnen</German>
 		<Italian>Rifiuta</Italian>
@@ -1030,7 +1030,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BUTTON_BUYOFF</Tag>
-		<English>Pay them</English>
+		<English>&#x5411;&#x4ed6;&#x4eec;&#x4ed8;&#x94b1;</English>
 		<French>Payez-les</French>
 		<German>Zahlen Sie ihnen</German>
 		<Italian>Paga</Italian>
@@ -1038,7 +1038,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BUTTON_BUY_ELECTION</Tag>
-		<English>Buy election for</English>
+		<English>&#x4e70;&#x901a;&#x9009;&#x4e3e;&#xff0c;&#x4e3a;</English>
 		<French>Achetez l'&#233;lection pour</French>
 		<German>Kaufen Sie die Wahl f&#252;r</German>
 		<Italian>Compra le elezioni con</Italian>
@@ -1046,7 +1046,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BUTTON_CONTROL</Tag>
-		<English>Accept and take control of new civ</English>
+		<English>&#x63a5;&#x53d7;&#x5e76;&#x63a5;&#x7ba1;&#x65b0;&#x6587;&#x660e;</English>
 		<French>Acceptez et prenez la commande de nouveau civ</French>
 		<German>Nehmen Sie an und kontrollieren Sie die neue Civ</German>
 		<Italian>Accetta e prendi il controllo di una nuova civilt&#224;</Italian>
@@ -1054,7 +1054,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BUTTON_DEFECT</Tag>
-		<English>Defect and lead rebel armies (NOT WORKING)!</English>
+		<English>&#x53db;&#x53d8;&#x5e76;&#x7edf;&#x9886;&#x53db;&#x519b;&#xff08;&#x6682;&#x4e0d;&#x53ef;&#x7528;&#xff09;&#xff01;</English>
 		<French>Arm&#233;es rebelles de d&#233;faut et de fil!</French>
 		<German>Laufen Sie &#252;ber und f&#252;hren Sie die Rebellenarmee!</German>
 		<Italian>Diserta e prendi il comando dell'armata dei ribelli!</Italian>
@@ -1063,7 +1063,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BUTTON_INDEPENDENCE</Tag>
-		<English>Grant Independence</English>
+		<English>&#x6388;&#x4e88;&#x72ec;&#x7acb;</English>
 		<French>L'ind&#233;pendance de Grant</French>
 		<German>Gew&#228;hren Sie die Unabh&#228;ngigkeit</German>
 		<Italian>Concedi l'indipendenza</Italian>
@@ -1071,7 +1071,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BUTTON_RECOGNIZE</Tag>
-		<English>Recognize Independence</English>
+		<English>&#x627f;&#x8ba4;&#x72ec;&#x7acb;</English>
 		<French>Identifiez l'ind&#233;pendance</French>
 		<German>Erkennen Sie die Unabh&#228;ngigkeit an</German>
 		<Italian>Riconosci l'indipendenza</Italian>
@@ -1079,7 +1079,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BUTTON_VASSAL</Tag>
-		<English>Accept Vassal</English>
+		<English>&#x63a5;&#x53d7;&#x4e3a;&#x9644;&#x5eb8;</English>
 		<French>Acceptez le vassal</French>
 		<German>Akzeptieren Sie den Vasall</German>
 		<Italian>Accetta il vassallo</Italian>
@@ -1087,7 +1087,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BUTTON_WAR</Tag>
-		<English>Declare War on</English>
+		<English>&#x5ba3;&#x6218;&#xff0c;&#x5bf9;&#x8c61;&#x4e3a;</English>
 		<French>D&#233;clarez la guerre dessus</French>
 		<German>Erkl&#228;ren Sie Krieg gegen</German>
 		<Italian>Dichiara guerra a: </Italian>
@@ -1095,7 +1095,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BUTTON_WELCOME</Tag>
-		<English>Welcome back</English>
+		<English>&#x6b22;&#x8fce;&#x5f52;&#x6765;</English>
 		<French>Bienvenue en arri&#232;re</French>
 		<German>Willkommen zur&#252;ck</German>
 		<Italian>Bentornato</Italian>
@@ -1103,7 +1103,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BUTTON_NOT_WANTED</Tag>
-		<English>You're not welcome here</English>
+		<English>&#x6b64;&#x5730;&#x4e0d;&#x6b22;&#x8fce;&#x4f60;</English>
 		<French>You&#039; pas bienvenue re ici</French>
 		<German>Sie sind hier nicht Willkommen</German>
 		<Italian>Non sei il benvenuto</Italian>
@@ -1111,7 +1111,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BUTTON_MAYBE_LATER</Tag>
-		<English>Maybe later</English>
+		<English>&#x6216;&#x8bb8;&#x4ee5;&#x540e;</English>
 		<French>Peut-&#234;tre plus tard</French>
 		<German>Vielleicht sp&#228;ter</German>
 		<Italian>Forse dopo..</Italian>
@@ -1119,7 +1119,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_BUTTON_NEVER</Tag>
-		<English>Never!</English>
+		<English>&#x7edd;&#x4e0d;&#xff01;</English>
 		<French>Jamais!</French>
 		<German>Niemals!</German>
 		<Italian>Mai!</Italian>
@@ -1127,7 +1127,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_TITLE_PEACEFUL</Tag>
-		<English>Your citizens are growing restless</English>
+		<English>&#x4f60;&#x7684;&#x5e02;&#x6c11;&#x65e5;&#x6e10;&#x9a9a;&#x52a8;&#x4e0d;&#x5b89;</English>
 		<French>Vos citoyens se d&#233;veloppent agit&#233;s</French>
 		<German>Ihre B&#252;rger werden unruhig</German>
 		<Italian>I tuoi cittadini sono sempre pi&#249; inquieti</Italian>
@@ -1135,7 +1135,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_TITLE_VIOLENT</Tag>
-		<English>A revolution is brewing!</English>
+		<English>&#x4e00;&#x573a;&#x9769;&#x547d;&#x6b63;&#x5728;&#x915d;&#x917f;&#xff01;</English>
 		<French>Une r&#233;volution brasse!</French>
 		<German>Eine Revolution braut sich zusammen!</German>
 		<Italian>Una rivolta sta per scoppiare!</Italian>
@@ -1143,7 +1143,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_TITLE_GOOD_NEWS</Tag>
-		<English>Good news!</English>
+		<English>&#x597d;&#x6d88;&#x606f;&#xff01;</English>
 		<French>Bonnes nouvelles!</French>
 		<German>Gute Nachrichten!</German>
 		<Italian>Buone notizie!</Italian>
@@ -1154,7 +1154,7 @@
 	<!-- Human election and assimilation popup text -->
 	<TEXT>
 		<Tag>TXT_KEY_REV_HUMAN_GRANTED</Tag>
-		<English>have been granted the freedom to rejoin your empire by</English>
+		<English>&#x5df2;&#x83b7;&#x51c6;&#x91cd;&#x65b0;&#x52a0;&#x5165;&#x4f60;&#x7684;&#x5e1d;&#x56fd;&#xff0c;&#x51c6;&#x4e88;&#x8005;&#x4e3a;</English>
 		<French>ont &#233;t&#233; accord&#233;s la libert&#233; pour rejoindre votre empire pr&#232;s</French>
 		<German>wurde die Freiheit gew&#228;hrt, Ihrem Imperium wieder beizutreten</German>
 		<Italian>hanno avuto il permesso di riunirsi al tuo impero, da</Italian>
@@ -1162,7 +1162,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HUMAN_REGAIN</Tag>
-		<English>You can regain your lost territory without firing a shot![NEWLINE][NEWLINE]If you do not want them back, the revolutionaries will instead form</English>
+		<English>&#x4f60;&#x4e0d;&#x8d39;&#x4e00;&#x67aa;&#x4e00;&#x5f39;&#x4fbf;&#x80fd;&#x6536;&#x56de;&#x5931;&#x5730;&#xff01;[NEWLINE][NEWLINE]&#x4f60;&#x82e5;&#x4e0d;&#x60f3;&#x8981;&#x4ed6;&#x4eec;&#x56de;&#x6765;&#xff0c;&#x9769;&#x547d;&#x8005;&#x4fbf;&#x4f1a;&#x8f6c;&#x800c;&#x7ec4;&#x6210;</English>
 		<French>Vous pouvez regagner votre territoire perdu sans mettre le feu &#224; un projectile ! [NEWLINE] [NEWLINE] si vous ne les voulez pas en arri&#232;re, les r&#233;volutionnaires formera &#224; la place</French>
 		<German>Sie k&#246;nnen Ihr verlorenes Territorium wiedergewinnen, ohne einen einzigen Schuss abzufeuern! [NEWLINE] [NEWLINE] Wenn Sie sie nicht zur&#252;ckbekommen mw&#246;chten, so bilden die Revolution&#228;re stattdessen</German>
 		<Italian>Puoi riguadagnare il territorio perso senza sparare un colpo! [NEWLINE] [NEWLINE] se non li riaccogli, insorgeranno ribelli, per formare il/la</Italian>
@@ -1170,7 +1170,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HUMAN_JOIN_CHOICE</Tag>
-		<English>What shall we tell the revolutionaries?</English>
+		<English>&#x6211;&#x4eec;&#x8be5;&#x5982;&#x4f55;&#x7b54;&#x590d;&#x9769;&#x547d;&#x8005;&#xff1f;</English>
 		<French>Ce qui nous indiquera les r&#233;volutionnaires?</French>
 		<German>Was sollen wir den Revolution&#228;ren sagen?</German>
 		<Italian>Che cosa dobbiamo dire ai rivoltosi?</Italian>
@@ -1178,7 +1178,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HUMAN_ELEC_VICTORY</Tag>
-		<English>Victory!  You have won the election![NEWLINE][NEWLINE]The revolting cities accept the national decision and settle down for the time being.  However, it will still be prudent to increase their happiness so you don't face this again soon.</English>
+		<English>&#x80dc;&#x5229;&#xff01;&#x4f60;&#x8d62;&#x5f97;&#x4e86;&#x9009;&#x4e3e;&#xff01;[NEWLINE][NEWLINE]&#x53db;&#x4e71;&#x7684;&#x57ce;&#x5e02;&#x63a5;&#x53d7;&#x5168;&#x56fd;&#x7684;&#x51b3;&#x5b9a;&#xff0c;&#x6682;&#x65f6;&#x5b89;&#x5b9a;&#x4e0b;&#x6765;&#x3002;&#x7136;&#x800c;&#xff0c;&#x660e;&#x667a;&#x4e4b;&#x4e3e;&#x4ecd;&#x662f;&#x63d0;&#x5347;&#x4ed6;&#x4eec;&#x7684;&#x5e78;&#x798f;&#xff0c;&#x597d;&#x8ba9;&#x4f60;&#x4e0d;&#x81f3;&#x4e8e;&#x5f88;&#x5feb;&#x518d;&#x5ea6;&#x9762;&#x4e34;&#x6b64;&#x5c40;&#x3002;</English>
 		<French>Victoire!  Vous avez remport&#233; l'&#233;lection![NEWLINE][NEWLINE]Les villes de r&#233;volte acceptent la d&#233;cision nationale et se fixent pour l'instant.  Cependant, il sera toujours prudent d'augmenter leur bonheur ainsi vous don&#039; visage de t ceci encore bient&#244;t.</French>
 		<German>Sieg!  Sie haben die Wahl gewonnen![NEWLINE][NEWLINE]Die revoltierenden St&#228;dte akzeptieren die Entscheidung und beruhigen sich vorl&#228;ufig.  Dennoch wird es weiterhin sinnvoll sein ihre Zufriedenheit zu erh&#246;hen, um so etwas nicht bald wieder zu erleben.</German>
 		<Italian>Vittoria! Hai vinto le elezioni![NEWLINE][NEWLINE]Le citt&#224; in rivolta accettano la decisione nazionale e cessano le ostilit&#224; per il momento.  Tuttavia, sarebbe prudente aumentare la loro felicit&#224; per non trovarsi presto di fronte a questo pericolo.</Italian>
@@ -1186,7 +1186,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HUMAN_ELEC_LOSS</Tag>
-		<English>Terrible news!  You have lost the election and control over your civ!</English>
+		<English>&#x5669;&#x8017;&#xff01;&#x4f60;&#x8f93;&#x6389;&#x4e86;&#x9009;&#x4e3e;&#xff0c;&#x4e5f;&#x5931;&#x53bb;&#x4e86;&#x5bf9;&#x4f60;&#x6587;&#x660e;&#x7684;&#x63a7;&#x5236;&#xff01;</English>
 		<French>Nouvelles terribles!  Vous avez perdu l'&#233;lection et le contr&#244;le de votre civ!</French>
 		<German>Schreckliche Nachrichten!  Sie haben die Wahl und die Kontrolle &#252;ber Ihre Civ verloren!</German>
 		<Italian>Notizie terribili!  Hai perso le elezioni ed il controllo sulla tua civilt&#224;!</Italian>
@@ -1194,7 +1194,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HUMAN_ELEC_BUYOFF</Tag>
-		<English>Success!  You have successfully bought a victory in the election.[NEWLINE][NEWLINE]Your underhanded tactics and bribes were not detected and the rebellious cities accept their defeat in the polls and settle down for the time being.  However, it will still be prudent to increase their happiness so you don't face this again soon.</English>
+		<English>&#x6210;&#x529f;&#xff01;&#x4f60;&#x6210;&#x529f;&#x4e70;&#x4e0b;&#x4e86;&#x9009;&#x4e3e;&#x7684;&#x80dc;&#x5229;&#x3002;[NEWLINE][NEWLINE]&#x4f60;&#x90a3;&#x4e9b;&#x6697;&#x7bb1;&#x64cd;&#x4f5c;&#x4e0e;&#x8d3f;&#x8d42;&#x672a;&#x88ab;&#x5bdf;&#x89c9;&#xff0c;&#x53db;&#x4e71;&#x7684;&#x57ce;&#x5e02;&#x63a5;&#x53d7;&#x4e86;&#x5b83;&#x4eec;&#x5728;&#x7968;&#x9009;&#x4e2d;&#x7684;&#x843d;&#x8d25;&#xff0c;&#x6682;&#x65f6;&#x5b89;&#x5b9a;&#x4e0b;&#x6765;&#x3002;&#x7136;&#x800c;&#xff0c;&#x660e;&#x667a;&#x4e4b;&#x4e3e;&#x4ecd;&#x662f;&#x63d0;&#x5347;&#x4ed6;&#x4eec;&#x7684;&#x5e78;&#x798f;&#xff0c;&#x597d;&#x8ba9;&#x4f60;&#x4e0d;&#x81f3;&#x4e8e;&#x5f88;&#x5feb;&#x518d;&#x5ea6;&#x9762;&#x4e34;&#x6b64;&#x5c40;&#x3002;</English>
 		<French>Succ&#232;s!  Vous avez avec succ&#232;s achet&#233; une victoire dans l'&#233;lection.[NEWLINE][NEWLINE]La votre tactique et paiements illicites sournois n'ont pas &#233;t&#233; d&#233;tect&#233;s et les villes rebelles acceptent leur d&#233;faite dans les scrutins et se fixent pour l'instant.  Cependant, il sera toujours prudent d'augmenter leur bonheur ainsi vous don&#039; visage de t ceci encore bient&#244;t.</French>
 		<German>Erfolg!  Sie haben sich erfolgreich einen Wahlsieg gekauft.[NEWLINE][NEWLINE]Ihre hinterh&#228;ltigen Taktiken und Bestechungsgelder wurden nicht aufgedeckt und die rebellischen St&#228;dte nehmen ihre Niederlage in den Abstimmungen an und und beruhigen sich vorl&#228;ufig.  Dennoch wird es weiterhin sinnvoll sein ihre Zufriedenheit zu erh&#246;hen, um so etwas nicht bald wieder zu erleben.</German>
 		<Italian>Successo!  Hai comprato la vittoria delle elezioni.[NEWLINE][NEWLINE]Le tue losche tattiche e le tangenti non sono state scoperte: le citt&#224; ribelli accettano la sconfitta elettorale e cessano le ostilit&#224; per il momento.  Tuttavia, sarebbe prudente aumentare la loro felicit&#224; per non affrontare presto lo stesso pericolo...</Italian>
@@ -1202,7 +1202,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HUMAN_CEDE</Tag>
-		<English>Your rule is over and a new leader assumes the throne!</English>
+		<English>&#x4f60;&#x7684;&#x7edf;&#x6cbb;&#x7ed3;&#x675f;&#x4e86;&#xff0c;&#x4e00;&#x4f4d;&#x65b0;&#x9886;&#x8896;&#x767b;&#x4e0a;&#x738b;&#x5ea7;&#xff01;</English>
 		<French>Votre r&#232;gle est finie et un nouveau chef assume le tr&#244;ne!</French>
 		<German>Ihre Herrschaft ist beendet und ein neuer Anf&#252;hrer besetzt den Thron!</German>
 		<Italian>Il tuo potere &#232; caduto, e un nuovo leader sale sul trono!</Italian>
@@ -1210,7 +1210,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HUMAN_CONTROL_RETURNED</Tag>
-		<English>However, control will be returned to you in</English>
+		<English>&#x4e0d;&#x8fc7;&#xff0c;&#x63a7;&#x5236;&#x6743;&#x5c06;&#x5728;&#x4ee5;&#x4e0b;&#x65f6;&#x95f4;&#x540e;&#x5f52;&#x8fd8;&#x4e8e;&#x4f60;&#xff1a;</English>
 		<French>Cependant, la commande te sera retourn&#233;e dedans</French>
 		<German>Jedoch wird Ihnen die Kontrolle zur&#252;ckgegeben in</German>
 		<Italian>Tuttavia, il controllo ti sar&#224; restituito in </Italian>
@@ -1218,7 +1218,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_ASSIM_POPUP</Tag>
-		<English>The %s would like to give up their independence and join your empire!  They feel they are simply too small to survive on their own, and hope that you will accept their request.[NEWLINE][NEWLINE]If you accept this request, you will receive all of the %s's cities and they will become a minority group in your empire.</English>
+		<English>%s &#x60f3;&#x8981;&#x653e;&#x5f03;&#x72ec;&#x7acb;&#x3001;&#x52a0;&#x5165;&#x4f60;&#x7684;&#x5e1d;&#x56fd;&#xff01;&#x4ed6;&#x4eec;&#x89c9;&#x5f97;&#x81ea;&#x5df1;&#x5b9e;&#x5728;&#x592a;&#x8fc7;&#x5f31;&#x5c0f;&#xff0c;&#x65e0;&#x6cd5;&#x72ec;&#x81ea;&#x751f;&#x5b58;&#xff0c;&#x5e0c;&#x671b;&#x4f60;&#x4f1a;&#x63a5;&#x53d7;&#x4ed6;&#x4eec;&#x7684;&#x8bf7;&#x6c42;&#x3002;[NEWLINE][NEWLINE]&#x4f60;&#x82e5;&#x63a5;&#x53d7;&#x8fd9;&#x4e00;&#x8bf7;&#x6c42;&#xff0c;&#x5c06;&#x5f97;&#x5230; %s &#x7684;&#x6240;&#x6709;&#x57ce;&#x5e02;&#xff0c;&#x4ed6;&#x4eec;&#x5c06;&#x6210;&#x4e3a;&#x4f60;&#x5e1d;&#x56fd;&#x4e2d;&#x7684;&#x4e00;&#x4e2a;&#x5c11;&#x6570;&#x7fa4;&#x4f53;&#x3002;</English>
 		<French>Le %s voudrait abandonner leur ind&#233;pendance et joindre votre empire!  Ils jugent qu'ils sont simplement trop petits pour survivre tout seuls, et esp&#232;rent que vous accepterez leur demande.[NEWLINE][NEWLINE]Si vous acceptez cette demande, vous recevrez tout les %s&#039; les villes et elles de s iront bien &#224; un groupe minoritaire dans votre empire.</French>
 		<German>Das %s m&#246;chte die Unabh&#228;ngigkeit aufgeben und sich Ihrem Imperium anschlie&#223;en!  Sie glauben, dass sie einfach zu klein sind, um auf sich selbst gestellt zu &#252;berleben und hoffen, dass Sie ihren Antrag annehmen.[NEWLINE][NEWLINE]Wenn Sie diesen Antrag annehmen, erhalten Sie alle St&#228;dte von %s. Sie bilden anschlie&#223;end eine Minderheit in Ihrem Imperium.</German>
 		<Italian>Il/la %s vorrebbe abbandonare la propria indipendenza ed unirsi al tuo impero!  Semplicemente non sono abbastanza estesi per sopravvivere da soli e sperano che accetterai la loro richiesta.[NEWLINE][NEWLINE]Se accetti, otterrai tutte le citt&#224; del/la %s, ed essi diverranno una minoranza all'interno del tuo impero.</Italian>
@@ -1226,7 +1226,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_ASSIM_POPUP_REBEL</Tag>
-		<English>Note that assimilating these rebels will cause a serious strain on your relations with %s, who may go so far as to declare war on you.  Consider your decision carefully.</English>
+		<English>&#x8bf7;&#x6ce8;&#x610f;&#xff0c;&#x540c;&#x5316;&#x8fd9;&#x4e9b;&#x53db;&#x519b;&#x5c06;&#x4ee4;&#x4f60;&#x4e0e; %s &#x7684;&#x5173;&#x7cfb;&#x4e25;&#x91cd;&#x7d27;&#x5f20;&#xff0c;&#x5bf9;&#x65b9;&#x751a;&#x81f3;&#x53ef;&#x80fd;&#x5bf9;&#x4f60;&#x5ba3;&#x6218;&#x3002;&#x8bf7;&#x614e;&#x91cd;&#x8003;&#x8651;&#x4f60;&#x7684;&#x51b3;&#x5b9a;&#x3002;</English>
 		<French>Notez cela qui assimile ces rebelles causera une contrainte s&#233;rieuse sur vos relations avec %s, qui peut dispara&#238;tre autant que pour d&#233;clarer la guerre sur vous.  Consid&#233;rez votre d&#233;cision soigneusement.</French>
 		<German>Beachten Sie, dass die Einverleibung dieser Rebellen zu einer ernsthaften Belastung unserer Beziehung zu %s f&#252;hrt, die Ihnen wom&#246;glich sogar den Krieg erkl&#228;ren werden.  Bedenken Sie Ihre Entscheidung sorgf&#228;ltig.</German>
 		<Italian>Nota che che assimilare questi ribelli provocher&#224; una grande tensione nei rapporti con %s, fino a portarlo sul punto di dichiararti guerra.  Rifletti bene sulla tua decisione.</Italian>
@@ -1236,7 +1236,7 @@
 	<!-- Join existing revolution popup text -->
 	<TEXT>
 		<Tag>TXT_KEY_REV_JOINREV_OFFER</Tag>
-		<English>approaches you with an offer.  If you surrender control of</English>
+		<English>&#x5e26;&#x7740;&#x4e00;&#x4e2a;&#x63d0;&#x8bae;&#x524d;&#x6765;&#x627e;&#x4f60;&#x3002;&#x4f60;&#x82e5;&#x4ea4;&#x51fa;&#x4ee5;&#x4e0b;&#x7684;&#x63a7;&#x5236;&#x6743;&#xff1a;</English>
 		<French>approches vous avec une offre.  Si vous rendez la commande de</French>
 		<German>wenden sich an Sie mit einem Angebot.  Wenn Sie die Kontrolle &#252;bergeben vom</German>
 		<Italian>ti contatta con un'offerta.  Se cedi il controllo di</Italian>
@@ -1244,7 +1244,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_JOINREV_PEACE</Tag>
-		<English>, the rebels will agree to end the violence and declare peace.[NEWLINE][NEWLINE]If you accept the offer, the war will end, but you will lose control of the cities.  If you decline the offer, the city of %s will rise up and bolster the rebel ranks, while rebels in other cities may also be emboldened.  Choose carefully.</English>
+		<English>&#xff0c;&#x53db;&#x519b;&#x4fbf;&#x4f1a;&#x540c;&#x610f;&#x7ec8;&#x6b62;&#x66b4;&#x529b;&#x3001;&#x5ba3;&#x5e03;&#x548c;&#x5e73;&#x3002;[NEWLINE][NEWLINE]&#x4f60;&#x82e5;&#x63a5;&#x53d7;&#x8fd9;&#x4e00;&#x63d0;&#x8bae;&#xff0c;&#x6218;&#x4e89;&#x5c06;&#x7ed3;&#x675f;&#xff0c;&#x4f46;&#x4f60;&#x5c06;&#x5931;&#x53bb;&#x5bf9;&#x8fd9;&#x4e9b;&#x57ce;&#x5e02;&#x7684;&#x63a7;&#x5236;&#x3002;&#x4f60;&#x82e5;&#x56de;&#x7edd;&#x8fd9;&#x4e00;&#x63d0;&#x8bae;&#xff0c;%s &#x57ce;&#x5c06;&#x63ed;&#x7aff;&#x800c;&#x8d77;&#x3001;&#x58ee;&#x5927;&#x53db;&#x519b;&#x7684;&#x961f;&#x4f0d;&#xff0c;&#x5176;&#x4ed6;&#x57ce;&#x5e02;&#x4e2d;&#x7684;&#x53db;&#x519b;&#x4e5f;&#x53ef;&#x80fd;&#x56e0;&#x6b64;&#x66f4;&#x52a0;&#x80c6;&#x58ee;&#x3002;&#x8bf7;&#x614e;&#x91cd;&#x6289;&#x62e9;&#x3002;</English>
 		<French>, les rebelles accepteront de finir la violence et de d&#233;clarer la paix.[NEWLINE][NEWLINE]Si vous acceptez l'offre, la guerre finira, mais vous perdrez la commande des villes.  Si vous refusez l'offre, la ville de %s se l&#232;vera vers le haut et soutiendra les rangs rebelles, alors que des rebelles dans d'autres villes peuvent &#233;galement &#234;tre encourag&#233;s.  Choisissez soigneusement.</French>
 		<German>, die Aufr&#252;hrer sind damit einverstanden, die Gewalt zu beenden und Frieden zu erkl&#228;ren.[NEWLINE][NEWLINE]Wenn Sie das Angebot annehmen, wird der Krieg beendet, aber Sie verlieren die Kontrolle &#252;ber die St&#228;dte.  Wenn Sie das Angebot ablehnen, wird sich die Stadt %s erheben und  die Reihen der Rebellen verst%#228;rken, w&#228;hrend Aufr&#252;hrer in anderen St&#228;dten ebenfalls ermutigt werden k&#246;nnten.  W&#228;hlen Sie sorgf&#228;ltig.</German>
 		<Italian>, i ribelli termineranno le azioni violente e acconsentiranno alla pace.[NEWLINE][NEWLINE]Se accetti l'offerta, la guerra si concluder&#224;, ma perderai il controllo delle citt&#224;.  Se rifiuti, la citt&#224; di %s sollever&#224; e rinforzer&#224; l'armata ribelle, mentre in altre citt&#224; i ribelli potranno essere incoraggiati.  Scegli con attenzione.</Italian>
@@ -1254,7 +1254,7 @@
 	<!-- Cultural revolution popup text -->
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_PEACE_JOIN</Tag>
-		<English>clamoring to join the</English>
+		<English>&#x5435;&#x56b7;&#x7740;&#x8981;&#x52a0;&#x5165;</English>
 		<French>r&#233;clamation pour joindre</French>
 		<German>Lautstarke Forderung sich anzuschlie&#223;en an</German>
 		<Italian>chiedono a gran voce di unirsi al/la</Italian>
@@ -1262,7 +1262,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_PEACE_REFORM</Tag>
-		<English>longing to re-form</English>
+		<English>&#x6e34;&#x671b;&#x91cd;&#x5efa;</English>
 		<French>d&#233;sirer ardemment &#224; reformer</French>
 		<German>sehnen sich danach neu zu formen</German>
 		<Italian>desiderano riformare</Italian>
@@ -1270,7 +1270,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_PEACE</Tag>
-		<English>Demonstrations and riots have broken out in the streets![NEWLINE][NEWLINE]Denying their request will anger the people and perhaps fuel their revolutionary spirit.  While they won't take up arms now, if you deny their request you should take action to increase their happiness or bond with your culture and religion.  If there is a next time, you may face an uprising!</English>
+		<English>&#x8857;&#x5934;&#x7206;&#x53d1;&#x4e86;&#x793a;&#x5a01;&#x4e0e;&#x9a9a;&#x4e71;&#xff01;[NEWLINE][NEWLINE]&#x56de;&#x7edd;&#x4ed6;&#x4eec;&#x7684;&#x8bf7;&#x6c42;&#x4f1a;&#x6fc0;&#x6012;&#x6c11;&#x4f17;&#xff0c;&#x6216;&#x8bb8;&#x8fd8;&#x4f1a;&#x52a9;&#x957f;&#x4ed6;&#x4eec;&#x7684;&#x9769;&#x547d;&#x7cbe;&#x795e;&#x3002;&#x5c3d;&#x7ba1;&#x4ed6;&#x4eec;&#x773c;&#x4e0b;&#x4e0d;&#x4f1a;&#x62ff;&#x8d77;&#x6b66;&#x5668;&#xff0c;&#x4f46;&#x4f60;&#x82e5;&#x56de;&#x7edd;&#x4ed6;&#x4eec;&#x7684;&#x8bf7;&#x6c42;&#xff0c;&#x5c31;&#x5e94;&#x91c7;&#x53d6;&#x884c;&#x52a8;&#x63d0;&#x5347;&#x4ed6;&#x4eec;&#x7684;&#x5e78;&#x798f;&#xff0c;&#x6216;&#x52a0;&#x6df1;&#x4ed6;&#x4eec;&#x4e0e;&#x4f60;&#x7684;&#x6587;&#x5316;&#x548c;&#x5b97;&#x6559;&#x7684;&#x7ebd;&#x5e26;&#x3002;&#x82e5;&#x6709;&#x4e0b;&#x4e00;&#x6b21;&#xff0c;&#x4f60;&#x6216;&#x5c06;&#x9762;&#x4e34;&#x4e00;&#x573a;&#x8d77;&#x4e49;&#xff01;</English>
 		<French>Les d&#233;monstrations et les &#233;meutes ont &#233;clat&#233; dans les rues![NEWLINE][NEWLINE]Niant leur demande irritera les personnes et peut-&#234;tre alimenter leur esprit r&#233;volutionnaire.  Tandis qu'elles won&#039; t prennent des bras maintenant, si vous niez leur demande que vous devriez agissez pour augmenter leur bonheur ou pour coller avec votre culture et religion.  S'il y a un temps suivant, vous pouvez faire face &#224; un soul&#232;vement!</French>
 		<German>Demonstrationen und Aufst&#228;nde sind in den Stra&#223;en ausgebrochen![NEWLINE][NEWLINE]Ihre Forderungen zu verweigern wird die Leute ver&#228;rgern und vielleicht ihren revolution&#228;ren Geist befl&#252;geln.  Wenn Sie ihre Forderungen ablehnen, so werden sie noch nicht zu den Waffen greifen. Sie sollten jedoch Ma&#223;nahmen ergreifen, um ihre Zufriedenheit zu erh&#246;hen oder die Bindung an Ihre Kultur und Religion zu verbessern.  Beim n&#228;chsten mal k&#246;nnte es einen Aufstand geben!</German>
 		<Italian>Sono scoppiati dimostrazioni e tumulti![NEWLINE][NEWLINE]Rifiutare la loro richiesta far&#224; aumentare la rabbia e rinforzare lo spirito rivoluzionario.  Anche se ora non prenderanno le armi, se non accetti le loro richieste dovresti comunque intervenire per aumentare la loro felicit&#224; e i legami con la tua cultura e la tua religione.  Se ci sar&#224; una prossima volta, potresti affrontare una vera rivolta!</Italian>
@@ -1278,7 +1278,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_VIOLENT_JOIN</Tag>
-		<English>demanding to join the</English>
+		<English>&#x8981;&#x6c42;&#x52a0;&#x5165;</English>
 		<French>exiger de joindre</French>
 		<German>fordern den Anschluss an</German>
 		<Italian>vogliono unirsi al/la</Italian>
@@ -1286,7 +1286,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_VIOLENT_JOIN_DENY_WAR</Tag>
-		<English>If you do not let them, they will rise up against you, joining the</English>
+		<English>&#x4f60;&#x82e5;&#x4e0d;&#x5141;&#xff0c;&#x4ed6;&#x4eec;&#x4fbf;&#x4f1a;&#x8d77;&#x6765;&#x53cd;&#x6297;&#x4f60;&#xff0c;&#x52a0;&#x5165;</English>
 		<French>Si vous ne les laissez pas, ils se l&#232;veront vers le haut contre vous, jointure</French>
 		<German>Wenn Sie sie nicht lassen, werden sie sich gegen Sie erheben und sich vereinen mit</German>
 		<Italian>Se non li lasci andare, si solleveranno contro di te, unendosi al/la</Italian>
@@ -1294,7 +1294,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_VIOLENT_JOIN_DENY_BARB</Tag>
-		<English>If you do not let them, their loosely organized rebel bands will rise up against you.</English>
+		<English>&#x4f60;&#x82e5;&#x4e0d;&#x5141;&#xff0c;&#x4ed6;&#x4eec;&#x90a3;&#x4e9b;&#x677e;&#x6563;&#x7ec4;&#x7ec7;&#x7684;&#x53db;&#x519b;&#x56e2;&#x4f19;&#x4fbf;&#x4f1a;&#x8d77;&#x6765;&#x53cd;&#x6297;&#x4f60;&#x3002;</English>
 		<French>Si vous ne les laissez pas, leurs bandes rebelles l&#226;chement organis&#233;es se l&#232;veront vers le haut contre vous.</French>
 		<German>Wenn Sie sie nicht lassen, werden ihre lose organisierten Rebellenbanden sich gegen Sie erheben.</German>
 		<Italian>Se non li lasci andare, le bande ribelli si solleveranno contro di te.</Italian>
@@ -1302,7 +1302,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_VIOLENT_JOIN_DENY</Tag>
-		<English>If you do not let them, they will rise up against you as</English>
+		<English>&#x4f60;&#x82e5;&#x4e0d;&#x5141;&#xff0c;&#x4ed6;&#x4eec;&#x4fbf;&#x4f1a;&#x8d77;&#x6765;&#x53cd;&#x6297;&#x4f60;&#xff0c;&#x5316;&#x4f5c;</English>
 		<French>Si vous ne les laissez pas, ils se l&#232;veront vers le haut contre vous As</French>
 		<German>Wenn Sie sie nicht lassen werden sie sich gegen Sie erheben als</German>
 		<Italian>Se non li lasci andare, si solleveranno contro di te, come </Italian>
@@ -1310,7 +1310,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_VIOLENT_JOIN_DENY_ALIVE</Tag>
-		<English>If you do not let them, they will join the %s and attack you!</English>
+		<English>&#x4f60;&#x82e5;&#x4e0d;&#x5141;&#xff0c;&#x4ed6;&#x4eec;&#x4fbf;&#x4f1a;&#x52a0;&#x5165; %s &#x5e76;&#x653b;&#x51fb;&#x4f60;&#xff01;</English>
 		<French>Si vous ne les laissez pas, ils joindront le %s et vous attaqueront!</French>
 		<German>Wenn Sie sie nicht lassen, werden sie sich mit den %s vereinigen und Sie angreifen!</German>
 		<Italian>Se non li lasci andare, si uniranno al/la %s e ti attaccheranno!</Italian>
@@ -1318,7 +1318,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_VIOLENT_JOIN_DECLARE_WAR</Tag>
-		<English>You may also decide to declare war and eliminate the troublesome influence of the</English>
+		<English>&#x4f60;&#x4e5f;&#x53ef;&#x4ee5;&#x51b3;&#x5b9a;&#x5ba3;&#x6218;&#xff0c;&#x94f2;&#x9664;&#x8fd9;&#x9ebb;&#x70e6;&#x7684;&#x5f71;&#x54cd;&#xff0c;&#x5176;&#x6e90;&#x5934;&#x4e3a;</English>
 		<French>Vous pouvez &#233;galement d&#233;cider de d&#233;clarer la guerre et d'&#233;liminer l'influence ennuyeuse du</French>
 		<German>Sie k&#246;nnen sich auch entscheiden, den Krieg zu erkl&#228;ren und beseitigen damit den &#228;rgerlichen Einfluss von</German>
 		<Italian>Puoi pure decidere di dichiarare guerra ed eliminare la fastidiosa influenza del/la</Italian>
@@ -1326,7 +1326,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_VIOLENT_REFORM_BARB</Tag>
-		<English>declaring independence even though they have no flag to rally around.</English>
+		<English>&#x5ba3;&#x5e03;&#x72ec;&#x7acb;&#xff0c;&#x5373;&#x4fbf;&#x4ed6;&#x4eec;&#x6ca1;&#x6709;&#x4e00;&#x9762;&#x53ef;&#x4f9b;&#x805a;&#x62e2;&#x7684;&#x65d7;&#x5e1c;&#x3002;</English>
 		<French>d&#233;claration de l'ind&#233;pendance quoiqu'ils n'aient aucun drapeau &#224; rassembler autour.</French>
 		<German>Unabh&#228;ngigkeit zu erkl&#228;ren, obwohl sie keine Flagge haben, um die sie sich versammeln k&#246;nnen.</German>
 		<Italian>dichiarando la propria indipendenza, anche se non hanno una bandiera sotto cui unirsi.</Italian>
@@ -1334,7 +1334,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_VIOLENT_REFORM</Tag>
-		<English>declaring their independence and desire to re-form</English>
+		<English>&#x5ba3;&#x5e03;&#x4ed6;&#x4eec;&#x7684;&#x72ec;&#x7acb;&#xff0c;&#x4ee5;&#x53ca;&#x91cd;&#x5efa;&#x7684;&#x610f;&#x613f;&#xff1a;</English>
 		<French>d&#233;claration de la leur ind&#233;pendance et d&#233;sir de reformer</French>
 		<German>ihre Unabh&#228;ngigkeit zu erkl&#228;ren und w&#252;nschen wieder zu bilden das</German>
 		<Italian>dichiarando la propria indipendenza e desiderano riformare</Italian>
@@ -1342,7 +1342,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_VIOLENT_1</Tag>
-		<English>The citizens have been massing weapons and drilling in the countryside![NEWLINE][NEWLINE]If you deny their request to leave, you will have to face the revolutionaries on the battlefield.</English>
+		<English>&#x5e02;&#x6c11;&#x4e00;&#x76f4;&#x5728;&#x4e61;&#x95f4;&#x56e4;&#x79ef;&#x6b66;&#x5668;&#x3001;&#x64cd;&#x7ec3;&#x6f14;&#x4e60;&#xff01;[NEWLINE][NEWLINE]&#x4f60;&#x82e5;&#x56de;&#x7edd;&#x4ed6;&#x4eec;&#x79bb;&#x53bb;&#x7684;&#x8bf7;&#x6c42;&#xff0c;&#x5c31;&#x5f97;&#x5728;&#x6218;&#x573a;&#x4e0a;&#x9762;&#x5bf9;&#x8fd9;&#x4e9b;&#x9769;&#x547d;&#x8005;&#x3002;</English>
 		<French>Les citoyens avaient amass&#233; des armes et le per&#231;age dans la campagne![NEWLINE][NEWLINE]Si vous niez leur demande de partir, vous devrez faire face aux r&#233;volutionnaires sur le champ de bataille.</French>
 		<German>Die B&#252;rger haben Waffen angeh&#228;uft und auf dem Land Man&#246;ver ausgef&#252;hrt![NEWLINE][NEWLINE]Wenn Sie ihren Wunsch sich abzuspalten ablehnen, m&#252;ssen Sie sich den Revolution&#228;ren auf dem Schlachtfeld gegen&#252;berstellen.</German>
 		<Italian>I cittadini stanno raccogliendo le armi e iniziando le esercitazioni![NEWLINE][NEWLINE]Se non accetterai la loro richiesta di indipendenza, dovrai affrontare i rivoluzionari sul campo di battaglia.</Italian>
@@ -1350,7 +1350,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_VIOLENT_2</Tag>
-		<English>may interpret your actions as an act of war and respond accordingly!  If they don't retaliate, your relations with them will still suffer, and the cities will rise up</English>
+		<English>&#x53ef;&#x80fd;&#x5c06;&#x4f60;&#x7684;&#x884c;&#x52a8;&#x89c6;&#x4e3a;&#x4e00;&#x79cd;&#x6218;&#x4e89;&#x884c;&#x4e3a;&#x5e76;&#x76f8;&#x5e94;&#x56de;&#x5e94;&#xff01;&#x5373;&#x4fbf;&#x4ed6;&#x4eec;&#x4e0d;&#x52a0;&#x62a5;&#x590d;&#xff0c;&#x4f60;&#x4e0e;&#x4ed6;&#x4eec;&#x7684;&#x5173;&#x7cfb;&#x4ecd;&#x4f1a;&#x53d7;&#x635f;&#xff0c;&#x800c;&#x8fd9;&#x4e9b;&#x57ce;&#x5e02;&#x5c06;&#x4f1a;&#x8d77;&#x6765;&#x53cd;&#x6297;</English>
 		<French>peut interpr&#233;ter vos actions comme acte de guerre et r&#233;pondre en cons&#233;quence !  Si elles don&#039; t exercent des repr&#233;sailles, vos relations avec elles souffriront toujours, et les villes se l&#232;veront vers le haut</French>
 		<German>kann Ihre Aktivit&#228;ten als Kriegshandlung deuten und dementsprechend reagieren!  Auch wenn sie sich nicht revanchieren werden, so leiden doch Ihre Beziehungen zu ihnen, und die St&#228;dte werden sich erheben</German>
 		<Italian>pu&#242; interpretare le tue azioni come atto di guerra e rispondere di conseguenza!   Se non ti risponderanno, i rapporti resteranno comunque difficili e le citt&#224; si solleveranno</Italian>
@@ -1358,7 +1358,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_VIOLENT_BARB</Tag>
-		<English>in loosely organized rebel bands.</English>
+		<English>&#x5316;&#x4f5c;&#x677e;&#x6563;&#x7ec4;&#x7ec7;&#x7684;&#x53db;&#x519b;&#x56e2;&#x4f19;&#x3002;</English>
 		<French>dans les bandes rebelles l&#226;chement organis&#233;es.</French>
 		<German>in lose organisierten Rebellenbanden.</German>
 		<Italian>in bande ribelli poco organizzate.</Italian>
@@ -1366,7 +1366,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_VIOLENT_FIGHT</Tag>
-		<English>and fight you as</English>
+		<English>&#x5e76;&#x4e0e;&#x4f60;&#x4ea4;&#x6218;&#xff0c;&#x5316;&#x4f5c;</English>
 		<French>et combattez-vous As</French>
 		<German>und bek&#228;mpfen Sie als</German>
 		<Italian>e combatterti come</Italian>
@@ -1374,7 +1374,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_VIOLENT_ENEMY</Tag>
-		<English>The cities will rise up and join your enemy, the</English>
+		<English>&#x8fd9;&#x4e9b;&#x57ce;&#x5e02;&#x5c06;&#x8d77;&#x6765;&#x53cd;&#x6297;&#x3001;&#x52a0;&#x5165;&#x4f60;&#x7684;&#x654c;&#x4eba;&#xff1a;</English>
 		<French>Les villes se l&#232;veront vers le haut et joindront votre ennemi,</French>
 		<German>Die St&#228;dte werden sich erheben und schlie&#223;en sich Ihrem Feind an, den</German>
 		<Italian>Le citt&#224; si solleveranno e si uniranno al tuo nemico, il/la</Italian>
@@ -1382,7 +1382,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CULT_VIOLENT_FINAL</Tag>
-		<English>Your troops will be surrounded by a hostile population and may take heavy losses or even defect.  The defenses of some of these cities may crumble immediately, others may be able to retain some semblence of control.  While war with your own cities will be ugly, it may be better than allowing cities you control to leave without a fight!  Carefully weigh your options.</English>
+		<English>&#x4f60;&#x7684;&#x90e8;&#x961f;&#x5c06;&#x88ab;&#x6000;&#x6709;&#x654c;&#x610f;&#x7684;&#x6c11;&#x4f17;&#x6240;&#x5305;&#x56f4;&#xff0c;&#x53ef;&#x80fd;&#x8499;&#x53d7;&#x91cd;&#x5927;&#x635f;&#x5931;&#x3001;&#x751a;&#x81f3;&#x53db;&#x53d8;&#x3002;&#x5176;&#x4e2d;&#x4e00;&#x4e9b;&#x57ce;&#x5e02;&#x7684;&#x9632;&#x5fa1;&#x6216;&#x8bb8;&#x4f1a;&#x5373;&#x523b;&#x5d29;&#x6e83;&#xff0c;&#x53e6;&#x4e00;&#x4e9b;&#x6216;&#x8bb8;&#x8fd8;&#x80fd;&#x4fdd;&#x6709;&#x51e0;&#x5206;&#x638c;&#x63a7;&#x3002;&#x5c3d;&#x7ba1;&#x4e0e;&#x4f60;&#x81ea;&#x5df1;&#x7684;&#x57ce;&#x5e02;&#x5f00;&#x6218;&#x4f1a;&#x5f88;&#x96be;&#x770b;&#xff0c;&#x4f46;&#x8fd9;&#x6216;&#x8bb8;&#x80dc;&#x8fc7;&#x4efb;&#x7531;&#x4f60;&#x6240;&#x63a7;&#x5236;&#x7684;&#x57ce;&#x5e02;&#x4e0d;&#x6218;&#x800c;&#x53bb;&#xff01;&#x8bf7;&#x614e;&#x91cd;&#x6743;&#x8861;&#x4f60;&#x7684;&#x9009;&#x62e9;&#x3002;</English>
 		<French>Vos troupes seront entour&#233;es par une population hostile et peuvent prendre de lourdes pertes ou m&#234;me d&#233;faut.  Les d&#233;fenses de certaines de ces villes peuvent s'&#233;mietter immeadiately, d'autres peuvent pouvoir maintenir un certain semblence de commande.  Tandis que la guerre avec vos propres villes sera laide, il peut &#234;tre meilleur que permettant des villes que vous commandez pour quitter sans combat !  Pesez soigneusement vos options.</French>
 		<German>Ihre Truppen werden von einer feindseligen Bev&#246;lkerung umgeben sein und k&#246;nnen starke Verluste erleiden oder sogar &#252;berlaufen.  Die Verteidigung einiger dieser St&#228;dte kann unmittelbar zerfallen, andere k&#246;nnen vielleicht einen Rest an Kontrolle bewahren.  Krieg mit Ihren eigenen St&#228;dten ist h&#228;&#223;lich, aber vielleicht ist er dennoch besser, als Ihre St&#228;dte ohne Kampf ziehen zu lassen!  W&#228;gen Sie Ihre Optionen sorgf&#228;ltig ab.</German>
 		<Italian>Le tue truppe saranno circondate da una popolazione ostile e potranno subire gravi perdite o anche disertare.  Le difese di alcune di queste citt&#224; possono cadere subito, in altre potrai mantenere un certo grado di controllo.  Anche se la guerra contro le tue stesse citt&#224; sar&#224; terribile, potrebbe essere meglio che permettere loro di separarsi senza lottare!  Valuta con attenzione le tue scelte.</Italian>
@@ -1392,7 +1392,7 @@
 	<!-- Religious revolution popup text -->
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_THEOCRACY1</Tag>
-		<English>requesting an end to your</English>
+		<English>&#x8981;&#x6c42;&#x4f60;&#x7ec8;&#x6b62;&#x4f60;&#x7684;</English>
 		<French>demande d'une fin au votre</French>
 		<German>erbitten ein Ende Ihrer</German>
 		<Italian>chiedono la fine del tuo</Italian>
@@ -1400,7 +1400,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_THEOCRACY2</Tag>
-		<English>They have been oppressed for too long, and desire you to switch your religious civic policy to</English>
+		<English>&#x4ed6;&#x4eec;&#x5df2;&#x88ab;&#x538b;&#x8feb;&#x5f97;&#x592a;&#x4e45;&#xff0c;&#x6e34;&#x671b;&#x4f60;&#x628a;&#x4f60;&#x7684;&#x5b97;&#x6559;&#x653f;&#x4f53;&#x653f;&#x7b56;&#x5207;&#x6362;&#x4e3a;</English>
 		<French>Ils ont &#233;t&#233; opprim&#233;s trop longtemps, et vous d&#233;sirent pour commuter votre politique civique religieuse &#224;</French>
 		<German>Sie sind zu lang unterdr&#252;ckt worden und sie w&#252;nschen, dass Sie Ihre religi&#246;se Staatsform wechseln zu</German>
 		<Italian>Sono stati oppressi per troppo tempo e vogliono che tu cambi la forma di governo religiosa in</Italian>
@@ -1408,7 +1408,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_FREE_REL1</Tag>
-		<English>requesting that you adopt</English>
+		<English>&#x8981;&#x6c42;&#x4f60;&#x91c7;&#x7eb3;</English>
 		<French>demandant que vous adoptez</French>
 		<German>fordern, dass Sie annehmen</German>
 		<Italian>chiedendo che tu adotti</Italian>
@@ -1416,7 +1416,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_FREE_REL2</Tag>
-		<English>They feel your state sponsorship of</English>
+		<English>&#x4ed6;&#x4eec;&#x89c9;&#x5f97;&#x4f60;&#x5bf9;&#x4ee5;&#x4e0b;&#x5b97;&#x6559;&#x7684;&#x5b98;&#x65b9;&#x6276;&#x6301;&#xff1a;</English>
 		<French>Ils sentent votre patronage d'&#233;tat de</French>
 		<German>Sie glauben, Ihre staatliche Unterst&#252;tzung von</German>
 		<Italian>Ritengono che il tuo sostegno di stato al </Italian>
@@ -1424,7 +1424,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_PRACTICE</Tag>
-		<English>impedes their ability to practice and spread the one true faith,</English>
+		<English>&#x59a8;&#x788d;&#x4e86;&#x4ed6;&#x4eec;&#x5949;&#x884c;&#x5e76;&#x4f20;&#x64ad;&#x90a3;&#x552f;&#x4e00;&#x771f;&#x4fe1;&#x7684;&#x80fd;&#x529b;&#xff0c;</English>
 		<French>emp&#234;che leur capacit&#233; de pratiquer et &#233;carter l'une foi vraie,</French>
 		<German>behindert ihre F&#228;higkeit, den einen wahren Glauben zu &#252;ben und zu verbreiten,</German>
 		<Italian>impedisce loro la possibilit&#224; di praticare e diffondere l'unica vera fede, </Italian>
@@ -1432,7 +1432,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_CHANGE</Tag>
-		<English>requesting that you change your state religion to</English>
+		<English>&#x8981;&#x6c42;&#x4f60;&#x628a;&#x4f60;&#x7684;&#x56fd;&#x6559;&#x66f4;&#x6539;&#x4e3a;</English>
 		<French>demandant que vous changez votre religion d'&#233;tat en</French>
 		<German>fordern, dass Sie Ihre Staatsreligion &#228;ndern zu</German>
 		<Italian>chiedendo che la Religione di Stato divenga </Italian>
@@ -1440,7 +1440,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_NEW_REL</Tag>
-		<English>of your cities have the new religion, while</English>
+		<English>&#x4f60;&#x7684;&#x57ce;&#x5e02;&#x4fe1;&#x5949;&#x8fd9;&#x4e00;&#x65b0;&#x5b97;&#x6559;&#xff0c;&#x800c;</English>
 		<French>de vos villes ayez la nouvelle religion, tandis que</French>
 		<German>von Ihren St&#228;dten haben die neue Religion, w&#228;hrend</German>
 		<Italian>delle tue citt&#224; che hanno la nuova religione, mentre</Italian>
@@ -1448,7 +1448,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_STATE_REL</Tag>
-		<English>have your current state religion.</English>
+		<English>&#x4fe1;&#x5949;&#x4f60;&#x5f53;&#x524d;&#x7684;&#x56fd;&#x6559;&#x3002;</English>
 		<French>ayez votre religion d'&#233;tat actuel.</French>
 		<German>haben die aktuelle Staatsreligion.</German>
 		<Italian>ha la tua attuale religione di stato.</Italian>
@@ -1456,7 +1456,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_HONORING</Tag>
-		<English>While they have not yet begun preparations for war, if you deny their request they may soon become more fervent in their desire for change.  Honoring their request is by far the quickest and easiest path to keeping them in your empire for the forseeable future, but may lead to some discontent in other cities.[NEWLINE][NEWLINE]Alternatively, a large donation to the religious leaders would cause them to settle down.</English>
+		<English>&#x5c3d;&#x7ba1;&#x4ed6;&#x4eec;&#x5c1a;&#x672a;&#x7740;&#x624b;&#x5907;&#x6218;&#xff0c;&#x4f46;&#x4f60;&#x82e5;&#x62d2;&#x7edd;&#x4ed6;&#x4eec;&#x7684;&#x8bf7;&#x6c42;&#xff0c;&#x4ed6;&#x4eec;&#x5bf9;&#x53d8;&#x9769;&#x7684;&#x6e34;&#x671b;&#x6216;&#x8bb8;&#x5f88;&#x5feb;&#x4f1a;&#x6108;&#x53d1;&#x70bd;&#x70c8;&#x3002;&#x7b54;&#x5e94;&#x4ed6;&#x4eec;&#x7684;&#x8bf7;&#x6c42;&#xff0c;&#x662f;&#x8fc4;&#x4eca;&#x4e3a;&#x6b62;&#x5728;&#x53ef;&#x9884;&#x89c1;&#x7684;&#x672a;&#x6765;&#x5c06;&#x4ed6;&#x4eec;&#x7559;&#x5728;&#x4f60;&#x5e1d;&#x56fd;&#x5185;&#x6700;&#x8fc5;&#x901f;&#x3001;&#x6700;&#x7b80;&#x4fbf;&#x7684;&#x9014;&#x5f84;&#xff0c;&#x4f46;&#x53ef;&#x80fd;&#x5bfc;&#x81f4;&#x5176;&#x4ed6;&#x57ce;&#x5e02;&#x7684;&#x4e00;&#x4e9b;&#x4e0d;&#x6ee1;&#x3002;[NEWLINE][NEWLINE]&#x6216;&#x8005;&#xff0c;&#x5411;&#x5b97;&#x6559;&#x9886;&#x8896;&#x505a;&#x4e00;&#x5927;&#x7b14;&#x6350;&#x8d60;&#xff0c;&#x4f1a;&#x4ee4;&#x4ed6;&#x4eec;&#x5e73;&#x9759;&#x4e0b;&#x6765;&#x3002;</English>
 		<French>Tandis qu'ils n'ont pas encore commenc&#233; des pr&#233;parations pour la guerre, si vous niez leur demande elles peuvent bient&#244;t devenir plus ardantes dans leur d&#233;sir pour le changement.  Honorer leur demande est le chemin de loin le plus rapide et le plus facile &#224; les maintenir dans votre empire &#224; l'avenir pr&#233;visible, mais peut mener &#224; du m&#233;contentement dans d'autres villes. [NEWLINE] [NEWLINE] alternativement, une grande donation aux chefs religieux les ferait fixer.</French>
 		<German>Obwohl sie noch keine Kriegsvorbereitungen begonnen haben, werden sie, wenn ihr Wunsch verweigert wird, noch eifriger in ihrem Wunsch nach Ver&#228;nderung werden.  Ihren Antrag zu beachten ist der bei weitem schnellste und einfachste Weg sie in absehbarer Zukunft in Ihrem Imperium zu halten, aber kann andererseits zu etwas Unzufriedenheit in anderen St&#228;dten f&#252;hren. [NEWLINE] [NEWLINE] Als Alternative kann eine gro&#223;z&#252;gige Spende an die religi&#246;sen F&#252;hrer sie beruhigen.</German>
 		<Italian>Per ora non hanno cominciato i preparativi per la guerra, ma se non accetti la loro richiesta, diventeranno presto pi&#249; desiderosi di cambiamento.  Accettare la loro richiesta &#232;la scelta pi&#249; rapida e pi&#249; semplice per mantenerli nel tuo impero, per il prossimo futuro, ma pu&#242; indurre un certo malcontento in altre citt&#224;. [NEWLINE] [NEWLINE] In alternativa, una notevole donazione ai capi religiosi li indurrebbe alla calma.</Italian>
@@ -1464,7 +1464,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_PEACE_VASSAL_1</Tag>
-		<English>seeking partial autonomy so that they may freely worship their faith,</English>
+		<English>&#x5bfb;&#x6c42;&#x90e8;&#x5206;&#x81ea;&#x6cbb;&#xff0c;&#x597d;&#x8ba9;&#x4ed6;&#x4eec;&#x80fd;&#x81ea;&#x7531;&#x5730;&#x4fe1;&#x5949;&#x5176;&#x4fe1;&#x4ef0;&#xff0c;</English>
 		<French>autonomie partielle de recherche de sorte qu'ils puissent librement adorer leur foi,</French>
 		<German>suchen nach teilweiser Autonomie, damit sie ihren Glauben frei aus&#252;ben k&#246;nnen,</German>
 		<Italian>cercano una parziale autonomia in modo da professare liberamente la propria fede, </Italian>
@@ -1472,7 +1472,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_PEACE_VASSAL_2</Tag>
-		<English>They wish to form</English>
+		<English>&#x4ed6;&#x4eec;&#x5e0c;&#x671b;&#x7ec4;&#x6210;</English>
 		<French>Ils souhaitent former</French>
 		<German>Sie m&#246;chten bilden</German>
 		<Italian>Desiderano formare</Italian>
@@ -1480,7 +1480,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_PEACE_VASSAL_3</Tag>
-		<English>and become a free Vassal of your empire.  You may also choose to grant them full independence.</English>
+		<English>&#x5e76;&#x6210;&#x4e3a;&#x4f60;&#x5e1d;&#x56fd;&#x7684;&#x4e00;&#x4e2a;&#x81ea;&#x7531;&#x9644;&#x5eb8;&#x3002;&#x4f60;&#x4e5f;&#x53ef;&#x4ee5;&#x9009;&#x62e9;&#x6388;&#x4e88;&#x4ed6;&#x4eec;&#x5b8c;&#x5168;&#x72ec;&#x7acb;&#x3002;</English>
 		<French>et devenu un vassal libre de votre empire.  Vous pouvez &#233;galement choisir de leur accorder la pleine ind&#233;pendance.</French>
 		<German>und ein freier Vasall Ihres Imperiums werden.  Sie k&#246;nnen ihnen auch volle Unabh&#228;ngigkeit bewilligen.</German>
 		<Italian>e diventare un vassallo del tuo impero.  Puoi anche decidere di riconoscere loro la completa indipendenza.</Italian>
@@ -1488,7 +1488,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_PEACE_IND_1</Tag>
-		<English>seeking independence so that they may freely worship</English>
+		<English>&#x5bfb;&#x6c42;&#x72ec;&#x7acb;&#xff0c;&#x597d;&#x8ba9;&#x4ed6;&#x4eec;&#x80fd;&#x81ea;&#x7531;&#x5730;&#x4fe1;&#x5949;</English>
 		<French>l'ind&#233;pendance de recherche de sorte qu'ils puissent librement adorer</French>
 		<German>suchen nach Unabh&#228;ngigkeit, damit sie ihren Glauben frei aus&#252;ben k&#246;nnen</German>
 		<Italian>cercando l'indipendenza in modo da professare liberamente </Italian>
@@ -1496,7 +1496,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_PEACE_IND_2</Tag>
-		<English>They have lived in your</English>
+		<English>&#x4ed6;&#x4eec;&#x5728;&#x4f60;&#x7684;</English>
 		<French>Ils ont v&#233;cu dans le votre</French>
 		<German>Sie haben gelebt in Ihrer</German>
 		<Italian>Hanno vissuto nella tua societ&#224; dominata dal</Italian>
@@ -1504,7 +1504,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_PEACE_IND_3</Tag>
-		<English>dominated society for too long, and want to form</English>
+		<English>&#x4e3b;&#x5bfc;&#x7684;&#x793e;&#x4f1a;&#x4e2d;&#x751f;&#x6d3b;&#x5f97;&#x592a;&#x4e45;&#x4e86;&#xff0c;&#x60f3;&#x8981;&#x7ec4;&#x6210;</English>
 		<French>la soci&#233;t&#233; domin&#233;e trop longtemps, et veulent former</French>
 		<German>dominanten Gesellschaft f&#252;r zu lange und m&#246;chten bilden</German>
 		<Italian>per troppo tempo e vogliono formare</Italian>
@@ -1512,7 +1512,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_PEACE</Tag>
-		<English>While they have not yet begun preparations for war, if you deny their request they may soon become more fervent in their desire for independence.  If you choose not to let them walk away, you should spread your religion to the cities and take other action to improve their situation.  Either that, or you may very well be faced with an uprising in the future![NEWLINE][NEWLINE]Alternatively, you could make a generous donation to the religions leaders.  With this good faith gesture, they will drop their cause and quiet down.</English>
+		<English>&#x5c3d;&#x7ba1;&#x4ed6;&#x4eec;&#x5c1a;&#x672a;&#x7740;&#x624b;&#x5907;&#x6218;&#xff0c;&#x4f46;&#x4f60;&#x82e5;&#x62d2;&#x7edd;&#x4ed6;&#x4eec;&#x7684;&#x8bf7;&#x6c42;&#xff0c;&#x4ed6;&#x4eec;&#x5bf9;&#x72ec;&#x7acb;&#x7684;&#x6e34;&#x671b;&#x6216;&#x8bb8;&#x5f88;&#x5feb;&#x4f1a;&#x6108;&#x53d1;&#x70bd;&#x70c8;&#x3002;&#x4f60;&#x82e5;&#x9009;&#x62e9;&#x4e0d;&#x8ba9;&#x4ed6;&#x4eec;&#x79bb;&#x53bb;&#xff0c;&#x5c31;&#x5e94;&#x5411;&#x8fd9;&#x4e9b;&#x57ce;&#x5e02;&#x4f20;&#x64ad;&#x4f60;&#x7684;&#x5b97;&#x6559;&#xff0c;&#x5e76;&#x91c7;&#x53d6;&#x5176;&#x4ed6;&#x884c;&#x52a8;&#x6539;&#x5584;&#x4ed6;&#x4eec;&#x7684;&#x5904;&#x5883;&#x3002;&#x8981;&#x4e48;&#x5982;&#x6b64;&#xff0c;&#x5426;&#x5219;&#x4f60;&#x6781;&#x53ef;&#x80fd;&#x5728;&#x5c06;&#x6765;&#x9762;&#x4e34;&#x4e00;&#x573a;&#x8d77;&#x4e49;&#xff01;[NEWLINE][NEWLINE]&#x6216;&#x8005;&#xff0c;&#x4f60;&#x53ef;&#x4ee5;&#x5411;&#x90a3;&#x4e9b;&#x5b97;&#x6559;&#x9886;&#x8896;&#x505a;&#x4e00;&#x7b14;&#x6177;&#x6168;&#x7684;&#x6350;&#x8d60;&#x3002;&#x6709;&#x4e86;&#x8fd9;&#x4e00;&#x5584;&#x610f;&#x7684;&#x59ff;&#x6001;&#xff0c;&#x4ed6;&#x4eec;&#x4fbf;&#x4f1a;&#x653e;&#x5f03;&#x5176;&#x4e8b;&#x4e1a;&#x3001;&#x5e73;&#x9759;&#x4e0b;&#x6765;&#x3002;</English>
 		<French>Tandis qu'ils n'ont pas encore commenc&#233; des pr&#233;parations pour la guerre, si vous niez leur demande elles peuvent bient&#244;t devenir plus ardantes dans leur d&#233;sir pour l'ind&#233;pendance.  Si vous choisissez de ne pas les laisser marcher loin, vous devriez &#233;carter votre religion au cite et prend l'autre mesure pour am&#233;liorer leur situation.  L'un ou l'autre qui, ou vous pouvez tr&#232;s bien &#234;tre confront&#233; &#224; un soul&#232;vement &#224; l'avenir ! [NEWLINE] [NEWLINE] alternativement, vous pourriez faire une donation g&#233;n&#233;reuse aux chefs de religions.  Avec ce geste de bonne foi, ils laisseront tomber leur cause et apaiseront vers le bas.</French>
 		<German>Obwohl sie noch keine Kriegsvorbereitungen begonnen haben, werden sie, wenn ihr Wunsch verweigert wird, noch eifriger in ihrem Wunsch nach Unabh&#228;gigkeit werden.  Wenn Sie beschlie&#223;en, sie nicht gehen zu lassen, so sollten Sie Ihre Religion in Ihren St&#228;dten verbreiten und weitere Ma&#223;nahmen ergreifen, um ihre Situation zu verbessern. Tun Sie das oder Sie k&#246;nnen in Zukunft mit Aufst&#228;nden rechnen! [NEWLINE] [NEWLINE] Alternativ k&#246;nnten Sie den religi&#246;sen F&#252;hrern eine gro&#223;z&#252;gige Spende &#252;bergeben. Mit dieser Geste des Vertrauens werden sie ihre Sache fallen lassen und sich beruhigen.</German>
 		<Italian>Per ora non hanno cominciato i preparativi per la guerra, ma se non accetti la loro richiesta, diventeranno presto pi&#249; desiderosi di indipendenza.  Se sceglierai di non lasciarli andare, dovresti diffondere la religione di stato nelle citt&#224; ed agire per migliorare la loro condizione.  Fai qualcosa, altrimenti dovrai fronteggiare presto una rivolta! [NEWLINE] [NEWLINE] In alternativa, fai una generosa donazione ai capi religiosi: dopo questo gesto di buona fede, cominceranno ad abbandonare la loro causa e la situazione comincer&#224; a calmarsi.</Italian>
@@ -1520,7 +1520,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_VIOLENT_IND_1</Tag>
-		<English>declaring their independence so that they may freely worship their faith,</English>
+		<English>&#x5ba3;&#x5e03;&#x4ed6;&#x4eec;&#x7684;&#x72ec;&#x7acb;&#xff0c;&#x597d;&#x8ba9;&#x4ed6;&#x4eec;&#x80fd;&#x81ea;&#x7531;&#x5730;&#x4fe1;&#x5949;&#x5176;&#x4fe1;&#x4ef0;&#xff0c;</English>
 		<French>d&#233;claration de leur ind&#233;pendance de sorte qu'ils puissent librement adorer leur foi,</French>
 		<German>erkl&#228;ren ihre Unabh&#228;ngigkeit, damit sie ihren Glauben frei aus&#252;ben k&#246;nnen,</German>
 		<Italian>dichiarando la propria indipendenza in modo da professare liberamente la propria fede, </Italian>
@@ -1528,7 +1528,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_VIOLENT_IND_2</Tag>
-		<English>They have lived in your</English>
+		<English>&#x4ed6;&#x4eec;&#x5728;&#x4f60;&#x7684;</English>
 		<French>Ils ont v&#233;cu dans le votre</French>
 		<German>Sie haben gelebt in Ihrer</German>
 		<Italian>Hanno vissuto nella tua societ&#224; dominata dal </Italian>
@@ -1536,7 +1536,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_VIOLENT_IND_3</Tag>
-		<English>dominated society for too long!</English>
+		<English>&#x4e3b;&#x5bfc;&#x7684;&#x793e;&#x4f1a;&#x4e2d;&#x751f;&#x6d3b;&#x5f97;&#x592a;&#x4e45;&#x4e86;&#xff01;</English>
 		<French>soci&#233;t&#233; domin&#233;e trop longtemps !</French>
 		<German>dominanten Gesellschaft f&#252;r zu lange!</German>
 		<Italian>per troppo tempo!</Italian>
@@ -1544,7 +1544,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_REL_VIOLENT_IND</Tag>
-		<English>If you deny their request to leave, you will have to face the devout revolutionaries on the battlefield.  Your troops in these cities will be surrounded by a hostile population and may take heavy losses or even defect.  The defenses of some of these cities may crumble immeadiately, others may be able to retain some semblence of control.  While war with your own cities will be ugly, it may be better than allowing cities you control to leave without a fight!  Carefully weigh your options.</English>
+		<English>&#x4f60;&#x82e5;&#x56de;&#x7edd;&#x4ed6;&#x4eec;&#x79bb;&#x53bb;&#x7684;&#x8bf7;&#x6c42;&#xff0c;&#x5c31;&#x5f97;&#x5728;&#x6218;&#x573a;&#x4e0a;&#x9762;&#x5bf9;&#x8fd9;&#x4e9b;&#x8654;&#x8bda;&#x7684;&#x9769;&#x547d;&#x8005;&#x3002;&#x4f60;&#x5728;&#x8fd9;&#x4e9b;&#x57ce;&#x5e02;&#x4e2d;&#x7684;&#x90e8;&#x961f;&#x5c06;&#x88ab;&#x6000;&#x6709;&#x654c;&#x610f;&#x7684;&#x6c11;&#x4f17;&#x6240;&#x5305;&#x56f4;&#xff0c;&#x53ef;&#x80fd;&#x8499;&#x53d7;&#x91cd;&#x5927;&#x635f;&#x5931;&#x3001;&#x751a;&#x81f3;&#x53db;&#x53d8;&#x3002;&#x5176;&#x4e2d;&#x4e00;&#x4e9b;&#x57ce;&#x5e02;&#x7684;&#x9632;&#x5fa1;&#x6216;&#x8bb8;&#x4f1a;&#x5373;&#x523b;&#x5d29;&#x6e83;&#xff0c;&#x53e6;&#x4e00;&#x4e9b;&#x6216;&#x8bb8;&#x8fd8;&#x80fd;&#x4fdd;&#x6709;&#x51e0;&#x5206;&#x638c;&#x63a7;&#x3002;&#x5c3d;&#x7ba1;&#x4e0e;&#x4f60;&#x81ea;&#x5df1;&#x7684;&#x57ce;&#x5e02;&#x5f00;&#x6218;&#x4f1a;&#x5f88;&#x96be;&#x770b;&#xff0c;&#x4f46;&#x8fd9;&#x6216;&#x8bb8;&#x80dc;&#x8fc7;&#x4efb;&#x7531;&#x4f60;&#x6240;&#x63a7;&#x5236;&#x7684;&#x57ce;&#x5e02;&#x4e0d;&#x6218;&#x800c;&#x53bb;&#xff01;&#x8bf7;&#x614e;&#x91cd;&#x6743;&#x8861;&#x4f60;&#x7684;&#x9009;&#x62e9;&#x3002;</English>
 		<French>Si vous niez leur demande de partir, vous devrez faire face aux r&#233;volutionnaires d&#233;vots sur le champ de bataille.  Vos troupes dans ces villes seront entour&#233;es par une population hostile et peuvent prendre de lourdes pertes ou m&#234;me d&#233;faut.  Les d&#233;fenses de certaines de ces villes peuvent s'&#233;mietter immeadiately, d'autres peuvent pouvoir maintenir un certain semblence de commande.  Tandis que la guerre avec vos propres villes sera laide, il peut &#234;tre meilleur que permettant des villes que vous commandez pour quitter sans combat !  Pesez soigneusement vos options.</French>
 		<German>Wenn Sie ihre Bitte zu gehen verweigern, so m&#252;ssen Sie sich gl&#228;ubigen Revolution&#228;ren auf dem Schlachtfeld stellen.  Ihre Truppen in diesen St&#228;dten werden von einer feindseligen Bev&#246;lkerung umgeben sein und k&#246;nnen starke Verluste erleiden oder sogar &#252;berlaufen.  Die Verteidigung einiger dieser St&#228;dte kann unmittelbar zerfallen, andere k&#246;nnen vielleicht einen Rest an Kontrolle bewahren.  Krieg mit Ihren eigenen St&#228;dten ist h&#228;&#223;lich, aber vielleicht ist er dennoch besser, als Ihre St&#228;dte ohne Kampf ziehen zu lassen!  W&#228;gen Sie Ihre Optionen sorgf&#228;ltig ab.</German>
 		<Italian>Se non accetterai la loro richiesta di separarsi, dovrai affrontare i rivoluzionari sul campo di battaglia. Le tue truppe in queste citt&#224; saranno circondate da una popolazione ostile e potranno subire gravi perdite o anche disertare.   Le difese di alcune di queste citt&#224; possono crollare subito, su altre potresti mantenere un certo livello di controllo.  Anche se la guerra contro le tue stesse citt&#224; sar&#224; terribile, potrebbe essere meglio che permettere loro di separarsi senza lottare!  Valuta con attenzione le tue scelte.</Italian>
@@ -1554,7 +1554,7 @@
 	<!-- Homeland revolution popup text -->
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_HOLY_WAR</Tag>
-		<English>joining with your religious leaders to call for a holy war against the</English>
+		<English>&#x4e0e;&#x4f60;&#x7684;&#x5b97;&#x6559;&#x9886;&#x8896;&#x8054;&#x624b;&#xff0c;&#x53f7;&#x53ec;&#x53d1;&#x52a8;&#x4e00;&#x573a;&#x5723;&#x6218;&#xff0c;&#x5bf9;&#x8c61;&#x4e3a;</English>
 		<French>se joindre &#224; vos chefs religieux &#224; l'appel pour une Guerre Sainte contre</French>
 		<German>vereinigen sich mit Ihren religi&#246;sen Anf&#252;hrern zum Anruf f&#252;r einen heiligen Krieg gegen</German>
 		<Italian>unendosi con i tuoi capi religiosi alla richiesta per una Guerra Santa contro</Italian>
@@ -1562,7 +1562,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_HOLY_RECLAIM</Tag>
-		<English>You must show your devotion by reclaiming your holy city,</English>
+		<English>&#x4f60;&#x5fc5;&#x987b;&#x4ee5;&#x593a;&#x56de;&#x4f60;&#x7684;&#x5723;&#x57ce;&#x6765;&#x5f70;&#x663e;&#x4f60;&#x7684;&#x8654;&#x8bda;&#xff0c;&#x5723;&#x57ce;&#x4e3a;</English>
 		<French>Vous devez montrer votre d&#233;votion en reprenant votre Ville Sainte,</French>
 		<German>Sie m&#252;ssen Ihre Hingabe zeigen, indem Sie Ihre heilige Stadt zur&#252;ckfordern,</German>
 		<Italian>Devi mostrare la tua devozione riconquistando la Citt&#224; Santa,</Italian>
@@ -1570,7 +1570,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_HOLY_HEATHENS</Tag>
-		<English>from the heathens!</English>
+		<English>&#x4ece;&#x5f02;&#x6559;&#x5f92;&#x624b;&#x4e2d;&#x593a;&#x56de;&#xff01;</English>
 		<French>des heathens !</French>
 		<German>von den Heiden!</German>
 		<Italian>dagli infedeli!</Italian>
@@ -1578,7 +1578,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_HOLY_REQUEST</Tag>
-		<English>Honoring their request, and leading your followers to a holy victory is the surest way to keep these cities in your empire for the forseeable future.  If you ignore their cries for holy war, they may soon decide you are not a true believer and turn against you.</English>
+		<English>&#x7b54;&#x5e94;&#x4ed6;&#x4eec;&#x7684;&#x8bf7;&#x6c42;&#x3001;&#x5f15;&#x9886;&#x4f60;&#x7684;&#x4fe1;&#x5f92;&#x8d70;&#x5411;&#x4e00;&#x573a;&#x795e;&#x5723;&#x7684;&#x80dc;&#x5229;&#xff0c;&#x662f;&#x5728;&#x53ef;&#x9884;&#x89c1;&#x7684;&#x672a;&#x6765;&#x5c06;&#x8fd9;&#x4e9b;&#x57ce;&#x5e02;&#x7559;&#x5728;&#x4f60;&#x5e1d;&#x56fd;&#x5185;&#x6700;&#x7a33;&#x59a5;&#x7684;&#x65b9;&#x5f0f;&#x3002;&#x4f60;&#x82e5;&#x65e0;&#x89c6;&#x4ed6;&#x4eec;&#x5bf9;&#x5723;&#x6218;&#x7684;&#x547c;&#x58f0;&#xff0c;&#x4ed6;&#x4eec;&#x6216;&#x8bb8;&#x5f88;&#x5feb;&#x4fbf;&#x4f1a;&#x8ba4;&#x5b9a;&#x4f60;&#x5e76;&#x975e;&#x771f;&#x6b63;&#x7684;&#x4fe1;&#x5f92;&#xff0c;&#x8fdb;&#x800c;&#x80cc;&#x5f03;&#x4f60;&#x3002;</English>
 		<French>Honorer leur demande, et la conduite de vos disciples &#224; une victoire sainte est la mani&#232;re la plus s&#251;re de maintenir ces villes dans votre empire &#224; l'avenir pr&#233;visible.  Si vous ignorez leurs cris pour la Guerre Sainte, ils peuvent bient&#244;t d&#233;cider que vous n'&#234;tes pas un croyant vrai et se retourner contre vous.</French>
 		<German>Ihre Forderung zu beachten und Ihre Anh&#228;nger zu einem heiligen Sieg zu f&#252;hren ist der sicherste Weg, diese St&#228;dte auch in der Zukunft in Ihrem Imperium zu halten. Wenn Sie ihre Rufe nach einem heiligen Krieg ignorieren, k&#246;nnten sie bald zur Erkenntnis gelangen, dass Sie kein wahrer Gl&#228;ubiger sind und sich gegen Sie wenden.</German>
 		<Italian>Accettare la loro richiesta e condurre i tuoi seguaci ad una santa vittoria &#232; il metodo pi&#249; sicuro per mantenere queste citt&#224; nel tuo impero per il prossimo futuro.  Se ignori i loro richiami alla Guerra Santa, potranno decidere che non sei un vero credente e rivoltarsi contro di te.</Italian>
@@ -1586,7 +1586,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_HOLY_WHILE</Tag>
-		<English>While it is true the</English>
+		<English>&#x5c3d;&#x7ba1;&#x786e;&#x6709;&#x5176;&#x4e8b;&#xff1a;</English>
 		<French>Tandis qu'il est vrai</French>
 		<German>W&#228;hrend es zutrifft, dass</German>
 		<Italian>Mentre &#232; vero che</Italian>
@@ -1594,7 +1594,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_HOLY_CLAIMS</Tag>
-		<English>claims to follow</English>
+		<English>&#x81ea;&#x79f0;&#x4fe1;&#x5949;</English>
 		<French>r&#233;clamations &#224; suivre</French>
 		<German>fordert zu folgen</German>
 		<Italian>proclama di seguire</Italian>
@@ -1602,7 +1602,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_HOLY_WORTHY</Tag>
-		<English>they are no longer worthy of holding the holy city of</English>
+		<English>&#x4ed6;&#x4eec;&#x5df2;&#x4e0d;&#x518d;&#x914d;&#x5f97;&#x4e0a;&#x5360;&#x636e;&#x4ee5;&#x4e0b;&#x5723;&#x57ce;&#xff1a;</English>
 		<French>ils ne sont plus dignes de tenir Ville Sainte de</French>
 		<German>sie sind nicht mehr w&#252;rdig, die heilige Stadt zu besitzen</German>
 		<Italian>non sono pi&#249; degni di possedere la Citt&#224; Santa di</Italian>
@@ -1610,7 +1610,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_HOLY_DEVOTION</Tag>
-		<English>You must show your devotion by reclaiming</English>
+		<English>&#x4f60;&#x5fc5;&#x987b;&#x4ee5;&#x593a;&#x56de;&#x6765;&#x5f70;&#x663e;&#x4f60;&#x7684;&#x8654;&#x8bda;&#xff0c;&#x5bf9;&#x8c61;&#x4e3a;</English>
 		<French>Vous devez montrer votre d&#233;votion par la reprise</French>
 		<German>Sie m&#252;ssen Ihre Hingabe zeigen, indem Sie zur&#252;ckfordern</German>
 		<Italian>Devi mostrare la tua devozione riconquistando</Italian>
@@ -1618,7 +1618,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_HOLY_UNWORTHY</Tag>
-		<English>from the unworthy!</English>
+		<English>&#x4ece;&#x90a3;&#x4e9b;&#x4e0d;&#x914d;&#x4e4b;&#x4eba;&#x624b;&#x4e2d;&#x593a;&#x56de;&#xff01;</English>
 		<French>de l'indigne!</French>
 		<German>von den Unw&#252;rdigen!</German>
 		<Italian>dagli indegni!</Italian>
@@ -1626,7 +1626,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_EMAN_REJECT</Tag>
-		<English>requesting that you officially reject the practice of slavery and adopt</English>
+		<English>&#x8981;&#x6c42;&#x4f60;&#x6b63;&#x5f0f;&#x6452;&#x5f03;&#x5974;&#x96b6;&#x5236;&#x3001;&#x5e76;&#x91c7;&#x7eb3;</English>
 		<French>demandant que vous rejetez officiellement la pratique de l'esclavage et l'adoptez</French>
 		<German>fordern, dass Sie offiziell die Praxis der Sklaverei zur&#252;ckweisen und annehmen</German>
 		<Italian>chiedendo che venga ufficialmente abolita la pratica della schiavit&#249; e che tu adotti</Italian>
@@ -1634,7 +1634,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_EMAN_CIVIC</Tag>
-		<English>in your civic policy.  Mass demonstrations have broken out, bringing production in your cities to a halt!</English>
+		<English>&#x4f5c;&#x4e3a;&#x4f60;&#x7684;&#x653f;&#x4f53;&#x653f;&#x7b56;&#x3002;&#x5927;&#x89c4;&#x6a21;&#x793a;&#x5a01;&#x5df2;&#x7136;&#x7206;&#x53d1;&#xff0c;&#x4ee4;&#x4f60;&#x57ce;&#x5e02;&#x7684;&#x751f;&#x4ea7;&#x9677;&#x5165;&#x505c;&#x987f;&#xff01;</English>
 		<French>dans votre politique civique.  Les manifestations de masse ont &#233;clat&#233;, apportant la production dans vos villes &#224; une halte!</French>
 		<German>in Ihren Staatsformen.  Massendemonstrationen sind ausgebrochen und die Produktion in Ihren St&#228;dten wurde zum Stillstand gebracht!</German>
 		<Italian>come forma di governo.  Sono scoppiate manifestazioni di piazza, bloccando la produzione nelle tue citt&#224;!</Italian>
@@ -1642,7 +1642,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_EMAN_SLAVE</Tag>
-		<English>However, if you decide to keep your current practices, you may yet have time to improve other aspects of these cities so they will forget your condoning the slave trade.</English>
+		<English>&#x4e0d;&#x8fc7;&#xff0c;&#x4f60;&#x82e5;&#x51b3;&#x610f;&#x7ef4;&#x6301;&#x5f53;&#x524d;&#x7684;&#x505a;&#x6cd5;&#xff0c;&#x6216;&#x8bb8;&#x8fd8;&#x6709;&#x65f6;&#x95f4;&#x6539;&#x5584;&#x8fd9;&#x4e9b;&#x57ce;&#x5e02;&#x7684;&#x5176;&#x4ed6;&#x65b9;&#x9762;&#xff0c;&#x597d;&#x8ba9;&#x4ed6;&#x4eec;&#x6de1;&#x5fd8;&#x4f60;&#x5bf9;&#x5974;&#x96b6;&#x8d38;&#x6613;&#x7684;&#x7eb5;&#x5bb9;&#x3002;</English>
 		<French>Cependant, si vous d&#233;cidez de garder vos pratiques courantes, vous pouvez encore avoir le temps pour am&#233;liorer d'autres aspects de ces villes ainsi ils oublieront votre pardon du commerce slave.</French>
 		<German>Sollten Sie sich entscheiden, Ihre gegenw&#228;rtige Praxis beizubehalten, so k&#246;nnten Sie noch gen&#252;gend Zeit haben, andere Aspekte dieser St&#228;dte zu verbessern, bis sie Ihre Duldung des Sklavenhandels vergessen haben.</German>
 		<Italian>Tuttavia, anche se decidi di proseguire l'attuale politica, sei ancora in tempo per migliorare altri aspetti di queste citt&#224; in modo da far loro dimenticare la tua tolleranza al commercio di schiavi.</Italian>
@@ -1650,7 +1650,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_SLAVE_REBELLION</Tag>
-		<English>A slave rebellion has broken out in</English>
+		<English>&#x4e00;&#x573a;&#x5974;&#x96b6;&#x53db;&#x4e71;&#x7206;&#x53d1;&#x4e8e;</English>
 		<French>Une r&#233;bellion slave a &#233;clat&#233; dedans</French>
 		<German>Ein Sklavenaufstand ist ausgebrochen in</German>
 		<Italian>Una rivolta di schiavi &#232; scoppiata a</Italian>
@@ -1658,7 +1658,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_SLAVE_DEMAND</Tag>
-		<English>The slaves are demanding you switch to</English>
+		<English>&#x5974;&#x96b6;&#x4eec;&#x8981;&#x6c42;&#x4f60;&#x5207;&#x6362;&#x4e3a;</English>
 		<French>Les esclaves vous exigent commutateur &#224;</French>
 		<German>Die Sklaven verlangen, dass Sie wechseln zu</German>
 		<Italian>Gli schiavi stanno chiedendo di cambiare verso</Italian>
@@ -1666,7 +1666,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_SLAVE_DENY</Tag>
-		<English>or they will fight![NEWLINE][NEWLINE]If you deny their request, disorganized slave bands will rise up outside your cities!  But if you end their servitude, you will put many whip makers out of business.</English>
+		<English>&#x5426;&#x5219;&#x4ed6;&#x4eec;&#x4fbf;&#x4f1a;&#x5f00;&#x6218;&#xff01;[NEWLINE][NEWLINE]&#x4f60;&#x82e5;&#x56de;&#x7edd;&#x4ed6;&#x4eec;&#x7684;&#x8bf7;&#x6c42;&#xff0c;&#x4e00;&#x7fa4;&#x4e4c;&#x5408;&#x4e4b;&#x4f17;&#x7684;&#x5974;&#x96b6;&#x56e2;&#x4f19;&#x4fbf;&#x4f1a;&#x5728;&#x4f60;&#x57ce;&#x5916;&#x63ed;&#x7aff;&#x800c;&#x8d77;&#xff01;&#x4f46;&#x4f60;&#x82e5;&#x7ec8;&#x7ed3;&#x4ed6;&#x4eec;&#x7684;&#x5974;&#x5f79;&#xff0c;&#x4fbf;&#x4f1a;&#x4ee4;&#x8bb8;&#x591a;&#x5236;&#x97ad;&#x5320;&#x5931;&#x4e1a;&#x3002;</English>
 		<French>ou ils combattront ! [NEWLINE] [NEWLINE] si vous niez leur demande, les bandes slaves d&#233;sorganis&#233;es montera vers le haut en dehors de vos villes !  Mais si vous finissez leur servitude, vous mettrez beaucoup de fabricants de fouet hors des affaires.</French>
 		<German>oder sie werden k&#228;mpfen! [NEWLINE] [NEWLINE] Wenn Sie ihre Forderung ablehnen, so werden unorganisierte Sklavenbanden vor den Toren Ihrer St&#228;dte auftauchen!  Aber wenn Sie die Sklaverei beenden, so werden viele Peitschenhersteller arbeitslos.</German>
 		<Italian>o combatteranno! [NEWLINE] [NEWLINE] Se non accetti la loro richiesta, bande disorganizzate di schiavi si solleveranno nelle tue citt&#224;!  Ma se porrai fine alla schiavit&#249;, lascerai i fabbricanti di fruste senza lavoro.</Italian>
@@ -1674,7 +1674,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_ENV_REQUEST</Tag>
-		<English>requesting that you end your polluting ways and adopt</English>
+		<English>&#x8981;&#x6c42;&#x4f60;&#x7ec8;&#x6b62;&#x4f60;&#x6c61;&#x67d3;&#x73af;&#x5883;&#x7684;&#x884c;&#x5f84;&#x3001;&#x5e76;&#x91c7;&#x7eb3;</English>
 		<French>demandant que vous finissez vos mani&#232;res de pollution et les adoptez</French>
 		<German>fordern, dass Sie die Umweltverschmutzung einstellen und annehmen</German>
 		<Italian>chiedendo di porre fine ai comportamenti inquninanti, e di adottare </Italian>
@@ -1682,7 +1682,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_ENV_GREEN</Tag>
-		<English>Mass demonstrations have broken out, and green power has filled the streets!</English>
+		<English>&#x5927;&#x89c4;&#x6a21;&#x793a;&#x5a01;&#x5df2;&#x7136;&#x7206;&#x53d1;&#xff0c;&#x7eff;&#x8272;&#x529b;&#x91cf;&#x6d8c;&#x4e0a;&#x4e86;&#x8857;&#x5934;&#xff01;</English>
 		<French>Les manifestations de masse ont &#233;clat&#233;, et la puissance verte a rempli rues!</French>
 		<German>Massendemonstrationen sind ausgebrochen und gr&#252;ne Kr&#228;fte f&#252;llen die Stra&#223;en!</German>
 		<Italian>Sono scoppiate manifestazioni di massa e le strade sono riempite dal 'potere verde'!</Italian>
@@ -1690,7 +1690,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_HL_ENV_SMOG</Tag>
-		<English>However, if you decide to keep your current practices, you may yet have time to improve other aspects of these cities so they will see past the smog.</English>
+		<English>&#x4e0d;&#x8fc7;&#xff0c;&#x4f60;&#x82e5;&#x51b3;&#x610f;&#x7ef4;&#x6301;&#x5f53;&#x524d;&#x7684;&#x505a;&#x6cd5;&#xff0c;&#x6216;&#x8bb8;&#x8fd8;&#x6709;&#x65f6;&#x95f4;&#x6539;&#x5584;&#x8fd9;&#x4e9b;&#x57ce;&#x5e02;&#x7684;&#x5176;&#x4ed6;&#x65b9;&#x9762;&#xff0c;&#x597d;&#x8ba9;&#x4ed6;&#x4eec;&#x8d8a;&#x8fc7;&#x90a3;&#x7247;&#x70df;&#x96fe;&#x53bb;&#x770b;&#x3002;</English>
 		<French>Cependant, si vous d&#233;cidez de garder vos pratiques courantes, vous pouvez encore avoir le temps pour am&#233;liorer d'autres aspects de ces villes ainsi ils verront apr&#232;s le brouillard enfum&#233;.</French>
 		<German>Wenn Sie Ihr gegenw&#228;rtiges Verhalten beibehalten, so k&#246;nnten Sie immer noch gen&#252;gend Zeit haben, andere Aspekte dieser St&#228;dte so zu verbessern, dass sie wieder durch den Smog sehen werden k&#246;nnen.</German>
 		<Italian>Tuttavia, anche se decidi di proseguire l'attuale politica, sei ancora in tempo per migliorare altri aspetti di queste citt&#224; in modo renderli meno sensibili allo smog.</Italian>
@@ -1698,7 +1698,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_COL_GOVT_REQUEST</Tag>
-		<English>requesting a say in your government.  As a colonies, they feel your government is not treating them fairly.</English>
+		<English>&#x8981;&#x6c42;&#x5728;&#x4f60;&#x7684;&#x653f;&#x5e9c;&#x4e2d;&#x6709;&#x53d1;&#x8a00;&#x6743;&#x3002;&#x4f5c;&#x4e3a;&#x6b96;&#x6c11;&#x5730;&#xff0c;&#x4ed6;&#x4eec;&#x89c9;&#x5f97;&#x4f60;&#x7684;&#x653f;&#x5e9c;&#x5f85;&#x4ed6;&#x4eec;&#x4e0d;&#x516c;&#x3002;</English>
 		<French>demande d'une parole dans votre gouvernement.  En tant que des colonies, ils jugent que votre gouvernement ne les traite pas assez.</French>
 		<German>fordern Mitsprache in Ihrer Regierung.  Als Kolonien f&#252;hlen sie sich von Ihrer Regierung nicht gerecht behandelt.</German>
 		<Italian>richiedendo di intervenire sul tuo governo.  Come colonie, pensano di non essere trattate equamente dal tuo governo.</Italian>
@@ -1706,7 +1706,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_COL_GOVT_PROTESTING</Tag>
-		<English>The colonists are protesting in the streets demanding</English>
+		<English>&#x6b96;&#x6c11;&#x8005;&#x6b63;&#x5728;&#x8857;&#x5934;&#x6297;&#x8bae;&#xff0c;&#x8981;&#x6c42;</English>
 		<French>Les colons protestent dans exiger de rues</French>
 		<German>Die Kolonisten protestieren in den Stra&#223;en und verlangen</German>
 		<Italian>I coloni stanno protestando nelle strade chiedendo</Italian>
@@ -1714,7 +1714,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_COL_GOVT_CRIES</Tag>
-		<English>Cries of 'No taxation without</English>
+		<English>&#x2018;&#x65e0;&#x4ee3;&#x8868;&#xff0c;&#x4e0d;&#x7eb3;&#x7a0e;&#x2019;&#x7684;&#x547c;&#x58f0;</English>
 		<French>Cris de &#039; Aucune imposition en dehors</French>
 		<German>Rufe von &#039;Keine Steuern ohne</German>
 		<Italian>Grida di &#039;Nessuna tassa senza </Italian>
@@ -1722,7 +1722,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_COL_GOVT_MARCH</Tag>
-		<English>fill the air as colonists march!</English>
+		<English>&#x54cd;&#x5f7b;&#x4e91;&#x9704;&#xff0c;&#x6b96;&#x6c11;&#x8005;&#x7eb7;&#x7eb7;&#x6e38;&#x884c;&#xff01;</English>
 		<French>remplissez air comme les colons marchent!</French>
 		<German>erf&#252;llen die Luft w&#228;hrend die Kolonisten marschieren!</German>
 		<Italian>riempiono l'aria quando i coloni sono in marcia!</Italian>
@@ -1730,7 +1730,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_COL_GOVT_PRACTICES</Tag>
-		<English>However, if you decide to keep your current practices, you may yet have time to improve other aspects of these cities so they will overlook their exclusion from power.</English>
+		<English>&#x4e0d;&#x8fc7;&#xff0c;&#x4f60;&#x82e5;&#x51b3;&#x610f;&#x7ef4;&#x6301;&#x5f53;&#x524d;&#x7684;&#x505a;&#x6cd5;&#xff0c;&#x6216;&#x8bb8;&#x8fd8;&#x6709;&#x65f6;&#x95f4;&#x6539;&#x5584;&#x8fd9;&#x4e9b;&#x57ce;&#x5e02;&#x7684;&#x5176;&#x4ed6;&#x65b9;&#x9762;&#xff0c;&#x597d;&#x8ba9;&#x4ed6;&#x4eec;&#x65e0;&#x89c6;&#x81ea;&#x5df1;&#x88ab;&#x6392;&#x9664;&#x4e8e;&#x6743;&#x529b;&#x4e4b;&#x5916;&#x3002;</English>
 		<French>Cependant, si vous d&#233;cidez de garder vos pratiques courantes, vous pouvez encore avoir le temps pour am&#233;liorer d'autres aspects de ces villes ainsi ils donneront sur leur exclusion de puissance.</French>
 		<German>Wenn Sie Ihr gegenw&#228;rtiges Verhalten beibehalten, so k&#246;nnten Sie immer noch gen&#252;gend Zeit haben, andere Aspekte dieser St&#228;dte so zu verbessern, dass sie ihre Machtlosigkeit &#252;bersehen werden.</German>
 		<Italian>Tuttavia, anche se decidi di proseguire l'attuale politica, sei ancora in tempo per migliorare altri aspetti di queste citt&#224; in modo da fargli sentire meno l'esclusione dal potere.</Italian>
@@ -1738,7 +1738,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CAP_COM_REQUEST</Tag>
-		<English>requesting a switch to</English>
+		<English>&#x8981;&#x6c42;&#x5207;&#x6362;&#x4e3a;</English>
 		<French>demande d'un commutateur &#224;</French>
 		<German>verlangen den Wechsel zu</German>
 		<Italian>richiedendo un cambiamento verso</Italian>
@@ -1746,7 +1746,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CAP_COM_BROTHER</Tag>
-		<English>They are imagining no possesions and a brotherhood of man![NEWLINE][NEWLINE]While </English>
+		<English>&#x4ed6;&#x4eec;&#x6b63;&#x61a7;&#x61ac;&#x7740;&#x4e00;&#x4e2a;&#x6ca1;&#x6709;&#x79c1;&#x4ea7;&#x3001;&#x56db;&#x6d77;&#x4e4b;&#x5185;&#x7686;&#x5144;&#x5f1f;&#x7684;&#x4e16;&#x754c;&#xff01;[NEWLINE][NEWLINE]&#x5c3d;&#x7ba1;</English>
 		<French>Ils n'imaginent aucun possesions et une confr&#233;rie de l'homme ! [NEWLINE] [NEWLINE] tandis que</French>
 		<German>Sie tr&#228;umen von einer Welt ohne Besitzt&#252;mer in der alle Menschen Br&#252;der sind! [NEWLINE] [NEWLINE] W&#228;hrend</German>
 		<Italian>Stanno sognando la fine della propriet&#224; privata e la fratellanza tra gli uomini! [NEWLINE] [NEWLINE] mentre </Italian>
@@ -1754,7 +1754,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CAP_COM_ECON</Tag>
-		<English>may have its benefits, it may not be worth giving up your current economic model.  The communist agitators have not yet turned to violence, so you may have time to help them see the benefits of competition.  However, the quickest and easiest path to keeping these cities in your empire for the forseeable future is to declare yourself a Comrade.  Since they don't value your cash, you cannot pay them off.</English>
+		<English>&#x6216;&#x8bb8;&#x6709;&#x5176;&#x597d;&#x5904;&#xff0c;&#x4f46;&#x4e5f;&#x8bb8;&#x4e0d;&#x503c;&#x5f97;&#x4e3a;&#x5b83;&#x653e;&#x5f03;&#x4f60;&#x5f53;&#x524d;&#x7684;&#x7ecf;&#x6d4e;&#x6a21;&#x5f0f;&#x3002;&#x8fd9;&#x4e9b;&#x5171;&#x4ea7;&#x4e3b;&#x4e49;&#x717d;&#x52a8;&#x8005;&#x5c1a;&#x672a;&#x8bc9;&#x8bf8;&#x66b4;&#x529b;&#xff0c;&#x56e0;&#x6b64;&#x4f60;&#x6216;&#x8bb8;&#x6709;&#x65f6;&#x95f4;&#x5e2e;&#x4ed6;&#x4eec;&#x770b;&#x6e05;&#x7ade;&#x4e89;&#x7684;&#x76ca;&#x5904;&#x3002;&#x7136;&#x800c;&#xff0c;&#x5728;&#x53ef;&#x9884;&#x89c1;&#x7684;&#x672a;&#x6765;&#x5c06;&#x8fd9;&#x4e9b;&#x57ce;&#x5e02;&#x7559;&#x5728;&#x4f60;&#x5e1d;&#x56fd;&#x5185;&#x6700;&#x8fc5;&#x901f;&#x3001;&#x6700;&#x7b80;&#x4fbf;&#x7684;&#x9014;&#x5f84;&#xff0c;&#x662f;&#x5ba3;&#x5e03;&#x4f60;&#x81ea;&#x5df1;&#x4e5f;&#x662f;&#x4e00;&#x4f4d;&#x540c;&#x5fd7;&#x3002;&#x65e2;&#x7136;&#x4ed6;&#x4eec;&#x4e0d;&#x770b;&#x91cd;&#x4f60;&#x7684;&#x73b0;&#x91d1;&#xff0c;&#x4f60;&#x4fbf;&#x65e0;&#x6cd5;&#x7528;&#x94b1;&#x6253;&#x53d1;&#x4ed6;&#x4eec;&#x3002;</English>
 		<French>peut avoir ses avantages, il ne peut pas valoir d'abandonner votre mod&#232;le courant.  Les agitateurs communistes ne se sont pas encore tourn&#233;s vers la violence, ainsi vous pouvez avoir le temps pour les aider pour voir les avantages de la concurrence.  Cependant, le chemin le plus rapide et le plus facile &#224; maintenir ces villes dans votre empire &#224; l'avenir pr&#233;visible est de se d&#233;clarer un camarade.  Puisqu'elles don&#039; valeur de t votre argent comptant, vous ne pouvez pas les &#233;ponger.</French>
 		<German>seine Vorteile haben mag, so ist es wom&#246;glich doch nicht sinnvoll, das derzeitige &#246;konomische Modell aufzugeben.  Die kommunistischen Aufwiegler sind noch nicht gewaltt&#228;tig, also haben Sie Zeit, ihnen die Vorteile des Wettbewerbs beizubringen.  Sich zu einem Genossen zu erkl&#228;ren ist jedoch der schnellste und einfachste Weg diese St&#228;dte in der absehbaren Zukunft in Ihrem Imperium zu behalten.  Da sie in Geld keinen Wert sehen, k&#246;nnen Sie sie auch nicht bestechen.</German>
 		<Italian>pu&#242; avere i suoi benefici, pu&#242; non valere la pena di abbandonare il tuo attuale modello economico.  Gli agitatori comunisti non sono ancora passati alla violenza, quindi sei ancora in tempo per aiutarli a vedere i benefici del libero mercato.  Tuttavia, la scelta pi&#249; rapida e pi&#249; semplice per mantenere queste citt&#224; nel tuo impero, per il prossimo futuro, &#232; quella di dichiararsi un 'compagno'.  Poich&#233; non danno peso al tuo oro, non potrai corromperli.</Italian>
@@ -1762,7 +1762,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CAP_VOTE_REQUEST</Tag>
-		<English>requesting a say in your government.</English>
+		<English>&#x8981;&#x6c42;&#x5728;&#x4f60;&#x7684;&#x653f;&#x5e9c;&#x4e2d;&#x6709;&#x53d1;&#x8a00;&#x6743;&#x3002;</English>
 		<French>demande d'une parole dans votre gouvernement.</French>
 		<German>fordern Mitsprache in Ihrer Regierung.</German>
 		<Italian>richiedendo di intervenire sul tuo governo.</Italian>
@@ -1770,7 +1770,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CAP_VOTE_US</Tag>
-		<English>Both men and women are protesting in the streets demanding</English>
+		<English>&#x7537;&#x7537;&#x5973;&#x5973;&#x90fd;&#x5728;&#x8857;&#x5934;&#x6297;&#x8bae;&#xff0c;&#x8981;&#x6c42;</English>
 		<French>Les hommes et les femmes protestent dans exiger de rues</French>
 		<German>M&#228;nner und Frauen protestieren auf den Stra&#223;en und verlangen</German>
 		<Italian>Sia gli uomini che le donne stanno protestando nelle strade, richiedendo </Italian>
@@ -1778,7 +1778,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CAP_VOTE_CRIES</Tag>
-		<English>Cries of 'No taxation without</English>
+		<English>&#x2018;&#x65e0;&#x4ee3;&#x8868;&#xff0c;&#x4e0d;&#x7eb3;&#x7a0e;&#x2019;&#x7684;&#x547c;&#x58f0;</English>
 		<French>Cris de &#039; Aucune imposition en dehors</French>
 		<German>Rufe von &#039;Keine Steuern ohne</German>
 		<Italian>Grida di &#039;Nessuna tassa senza</Italian>
@@ -1786,7 +1786,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CAP_VOTE_MARCH</Tag>
-		<English>fill the air as protesters march!</English>
+		<English>&#x54cd;&#x5f7b;&#x4e91;&#x9704;&#xff0c;&#x6297;&#x8bae;&#x8005;&#x7eb7;&#x7eb7;&#x6e38;&#x884c;&#xff01;</English>
 		<French>remplissez air comme les protestataires marchent!</French>
 		<German>erf&#252;llen die Luft w&#228;hrend die Demonstranten marschieren!</German>
 		<Italian>riempiono l'aria quando i dimostranti sono in marcia!</Italian>
@@ -1794,7 +1794,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CAP_VOTE_POWER</Tag>
-		<English>However, if you decide to keep your current practices, you may yet have time to improve other aspects of these cities so they will overlook their exclusion from power.</English>
+		<English>&#x4e0d;&#x8fc7;&#xff0c;&#x4f60;&#x82e5;&#x51b3;&#x610f;&#x7ef4;&#x6301;&#x5f53;&#x524d;&#x7684;&#x505a;&#x6cd5;&#xff0c;&#x6216;&#x8bb8;&#x8fd8;&#x6709;&#x65f6;&#x95f4;&#x6539;&#x5584;&#x8fd9;&#x4e9b;&#x57ce;&#x5e02;&#x7684;&#x5176;&#x4ed6;&#x65b9;&#x9762;&#xff0c;&#x597d;&#x8ba9;&#x4ed6;&#x4eec;&#x65e0;&#x89c6;&#x81ea;&#x5df1;&#x88ab;&#x6392;&#x9664;&#x4e8e;&#x6743;&#x529b;&#x4e4b;&#x5916;&#x3002;</English>
 		<French>Cependant, si vous d&#233;cidez de garder vos pratiques courantes, vous pouvez encore avoir le temps pour am&#233;liorer d'autres aspects de ces villes ainsi ils donneront sur leur exclusion de puissance.</French>
 		<German>Wenn Sie Ihr gegenw&#228;rtiges Verhalten beibehalten, so k&#246;nnten Sie immer noch gen&#252;gend Zeit haben, andere Aspekte dieser St&#228;dte so zu verbessern, dass sie ihre Machtlosigkeit &#252;bersehen werden.</German>
 		<Italian>Tuttavia, anche se decidi di proseguire l'attuale politica, sei ancora in tempo per migliorare altri aspetti di queste citt&#224; in modo da fargli sentire meno l'esclusione dal potere.</Italian>
@@ -1802,7 +1802,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CAP_VOTE_STATUES</Tag>
-		<English>Some new, expensive statues may remind them how great you are.</English>
+		<English>&#x4e00;&#x4e9b;&#x6602;&#x8d35;&#x7684;&#x65b0;&#x96d5;&#x50cf;&#x6216;&#x8bb8;&#x80fd;&#x63d0;&#x9192;&#x4ed6;&#x4eec;&#x4f60;&#x6709;&#x591a;&#x4f1f;&#x5927;&#x3002;</English>
 		<French>Quelques nouvelles, ch&#232;res statues peuvent les rappeler comme grand vous &#234;tes.</French>
 		<German>Einige neue, teure Statuen k&#246;nnten sie daran erinnern, wie bedeutend Sie sind.</German>
 		<Italian>Alcune nuovi, costosi monumenti potranno ricordare loro la tua grandezza.</Italian>
@@ -1810,7 +1810,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_CAP_SPEECH_REQUEST</Tag>
-		<English>are requesting the freedom to speak their mind:</English>
+		<English>&#x6b63;&#x5728;&#x8981;&#x6c42;&#x7545;&#x6240;&#x6b32;&#x8a00;&#x7684;&#x81ea;&#x7531;&#xff1a;</English>
 		<French>invitent la libert&#233; pour parler leur esprit:</French>
 		<German>fordern die Meinungsfreiheit:</German>
 		<Italian>stanno chiedendo la libert&#224; di esprimere il proprio pensiero: </Italian>

@@ -7,7 +7,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_REV_SCREEN_CHANGE</Tag>
-		<English>Change</English>
+		<English>&#x53d8;&#x5316;</English>
 		<French>Changement</French>
 		<German>&#196;nderung</German>
 		<Italian>Cambiamento</Italian>
@@ -16,7 +16,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_SCREEN_SCOREBOARD_MORE_CIVS</Tag>
-		<English>------- More ( +%d civs ) -------</English>
+		<English>------- &#x66f4;&#x591a;&#xff08; +%d &#x4e2a;&#x6587;&#x660e; &#xff09;-------</English>
 		<French>------- Plus ( +%d civs ) -------</French>
 		<German>------- Mehr ( +%d Zivilisationen ) -----</German>
 		<Italian>------- Pi&#249; ( +%d civs ) -------</Italian>
@@ -25,7 +25,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REV_SCREEN_SCOREBOARD_LESS_CIVS</Tag>
-		<English>------ Less ( top %d civs ) ------</English>
+		<English>------ &#x66f4;&#x5c11;&#xff08; &#x524d; %d &#x4e2a;&#x6587;&#x660e; &#xff09;------</English>
 		<French>------ Moins ( top %d civs ) ------</French>
 		<German>------ Weniger ( Obere %d Zivilsationen ) ------</German>
 		<Italian>------ Di meno ( top %d civs ) ------</Italian>

@@ -5,6 +5,7 @@ import io,re,sys
 sys.path.insert(0,"_b10r"); import gl
 
 en=io.open("_b10r/arda_en.txt",encoding="utf-8").read()
+en=en.replace("weakened by Mind Mana[\\\\LINK]","weakened by Mind Mana")
 
 def L(target,disp):
     zh=gl.disp(disp)
@@ -40,13 +41,15 @@ def tlist_linked(s):
           'Letum Frigus':'莱图姆·弗里古斯'}
     out=[];seen=set()
     for p in parts:
-        p=re.sub(r'\s+terrain$','',p)
+        p=re.sub(r'\s+terrain$','',p).strip()
+        p=re.sub(r'^(?:the|a|an|The)\s+','',p)           # strip leading article (kept outside LINK)
+        p=p.replace('Mind Mana[\\\\LINK]','Mind Mana').replace('Mind Mana[\\LINK]','Mind Mana')
         if p.startswith('[LINK='):
             v=p
         elif p in BARE: v=BARE[p]
         else:
             z=gl.disp(p); v=z if z else '«'+p+'»'
-        if v not in seen: seen.add(v); out.append(v)
+        out.append(v)          # 不去重：忠实保留源 LINK 数量
     return '、'.join(out)
 
 def render(b):
@@ -55,7 +58,10 @@ def render(b):
     # religion name (with LINK) between 'of' and 'will have'
     m=re.search(r'of\s+(?:the\s+)?(\[LINK=[^\]]*\][^\[]*\[\\\\LINK\])\s+will have', b)
     rel=linksub(m.group(1)) if m else '?'
-    out=f"{kind}的神赐之力，受{rel}的影响强化最甚"
+    # the "influence of [LINK]" occurrence (faithful: keep this LINK too)
+    mi=re.search(r'influence of\s+(?:the\s+)?(\[LINK=[^\]]*\][^\[]*\[\\\\LINK\])', b)
+    infl=linksub(mi.group(1)) if mi else rel
+    out=f"{rel}的{kind}的神赐之力，受{infl}的影响强化最甚"
     m3=re.search(r'lesser degree by\s+(.*?)\.\s*Its?\s+arda', b, re.S)
     if m3: out+="，也在较小程度上受"+tlist_linked(m3.group(1))+"强化"
     out+="。"

@@ -9,7 +9,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_MULTIPLAYER_GAME_DETECTED</Tag>
-		<English>MULTIPLAYER GAME DETECTED</English>
+		<English>&#x68c0;&#x6d4b;&#x5230;&#x591a;&#x4eba;&#x6e38;&#x620f;</English>
 		<French>JEU MULTIJOUEUR DETECTE</French>
 		<German>Multiplayer-Spiel erkannt</German>
 		<Italian>RILEVATO di gioco multiplayer</Italian>
@@ -18,7 +18,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MULTIPLAYER_GAME_DETECTED_DESCRIPTION</Tag>
-		<English>To minimize syncing issues, all BULL actions, RevDCM, and Revolution options are set to defaults and locked in Multiplayer games</English>
+		<English>&#x4e3a;&#x5c3d;&#x91cf;&#x51cf;&#x5c11;&#x540c;&#x6b65;&#x95ee;&#x9898;&#xff0c;&#x5728;&#x591a;&#x4eba;&#x6e38;&#x620f;&#x4e2d;&#xff0c;&#x6240;&#x6709; BULL &#x884c;&#x4e3a;&#x3001;RevDCM &#x53ca;&#x9769;&#x547d;&#x9009;&#x9879;&#x5747;&#x88ab;&#x8bbe;&#x4e3a;&#x9ed8;&#x8ba4;&#x503c;&#x5e76;&#x9501;&#x5b9a;</English>
 		<French>Pour minimiser les problemes de synchronisation, des actions BULL, RevDCM, les revolutions et les options definies par defaut et la colline, dans les jeux multijoueurs</French>
 		<German>Um Synchronisationsprobleme zu minimieren, sind alle BULL-Aktionen sowie RevCDCM- und Revolution-Optionen in Multiplayer-Spielen gesperrt und auf Standard gesetzt.</German>
 		<Italian>Per ridurre al minimo i problemi di sincronizzazione, le azioni BULL, RevDCM, rivoluzioni e impostare le opzioni di default e collina, nei giochi multiplayer</Italian>
@@ -28,7 +28,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_REVDCMTAB_INTERFACE_OPTIONS</Tag>
-		<English>Interface Options:</English>
+		<English>&#x754c;&#x9762;&#x9009;&#x9879;&#xff1a;</English>
 		<French>Options de l'interface:</French>
 		<German>Interface-Optionen:</German>
 		<Italian>Interfaccia opzioni:</Italian>
@@ -37,7 +37,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REVDCMTAB_SIEGE_OPTIONS</Tag>
-		<English>Siege Options:</English>
+		<English>&#x653b;&#x57ce;&#x9009;&#x9879;&#xff1a;</English>
 		<French>Options Siege:</French>
 		<German>Belagerungs-Optionen:</German>
 		<Italian>Assedio Opzioni:</Italian>
@@ -46,7 +46,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REVDCMTAB_BATTLE_OPTIONS</Tag>
-		<English>Battle Options:</English>
+		<English>&#x6218;&#x6597;&#x9009;&#x9879;&#xff1a;</English>
 		<French>Options Battle:</French>
 		<German>Kampf-Optionen:</German>
 		<Italian>Battaglia Opzioni:</Italian>
@@ -55,7 +55,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REVDCMTAB_AIRFORCE_OPTIONS</Tag>
-		<English>Airforce Options:</English>
+		<English>&#x7a7a;&#x519b;&#x9009;&#x9879;&#xff1a;</English>
 		<French>Force aerienne Options:</French>
 		<German>Luftwaffen-Optionen:</German>
 		<Italian>Air Force Opzioni:</Italian>
@@ -64,7 +64,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REVDCMTAB_IDW_OPTIONS</Tag>
-		<English>IDW Options:</English>
+		<English>&#x5f71;&#x54cd;&#x9a71;&#x52a8;&#x6218;&#x4e89;&#x9009;&#x9879;&#xff1a;</English>
 		<French>Options IDW:</French>
 		<German>IDW-Optionen:</German>
 		<Italian>IDW Opzioni:</Italian>
@@ -73,7 +73,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REVDCMTAB_INFLUENCE_OPTIONS</Tag>
-		<English>Influence Options:</English>
+		<English>&#x5f71;&#x54cd;&#x529b;&#x9009;&#x9879;&#xff1a;</English>
 		<French>Options Influence:</French>
 		<German>Einfluss-Optionen:</German>
 		<Italian>Influenza Opzioni:</Italian>
@@ -82,7 +82,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REVDCMTAB_SPY_OPTIONS</Tag>
-		<English>Spy Options:</English>
+		<English>&#x95f4;&#x8c0d;&#x9009;&#x9879;&#xff1a;</English>
 		<French>Options Spy:</French>
 		<German>Spionage-Optionen:</German>
 		<Italian>Spy Opzioni:</Italian>
@@ -91,7 +91,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REVDCMTAB_RELIGION_OPTIONS</Tag>
-		<English>Religion Options:</English>
+		<English>&#x5b97;&#x6559;&#x9009;&#x9879;&#xff1a;</English>
 		<French>Options Religion:</French>
 		<German>Religions-Optionen:</German>
 		<Italian>Religione Opzioni:</Italian>
@@ -100,7 +100,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REVDCMTAB_BARBCIV_OPTIONS</Tag>
-		<English>BarbCiv Options:</English>
+		<English>&#x86ee;&#x65cf;&#x6587;&#x660e;&#x9009;&#x9879;&#xff1a;</English>
 		<French>Options BarbCiv:</French>
 		<German>BarbCiv-Optionen:</German>
 		<Italian>BarbCiv Opzioni:</Italian>
@@ -109,7 +109,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REVDCMTAB_NEWWORLD_OPTIONS</Tag>
-		<English>New World Options:</English>
+		<English>&#x65b0;&#x4e16;&#x754c;&#x9009;&#x9879;&#xff1a;</English>
 		<French>Options Nouveau Monde:</French>
 		<German>Neue-Welt-Optionen:</German>
 		<Italian>New World Opzioni:</Italian>
@@ -118,7 +118,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REVDCMTAB_BARBCIV_STRENGTH_OPTIONS</Tag>
-		<English>BarbCiv Strength Settings:</English>
+		<English>&#x86ee;&#x65cf;&#x6587;&#x660e;&#x5f3a;&#x5ea6;&#x8bbe;&#x7f6e;&#xff1a;</English>
 		<French>Reglage force BarbCiv:</French>
 		<German>BarbCiv-St&#228;rke-Einstellungen:</German>
 		<Italian>BarbCiv Forza Settings:</Italian>
@@ -127,7 +127,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REVDCMTAB_RESET_DEFAULTS</Tag>
-		<English>Reset Defaults:</English>
+		<English>&#x91cd;&#x7f6e;&#x9ed8;&#x8ba4;&#x503c;&#xff1a;</English>
 		<French>Reinitialiser:</French>
 		<German>Standard wiederherstellen:</German>
 		<Italian>Ripristina impostazioni predefinite:</Italian>
@@ -136,14 +136,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REVDCMTAB_BBAI_OPTIONS</Tag>
-		<English>BBAI options:</English>
+		<English>BBAI &#x9009;&#x9879;&#xff1a;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVDCM__BBAI_DEFENSEPACT_TEXT</Tag>
-		<English>Defense pact type:</English>
+		<English>&#x9632;&#x5fa1;&#x540c;&#x76df;&#x7c7b;&#x578b;&#xff1a;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVDCM__BBAI_DEFENSEPACT_HOVER</Tag>
-		<English>0=default bi-pact; 1=multi-pact; 2=offensive pact;</English>
+		<English>0=&#x9ed8;&#x8ba4;&#x53cc;&#x8fb9;&#x534f;&#x5b9a;&#xff1b;1=&#x591a;&#x8fb9;&#x534f;&#x5b9a;&#xff1b;2=&#x8fdb;&#x653b;&#x6027;&#x534f;&#x5b9a;&#xff1b;</English>
 	</TEXT>
 </Civ4GameText>

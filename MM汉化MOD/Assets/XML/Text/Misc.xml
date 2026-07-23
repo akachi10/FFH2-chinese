@@ -3,11 +3,11 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_ASSERTS_ENABLED</Tag>
-		<English>Asserts enabled</English>
+		<English>&#x5df2;&#x542f;&#x7528;&#x65ad;&#x8a00;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DEBUG_BUILD</Tag>
-		<English>Debug build</English>
+		<English>&#x8c03;&#x8bd5;&#x7248;&#x672c;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MESSAGE_DIFFICULTY</Tag>
@@ -23,11 +23,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MESSAGE_DIFFICULTY_CHANGE_FLEX_INCR</Tag>
-		<English>(flex. %d1 turns, incr. %d2 turns)</English>
+		<English>&#xff08;&#x5f39;&#x6027; %d1 &#x56de;&#x5408;&#xff0c;&#x9012;&#x589e; %d2 &#x56de;&#x5408;&#xff09;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_SCREEN_CITY_CULTURE</Tag>
-		<English>%d1 cities with %s2 Culture (%d3)</English>
+		<English>%d1 &#x5ea7;&#x62e5;&#x6709; %s2 &#x6587;&#x5316;&#x7684;&#x57ce;&#x5e02;&#xff08;%d3&#xff09;</English>
 		<French>%d1 villes avec un niveau de culture %s2 (%d3)</French>
 		<German>%d1 St&#228;dte mit Kulturstufe %s2 (%d3)</German>
 		<Italian>%d1 citt&#224; con cultura %s2 (%d3)</Italian>

@@ -10,49 +10,49 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_MAPFINDER_REQUIRES_BULL</Tag>
-		<English>[COLOR_NEGATIVE_TEXT]MapFinder requires BULL to function[COLOR_REVERT]</English>
+		<English>[COLOR_NEGATIVE_TEXT]MapFinder &#x9700;&#x8981; BULL &#x624d;&#x80fd;&#x8fd0;&#x884c;[COLOR_REVERT]</English>
 		<German>[COLOR_NEGATIVE_TEXT]MapFinder ben&#246;tigt BULL, um zu funktionieren[COLOR_REVERT]</German>
 		<Italian>[COLOR_NEGATIVE_TEXT]MapFinder richiede il Mod BULL per funzionare[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_NEGATIVE_TEXT]MapFinder requiere BULL para funcionar[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPFINDER_CANNOT_REGENERATE</Tag>
-		<English>[COLOR_WARNING_TEXT]MapFinder cannot regenerate the map[COLOR_REVERT][NEWLINE]Exit to the main menu, start a new game, and try again.</English>
+		<English>[COLOR_WARNING_TEXT]MapFinder &#x65e0;&#x6cd5;&#x91cd;&#x65b0;&#x751f;&#x6210;&#x5730;&#x56fe;[COLOR_REVERT][NEWLINE]&#x9000;&#x51fa;&#x5230;&#x4e3b;&#x83dc;&#x5355;&#xff0c;&#x5f00;&#x59cb;&#x4e00;&#x5c40;&#x65b0;&#x6e38;&#x620f;&#xff0c;&#x7136;&#x540e;&#x91cd;&#x8bd5;&#x3002;</English>
 		<German>[COLOR_WARNING_TEXT]MapFinder: Neuerstellung der Karte nicht m&#246;glich[COLOR_REVERT][NEWLINE]Gehen Sie zur&#252;ck zum Hauptmen&#252;, beginnen Sie eine neue Partie und versuchen Sie es erneut.</German>
 		<Italian>[COLOR_WARNING_TEXT]MapFinder non pu&#242; rigenerare la mappa[COLOR_REVERT][NEWLINE]Esci al men&#249; principale, inizia una nuova partita e riprova.</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]MapFinder no puede regenerar el mapa[COLOR_REVERT][NEWLINE]Salga al Men&#250; principal, empiece una nueva partida e int&#233;ntelo de nuevo.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPFINDER_REGENERATE_FAILED</Tag>
-		<English>[COLOR_WARNING_TEXT]MapFinder failed to regenerate the map[COLOR_REVERT][NEWLINE]Exit to the main menu, start a new game, and try again.</English>
+		<English>[COLOR_WARNING_TEXT]MapFinder &#x672a;&#x80fd;&#x91cd;&#x65b0;&#x751f;&#x6210;&#x5730;&#x56fe;[COLOR_REVERT][NEWLINE]&#x9000;&#x51fa;&#x5230;&#x4e3b;&#x83dc;&#x5355;&#xff0c;&#x5f00;&#x59cb;&#x4e00;&#x5c40;&#x65b0;&#x6e38;&#x620f;&#xff0c;&#x7136;&#x540e;&#x91cd;&#x8bd5;&#x3002;</English>
 		<German>[COLOR_WARNING_TEXT]MapFinder: Neuerstellung der Karte fehlgeschlagen[COLOR_REVERT][NEWLINE]Gehen Sie zur&#252;ck zum Hauptmen&#252;, beginnen Sie eine neue Partie und versuchen Sie es erneut.</German>
 		<Italian>[COLOR_WARNING_TEXT]MapFinder non &#232; riuscito a rigenerare la mappa[COLOR_REVERT][NEWLINE]Esci al men&#249; principale, inizia una nuova partita e riprova.</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]MapFinder fallo al regenerar el mapa[COLOR_REVERT][NEWLINE]Salga al Men&#250; principal, empiece una nueva partida e int&#233;ntelo de nuevo.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPFINDER_INVALID_PATH</Tag>
-		<English>[COLOR_NEGATIVE_TEXT]MapFinder path is invalid: %s1[COLOR_REVERT]</English>
+		<English>[COLOR_NEGATIVE_TEXT]MapFinder &#x8def;&#x5f84;&#x65e0;&#x6548;&#xff1a;%s1[COLOR_REVERT]</English>
 		<German>[COLOR_NEGATIVE_TEXT]MapFinder-Dateipfad ist ung&#252;ltig: %s1[COLOR_REVERT]</German>
 		<Italian>[COLOR_NEGATIVE_TEXT]Il percorso di MapFinder non &#232; valido: %s1[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_NEGATIVE_TEXT]La ruta para MapFinder es incorrecta: %s1[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPFINDER_INVALID_SYSTEM_FILE</Tag>
-		<English>[COLOR_NEGATIVE_TEXT]MapFinder system file not found: %s1[COLOR_REVERT]</English>
+		<English>[COLOR_NEGATIVE_TEXT]&#x672a;&#x627e;&#x5230; MapFinder &#x7cfb;&#x7edf;&#x6587;&#x4ef6;&#xff1a;%s1[COLOR_REVERT]</English>
 		<German>[COLOR_NEGATIVE_TEXT]MapFinder-Systemdatei nicht gefunden: %s1[COLOR_REVERT]</German>
 		<Italian>[COLOR_NEGATIVE_TEXT]Il file di sistema di MapFinder non &#232; stato trovato: %s1[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_NEGATIVE_TEXT]El archivo de sistema de MapFinder no se encontr&#243;: %s1[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPFINDER_INVALID_RULE_FILE</Tag>
-		<English>[COLOR_NEGATIVE_TEXT]MapFinder rule file not found: %s1[COLOR_REVERT]</English>
+		<English>[COLOR_NEGATIVE_TEXT]&#x672a;&#x627e;&#x5230; MapFinder &#x89c4;&#x5219;&#x6587;&#x4ef6;&#xff1a;%s1[COLOR_REVERT]</English>
 		<German>[COLOR_NEGATIVE_TEXT]MapFinder-Regeldatei nicht gefunden: %s1[COLOR_REVERT]</German>
 		<Italian>[COLOR_NEGATIVE_TEXT]Il file delle regole di MapFinder non &#232; stato trovato: %s1[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_NEGATIVE_TEXT]El archivo de reglas de MapFinder no se encontr&#243;: %s1[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPFINDER_INVALID_SAVE_PATH</Tag>
-		<English>[COLOR_NEGATIVE_TEXT]MapFinder save file path is invalid: %s1[COLOR_REVERT]</English>
+		<English>[COLOR_NEGATIVE_TEXT]MapFinder &#x4fdd;&#x5b58;&#x6587;&#x4ef6;&#x8def;&#x5f84;&#x65e0;&#x6548;&#xff1a;%s1[COLOR_REVERT]</English>
 		<German>[COLOR_NEGATIVE_TEXT]MapFinder-Dateipfad ist ung&#252;ltig: %s1[COLOR_REVERT]</German>
 		<Italian>[COLOR_NEGATIVE_TEXT]Il percorso di MapFinder non &#232; valido: %s1[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_NEGATIVE_TEXT]La ruta de guardado para MapFinder es incorrecta: %s1[COLOR_REVERT]</Spanish>
@@ -66,7 +66,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPFINDER_TOTAL_MAPS</Tag>
-		<English>Maps</English>
+		<English>&#x5730;&#x56fe;&#x6570;</English>
 		<French>Cartes</French>
 		<German>Karten</German>
 		<Italian>Mappe</Italian>
@@ -74,7 +74,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPFINDER_TOTAL_SAVES</Tag>
-		<English>Saves</English>
+		<English>&#x4fdd;&#x5b58;&#x6570;</English>
 		<French>Sauves</French>
 		<German>Spielst&#228;nde</German>
 		<Italian>Salvataggi</Italian>
@@ -82,7 +82,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPFINDER_STOP_SHORTCUT</Tag>
-		<English>ALT + CTRL + SHIFT + G to Stop</English>
+		<English>ALT + CTRL + SHIFT + G &#x505c;&#x6b62;</English>
 		<French>ALT + CTRL + SHIFT + G pour arr&#234;ter</French>
 		<German>Dr&#252;cken Sie [STRG + ALT + UMSCHALT + G], um MapFinder zu beenden.</German>
 		<Italian>ALT + CTRL + SHIFT + G per arrestare</Italian>
@@ -91,14 +91,14 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_MAPFINDER_REGNERATING</Tag>
-		<English>Regenerating Map...</English>
+		<English>&#x6b63;&#x5728;&#x91cd;&#x65b0;&#x751f;&#x6210;&#x5730;&#x56fe;&#x2026;&#x2026;</English>
 		<German>Neuerstellung der Karte...</German>
 		<Italian>Rigenerazione Mappa...</Italian>
 		<Spanish>Regenerando Mapa...</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPFINDER_SAVING</Tag>
-		<English>Saving Game...</English>
+		<English>&#x6b63;&#x5728;&#x4fdd;&#x5b58;&#x6e38;&#x620f;&#x2026;&#x2026;</English>
 		<German>Speicherung der Partie...</German>
 		<Italian>Salvataggio partita...</Italian>
 		<Spanish>Guardando partida...</Spanish>
@@ -106,7 +106,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_MAPFINDER_ALREADY_RUNNING</Tag>
-		<English>[COLOR_WARNING_TEXT]MapFinder is already running[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]MapFinder &#x5df2;&#x5728;&#x8fd0;&#x884c;[COLOR_REVERT]</English>
 		<French>[COLOR_WARNING_TEXT]MapFinder est d&#233;j&#224; lanc&#233;[COLOR_REVERT]</French>
 		<German>[COLOR_WARNING_TEXT]MapFinder wird bereits ausgef&#252;hrt[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]MapFinder &#232; gi&#224; in esecuzione[COLOR_REVERT]</Italian>
@@ -114,7 +114,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPFINDER_NOT_RUNNING</Tag>
-		<English>[COLOR_WARNING_TEXT]MapFinder is not running[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]MapFinder &#x672a;&#x5728;&#x8fd0;&#x884c;[COLOR_REVERT]</English>
 		<French>[COLOR_WARNING_TEXT]MapFinder n'est pas en marche[COLOR_REVERT]</French>
 		<German>M[COLOR_WARNING_TEXT]MapFinder wird nicht ausgef&#252;hrt[COLOR_REVERT]</German>
 		<Italian>M[COLOR_WARNING_TEXT]apFinder non &#232; in esecuzione[COLOR_REVERT]</Italian>
@@ -122,7 +122,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPFINDER_STOPPED</Tag>
-		<English>MapFinder stopped</English>
+		<English>MapFinder &#x5df2;&#x505c;&#x6b62;</English>
 		<French>MapFinder arr&#234;t&#233;</French>
 		<German>MapFinder wurde beendet</German>
 		<Italian>MapFinder arrestato</Italian>

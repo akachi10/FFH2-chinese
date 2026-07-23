@@ -73,7 +73,7 @@ GL = {
  "Mother Lode":"富矿脉","Legends":"传奇","Raging Seas":"怒海","March of the Trees":"林木进军",
  "Gifts of Nantosuelta":"南托苏尔塔的馈赠","Religious Fervor":"宗教狂热","Divine Retribution":"神罚",
  "Worldbreak":"碎世","Into the Mist":"遁入迷雾","Veil of Night":"夜之帷幕",
- "Last Days":"末日将至","No Hell Terrain":"无地狱地形","Cages":"囚笼","every sort of explorable lair":"各类可探索的巢穴",
+ "Last Days":"末日将至","No Hell Terrain":"无地狱地形","Cages":"囚笼","every sort of explorable lair":"各类可探索的巢穴","Felllowship of the Leaves":"绿叶之友","by having fortified too long in one place":"在一处驻防过久",
 }
 def disp(x):
     x=x.strip()

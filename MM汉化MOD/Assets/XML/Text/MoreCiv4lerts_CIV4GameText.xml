@@ -3,7 +3,7 @@
 	<!-- MORECIV4LERTS TEXT -->
 	<TEXT>
 		<Tag>TXT_KEY_MISC_BORDERS_EXPANDED</Tag>
-		<English>[COLOR_MAGENTA]The borders of %s1_CityName have expanded![COLOR_REVERT]</English>
+		<English>[COLOR_MAGENTA]%s1_CityName &#x7684;&#x8fb9;&#x754c;&#x5df2;&#x6269;&#x5f20;&#xff01;[COLOR_REVERT]</English>
 		<French>[COLOR_MAGENTA]Les fronti&#232;res de %s1_CityName se sont &#233;tendues ![COLOR_REVERT]</French>
 		<German>[COLOR_MAGENTA]Die Stadtgrenzen von %s1_CityName haben sich erweitert![COLOR_REVERT]</German>
 		<Italian>[COLOR_MAGENTA]I confini di %s1_CityName si sono espansi![COLOR_REVERT]</Italian>
@@ -11,7 +11,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_CITY_TO_EXPAND</Tag>
-		<English>[COLOR_MAGENTA]The borders of %s1 are about to expand.[COLOR_REVERT]</English>
+		<English>[COLOR_MAGENTA]%s1 &#x7684;&#x8fb9;&#x754c;&#x5373;&#x5c06;&#x6269;&#x5f20;&#x3002;[COLOR_REVERT]</English>
 		<French>[COLOR_MAGENTA]La fronti&#232;re culturelle de %s1's est sur le point de s'&#233;tendre.[COLOR_REVERT]</French>
 		<German>[COLOR_MAGENTA]Die Stadtgrenzen von %s1 werden sich in der n&#228;chsten Runde erweitern.[COLOR_REVERT]</German>
 		<Italian>[COLOR_MAGENTA]Il confine culturale di %s1 sta per espandersi.[COLOR_REVERT]</Italian>
@@ -20,14 +20,14 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_CITY_FOUNDED</Tag>
-		<English>%s1_Player has founded %s2_City.</English>
+		<English>%s1_Player &#x5efa;&#x7acb;&#x4e86; %s2_City&#x3002;</English>
 		<German>%s1_Player hat die Stadt %s2_City gegr&#252;ndet.</German>
 		<Italian>%s1_Player ha fondato %s2_City.</Italian>
 		<Spanish>%s1_Player ha fundado %s2_City.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_CITY_FOUNDED_UNSEEN</Tag>
-		<English>%s1_Player has founded %s2_City in a distant land.</English>
+		<English>%s1_Player &#x5728;&#x4e00;&#x7247;&#x9065;&#x8fdc;&#x7684;&#x571f;&#x5730;&#x4e0a;&#x5efa;&#x7acb;&#x4e86; %s2_City&#x3002;</English>
 		<German>%s1_Player hat in einem fernen Land die Stadt %s2_City gegr&#252;ndet.</German>
 		<Italian>%s1_Player ha fondato %s2_City in una terra lontana.</Italian>
 		<Spanish>%s1_Player ha fundado %s2_City en una tierra lejana.</Spanish>
@@ -35,7 +35,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_POP_EXCEEDS_LIMIT</Tag>
-		<English>[COLOR_WARNING_TEXT]Your population: %d1 (%s2) exceeds the Domination Limit: %d3 (%s4)[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x4f60;&#x7684;&#x4eba;&#x53e3;&#xff1a;%d1&#xff08;%s2&#xff09;&#x5df2;&#x8d85;&#x8fc7;&#x7edf;&#x6cbb;&#x4e0a;&#x9650;&#xff1a;%d3&#xff08;%s4&#xff09;[COLOR_REVERT]</English>
 		<French>[COLOR_WARNING_TEXT]Votre population : %d1 (%s2) d&#233;passe la limite de domination : %d3 (%s4)[COLOR_REVERT]</French>
 		<German>[COLOR_WARNING_TEXT]Eure Bev&#246;lkerung: %d1 (%s2) &#252;berschreitet die Schwelle f&#252;r einen Herrschaftssieg: %d3 (%s4)[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]La tua popolazione: %d1 (%s2) eccede il limite di dominazione: %d3 (%s4)[COLOR_REVERT]</Italian>
@@ -43,7 +43,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_POP_CLOSE_TO_LIMIT</Tag>
-		<English>[COLOR_WARNING_TEXT]Your population: %d1 (%s2) is close to the Domination Limit: %d3 (%s4)[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x4f60;&#x7684;&#x4eba;&#x53e3;&#xff1a;%d1&#xff08;%s2&#xff09;&#x5df2;&#x63a5;&#x8fd1;&#x7edf;&#x6cbb;&#x4e0a;&#x9650;&#xff1a;%d3&#xff08;%s4&#xff09;[COLOR_REVERT]</English>
 		<French>[COLOR_WARNING_TEXT]Votre population : %d1 (%s2) est pr&#232;s de la limite de domination : %d3 (%s4)[COLOR_REVERT]</French>
 		<German>[COLOR_WARNING_TEXT]Eure Bev&#246;lkerung: %d1 (%s2) &#252;berschreitet beinahe die Schwelle f&#252;r einen Herrschaftssieg: %d3 (%s4)[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]La tua popolazione: %d1 (%s2) &#232; vicina al limite di dominazione: %d3 (%s4)[COLOR_REVERT]</Italian>
@@ -51,7 +51,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_POP_GROWTH_EXCEEDS_LIMIT</Tag>
-		<English>[COLOR_WARNING_TEXT]Your population: %d1, plus growth: %d2 (%s3) will exceed the Domination Limit: %d4 (%s5)[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x4f60;&#x7684;&#x4eba;&#x53e3;&#xff1a;%d1&#xff0c;&#x52a0;&#x4e0a;&#x589e;&#x957f;&#xff1a;%d2&#xff08;%s3&#xff09;&#x5c06;&#x8d85;&#x8fc7;&#x7edf;&#x6cbb;&#x4e0a;&#x9650;&#xff1a;%d4&#xff08;%s5&#xff09;[COLOR_REVERT]</English>
 		<French>[COLOR_WARNING_TEXT]Votre population : %d1, plus la croissance : %d2 (%s3) d&#233;passera la limite de domination : %d4 (%s5)[COLOR_REVERT]</French>
 		<German>[COLOR_WARNING_TEXT]Eure Bev&#246;lkerung: %d1, plus Wachstum: %d2 (%s3) &#252;berschreitet die Schwelle f&#252;r einen Herrschaftssieg: %d4 (%s5)[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]La tua popolazione: %d1, pi&#249; crescita: %d2 (%s3) ecceder&#224; il limite di dominazione: %d4 (%s5)[COLOR_REVERT]</Italian>
@@ -59,7 +59,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_POP_GROWTH_CLOSE_TO_LIMIT</Tag>
-		<English>[COLOR_WARNING_TEXT]Your population: %d1, plus growth: %d2 (%s3) will put close to the Domination Limit: %d4 (%s5)[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x4f60;&#x7684;&#x4eba;&#x53e3;&#xff1a;%d1&#xff0c;&#x52a0;&#x4e0a;&#x589e;&#x957f;&#xff1a;%d2&#xff08;%s3&#xff09;&#x5c06;&#x63a5;&#x8fd1;&#x7edf;&#x6cbb;&#x4e0a;&#x9650;&#xff1a;%d4&#xff08;%s5&#xff09;[COLOR_REVERT]</English>
 		<French>[COLOR_WARNING_TEXT]Votre population : %d1, plus la croissance : %d2 (%s3) vous mettra pr&#232;s de la limite de domination : %d4 (%s5)[COLOR_REVERT]</French>
 		<German>[COLOR_WARNING_TEXT]Eure Bev&#246;lkerung: %d1, plus Wachstum: %d2 (%s3) &#252;berschreitet beinahe die Schwelle f&#252;r einen Herrschaftssieg: %d4 (%s5)[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]La tua popolazione: %d1, pi&#249; crescita: %d2 (%s3) sar&#224; vicina al limite di dominazione: %d4 (%s5)[COLOR_REVERT]</Italian>
@@ -67,7 +67,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_LAND_EXCEEDS_LIMIT</Tag>
-		<English>[COLOR_WARNING_TEXT]Your land area: %d1 (%s2) exceeds the Domination Limit: %d3 (%s4)[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x4f60;&#x7684;&#x9886;&#x571f;&#x9762;&#x79ef;&#xff1a;%d1&#xff08;%s2&#xff09;&#x5df2;&#x8d85;&#x8fc7;&#x7edf;&#x6cbb;&#x4e0a;&#x9650;&#xff1a;%d3&#xff08;%s4&#xff09;[COLOR_REVERT]</English>
 		<French>[COLOR_WARNING_TEXT]Votre territoire : %d1 (%s2) d&#233;passe la limite de domination : %d3 (%s4)[COLOR_REVERT]</French>
 		<German>[COLOR_WARNING_TEXT]Eure Landmasse: %d1 (%s2) &#252;berschreitet die Schwelle f&#252;r einen Herrschaftssieg: %d3 (%s4)[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Il tuo territorio: %d1 (%s2) eccede il limite di dominazione: %d3 (%s4)[COLOR_REVERT]</Italian>
@@ -75,7 +75,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_LAND_CLOSE_TO_LIMIT</Tag>
-		<English>[COLOR_WARNING_TEXT]Your land area: %d1 (%s2) is close to the Domination Limit: %d3 (%s4)[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x4f60;&#x7684;&#x9886;&#x571f;&#x9762;&#x79ef;&#xff1a;%d1&#xff08;%s2&#xff09;&#x5df2;&#x63a5;&#x8fd1;&#x7edf;&#x6cbb;&#x4e0a;&#x9650;&#xff1a;%d3&#xff08;%s4&#xff09;[COLOR_REVERT]</English>
 		<French>[COLOR_WARNING_TEXT]Votre territoire : %d1 (%s2) est pr&#232;s de la limite de domination : %d3 (%s4)[COLOR_REVERT]</French>
 		<German>[COLOR_WARNING_TEXT]Eure Landmasse: %d1 (%s2) &#252;berschreitet beinahe die Schwelle f&#252;r einen Herrschaftssieg: %d3 (%s4)[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Il tuo territorio: %d1 (%s2) &#232; vicino al limite di dominazione: %d3 (%s4)[COLOR_REVERT]</Italian>
@@ -84,7 +84,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_NEW_TECH_AVAIL</Tag>
-		<English>[COLOR_TECH_TEXT]%s1 will trade %s2[COLOR_REVERT]</English>
+		<English>[COLOR_TECH_TEXT]%s1 &#x5c06;&#x4ea4;&#x6613; %s2[COLOR_REVERT]</English>
 		<French>[COLOR_TECH_TEXT]%s1 veut &#233;changer %s2[COLOR_REVERT]</French>
 		<German>[COLOR_TECH_TEXT]%s1 hat neue Technologie(n) zum Handeln: %s2[COLOR_REVERT]</German>
 		<Italian>[COLOR_TECH_TEXT]%s1 commercer&#224; %s2[COLOR_REVERT]</Italian>
@@ -92,7 +92,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_TECH_NOT_AVAIL</Tag>
-		<English>[COLOR_TECH_TEXT]%s1 won't trade %s2[COLOR_REVERT]</English>
+		<English>[COLOR_TECH_TEXT]%s1 &#x4e0d;&#x4f1a;&#x4ea4;&#x6613; %s2[COLOR_REVERT]</English>
 		<French>[COLOR_TECH_TEXT]%s1 ne veut pas &#233;changer %s2[COLOR_REVERT]</French>
 		<German>[COLOR_TECH_TEXT]%s1 hat Technologie(n) vom Handel ausgeschlossen: %s2[COLOR_REVERT]</German>
 		<Italian>[COLOR_TECH_TEXT]%s1 non commercer&#224; %s2[COLOR_REVERT]</Italian>
@@ -100,7 +100,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_NEW_BONUS_AVAIL</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]%s1 will trade %s2[COLOR_REVERT]</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]%s1 &#x5c06;&#x4ea4;&#x6613; %s2[COLOR_REVERT]</English>
 		<French>[COLOR_HIGHLIGHT_TEXT]%s1 veut &#233;changer %s2[COLOR_REVERT]</French>
 		<German>[COLOR_HIGHLIGHT_TEXT]%s1 hat Ressourcen zum Handeln: %s2[COLOR_REVERT]</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]%s1 commercer&#224; %s2[COLOR_REVERT]</Italian>
@@ -108,7 +108,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_BONUS_NOT_AVAIL</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]%s1 won't trade %s2[COLOR_REVERT]</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]%s1 &#x4e0d;&#x4f1a;&#x4ea4;&#x6613; %s2[COLOR_REVERT]</English>
 		<French>[COLOR_HIGHLIGHT_TEXT]%s1 ne veut pas &#233;changer %s2[COLOR_REVERT]</French>
 		<German>[COLOR_HIGHLIGHT_TEXT]%s1 hat Ressourcen vom Handel ausgeschlossen: %s2[COLOR_REVERT]</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]%s1 non commercer&#224; %s2[COLOR_REVERT]</Italian>
@@ -116,7 +116,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_MAP</Tag>
-		<English>[COLOR_TECH_TEXT]Will Trade Map: %s1[COLOR_REVERT]</English>
+		<English>[COLOR_TECH_TEXT]&#x5c06;&#x4ea4;&#x6613;&#x5730;&#x56fe;&#xff1a;%s1[COLOR_REVERT]</English>
 		<French>[COLOR_TECH_TEXT]Will Trade Map : %s1[COLOR_REVERT]</French>
 		<German>[COLOR_TECH_TEXT]Will mit Karten handeln: %s1[COLOR_REVERT]</German>
 		<Italian>[COLOR_TECH_TEXT]Commercer&#224; 'Mappa': %s1[COLOR_REVERT]</Italian>
@@ -125,7 +125,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_OPEN_BORDERS</Tag>
-		<English>[COLOR_TECH_TEXT]Will Sign Open Borders: %s1[COLOR_REVERT]</English>
+		<English>[COLOR_TECH_TEXT]&#x5c06;&#x7b7e;&#x8ba2;&#x5f00;&#x653e;&#x8fb9;&#x5883;&#xff1a;%s1[COLOR_REVERT]</English>
 		<French>[COLOR_TECH_TEXT]Signera les Fronti&#232;res Ouvertes : %s1[COLOR_REVERT]</French>
 		<German>[COLOR_TECH_TEXT]Wird "Offenen Grenzen" zustimmen: %s1[COLOR_REVERT]</German>
 		<Italian>[COLOR_TECH_TEXT]Firmer&#224; un Trattato di Libero Accesso: %s1[COLOR_REVERT]</Italian>
@@ -133,7 +133,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_DEFENSIVE_PACT</Tag>
-		<English>[COLOR_TECH_TEXT]Will Sign a Defensive Pact: %s1[COLOR_REVERT]</English>
+		<English>[COLOR_TECH_TEXT]&#x5c06;&#x7b7e;&#x8ba2;&#x9632;&#x5fa1;&#x540c;&#x76df;&#xff1a;%s1[COLOR_REVERT]</English>
 		<French>[COLOR_TECH_TEXT]Signera un Pacte D&#233;fensif : %s1[COLOR_REVERT]</French>
 		<German>[COLOR_TECH_TEXT]Wird einem "Verteidigungsb&#252;ndnis" zustimmen: %s1[COLOR_REVERT]</German>
 		<Italian>[COLOR_TECH_TEXT]Firmer&#224; un Patto Difensivo: %s1[COLOR_REVERT]</Italian>
@@ -141,7 +141,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_PERMANENT_ALLIANCE</Tag>
-		<English>[COLOR_TECH_TEXT]Will Sign a Permanent Alliance: %s1[COLOR_REVERT]</English>
+		<English>[COLOR_TECH_TEXT]&#x5c06;&#x7b7e;&#x8ba2;&#x6c38;&#x4e45;&#x540c;&#x76df;&#xff1a;%s1[COLOR_REVERT]</English>
 		<French>[COLOR_TECH_TEXT]Signera une Alliance Permanente : %s1[COLOR_REVERT]</French>
 		<German>[COLOR_TECH_TEXT]Wird einer "Allianz" zustimmen: %s1[COLOR_REVERT]</German>
 		<Italian>[COLOR_TECH_TEXT]Firmer&#224; un'Alleanza Permanente: %s1[COLOR_REVERT]</Italian>
@@ -149,21 +149,21 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_VASSAL</Tag>
-		<English>[COLOR_TECH_TEXT]Will Become a Vassal: %s1[COLOR_REVERT]</English>
+		<English>[COLOR_TECH_TEXT]&#x5c06;&#x6210;&#x4e3a;&#x9644;&#x5eb8;&#xff1a;%s1[COLOR_REVERT]</English>
 		<German>[COLOR_TECH_TEXT]Wird zu einem Vasallen werden: %s1[COLOR_REVERT]</German>
 		<Italian>[COLOR_TECH_TEXT]Diverr&#224; Vassallo: %s1[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_TECH_TEXT]Se convertir&#225; en Vasallo: %s1[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_SURRENDER</Tag>
-		<English>[COLOR_TECH_TEXT]Will Capitulate: %s1[COLOR_REVERT]</English>
+		<English>[COLOR_TECH_TEXT]&#x5c06;&#x6295;&#x964d;&#xff1a;%s1[COLOR_REVERT]</English>
 		<German>[COLOR_TECH_TEXT]Wird kapitulieren: %s1[COLOR_REVERT]</German>
 		<Italian>[COLOR_TECH_TEXT]Capitoler&#224;: %s1[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_TECH_TEXT]Capitulara: %s1[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MORECIV4LERTS_PEACE_TREATY</Tag>
-		<English>[COLOR_TECH_TEXT]Will Sign Peace Treaty: %s1[COLOR_REVERT]</English>
+		<English>[COLOR_TECH_TEXT]&#x5c06;&#x7b7e;&#x8ba2;&#x548c;&#x5e73;&#x6761;&#x7ea6;&#xff1a;%s1[COLOR_REVERT]</English>
 		<German>[COLOR_TECH_TEXT]Wird einem "Friedensvertrag" zustimmen: %s1[COLOR_REVERT]</German>
 		<Italian>[COLOR_TECH_TEXT]Firmer&#224; un Trattato di Pace: %s1[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_TECH_TEXT]Firmar&#225; un Tratado de Paz: %s1[COLOR_REVERT]</Spanish>
@@ -171,7 +171,7 @@
 		<!-- RevolutionDCM start - extra civlerts -->
 		<TEXT>
 				<Tag>TXT_KEY_MORECIV4LERTS_TRADE_WAR</Tag>
-				<English>[COLOR_TECH_TEXT]Will Discuss War Deal: %s1[COLOR_REVERT]</English>
+				<English>[COLOR_TECH_TEXT]&#x5c06;&#x5546;&#x8ba8;&#x53c2;&#x6218;&#x4ea4;&#x6613;&#xff1a;%s1[COLOR_REVERT]</English>
 		</TEXT>
 		<!-- RevolutionDCM end -->
 </Civ4GameText>

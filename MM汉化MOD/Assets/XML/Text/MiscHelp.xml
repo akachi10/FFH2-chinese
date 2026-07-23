@@ -3,20 +3,20 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_TURNS_UNTIL_50_PERCENT_NATIONALITY</Tag>
-		<English>Turns until 50% %s1&#x003a; %d2</English>
+		<English>&#x8ddd; 50% %s1&#x003a; %d2 &#x7684;&#x56de;&#x5408;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOLD_PER_CITY</Tag>
-		<English>%d1[ICON_GOLD]/city</English>
+		<English>%d1[ICON_GOLD]/&#x57ce;</English>
 		<Spanish>%d1[ICON_GOLD]/ciudad</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_NEXT_GOLD</Tag>
-		<English>Needs %d1[ICON_GOLD]/city for %s2</English>
+		<English>&#x9700; %d1[ICON_GOLD]/&#x57ce; &#x4ee5;&#x8fbe;&#x6210; %s2</English>
 		<Spanish>Necesita %d1[ICON_GOLD]/ciudad para %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HELP_FEATURE_REQUIRE_RESIST</Tag>
-		<English>[NEWLINE][ICON_BULLET]Units must have %d1%% resistance against %s2 damage to enter.</English>
+		<English>[NEWLINE][ICON_BULLET]&#x5355;&#x4f4d;&#x987b;&#x5bf9; %s2 &#x4f24;&#x5bb3;&#x62e5;&#x6709; %d1%% &#x6297;&#x6027;&#x65b9;&#x53ef;&#x8fdb;&#x5165;&#x3002;</English>
 	</TEXT>
 </Civ4GameText>

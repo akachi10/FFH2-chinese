@@ -3,7 +3,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_LANGUAGE_5</Tag>
-		<English>Finnish</English>
+		<English>&#x82ac;&#x5170;&#x8bed;</English>
 		<French>Finnois</French>
 		<German>Finnisch</German>
 		<Italian>Finlandese</Italian>
@@ -12,7 +12,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNTIL</Tag>
-		<English>Until</English>
+		<English>&#x76f4;&#x5230;</English>
 		<French>Jusqua</French>
 		<German>Bis</German>
 		<Italian>Fino</Italian>
@@ -21,10 +21,10 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CULTURE_GARRISON_VALUE</Tag>
-		<English>[ICON_BULLET]Garrison Value: %d1</English>
+		<English>[ICON_BULLET]&#x9a7b;&#x519b;&#x4ef7;&#x503c;&#xff1a;%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_PUPPET_STATE_LEGITIMIZED</Tag>
-		<English>The %s1_CivName have been recognized as a legitimate nation!</English>
+		<English>%s1_CivName &#x5df2;&#x88ab;&#x627f;&#x8ba4;&#x4e3a;&#x4e00;&#x4e2a;&#x5408;&#x6cd5;&#x56fd;&#x5bb6;&#xff01;</English>
 	</TEXT>
 </Civ4GameText>
