@@ -3477,7 +3477,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVIC_ARETE_PEDIA</Tag>
-		<English>[NEWLINE][COLOR_WARNING_TEXT]&#x9700;&#x8981;&#x5b98;&#x65b9;[ICON_RELIGION]&#xff1a;&#x57fa;&#x9c81;&#x83ab;&#x592b;&#x4e4b;&#x75d5;[COLOR_REVERT]</English>
+		<English>[NEWLINE][COLOR_WARNING_TEXT]&#x9700;&#x8981;&#x5b98;&#x65b9;[ICON_RELIGION]&#xff1a;[LINK=RELIGION_RUNES_OF_KILMORPH]&#x57fa;&#x9c81;&#x83ab;&#x592b;&#x4e4b;&#x75d5;[\LINK][COLOR_REVERT]</English>
 		<French>[NEWLINE][COLOR_WARNING_TEXT]Requiert[COLOR_REVERT] [LINK=RELIGION_RUNES_OF_KILMORPH]Runes de Kilmorph[\LINK] comme religion d'&#233;tat</French>
 		<German>[NEWLINE][COLOR_WARNING_TEXT]erfordert[COLOR_REVERT] [LINK=RELIGION_RUNES_OF_KILMORPH]Runen von Kilmorph[\LINK] Staatsreligion</German>
 		<Spanish>[NEWLINE][COLOR_WARNING_TEXT]Requiere[COLOR_REVERT] [LINK=RELIGION_RUNES_OF_KILMORPH]Runas de Kilmorph[\LINK] como religi&#243;n oficial.</Spanish>
@@ -3502,7 +3502,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVIC_ARISTOCRACY_PEDIA</Tag>
-		<English>[NEWLINE][ICON_BULLET]&#x5141;&#x8bb8;&#x751f;&#x4ea7;&#x738b;&#x5ba4;&#x8fd1;&#x536b;</English>
+		<English>[NEWLINE][ICON_BULLET]&#x5141;&#x8bb8;&#x751f;&#x4ea7;[LINK=UNIT_ROYAL_GUARD]&#x738b;&#x5ba4;&#x8fd1;&#x536b;[\LINK]</English>
 		<French>[NEWLINE][ICON_BULLET]Donne acc&#232;s &#224; l'unit&#233; [LINK=UNIT_ROYAL_GUARD]Garde Royale[\LINK]</French>
 		<German>[NEWLINE][ICON_BULLET]erlaubt [LINK=UNIT_ROYAL_GUARD]Garde des K&#246;nigs[\LINK]</German>
 		<Spanish>[NEWLINE][ICON_BULLET]Permite acceder a las unidades de [LINK=UNIT_ROYAL_GUARD]Guardia Real[\LINK].</Spanish>
@@ -3663,7 +3663,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVIC_GUARDIAN_OF_NATURE_PEDIA</Tag>
-		<English>[NEWLINE][COLOR_WARNING_TEXT]&#x9700;&#x8981;&#x5b98;&#x65b9;[ICON_RELIGION]: &#x7eff;&#x53f6;&#x4e4b;&#x53cb;[COLOR_REVERT]</English>
+		<English>[NEWLINE][COLOR_WARNING_TEXT]&#x9700;&#x8981;&#x5b98;&#x65b9;[ICON_RELIGION]: [LINK=RELIGION_FELLOWSHIP_OF_LEAVES]&#x7eff;&#x53f6;&#x4e4b;&#x53cb;[\LINK][COLOR_REVERT]</English>
 		<French>[NEWLINE][COLOR_WARNING_TEXT]Requiert[COLOR_REVERT] [LINK=RELIGION_FELLOWSHIP_OF_LEAVES]Communaut&#233; des Feuilles[\LINK] en religion d'&#233;tat</French>
 		<German>[NEWLINE][COLOR_WARNING_TEXT]erfordert[COLOR_REVERT] [LINK=RELIGION_FELLOWSHIP_OF_LEAVES]Gef&#228;hrten des Laubes[\LINK] Staatsreligion</German>
 		<Spanish>[NEWLINE][COLOR_WARNING_TEXT]Requiere[COLOR_REVERT] [LINK=RELIGION_FELLOWSHIP_OF_LEAVES]Comunidad de las Hojas[\LINK] como religi&#243;n oficial.</Spanish>
@@ -3874,7 +3874,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVIC_SACRIFICE_THE_WEAK_PEDIA</Tag>
-		<English>[NEWLINE][COLOR_WARNING_TEXT]&#x9700;&#x8981;&#x5b98;&#x65b9;[ICON_RELIGION]: &#x6df7;&#x6c8c;&#x4e4b;&#x7070;&#x70ec;[COLOR_REVERT][NEWLINE][ICON_BULLET]&#x6bcf;&#x5355;&#x4f4d;&#x4eba;&#x53e3;&#x6d88;&#x8017;&#x7684;&#x98df;&#x7269;&#x51cf;&#x534a;</English>
+		<English>[NEWLINE][COLOR_WARNING_TEXT]&#x9700;&#x8981;&#x5b98;&#x65b9;[ICON_RELIGION]: [LINK=RELIGION_THE_ASHEN_VEIL]&#x6df7;&#x6c8c;&#x4e4b;&#x7070;&#x70ec;[\LINK][COLOR_REVERT][NEWLINE][ICON_BULLET]&#x6bcf;&#x5355;&#x4f4d;&#x4eba;&#x53e3;&#x6d88;&#x8017;&#x7684;&#x98df;&#x7269;&#x51cf;&#x534a;</English>
 		<French>[NEWLINE][COLOR_WARNING_TEXT]Requiert[COLOR_REVERT] [LINK=RELIGION_THE_ASHEN_VEIL]Le Voile Cendr&#233;[\LINK] en religion d'&#233;tat[NEWLINE][ICON_BULLET]Diminue de moiti&#233; la consommation de nouritture par citoyen</French>
 		<German>[NEWLINE][COLOR_WARNING_TEXT]erfordert[COLOR_REVERT] [LINK=RELIGION_THE_ASHEN_VEIL]Der Aschfahle Schleier[\LINK] Staatsreligion[ICON_BULLET]Halbiert die ben&#246;tigte Menge der Nahrung pro B&#252;rger</German>
 		<Spanish>[NEWLINE][COLOR_WARNING_TEXT]Requiere[COLOR_REVERT] [LINK=RELIGION_THE_ASHEN_VEIL]El Velo Ceniciento[\LINK] como religi&#243;n oficial[NEWLINE][ICON_BULLET]Reduce a la mitad el consumo de comida por cada ciudadano.</Spanish>
@@ -3935,7 +3935,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVIC_SOCIAL_ORDER_PEDIA</Tag>
-		<English>[NEWLINE][COLOR_WARNING_TEXT]&#x9700;&#x8981;&#x5b98;&#x65b9;[ICON_RELIGION]&#xff1a;&#x7edd;&#x5bf9;&#x79e9;&#x5e8f;[COLOR_REVERT]</English>
+		<English>[NEWLINE][COLOR_WARNING_TEXT]&#x9700;&#x8981;&#x5b98;&#x65b9;[ICON_RELIGION]&#xff1a;[LINK=RELIGION_THE_ORDER]&#x7edd;&#x5bf9;&#x79e9;&#x5e8f;[\LINK][COLOR_REVERT]</English>
 		<French>[NEWLINE][COLOR_WARNING_TEXT]Requiert[COLOR_REVERT] [LINK=RELIGION_THE_ORDER]L'Ordre[\LINK] en religion d'&#233;tat</French>
 		<German>[NEWLINE][COLOR_WARNING_TEXT]erfordert[COLOR_REVERT] [LINK=RELIGION_THE_ORDER]Die Weisung[\LINK] Staatsreligion</German>
 		<Spanish>[NEWLINE][COLOR_WARNING_TEXT]Requiere[COLOR_REVERT] [LINK=RELIGION_THE_ORDER]Orden[\LINK] como religi&#243;n oficial.</Spanish>
@@ -4321,7 +4321,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_UNIQUE_FEATURES_PEDIA</Tag>
-		<English>[H1]Unique Features - &#x7279;&#x6b8a;&#x5730;&#x5f62;[\H1][NEWLINE][NEWLINE]&#x3000;&#x3000;&#x7279;&#x6b8a;&#x5730;&#x5f62;&#x662f;&#x5730;&#x56fe;&#x751f;&#x6210;&#x65f6;&#x968f;&#x673a;&#x4ea7;&#x751f;&#x7684;&#x3002;&#x6bcf;&#x5f20;&#x5730;&#x56fe;&#x4e0a;&#x53ef;&#x80fd;&#x53ea;&#x6709;&#x4e00;&#x79cd;&#x5b58;&#x5728;&#xff0c;&#x5176;&#x51fa;&#x73b0;&#x7684;&#x51e0;&#x7387;&#x7531;&#x5730;&#x56fe;&#x7684;&#x5927;&#x5c0f;&#x6765;&#x5b9a;&#x3002;&#x6f5c;&#x5728;&#x7684;&#x7279;&#x6b8a;&#x5730;&#x5f62;&#x5305;&#x62ec;&#xff1a;[NEWLINE][NEWLINE]&#x90aa;&#x7075;&#x575f;&#x573a;[NEWLINE]&#x5de8;&#x9f99;&#x57cb;&#x9aa8;&#x5730;[NEWLINE]&#x5bd2;&#x51b0;&#x5bab;&#x6bbf;[NEWLINE]&#x5927;&#x6f29;&#x6da1;[NEWLINE]&#x5929;&#x5802;&#x4e4b;&#x955c;[NEWLINE]&#x6b27;&#x8fea;&#x5965;&#x4e4b;&#x7262;[NEWLINE]&#x6cea;&#x5149;&#x4e4b;&#x6e56;[NEWLINE]&#x90aa;&#x795e;&#x706b;&#x796d;&#x573a;[NEWLINE]&#x5e15;&#x63d0;&#x4e9a;&#x9057;&#x8ff9;[NEWLINE]&#x82cf;&#x585e;&#x9c81;&#x65af;&#x4e4b;&#x5893;[NEWLINE]&#x4e16;&#x754c;&#x4e4b;&#x6811;[NEWLINE][NEWLINE]&#x3000;&#x3000;&#x6e38;&#x620f;&#x5236;&#x4f5c;&#x8005;Kael&#x7684;&#x63d0;&#x793a;&#xff1a;&#x7279;&#x6b8a;&#x5730;&#x5f62;&#x662f;&#x4e3a;&#x4e86;&#x8981;&#x8ba9;&#x5730;&#x56fe;&#x66f4;&#x52a0;&#x7684;&#x6709;&#x8da3;&#x800c;&#x6dfb;&#x52a0;&#x7684;&#x3002;&#x5b83;&#x4eec;&#x4e5f;&#x662f;&#x6b64;MOD&#x521d;&#x671f;&#x5236;&#x4f5c;&#x7684;&#x5947;&#x89c2;&#xff08;&#x4e16;&#x754c;&#x4e4b;&#x6811;&#x548c;&#x82cf;&#x585e;&#x9c81;&#x65af;&#x4e4b;&#x5893;&#x7b49;&#x7b49;&#xff09;&#x3001;&#x7528;&#x6765;&#x5f53;&#x4f5c;&#x9760;&#x4eba;&#x5efa;&#x9020;&#x7684;&#x5efa;&#x7b51;&#x7269;&#x6709;&#x4e00;&#x4e9b;&#x4e0d;&#x81ea;&#x7136;&#xff0c;&#x6bd4;&#x8f83;&#x9002;&#x5408;&#x7ed9;&#x73a9;&#x5bb6;&#x53d1;&#x73b0;&#x3002;</English>
+		<English>[H1]Unique Features[\H1][PARAGRAPH:2]Unique Features are randomly generated when the map is created. There can only be one of each on each map and the chance that each will appear is based on the map size. The potential Unique Features are:[NEWLINE][NEWLINE][LINK=IMPROVEMENT_AIFON_ISLE]Maenalus[\LINK][NEWLINE][LINK=IMPROVEMENT_BRADELINES_WELL]Bradeline's Well[\LINK][NEWLINE][LINK=IMPROVEMENT_BROKEN_SEPULCHER]Broken Sepulcher[\LINK][NEWLINE][LINK=IMPROVEMENT_DRAGON_BONES]Dragon Bones[\LINK][NEWLINE][LINK=IMPROVEMENT_GUARDIAN]Guardian of Pristin Pass[\LINK][NEWLINE][LINK=IMPROVEMENT_LETUM_FRIGUS]Letum Frigus[\LINK][NEWLINE][LINK=IMPROVEMENT_MAELSTROM]Maelstrom[\LINK][NEWLINE][LINK=IMPROVEMENT_MIRROR_OF_HEAVEN]Mirror of Heaven[\LINK][NEWLINE][LINK=IMPROVEMENT_ODIOS_PRISON]Odio's Prison[\LINK][NEWLINE][LINK=IMPROVEMENT_POOL_OF_TEARS]Pool of Tears[\LINK][NEWLINE][LINK=IMPROVEMENT_PYRE_OF_THE_SERAPHIC]Pyre of the Seraphic[\LINK][NEWLINE][LINK=IMPROVEMENT_REMNANTS_OF_PATRIA]Remnants of Patria[\LINK][NEWLINE][LINK=IMPROVEMENT_SEVEN_PINES]Seven Pines[\LINK][NEWLINE][LINK=IMPROVEMENT_TOMB_OF_SUCELLUS]Tomb of Sucellus[\LINK][NEWLINE][LINK=IMPROVEMENT_YGGDRASIL]Yggdrasil[\LINK][PARAGRAPH:2]Kael's Notes: Unique Features were added to make each map more interesting. Plus some of the wonders we have had in the mod since the beginning (like Yggdrasil and the Tomb of Sucellus) never really made much sense as buildable wonders, better to be things the player would find.</English>
 		<German>[h1]Einzigartige Modernisierungen[\H1][PARAGRAPH:2]Einzigartige Modernisierungen werden zuf&#228;llig w&#228;hrend der Kartengenerierung verteilt. Es kann jeweils nur eine Einzige von jeder Art auf der Karte geben, wobei die Wahrscheinlichkeit des Auftretens durch die Kartengr&#246;&#223;e bestimmt wird. Die m&#246;glichen Einzigartigen Modernisierungen sind:[NEWLINE][NEWLINE][LINK=IMPROVEMENT_AIFON_ISLE]Maenalus[\LINK][NEWLINE][LINK=IMPROVEMENT_BRADELINES_WELL]Bradelines Brunnen[\LINK][NEWLINE][LINK=IMPROVEMENT_BROKEN_SEPULCHER]Ge&#246;ffnetes Grab[\LINK][NEWLINE][LINK=IMPROVEMENT_DRAGON_BONES]Drachenknochen[\LINK][NEWLINE][LINK=IMPROVEMENT_GUARDIAN]W&#228;chter des Pristinpasses[\LINK][NEWLINE][LINK=IMPROVEMENT_LETUM_FRIGUS]Letum Frigus[\LINK][NEWLINE][LINK=IMPROVEMENT_MAELSTROM]Mahlstrom[\LINK][NEWLINE][LINK=IMPROVEMENT_MIRROR_OF_HEAVEN]Himmelsspiegel[\LINK][NEWLINE][LINK=IMPROVEMENT_ODIOS_PRISON]Odios Gef&#228;ngnis[\LINK][NEWLINE][LINK=IMPROVEMENT_POOL_OF_TEARS]See der Tr&#228;nen[\LINK][NEWLINE][LINK=IMPROVEMENT_PYRE_OF_THE_SERAPHIC]Scheiterhaufen der Engel[\LINK][NEWLINE][LINK=IMPROVEMENT_REMNANTS_OF_PATRIA]&#220;berreste von Patria[\LINK][NEWLINE][LINK=IMPROVEMENT_SEVEN_PINES]Sieben Kiefern[\LINK][NEWLINE][LINK=IMPROVEMENT_TOMB_OF_SUCELLUS]Grab des Sucellus[\LINK][NEWLINE][LINK=IMPROVEMENT_YGGDRASIL]Weltenbaum Yggdrasil[\LINK][PARAGRAPH:2][COLOR_HIGHLIGHT_TEXT][COLOR_HIGHLIGHT_TEXT]Anmerkung von Kael[COLOR_REVERT]: Einzigartige Modernisierungen wurden eingef&#252;hrt, um die Karten interessanter zu gestalten. Au&#223;erdem waren einige der geplanten Wunder nicht daf&#252;r geeignet, vom Spieler errichtet zu werden (wie der Weltenbaum Yggdrasil und das Grab des Sucellus). Daher ist es sinnvoller, wenn sie vom Spieler gefunden werden k&#246;nnen.</German>
 		<Spanish>[H1]Lugares &#218;nicos[\H1][PARAGRAPH:2]Los Lugares &#218;nicos se generan aleatoriamente cuando se crea el mapa. Solamente puede haber uno de cada tipo en un mapa dado, y la posibilidad de que aparezcan depende del tama&#241;o del mapa. Los Lugares &#218;nicos son:[NEWLINE][NEWLINE][LINK=IMPROVEMENT_AIFON_ISLE]Maenalus[\LINK][NEWLINE][LINK=IMPROVEMENT_BRADELINES_WELL]Pozo de Bradeline[\LINK][NEWLINE][LINK=IMPROVEMENT_BROKEN_SEPULCHER]Sepulcro Profanado[\LINK][NEWLINE][LINK=IMPROVEMENT_DRAGON_BONES]Huesos de Drag&#243;n[\LINK][NEWLINE][LINK=IMPROVEMENT_GUARDIAN]Guardianes del Paso Pristino[\LINK][NEWLINE][LINK=IMPROVEMENT_LETUM_FRIGUS]Letum Frigus[\LINK][NEWLINE][LINK=IMPROVEMENT_MAELSTROM]Maelstrom[\LINK][NEWLINE][LINK=IMPROVEMENT_MIRROR_OF_HEAVEN]Espejo del Cielo[\LINK][NEWLINE][LINK=IMPROVEMENT_ODIOS_PRISON]Prisi&#243;n de Odio[\LINK][NEWLINE][LINK=IMPROVEMENT_POOL_OF_TEARS]Fuente de las L&#225;grimas[\LINK][NEWLINE][LINK=IMPROVEMENT_PYRE_OF_THE_SERAPHIC]Pira de los Serafines[\LINK][NEWLINE][LINK=IMPROVEMENT_REMNANTS_OF_PATRIA]Reliquias de Patria[\LINK][NEWLINE][LINK=IMPROVEMENT_SEVEN_PINES]Siete Pinos[\LINK][NEWLINE][LINK=IMPROVEMENT_TOMB_OF_SUCELLUS]Tumba de Sucellus[\LINK][NEWLINE][LINK=IMPROVEMENT_YGGDRASIL]Yggdrasil[\LINK][PARAGRAPH:2]Notas de Kael: Los Lugares &#218;nicos fueron a&#241;adidos para hacer cada mapa m&#225;s interesante. Algunas de las cosas que en principio se planearon como maravillas (como Yggdrasil o la Tumba de Sucellus) nunca tuvieron mucho sentido como maravillas constru&#237;bles, si no como cosas que el jugador deb&#237;a encontrar.</Spanish>
 	</TEXT>
@@ -4356,7 +4356,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_WEAPON_UPGRADES_PEDIA</Tag>
-		<English>[H1]Weapon Upgrades - &#x6b66;&#x5668;&#x5347;&#x7ea7;[\H1][NEWLINE][NEWLINE]&#x3000;&#x3000;&#x4e00;&#x4e9b;&#x5355;&#x4f4d;&#x53ef;&#x4ee5;&#x901a;&#x8fc7;&#x5347;&#x7ea7;&#x5230;&#x7279;&#x5b9a;&#x6b66;&#x5668;&#x7c7b;&#x578b;&#x6765;&#x63d0;&#x5347;&#x6218;&#x6597;&#x529b;&#x3002;&#x5f53;&#x4f60;&#x83b7;&#x53d6;&#x94dc;&#x4ee5;&#x540e;&#xff0c;&#x80fd;&#x591f;&#x4f7f;&#x7528;&#x94dc;&#x5236;&#x6b66;&#x5668;&#x7684;&#x5355;&#x4f4d;&#x83b7;&#x5f97;+1&#x6218;&#x6597;&#x529b;&#x3002;&#x5f53;&#x4f60;&#x83b7;&#x5f97;&#x94c1;&#x4ee5;&#x540e;&#xff0c;&#x80fd;&#x591f;&#x4f7f;&#x7528;&#x94c1;&#x5236;&#x6b66;&#x5668;&#x7684;&#x5355;&#x4f4d;&#x83b7;&#x5f97;+2&#x6218;&#x6597;&#x529b;&#xff1b;&#x5f53;&#x4f60;&#x83b7;&#x5f97;&#x79d8;&#x94f6;&#x4ee5;&#x540e;&#xff0c;&#x80fd;&#x591f;&#x4f7f;&#x7528;&#x79d8;&#x94f6;&#x6b66;&#x5668;&#x7684;&#x5355;&#x4f4d;&#x83b7;&#x5f97;+4&#x6218;&#x6597;&#x529b;&#x3002;&#x591a;&#x79cd;&#x6b66;&#x5668;&#x7c7b;&#x578b;&#x662f;&#x4e0d;&#x80fd;&#x7d2f;&#x52a0;&#x7684;&#xff08;&#x4e00;&#x4e2a;&#x5355;&#x4f4d;&#x4e0d;&#x80fd;&#x540c;&#x65f6;&#x4f7f;&#x7528;&#x94c1;&#x548c;&#x79d8;&#x94f6;&#x6b66;&#x5668;&#xff09;&#xff0c;&#x5355;&#x4f4d;&#x9700;&#x8981;&#x8fdb;&#x5165;&#x672c;&#x56fd;&#x57ce;&#x5e02;&#x6765;&#x5347;&#x7ea7;&#x6b66;&#x5668;&#x3002;</English>
+		<English>[H1]Weapon Upgrades[\H1][PARAGRAPH:2]Some units can have their strength upgraded by certain weapon types. Units capable of using [LINK=PROMOTION_BRONZE_WEAPONS]Bronze weapons[\LINK] get +1 strength if you have access to [LINK=BONUS_COPPER]copper[\LINK]. Units capable of using [LINK=PROMOTION_IRON_WEAPONS]Iron weapons[\LINK] get +2 strength if you have access to [LINK=BONUS_IRON]iron[\LINK] and units capable of using [LINK=PROMOTION_MITHRIL_WEAPONS]Mithril weapons[\LINK] get +4 strength if you have access to [LINK=BONUS_MITHRIL]mithril[\LINK]. Multiple weapon types aren't cumulative (a unit can't have both iron and mithril weapons) and units have to enter one of your cities to upgrade their weapons.[NEWLINE][NEWLINE]Note that getting access to copper requires the [LINK=TECH_BRONZE_WORKING]Bronze Working[\LINK] tech (even though it is revealed with Mining). Getting access to Iron requires the [LINK=TECH_IRON_WORKING]Iron Working[\LINK] tech (though it is revealed with Smelting) and getting access to Mithril requires the [LINK=TECH_MITHRIL_WORKING]Mithril Working[\LINK] tech.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_WEREWOLVES</Tag>
@@ -4407,7 +4407,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_WORLD_SPELLS_PEDIA</Tag>
-		<English>[H1]World Spells - &#x4e16;&#x754c;&#x9b54;&#x6cd5;[\H1][NEWLINE][NEWLINE]&#x3000;&#x3000;&#x6bcf;&#x4e2a;&#x6587;&#x660e;&#x90fd;&#x6709;&#x81ea;&#x5df1;&#x7684;&#x4e16;&#x754c;&#x9b54;&#x6cd5;&#x3002;&#x8fd9;&#x4e9b;&#x9b54;&#x6cd5;&#x6709;&#x7740;&#x5de8;&#x5927;&#x7684;&#x5a01;&#x529b;&#xff0c;&#x4f46;&#x6bcf;&#x6b21;&#x6e38;&#x620f;&#x4e2d;&#x53ea;&#x80fd;&#x4f7f;&#x7528;&#x4e00;&#x6b21;&#x3002;&#x597d;&#x597d;&#x8003;&#x8651;&#x4e00;&#x4e0b;&#x518d;&#x65bd;&#x653e;&#x5427;&#xff01;[NEWLINE][NEWLINE]&#x963f;&#x59c6;&#x83b1;&#x7279;&#x5b66;&#x9662;&#x2014;&#x3000;&#x9b54;&#x529b;&#x6536;&#x7f29;[NEWLINE]&#x5df4;&#x5c14;&#x585e;&#x62c9;&#x5f17;&#x65cf;&#x2014;&#x3000;&#x72c2;&#x6b22;[NEWLINE]&#x73ed;&#x8bfa;&#x5c14;&#x8054;&#x90a6;&#x2014;&#x3000;&#x7d27;&#x6025;&#x96c6;&#x7ed3;[NEWLINE]&#x5361;&#x62c9;&#x6bd4;&#x59c6;&#x516c;&#x56fd;&#x2014;&#x3000;&#x9c9c;&#x8840;&#x4e4b;&#x6cb3;[NEWLINE]&#x4f59;&#x7070;&#x90e8;&#x843d;&#x2014;&#x3000;&#x6548;&#x5fe0;&#x90e8;&#x843d;[NEWLINE]&#x591a;&#x7ef4;&#x6d1b;&#x90e8;&#x843d;&#x2014;&#x3000;&#x8352;&#x91ce;&#x72e9;&#x730e;[NEWLINE]&#x57c3;&#x6d1b;&#x5e0c;&#x59c6;&#x5b88;&#x62a4;&#x8005;&#x2014;&#x3000;&#x795e;&#x5723;&#x9886;&#x57df;[NEWLINE]&#x683c;&#x5229;&#x9ad8;&#x91cc;&#x65cf;&#x2014;&#x3000;&#x518d;&#x6380;&#x70ed;&#x6f6e;[NEWLINE]&#x5e0c;&#x666e;&#x65af;&#x4f63;&#x5175;&#x56fd;&#x2014;&#x3000;&#x6218;&#x568e;[NEWLINE]&#x4f0a;&#x5229;&#x5b89;&#x9057;&#x65cf;&#x2014;&#x3000;&#x6682;&#x4e0d;&#x53ef;&#x7528;[NEWLINE]&#x5730;&#x72f1;&#x519b;&#x56e2;&#x2014;&#x3000;&#x6d77;&#x52c3;&#x96f7;&#x59c6;&#x4e4b;&#x5462;&#x5583;[NEWLINE]&#x5361;&#x624e;&#x5fb7;&#x738b;&#x56fd;&#x2014;&#x3000;&#x5730;&#x6bcd;&#x77ff;&#x8109;[NEWLINE]&#x5e93;&#x91cc;&#x5965;&#x5854;&#x7279;&#x2014;&#x3000;&#x5343;&#x5e74;&#x4f20;&#x8bf4;[NEWLINE]&#x62c9;&#x52aa;&#x6069;&#x6d77;&#x76d7;&#x2014;&#x3000;&#x6124;&#x6012;&#x4e4b;&#x6d77;[NEWLINE]&#x52d2;&#x7ea6;&#x6c99;&#x5c14;&#x6cd5;&#x2014;&#x3000;&#x5de8;&#x6811;&#x4e4b;&#x884c;&#x519b;[NEWLINE]&#x9c81;&#x5d14;&#x5c14;&#x666e;&#x77ee;&#x4eba;&#x90e8;&#x65cf;&#x2014;&#x3000;&#x5a1c;&#x6258;&#x82cf;&#x5c14;&#x5854;&#x5973;&#x795e;&#x7684;&#x793c;&#x7269;[NEWLINE]&#x9a6c;&#x62c9;&#x57fa;&#x59c6;&#x6e38;&#x7267;&#x6c11;&#x2014;&#x3000;&#x70ed;&#x8877;&#x4fe1;&#x4ef0;[NEWLINE]&#x5929;&#x754c;&#x519b;&#x56e2;&#x2014;&#x3000;&#x5929;&#x7f5a;[NEWLINE]&#x585e;&#x5b89;&#x9690;&#x4fee;&#x4f1a;&#x2014;&#x3000;&#x4e16;&#x754c;&#x5d29;&#x574f;[NEWLINE]&#x5e0c;&#x8fbe;&#x6c38;&#x751f;&#x8005;&#x2014;&#x3000;&#x8ff7;&#x96fe;&#x6f5c;&#x4f0f;[NEWLINE]&#x65af;&#x74e6;&#x5854;&#x5c14;&#x6cd5;&#x2014;&#x3000;&#x9ed1;&#x591c;&#x4e4b;&#x5e55;[NEWLINE][NEWLINE]&#x3000;&#x3000;&#x6e38;&#x620f;&#x5236;&#x4f5c;&#x8005;Kael&#x7684;&#x63d0;&#x793a;&#xff1a;&#x6211;&#x4eec;&#x52a0;&#x5165;&#x4e16;&#x754c;&#x9b54;&#x6cd5;&#x6709;&#x4e24;&#x4e2a;&#x539f;&#x56e0;&#x3002;&#x5f53;&#x7136;&#x6211;&#x4eec;&#x9700;&#x8981;&#x4e1c;&#x897f;&#x6765;&#x533a;&#x522b;&#x5404;&#x4e2a;&#x6587;&#x660e;&#x3002;&#x4f46;&#x6211;&#x4eec;&#x4e5f;&#x60f3;&#x8981;&#x52a0;&#x5165;&#x4e00;&#x4e9b;&#x6218;&#x7565;&#x6027;&#x7684;&#x8003;&#x8651;&#x6765;&#x8ba9;&#x73a9;&#x5bb6;&#x51b3;&#x5b9a;&#x4ec0;&#x4e48;&#x65f6;&#x5019;&#x662f;&#x4f7f;&#x7528;&#x4e16;&#x754c;&#x9b54;&#x6cd5;&#x6700;&#x5408;&#x9002;&#x7684;&#x65f6;&#x95f4;&#x3002;&#x56e0;&#x6b64;&#x6709;&#x4e9b;&#x4e16;&#x754c;&#x9b54;&#x6cd5;&#x5728;&#x6e38;&#x620f;&#x540e;&#x671f;&#x5c06;&#x4f1a;&#x5a01;&#x529b;&#x5de8;&#x5927;&#xff0c;&#x4ee5;&#x5956;&#x52b1;&#x73a9;&#x5bb6;&#x6ca1;&#x6709;&#x8fc7;&#x65e9;&#x5730;&#x4f7f;&#x7528;&#x3002;</English>
+		<English>[H1]World Spells[\H1][PARAGRAPH:2]Each civilization was a World Spell they can use. These spells have a huge effect but can only be used once per game so consider carefully before you use them. The following are the world spells for each civilization:[NEWLINE][NEWLINE]Amurites- [LINK=SPELL_ARCANE_LACUNA]Arcane Lacuna[\LINK][NEWLINE]Balseraphs- [LINK=SPELL_REVELRY]Revelry[\LINK][NEWLINE]Bannor- [LINK=SPELL_RALLY]Rally[\LINK][NEWLINE]Calabim- [LINK=SPELL_RIVER_OF_BLOOD]River of Blood[\LINK][NEWLINE]Clan of Embers- [LINK=SPELL_FOR_THE_HORDE]For the Horde[\LINK][NEWLINE]Doviello- [LINK=SPELL_WILD_HUNT]Wild Hunt[\LINK][NEWLINE]Elohim- [LINK=SPELL_SANCTUARY]Sanctuary[\LINK][NEWLINE]Grigori- [LINK=SPELL_ARDOR]Ardor[\LINK][NEWLINE]Hippus- [LINK=SPELL_HIPPUS]Hippus[\LINK][NEWLINE]Illians- [LINK=SPELL_STASIS]Stasis[\LINK][NEWLINE]Infernal- [LINK=SPELL_HYBOREMS_WHISPER]Hyborem's Whisper[\LINK][NEWLINE]Khazad- [LINK=SPELL_MOTHER_LODE]Mother Lode[\LINK][NEWLINE]Kuriotates- [LINK=SPELL_LEGENDS]Legends[\LINK][NEWLINE]Lanun- [LINK=SPELL_RAGING_SEAS]Raging Seas[\LINK][NEWLINE]Ljosalfar- [LINK=SPELL_MARCH_OF_THE_TREES]March of the Trees[\LINK][NEWLINE]Luchuirp- [LINK=SPELL_GIFTS_OF_NANTOSUELTA]Gifts of Nantosuelta[\LINK][NEWLINE]Malakim- [LINK=SPELL_RELIGIOUS_FERVOR]Religious Fervor[\LINK][NEWLINE]Mercurians- [LINK=SPELL_DIVINE_RETRIBUTION]Divine Retribution[\LINK][NEWLINE]Sheaim- [LINK=SPELL_WORLDBREAK]Worldbreak[\LINK][NEWLINE]Sidar- [LINK=SPELL_INTO_THE_MIST]Into the Mist[\LINK][NEWLINE]Svartalfar- [LINK=SPELL_VEIL_OF_NIGHT]Veil of Night[\LINK][NEWLINE][NEWLINE][TAB]Kael's Notes: We added these for two reasons. Of course they help us differentiate each of the civilizations. But we also wanted to add a strategic option where the player was forced to decide when was the best moment to use the ability. As such all of the World Spells generally grow more powerful over time, rewarding players who don't profit from there use early on.</English>
 		<Spanish>[H1]Hechizos Mundiales[\H1][PARAGRAPH:2]Cada civilizaci&#243;n tiene acceso a un hechizo mundial. Estos hechizos tienen un efecto enorme pero solamente pueden ser usados una vez. A continuaci&#243;n est&#225; la lista de los hechizos mundiales de cada civilizaci&#243;n:[NEWLINE][NEWLINE]Amurites- [LINK=SPELL_ARCANE_LACUNA]Brecha Arcana[\LINK][NEWLINE]Balseraphs- [LINK=SPELL_REVELRY]Celebraci&#243;n[\LINK][NEWLINE]Bannor- [LINK=SPELL_RALLY]Convocar[\LINK][NEWLINE]Calabim- [LINK=SPELL_RIVER_OF_BLOOD]R&#237;o de Sangre[\LINK][NEWLINE]Clan of Embers- [LINK=SPELL_FOR_THE_HORDE]Por la Horda[\LINK][NEWLINE]Doviello- [LINK=SPELL_WILD_HUNT]Caza Salvaje[\LINK][NEWLINE]Elohim- [LINK=SPELL_SANCTUARY]Santuario[\LINK][NEWLINE]Grigori- [LINK=SPELL_ARDOR]Pasi&#243;n[\LINK][NEWLINE]Hippus- [LINK=SPELL_WARCRY]Grito de guerra[\LINK][NEWLINE]Illians- [LINK=SPELL_STASIS]&#201;stasis[\LINK][NEWLINE]Infernal- [LINK=SPELL_HYBOREMS_WHISPER]Susurro de Hyborem[\LINK][NEWLINE]Khazad- [LINK=SPELL_MOTHER_LODE]Fil&#243;n[\LINK][NEWLINE]Kuriotates- [LINK=SPELL_LEGENDS]Leyendas[\LINK][NEWLINE]Lanun- [LINK=SPELL_RAGING_SEAS]Mar Embravecida[\LINK][NEWLINE]Ljosalfar- [LINK=SPELL_MARCH_OF_THE_TREES]Marcha de los &#193;rboles[\LINK][NEWLINE]Luchuirp- [LINK=SPELL_GIFTS_OF_NANTOSUELTA]Regalos de Nantosuelta[\LINK][NEWLINE]Malakim- [LINK=SPELL_RELIGIOUS_FERVOR]Fervor Religioso[\LINK][NEWLINE]Mercurians- [LINK=SPELL_DIVINE_RETRIBUTION]Retribuci&#243;n Divina[\LINK][NEWLINE]Sheaim- [LINK=SPELL_WORLDBREAK]Ruptura[\LINK][NEWLINE]Sidar- [LINK=SPELL_INTO_THE_MIST]En la Niebla[\LINK][NEWLINE]Svartalfar- [LINK=SPELL_VEIL_OF_NIGHT]Velo Nocturno[\LINK][NEWLINE][NEWLINE][TAB]Notas de Kael: Los hechizos mundiales fueron a&#241;adidos por dos razones. En primer lugar, ayudan a diferenciar cada una de las civilizaciones. Adem&#225;s de eso, se quer&#237;a a&#241;adir una opci&#243;n estrat&#233;gica en la cual el jugador estuviera forzado a decidir el mejor momento para emplearla. Los hechizos mundiales se hacen m&#225;s poderosos con el tiempo, recompensando a los jugadores que no los emplean demasiado pronto.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -12936,14 +12936,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_NOTBUILDABLEBY_BUILDING</Tag>
-		<English>[COLOR_WARNING_TEXT]%s1_civ&#x6587;&#x660e;&#x65e0;&#x6cd5;&#x5efa;&#x9020;[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT][LINK=literal]%s1_civ[\LINK]&#x6587;&#x660e;&#x65e0;&#x6cd5;&#x5efa;&#x9020;[COLOR_REVERT]</English>
 		<French>[COLOR_WARNING_TEXT]Ne peut pas &#234;tre construit par votre civilisation ([LINK=literal]%s1_civ[\LINK])[COLOR_REVERT]</French>
 		<German>[COLOR_WARNING_TEXT]Kann nicht von deiner Zivlisation errichtet werden ([LINK=literal]%s1_civ[\LINK])[COLOR_REVERT]</German>
 		<Spanish>[COLOR_WARNING_TEXT]No puede ser constru&#237;do por tu civilizaci&#243;n ([LINK=literal]%s1_civ[\LINK])[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_NOTBUILDABLEBY_UNIT</Tag>
-		<English>[COLOR_WARNING_TEXT]%s1_civ&#x6587;&#x660e;&#x65e0;&#x6cd5;&#x5efa;&#x9020;[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT][LINK=literal]%s1_civ[\LINK]&#x6587;&#x660e;&#x65e0;&#x6cd5;&#x5efa;&#x9020;[COLOR_REVERT]</English>
 		<French>[COLOR_WARNING_TEXT]Ne peut pas &#234;tre construit par votre civilisation ([LINK=litt&#233;ral]%s1_civ[\LINK])[COLOR_REVERT]</French>
 		<German>[COLOR_WARNING_TEXT]Kann von Eurer Zivilisation nicht aufgestellt werden ([LINK=literal]%s1_civ[\LINK])[COLOR_REVERT]</German>
 		<Spanish>[COLOR_WARNING_TEXT]No puede ser constru&#237;da por tu civilizaci&#243;n ([LINK=literal]%s1_civ[\LINK])[COLOR_REVERT]</Spanish>
@@ -13630,7 +13630,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROJECT_THE_DEEPENING_STRATEGY</Tag>
-		<English>&#x5b8c;&#x6210;&#x8fd9;&#x9879;&#x4eea;&#x5f0f;&#x540e;&#xff0c;&#x4e16;&#x754c;&#x5c06;&#x4f1a;&#x88ab;&#x51b0;&#x96ea;&#x8986;&#x76d6;&#x3002;&#x6c99;&#x6f20;&#x53d8;&#x4e3a;&#x5e73;&#x539f;&#x3001;&#x5e73;&#x539f;&#x548c;&#x8349;&#x539f;&#x53d8;&#x4e3a;&#x51bb;&#x571f;&#x3001;&#x51bb;&#x571f;&#x53d8;&#x4e3a;&#x51b0;&#x539f;&#x3002;&#x8fd8;&#x4f1a;&#x5728;&#x4e16;&#x754c;&#x8303;&#x56f4;&#x5185;&#x4ea7;&#x751f;&#x4e00;&#x4e9b;&#x66b4;&#x98ce;&#x96ea;&#x3002;</English>
+		<English>Completing this ritual will cool the world, changing some of the deserts to plains, some plains and grasslands to tundra, and some tundra to snow tiles. It will also spawn occasional [LINK=literal]Blizzard[\LINK]s around the map.</English>
 		<German>Ist eines der Winterrituale. Nach erfolgreicher Durchf&#252;hrung dieses Rituals wird die Welt abk&#252;hlen, wodurch W&#252;sten- in Ebenen-, Ebenen- und Grasland- in Tundra- und Tundra- in Schnee-Gel&#228;ndefelder verwandelt werden. Au&#223;erdem k&#246;nnen gelegentlich Schneest&#252;rme &#252;berall in der Welt auftreten.</German>
 		<Spanish>Completar este ritual enfr&#237;a el mundo, convirtiendo algunos desiertos en llanuras, algunas praderas y llanuras en tundra y algunas casillas de tundra en hielo. Tambi&#233;n crea ocasionalmente [LINK=FEATURE_BLIZZARD]Ventiscas[\LINK].</Spanish>
 	</TEXT>
@@ -13670,7 +13670,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROJECT_THE_WHITE_HAND_STRATEGY</Tag>
-		<English>&#x5b8c;&#x6210;&#x8fd9;&#x9879;&#x4eea;&#x5f0f;&#x540e;&#xff0c;&#x5c06;&#x4f1a;&#x5728;&#x73a9;&#x5bb6;&#x57ce;&#x5e02;&#x4e0a;&#x4ea7;&#x751f;3&#x4e2a;[COLOR_UNIT_TEXT]&#x51ac;&#x4e4b;&#x796d;&#x53f8;[COLOR_REVERT]&#x3002;</English>
+		<English>Completing this ritual will spawn three [LINK=literal]Priest of Winter[\LINK] in the player's city.</English>
 		<German>Ist eines der Winterrituale. Nach erfolgreicher Durchf&#252;hrung dieses Rituals werden in der durchf&#252;hrenden Stadt 3 Priester des Winters erscheinen.</German>
 		<Spanish>Completar este ritual crear&#225; tres [LINK=UNIT_PRIEST_OF_WINTER]Sacerdotes del Invierno[\LINK] en la ciudad del jugador.</Spanish>
 	</TEXT>
@@ -14012,7 +14012,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_CROWN_OF_BRILLANCE_PEDIA</Tag>
-		<English>[ICON_BULLET]&#x5355;&#x4f4d;&#x6bcf;&#x56de;&#x5408;&#x81ea;&#x52a8;&#x65bd;&#x653e;&#x8363;&#x8000;&#x738b;&#x51a0;&#x5492;&#x8bed;</English>
+		<English>[ICON_BULLET]&#x5355;&#x4f4d;&#x6bcf;&#x56de;&#x5408;&#x81ea;&#x52a8;&#x65bd;&#x653e;[LINK=SPELL_CROWN_OF_BRILLANCE]&#x8363;&#x8000;&#x738b;&#x51a0;[\LINK]&#x5492;&#x8bed;</English>
 		<German>[ICON_BULLET]Die Einheit zaubert automatisch jede Runde den Zauber [LINK=SPELL_CROWN_OF_BRILLANCE]Gl&#228;nzende Krone[\LINK]</German>
 		<Spanish>[ICON_BULLET]La unidad lanza autom&#225;ticamente el hechizo [LINK=SPELL_CROWN_OF_BRILLANCE]Corona Brillante[\LINK] cada turno</Spanish>
 	</TEXT>
@@ -15835,7 +15835,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_LEAVES_PEDIA</Tag>
-		<English>Fellowship of Leaves - &#x7eff;&#x53f6;&#x306e;&#x540c;&#x80de;[NEWLINE][NEWLINE]&#x3000;&#x3000;&#x3000;&#x30a8;&#x30eb;&#x30d5;&#x8fbe;&#x306e;&#x3055;&#x3055;&#x3084;&#x304d;&#x306f;&#x6728;&#x3005;&#x306e;&#x5965;&#x6df1;&#x304f;&#x306b;&#x4eca;&#x3082;&#x6b8b;&#x3063;&#x3066;&#x3044;&#x307e;&#x3059;&#x3002;&#x901a;&#x5e38;&#x3001;&#x5f7c;&#x3089;&#x53e4;&#x304d;&#x68ee;&#x306e;&#x5b88;&#x62a4;&#x8005;&#x305f;&#x3061;&#x306f;&#x4eba;&#x3005;&#x306e;&#x3053;&#x3068;&#x3092;&#x6c14;&#x306b;&#x3082;&#x304b;&#x3051;&#x307e;&#x305b;&#x3093;&#x304c;&#x3001;&#x4e00;&#x90e8;&#x306e;&#x8005;&#x305f;&#x3061;&#x306f;&#x5f7c;&#x3089;&#x306b;&#x591a;&#x5927;&#x306a;&#x5fe0;&#x8bda;&#x3092;&#x793a;&#x3057;&#x3001;&#x5f7c;&#x3089;&#x304b;&#x3089;&#x9b54;&#x6cd5;&#x3092;&#x6559;&#x308f;&#x308a;&#x3001;&#x30a8;&#x30eb;&#x30d5;&#x5f13;&#x5175;&#x306e;&#x652f;&#x63f4;&#x3092;&#x53d7;&#x3051;&#x308b;&#x3053;&#x3068;&#x304c;&#x3067;&#x304d;&#x308b;&#x8005;&#x3082;&#x3044;&#x307e;&#x3059;&#x3002;[PARAGRAPH:2]&#x4ee5;&#x4e0b;&#x306e;&#x3082;&#x306e;&#x3092;&#x751f;&#x4ea7;&#x53ef;&#x80fd;:[PARAGRAPH:1][TAB]&#x30d5;&#x30a9;&#x30fc;&#x30f3;&#xff08;&#x30e6;&#x30cb;&#x30c3;&#x30c8;&#xff09;[PARAGRAPH:1][TAB]&#x7eff;&#x53f6;&#x306e;&#x53f8;&#x796d;&#xff08;&#x30e6;&#x30cb;&#x30c3;&#x30c8;&#xff09;[PARAGRAPH:1][TAB]&#x30a4;&#x30f4;&#x30a1;&#x30f3;&#xff08;&#x82f1;&#x96c4;&#xff09;[PARAGRAPH:1][TAB]&#x30ad;&#x30b9;&#x30e9;&#xff0e;&#x30ad;&#x30e3;&#x30ea;&#x30a8;&#x30eb;&#xff08;&#x82f1;&#x96c4;&#xff09;[PARAGRAPH:1][TAB]&#x5927;&#x81ea;&#x7136;&#x306e;&#x5b88;&#x62a4;&#x8005;&#xff08;&#x793e;&#x4f1a;&#x5236;&#x5ea6;&#xff09;[PARAGRAPH:1][TAB]&#x79d8;&#x5bc6;&#x306e;&#x62d4;&#x3051;&#x9053;&#xff08;&#x30c6;&#x30af;&#x30ce;&#x30ed;&#x30b8;&#x30fc;&#xff09;</English>
+		<English>[TAB]Deep in the woods, the whispers of Elves linger. Ancient protectors normally above the affairs of men, some men have shown enough loyalty to them to be taught their magic and even gain the assistance of the Elven Archers.[PARAGRAPH:2]State Religion allows access to:[PARAGRAPH:1][TAB]Fawn (unit)[PARAGRAPH:1][TAB]Priest of Leaves (unit)[PARAGRAPH:1][TAB]Yvain (world unit)[PARAGRAPH:1][TAB]Kithra Kyriel (world unit)[PARAGRAPH:1][TAB]Guardian of Nature (civic)[PARAGRAPH:1][TAB]Hidden Paths (technology)[NEWLINE][NEWLINE]While the Fellowship of Leaves is your state religion every forest in your empire has a 3% chance per turn of upgrading to an [LINK=FEATURE_ANCIENT_FOREST]ancient forest[\LINK].</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_OCTOPUS_OVERLORDS</Tag>
@@ -15952,21 +15952,21 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REPLACEDBY_BUILDING</Tag>
-		<English>&#x88ab;&#x4f60;&#x6587;&#x660e;&#x7684;%s1_default_building&#x6240;&#x66ff;&#x4ee3;</English>
+		<English>&#x88ab;&#x4f60;&#x6587;&#x660e;&#x7684;[LINK=literal]%s1_default_building[\LINK]&#x6240;&#x66ff;&#x4ee3;</English>
 		<French>Est remplac&#233; par [LINK=litt&#233;ral]%s1_default_building[\LINK] pour votre Civilisation.</French>
 		<German>Ersetzt [LINK=literal]%s1_default_unit[\LINK] Eurer Zivilisation entsprechend</German>
 		<Spanish>Es reemplazado por [LINK=literal]%s1_default_building[\LINK] para tu Civilizaci&#243;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REPLACEDBY_UNIT</Tag>
-		<English>&#x88ab;&#x4f60;&#x6587;&#x660e;&#x7684;%s1_default_unit&#x6240;&#x66ff;&#x4ee3;</English>
+		<English>&#x88ab;&#x4f60;&#x6587;&#x660e;&#x7684;[LINK=literal]%s1_default_unit[\LINK]&#x6240;&#x66ff;&#x4ee3;</English>
 		<French>Est remplac&#233; par [LINK=litt&#233;ral]%s1_default_unit[\LINK] pour votre Civilisation.</French>
 		<German>[ICON_BULLET]erfordert: %s1</German>
 		<Spanish>Es reemplazado por [LINK=literal]%s1_default_unit[\LINK] para tu Civilizaci&#243;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REPLACES_BUILDING</Tag>
-		<English>&#x4ee3;&#x66ff;%s1_default_building</English>
+		<English>&#x4ee3;&#x66ff;[LINK=literal]%s1_default_building[\LINK]</English>
 		<French>Remplace [LINK=literal]%s1_default_building[\LINK]</French>
 		<German>Ersetzt [LINK=literal]%s1_default_building[\LINK]</German>
 		<Spanish>Reemplaza a [LINK=literal]%s1_default_building[\LINK]</Spanish>
@@ -16467,7 +16467,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_ADD_PROMOTION_CASTER</Tag>
-		<English>[ICON_BULLET]&#x65bd;&#x6cd5;&#x8005;&#x83b7;&#x5f97;%s1_promotion&#x664b;&#x5347;</English>
+		<English>[ICON_BULLET]&#x65bd;&#x6cd5;&#x8005;&#x83b7;&#x5f97;[LINK=literal]%s1_promotion[\LINK]&#x664b;&#x5347;</English>
 		<French>ICON_BULLET]Ajoute la promotion %s1_promotion au lanceur</French>
 		<German>[ICON_BULLET]f&#252;gt die %s1_promotion Bef&#246;rderung zum Zaubernden hinzu</German>
 		<Spanish>[ICON_BULLET]A&#241;ade la promoci&#243;n [LINK=literal]%s1_promotion[\LINK] al lanzador</Spanish>
@@ -16644,13 +16644,13 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_BUILDING_PREREQ</Tag>
-		<English>[ICON_BULLET]&#x9700;&#x8981;&#x57ce;&#x5e02;&#x4e2d;&#x5df2;&#x5efa;&#x597d;%s1_building</English>
+		<English>[ICON_BULLET]&#x9700;&#x8981;&#x57ce;&#x5e02;&#x4e2d;&#x5df2;&#x5efa;&#x597d;[LINK=literal]%s1_building[\LINK]</English>
 		<German>[ICON_BULLET]Erfordert ein [LINK=literal]%s1_building[\LINK] in der Stadt des Zaubernden</German>
 		<Spanish>[ICON_BULLET]Requiere un [LINK=literal]%s1_building[\LINK] en la ciudad del lanzador</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_BUILDINGCLASS_OWNED_PREREQ</Tag>
-		<English>[ICON_BULLET]&#x9700;&#x8981;&#x73a9;&#x5bb6;&#x5df2;&#x5efa;&#x597d;%s1_building</English>
+		<English>[ICON_BULLET]&#x9700;&#x8981;&#x73a9;&#x5bb6;&#x5df2;&#x5efa;&#x597d;[LINK=literal]%s1_building[\LINK]</English>
 		<German>[ICON_BULLET]Dem Spieler muss das [LINK=literal]%s1_building[\LINK] geh&#246;ren um den Zauber zu sprechen</German>
 		<Spanish>[ICON_BULLET]El jugador debe de poseer el [LINK=literal]%s1_building[\LINK] para usar este hechizo</Spanish>
 	</TEXT>
@@ -16717,7 +16717,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_CIVILIZATION_PREREQ</Tag>
-		<English>[ICON_BULLET]%s1_civ&#x4e13;&#x7528;</English>
+		<English>[ICON_BULLET][LINK=literal]%s1_civ[\LINK]&#x4e13;&#x7528;</English>
 		<French>[ICON_BULLET]Ne peut &#234;tre utilis&#233; que par la civilisation %s1_civilization.</French>
 		<German>[ICON_BULLET]Kann nur von den %s1_civilization benutzt werden.</German>
 		<Spanish>[ICON_BULLET]Solamente puede ser usado por la civilizaci&#243;n [LINK=literal]%s1_civ[\LINK]</Spanish>
@@ -16795,7 +16795,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_CREATE_BUILDING</Tag>
-		<English>[ICON_BULLET]&#x5728;&#x57ce;&#x5e02;&#x4e2d;&#x5efa;&#x9020;[COLOR_BUILDING_TEXT]%s1_building[COLOR_REVERT]</English>
+		<English>[ICON_BULLET]&#x5728;&#x57ce;&#x5e02;&#x4e2d;&#x5efa;&#x9020;[COLOR_BUILDING_TEXT][LINK=literal]%s1_building[\LINK][COLOR_REVERT]</English>
 		<French>[ICON_BULLET]Cr&#233;e un %s1_building dans la ville</French>
 		<German>[ICON_BULLET]Erschafft ein %s1_building in der Stadt.</German>
 		<Spanish>[ICON_BULLET]Crea un [LINK=literal]%s1_building[\LINK] en la ciudad</Spanish>
@@ -16816,14 +16816,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_CREATE_FEATURE</Tag>
-		<English>[ICON_BULLET]&#x5728;&#x8be5;&#x683c;&#x8bbe;&#x7acb;%s1_feature</English>
+		<English>[ICON_BULLET]&#x5728;&#x8be5;&#x683c;&#x8bbe;&#x7acb;[LINK=literal]%s1_feature[\LINK]</English>
 		<French>[ICON_BULLET]Cr&#233;e un %s1_feature sur la case</French>
 		<German>[ICON_BULLET]Erschafft eine %s1_feature auf dem Gel&#228;ndefeld.</German>
 		<Spanish>[ICON_BULLET]Crea un [LINK=literal]%s1_feature[\LINK] en la casilla</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_CREATE_IMPROVEMENT</Tag>
-		<English>[ICON_BULLET]&#x5728;&#x8be5;&#x683c;&#x8bbe;&#x7acb;%s1_improvement</English>
+		<English>[ICON_BULLET]&#x5728;&#x8be5;&#x683c;&#x8bbe;&#x7acb;[LINK=literal]%s1_improvement[\LINK]</English>
 		<French>[ICON_BULLET]Cr&#233;e un %s1_improvement sur la case</French>
 		<German>[ICON_BULLET]Erschafft eine %s1_improvement auf dem Gel&#228;ndefeld.</German>
 		<Spanish>[ICON_BULLET]Crea un [LINK=literal]%s1_improvement[\LINK] en la casilla</Spanish>
@@ -16836,7 +16836,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_CREATE_UNIT_PROMOTION</Tag>
-		<English>[ICON_BULLET]&#x53ec;&#x5524;&#x7684;&#x5355;&#x4f4d;&#x81ea;&#x52a8;&#x664b;&#x5347;[COLOR_HIGHLIGHT_TEXT]%s1_promotion[COLOR_REVERT]</English>
+		<English>[ICON_BULLET]&#x53ec;&#x5524;&#x7684;&#x5355;&#x4f4d;&#x81ea;&#x52a8;&#x664b;&#x5347;[COLOR_HIGHLIGHT_TEXT][LINK=literal]%s1_promotion[\LINK][COLOR_REVERT]</English>
 		<French>[ICON_BULLET]Les unit&#233;s &#233;voqu&#233;es commencent avec la promotion %s1_promotion</French>
 		<German>[ICON_BULLET]Beschworene Einheiten beginnen mit der %s1_promotion Bef&#246;rderung</German>
 		<Spanish>[ICON_BULLET]Las unidades invocadas empiezan con la promoci&#243;n [LINK=literal]%s1_promotion[\LINK]</Spanish>
@@ -17163,7 +17163,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_ESCAPE_PEDIA</Tag>
-		<English>Chapter 1: Fall of Mammon Cycle[NEWLINE][NEWLINE]Chapter 2: Fall of Mammon Cycle[NEWLINE][NEWLINE]Nemed was reborn a man.  He gave the precept of life to Arawn and now he marveled at the slightest sensations of creation.  The way the grass tickled his feet, the goose bumps on his back from the cool air, and the weight of his own body.[NEWLINE][NEWLINE]Gabella stood watching a distant storm.  The grasslands swayed around her and the scattered copses of trees turned their leaves skyward in expectation of the coming rain.  Though she was just a few hours old Oghma had given her not only the capacity to learn but an understanding of creation that made her the equal of any scholar in later ages.[NEWLINE][NEWLINE]As Nemed approached she raised one hand to stop him then she turned to consider him.  He had expected to see an expression of a swan to its mate, or a baby bear to its mother.  But instead he saw the calm, dangerous look of a predator, of a lioness surveying her land.[NEWLINE][NEWLINE]"I am Nemed, I am to be your husband.  We will populate this world with our children."[NEWLINE][NEWLINE]This was the first pickup line in creation, and it was a colossal failure.  Gabella turned to reveal a sharpened stick she held in her left hand, in a smooth motion she leapt at him, knocking Nemed to the ground and placing the spears tip against his penis.[NEWLINE][NEWLINE]Gabella smiled at his look of surprise, "I suspect this may happen exactly opposite of how you intended."[NEWLINE][NEWLINE]Nemed tried to throw her off but she was stronger, and faster, than the once god.  In one motion she stabbed him, tearing through his scrotum and ripping his penis off in one meaty chunk.  Gabella admired it briefly before flipping it off into the grass.  Nemed screamed in pain.[NEWLINE][NEWLINE]The gods appeared around the two.  Sirona was at Nemed's side, and even though he quickly healed from the wound the memory of pain and fear left him shaken.  Gabella was held fast in Dagda's power, frozen under the consideration of the gods.[NEWLINE][NEWLINE]"Have we failed, should we remove Gabella from creation?" Dagda asked.[NEWLINE][NEWLINE]No one answered.[NEWLINE][NEWLINE]Nantosuelta approached Gabella, she brushed Gabella's long black hair back away from her face. "Child, couldn't you see the results of your actions?  Why did you fear the advances of Nemed so?  Don't you long for the generations before you?"[NEWLINE][NEWLINE]It was Lugus who answered, "She is without foresight.  Her fear consumes her, making her little more than a beast despite our gifts.  Why was the future hidden from her?"[NEWLINE][NEWLINE]This last question was directed at Mammon.[NEWLINE][NEWLINE]"Rebellion is inherent in creation" Mammon answered, "her actions were the same regardless.  The only difference was I saved her from the knowledge of what will be done to her in response.  Do you want her to act in fear of our punishment or according to her desires?  The desires that we gave her."[NEWLINE][NEWLINE]"Her obedience can be compelled" Junil offered.[NEWLINE][NEWLINE]At this the gods broke into arguing.  Esus was the most adamant that Gabella should be free to choose her own course, and Junil argued that this disobedience must be removed from creation.  Aeron, who had fashioned her form and considered her the greatest of his creations, fought to allow her freedom.  As did Cerdiwen, Camulos (who only wanted peace) and Agares.  Mulcarn only offered that creation was better off without men at all.[NEWLINE][NEWLINE]"Should we free her or unmake her?" Dagda asked Mammon.  Once again they turned to him.[NEWLINE][NEWLINE]"It doesn't matter, whatever you decide she will be freed."[NEWLINE][NEWLINE]At that Arawn stepped forward.  His right hand shone with the pure white light of birth, his left with the gray power of ending.  He raised his left hand over Gabella but before he lowered it Ceridwen appeared behind the trapped Gabella.  The flowing tendrils of Ceridwen's gown surrounded Gabella, completely blocking her from the sight of the other gods.  Arawn brushed the gown easily aside, but Gabella was gone.[NEWLINE][NEWLINE]Chapter 3: Fall of Mammon Cycle[NEWLINE]Chapter 4: Fall of Mammon Cycle</English>
+		<English>[LINK=IMPROVEMENT_POOL_OF_TEARS]Chapter 1: Fall of Mammon Cycle[\LINK][NEWLINE][NEWLINE]Chapter 2: Fall of Mammon Cycle[NEWLINE][NEWLINE]Nemed was reborn a man.  He gave the precept of life to Arawn and now he marveled at the slightest sensations of creation.  The way the grass tickled his feet, the goose bumps on his back from the cool air, and the weight of his own body.[NEWLINE][NEWLINE]Gabella stood watching a distant storm.  The grasslands swayed around her and the scattered copses of trees turned their leaves skyward in expectation of the coming rain.  Though she was just a few hours old Oghma had given her not only the capacity to learn but an understanding of creation that made her the equal of any scholar in later ages.[NEWLINE][NEWLINE]As Nemed approached she raised one hand to stop him then she turned to consider him.  He had expected to see an expression of a swan to its mate, or a baby bear to its mother.  But instead he saw the calm, dangerous look of a predator, of a lioness surveying her land.[NEWLINE][NEWLINE]"I am Nemed, I am to be your husband.  We will populate this world with our children."[NEWLINE][NEWLINE]This was the first pickup line in creation, and it was a colossal failure.  Gabella turned to reveal a sharpened stick she held in her left hand, in a smooth motion she leapt at him, knocking Nemed to the ground and placing the spears tip against his penis.[NEWLINE][NEWLINE]Gabella smiled at his look of surprise, "I suspect this may happen exactly opposite of how you intended."[NEWLINE][NEWLINE]Nemed tried to throw her off but she was stronger, and faster, than the once god.  In one motion she stabbed him, tearing through his scrotum and ripping his penis off in one meaty chunk.  Gabella admired it briefly before flipping it off into the grass.  Nemed screamed in pain.[NEWLINE][NEWLINE]The gods appeared around the two.  Sirona was at Nemed's side, and even though he quickly healed from the wound the memory of pain and fear left him shaken.  Gabella was held fast in Dagda's power, frozen under the consideration of the gods.[NEWLINE][NEWLINE]"Have we failed, should we remove Gabella from creation?" Dagda asked.[NEWLINE][NEWLINE]No one answered.[NEWLINE][NEWLINE]Nantosuelta approached Gabella, she brushed Gabella's long black hair back away from her face. "Child, couldn't you see the results of your actions?  Why did you fear the advances of Nemed so?  Don't you long for the generations before you?"[NEWLINE][NEWLINE]It was Lugus who answered, "She is without foresight.  Her fear consumes her, making her little more than a beast despite our gifts.  Why was the future hidden from her?"[NEWLINE][NEWLINE]This last question was directed at Mammon.[NEWLINE][NEWLINE]"Rebellion is inherent in creation" Mammon answered, "her actions were the same regardless.  The only difference was I saved her from the knowledge of what will be done to her in response.  Do you want her to act in fear of our punishment or according to her desires?  The desires that we gave her."[NEWLINE][NEWLINE]"Her obedience can be compelled" Junil offered.[NEWLINE][NEWLINE]At this the gods broke into arguing.  Esus was the most adamant that Gabella should be free to choose her own course, and Junil argued that this disobedience must be removed from creation.  Aeron, who had fashioned her form and considered her the greatest of his creations, fought to allow her freedom.  As did Cerdiwen, Camulos (who only wanted peace) and Agares.  Mulcarn only offered that creation was better off without men at all.[NEWLINE][NEWLINE]"Should we free her or unmake her?" Dagda asked Mammon.  Once again they turned to him.[NEWLINE][NEWLINE]"It doesn't matter, whatever you decide she will be freed."[NEWLINE][NEWLINE]At that Arawn stepped forward.  His right hand shone with the pure white light of birth, his left with the gray power of ending.  He raised his left hand over Gabella but before he lowered it Ceridwen appeared behind the trapped Gabella.  The flowing tendrils of Ceridwen's gown surrounded Gabella, completely blocking her from the sight of the other gods.  Arawn brushed the gown easily aside, but Gabella was gone.[NEWLINE][NEWLINE][LINK=IMPROVEMENT_SEVEN_PINES]Chapter 3: Fall of Mammon Cycle[\LINK][NEWLINE][LINK=BUILDING_ALTAR_OF_THE_LUONNOTAR]Chapter 4: Fall of Mammon Cycle[\LINK]</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_EXPLORE_LAIR</Tag>
@@ -17205,13 +17205,13 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_FEATURE_PREREQ</Tag>
-		<English>[ICON_BULLET]&#x65bd;&#x653e;&#x7684;&#x533a;&#x5757;&#x4e0a;&#x5fc5;&#x987b;&#x6709;%s1_feature</English>
+		<English>[ICON_BULLET]&#x65bd;&#x653e;&#x7684;&#x533a;&#x5757;&#x4e0a;&#x5fc5;&#x987b;&#x6709;[LINK=literal]%s1_feature[\LINK]</English>
 		<German>[ICON_BULLET]Erfordert ein [LINK=literal]%s1_feature[\LINK] auf dem Feld des Zaubernden</German>
 		<Spanish>[ICON_BULLET]Requiere un [LINK=literal]%s1_feature[\LINK] en la casilla del lanzador</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_FEATURE2_PREREQ</Tag>
-		<English>[ICON_BULLET]&#x65bd;&#x653e;&#x7684;&#x533a;&#x5757;&#x4e0a;&#x5fc5;&#x987b;&#x6709;%s1_feature&#x6216;%s2_feature</English>
+		<English>[ICON_BULLET]&#x65bd;&#x653e;&#x7684;&#x533a;&#x5757;&#x4e0a;&#x5fc5;&#x987b;&#x6709;[LINK=literal]%s1_feature[\LINK]&#x6216;[LINK=literal]%s2_feature[\LINK]</English>
 		<German>[ICON_BULLET]Erfordert ein [LINK=literal]%s1_feature[\LINK] oder ein [LINK=literal]%s2_feature[\LINK] auf dem Feld des Zaubernden.</German>
 		<Spanish>[ICON_BULLET]Requiere un [LINK=literal]%s1_feature[\LINK] o un [LINK=literal]%s2_feature[\LINK] en la casilla del lanzador</Spanish>
 	</TEXT>
@@ -17575,7 +17575,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_IMPROVEMENT_PREREQ</Tag>
-		<English>[ICON_BULLET]&#x9700;&#x8981;&#x65bd;&#x6cd5;&#x8005;&#x533a;&#x5757;&#x5185;&#x6709;%s1_improvement</English>
+		<English>[ICON_BULLET]&#x9700;&#x8981;&#x65bd;&#x6cd5;&#x8005;&#x533a;&#x5757;&#x5185;&#x6709;[LINK=literal]%s1_improvement[\LINK]</English>
 		<German>[ICON_BULLET]Erfordert ein [LINK=literal]%s1_improvement[\LINK] auf dem Feld des Zaubernden</German>
 		<Spanish>[ICON_BULLET]Requiere un [LINK=literal]%s1_improvement[\LINK] en la casilla del lanzador</Spanish>
 	</TEXT>
@@ -17876,7 +17876,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_PROMOTION_IN_STACK_PREREQ</Tag>
-		<English>[ICON_BULLET]&#x5fc5;&#x987b;&#x8981;&#x6709;&#x4e00;&#x4e2a;&#x62e5;&#x6709;%s1_prom&#x664b;&#x5347;&#x7684;&#x5355;&#x4f4d;&#x5728;&#x540c;&#x4e00;&#x683c;</English>
+		<English>[ICON_BULLET]&#x5fc5;&#x987b;&#x8981;&#x6709;&#x4e00;&#x4e2a;&#x62e5;&#x6709;[LINK=literal]%s1_prom[\LINK]&#x664b;&#x5347;&#x7684;&#x5355;&#x4f4d;&#x5728;&#x540c;&#x4e00;&#x683c;</English>
 		<German>[ICON_BULLET]Erfordert eine Einheit mit der Bef&#246;rderung [LINK=literal]%s1_prom[\LINK] im Einheitenverband des Zaubernden.</German>
 		<Spanish>[ICON_BULLET]Requiere una unidad con la promoci&#243;n [LINK=literal]%s1_prom[\LINK] en la casilla del lanzador</Spanish>
 	</TEXT>
@@ -18029,7 +18029,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_RELIGION_PREREQ</Tag>
-		<English>[ICON_BULLET]&#x65bd;&#x6cd5;&#x8005;&#x5fc5;&#x987b;&#x4fe1;&#x4ef0;[COLOR_HIGHLIGHT_TEXT]%s1_religion[COLOR_REVERT]</English>
+		<English>[ICON_BULLET]&#x65bd;&#x6cd5;&#x8005;&#x5fc5;&#x987b;&#x4fe1;&#x4ef0;[COLOR_HIGHLIGHT_TEXT][LINK=literal]%s1_religion[\LINK][COLOR_REVERT]</English>
 		<French>[ICON_BULLET]Le lanceur doit avoir la religion %s1_religion</French>
 		<German>[ICON_BULLET]Der Zaubernde muss der %s1_religion angeh&#246;ren</German>
 		<Spanish>[ICON_BULLET]El lanzador debe de tener la religi&#243;n [LINK=literal]%s1_religion[\LINK]</Spanish>
@@ -18057,14 +18057,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_REMOVE_PROMOTION</Tag>
-		<English>[ICON_BULLET]&#x79fb;&#x9664;[COLOR_HIGHLIGHT_TEXT]%s1_promotion[COLOR_REVERT]&#x664b;&#x5347;</English>
+		<English>[ICON_BULLET]&#x79fb;&#x9664;[COLOR_HIGHLIGHT_TEXT][LINK=literal]%s1_promotion[\LINK][COLOR_REVERT]&#x664b;&#x5347;</English>
 		<French>[ICON_BULLET]Enl&#232;ve la promotion %s1_promotion</French>
 		<German>[ICON_BULLET]entfernt die %s1_promotion Bef&#246;rderung</German>
 		<Spanish>[ICON_BULLET]Elimina la promoci&#243;n [LINK=literal]%s1_promotion[\LINK]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_REMOVE_PROMOTION_CASTER</Tag>
-		<English>[ICON_BULLET]&#x5c06;[COLOR_HIGHLIGHT_TEXT]%s1_promotion[COLOR_REVERT]&#x664b;&#x5347;&#x4ece;&#x65bd;&#x6cd5;&#x8005;&#x8eab;&#x4e0a;&#x79fb;&#x9664;</English>
+		<English>[ICON_BULLET]&#x5c06;[COLOR_HIGHLIGHT_TEXT][LINK=literal]%s1_promotion[\LINK][COLOR_REVERT]&#x664b;&#x5347;&#x4ece;&#x65bd;&#x6cd5;&#x8005;&#x8eab;&#x4e0a;&#x79fb;&#x9664;</English>
 		<French>[ICON_BULLET]Enl&#232;ve la promotion %s1_promotion du lanceur</French>
 		<German>[ICON_BULLET]entfernt die %s1_promotion Bef&#246;rderung von dem Zaubernden</German>
 		<Spanish>[ICON_BULLET]Elimina la promoci&#243;n [LINK=literal]%s1_promotion[\LINK] del lanzador</Spanish>
@@ -18408,7 +18408,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_SPREAD_RELIGION</Tag>
-		<English>[ICON_BULLET]&#x4f20;&#x64ad;[COLOR_HIGHLIGHT_TEXT]%s1_religion[COLOR_REVERT]</English>
+		<English>[ICON_BULLET]&#x4f20;&#x64ad;[COLOR_HIGHLIGHT_TEXT][LINK=literal]%s1_religion[\LINK][COLOR_REVERT]</English>
 		<French>[ICON_BULLET]Propage la religion %s1_religion</French>
 		<German>[ICON_BULLET]Verbreitet %s1_religion Religion</German>
 		<Spanish>[ICON_BULLET]Propaga la religi&#243;n [LINK=literal]%s1_religion[\LINK]</Spanish>
@@ -18458,7 +18458,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_STATE_RELIGION_PREREQ</Tag>
-		<English>[ICON_BULLET]&#x5fc5;&#x987b;&#x62e5;&#x6709;[COLOR_HIGHLIGHT_TEXT]%s1_religion[COLOR_REVERT]&#x4e3a;&#x56fd;&#x6559;</English>
+		<English>[ICON_BULLET]&#x5fc5;&#x987b;&#x62e5;&#x6709;[COLOR_HIGHLIGHT_TEXT][LINK=literal]%s1_religion[\LINK][COLOR_REVERT]&#x4e3a;&#x56fd;&#x6559;</English>
 		<French>[ICON_BULLET]le joueur doit avoir la religion d'&#233;tat %s1_religion</French>
 		<German>[ICON_BULLET]Spieler muss der Staatsreligion %s1_religion angeh&#246;ren</German>
 		<Spanish>[ICON_BULLET]El jugador debe de tener la religi&#243;n [LINK=literal]%s1_religion[\LINK]</Spanish>
@@ -18853,7 +18853,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_TECH_PREREQ</Tag>
-		<English>[ICON_BULLET][COLOR_WARNING_TEXT]&#x5fc5;&#x8981;&#x6761;&#x4ef6;: [COLOR_TECH_TEXT]%s1_tech[COLOR_WARNING_TEXT]&#x306e;&#x30c6;&#x30af;&#x30ce;&#x30ed;&#x30b8;&#x30fc;[COLOR_REVERT]</English>
+		<English>[ICON_BULLET][COLOR_WARNING_TEXT]&#x5fc5;&#x8981;&#x6761;&#x4ef6;: [COLOR_TECH_TEXT][LINK=literal]%s1_tech[\LINK][COLOR_WARNING_TEXT]&#x306e;&#x30c6;&#x30af;&#x30ce;&#x30ed;&#x30b8;&#x30fc;[COLOR_REVERT]</English>
 		<French>[ICON_BULLET]Requiert la technologie %s1_tech</French>
 		<German>[ICON_BULLET]Ben&#246;tigt die %s1_tech Technologie</German>
 		<Spanish>[ICON_BULLET]Requiere la tecnolog&#237;a [LINK=literal]%s1_tech[\LINK]</Spanish>
@@ -18921,14 +18921,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_UNIT_IN_STACK_PREREQ</Tag>
-		<English>[ICON_BULLET]&#x5fc5;&#x9700;&#x5728;&#x8be5;&#x683c;&#x5b58;&#x5728;&#x4e00;&#x4e2a;[COLOR_UNIT_TEXT]%s1_unit[COLOR_REVERT]</English>
+		<English>[ICON_BULLET]&#x5fc5;&#x9700;&#x5728;&#x8be5;&#x683c;&#x5b58;&#x5728;&#x4e00;&#x4e2a;[COLOR_UNIT_TEXT][LINK=literal]%s1_unit[\LINK][COLOR_REVERT]</English>
 		<French>[ICON_BULLET]Peut seulement &#234;tre utilis&#233; si il y a un %s1_unit dans la pile.</French>
 		<German>[ICON_BULLET]Kann nur verwendet werden wenn eine %s1_unit Einheit im Truppenverband ist.</German>
 		<Spanish>[ICON_BULLET]Solamente puede ser usado si hay una unidad de [LINK=literal]%s1_unit[\LINK] en el grupo.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_UNIT_PREREQ</Tag>
-		<English>[ICON_BULLET]&#x53ea;&#x6709;[COLOR_UNIT_TEXT]%s1_unit[COLOR_REVERT]&#x53ef;&#x4ee5;&#x4f7f;&#x7528;</English>
+		<English>[ICON_BULLET]&#x53ea;&#x6709;[COLOR_UNIT_TEXT][LINK=literal]%s1_unit[\LINK][COLOR_REVERT]&#x53ef;&#x4ee5;&#x4f7f;&#x7528;</English>
 		<French>[ICON_BULLET]Peut seulement &#234;tre utilis&#233; par un %s1_unit .</French>
 		<German>[ICON_BULLET]Kann nur von %s1_unit Einheiten verwendet werden.</German>
 		<Spanish>[ICON_BULLET]Solamente puede ser usado por una unidad de [LINK=literal]%s1_unit[\LINK].</Spanish>
@@ -18978,7 +18978,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_VEIL_OF_NIGHT_HELP</Tag>
-		<English>[ICON_BULLET]&#x6240;&#x6709;&#x5355;&#x4f4d;&#x83b7;&#x5f97;&#x56fd;&#x7c4d;&#x9690;&#x85cf;&#x80fd;&#x529b;</English>
+		<English>[ICON_BULLET]All your units gain [LINK=literal]Hidden Nationality[\LINK]</English>
 		<French>[ICON_BULLET]Toutes vos unit&#233;s gagne la Nationalit&#233; Cach&#233;e</French>
 		<German>[ICON_BULLET]Alle eure Einheiten erhalten die Bef&#246;rderung Verborgene Nationalit&#228;t</German>
 		<Spanish>[ICON_BULLET]Todas tus unidades ganan [LINK=PROMOTION_HIDDEN_NATIONALITY]Nacionalidad Oculta[\LINK]</Spanish>
@@ -19030,7 +19030,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_WARCRY_HELP</Tag>
-		<English>[ICON_BULLET]&#x6240;&#x6709;&#x5355;&#x4f4d;&#x83b7;&#x5f97;&#x6218;&#x568e;&#x664b;&#x5347;</English>
+		<English>[ICON_BULLET]All your units gain the [LINK=literal]Warcry[\LINK] promotion</English>
 		<French>[ICON_BULLET]Toutes vos unit&#233;s gagnent la promotion Cri de Guerre</French>
 		<German>[ICON_BULLET]Alle eure Einheiten erhalten die Schlachtruf Bef&#246;rderung</German>
 		<Spanish>[ICON_BULLET]Todas tus unidades ganan la promoci&#243;n [LINK=PROMOTION_WARCRY]Grito de guerra[\LINK]</Spanish>
@@ -21068,7 +21068,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIQUE_BUILDING</Tag>
-		<English>%s1_civ&#x7684;&#x7279;&#x6b8a;&#x5efa;&#x7b51;</English>
+		<English>[LINK=literal]%s1_civ[\LINK]&#x7684;&#x7279;&#x6b8a;&#x5efa;&#x7b51;</English>
 		<French>Batiment unique pour [LINK=literal]%s1_civ[\LINK]</French>
 		<German>Einzigartiges Geb&#228;ude f&#252;r [LINK=literal]%s1_civ[\LINK]</German>
 		<Spanish>Edificio &#250;nico de los [LINK=literal]%s1_civ[\LINK]</Spanish>

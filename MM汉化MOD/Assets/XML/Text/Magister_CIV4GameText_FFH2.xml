@@ -3929,7 +3929,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_CROWN_OF_BRILLANCE_PEDIA</Tag>
-		<English>[ICON_BULLET]&#x5355;&#x4f4d;&#x6bcf;&#x56de;&#x5408;&#x81ea;&#x52a8;&#x65bd;&#x653e;&#x8363;&#x8000;&#x738b;&#x51a0;&#x5492;&#x8bed;</English>
+		<English>[ICON_BULLET]&#x5355;&#x4f4d;&#x6bcf;&#x56de;&#x5408;&#x81ea;&#x52a8;&#x65bd;&#x653e;[LINK=SPELL_CROWN_OF_BRILLANCE]&#x8363;&#x8000;&#x738b;&#x51a0;[\LINK]&#x5492;&#x8bed;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_CULT_OF_THE_DRAGON</Tag>

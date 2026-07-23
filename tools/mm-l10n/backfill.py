@@ -83,6 +83,15 @@ def unknown_markups(chi_text, base_english):
                    if not is_known_markup(m) and m not in base_marks})
 
 
+# LINK 类标记(与 M4 validate.py RE_LINK_MARKUP 同口径)
+LINK_MARKUP_RE = re.compile(r'\[(?:LINK=[^\[\]]*|\\LINK|/LINK)\]')
+
+
+def link_multiset(s):
+    """LINK 类标记多重集(整字符串比较,与 M4 LINK 守恒口径一致)。"""
+    return Counter(LINK_MARKUP_RE.findall(s))
+
+
 def decode_entities(s):
     """把 XML 数字实体解码回真实字符 (&#x6253; / &#25171; -> 字符)。"""
     s = re.sub(r'&#x([0-9A-Fa-f]+);', lambda m: chr(int(m.group(1), 16)), s)
@@ -106,16 +115,37 @@ def num_ph_multiset(s):
 # [LINK=...] 起始标记 与 [\LINK] / [/LINK] 结束标记(两种写法都见于官方译文)
 LINK_OPEN_RE = re.compile(r'\[LINK=[^\]]*\]')
 LINK_CLOSE_RE = re.compile(r'\[[\\/]LINK\]')
+# 一个完整 LINK 段:[LINK=X] 内容 [\LINK]/[/LINK](内容非贪婪,不跨越下一个开标记)
+LINK_SEGMENT_RE = re.compile(r'(\[LINK=[^\]]*\])(.*?)(\[[\\/]LINK\])', re.S)
 
 
-def strip_links(s):
-    """机械删除 [LINK=...] 与 [\\LINK]/[/LINK] 标记对,保留内部文字(M3.1)。
+def strip_links(s, base_english):
+    """条件剥离译文中的 LINK 标记对,保留内部文字(M3.1,已按 M4 新校验修正)。
 
-    理由(A9):官方译者加的概念链接目标在 MM 中可能不存在,悬空链接有不确定性;
-    剥掉后显示无损、零风险。仅删标记本身,不动内部文字与其他标记。
+    规则(区分两种 LINK,兼顾 A5 与 A9):
+    - **基准英文本身就含**的同名 `[LINK=X]`:官方译文照搬,链接目标在 MM 中存在、非悬空
+      -> **整段保留**(A5 标记原样,满足 M4「LINK 标记守恒」校验)。
+    - **基准英文没有、官方译者额外加**的 `[LINK=Y]`:目标可能在 MM 中不存在,悬空链接
+      有不确定性 -> **删开闭标记,保留内部文字**(A9 零风险)。
+
+    实现:按 LINK 段处理,段内 open 标记在基准英文里出现则整段保留,否则去标记留文字。
+    残留的孤立(未配对)LINK 标记:open 在基准中存在则留,否则删。
     """
-    s = LINK_OPEN_RE.sub('', s)
-    s = LINK_CLOSE_RE.sub('', s)
+    base_opens = set(LINK_OPEN_RE.findall(base_english))
+
+    def seg_repl(m):
+        open_tag, inner, close_tag = m.group(1), m.group(2), m.group(3)
+        if open_tag in base_opens:
+            return open_tag + inner + close_tag   # 基准也有 -> 整段保留
+        return inner                              # 额外加的 -> 去标记留文字
+
+    s = LINK_SEGMENT_RE.sub(seg_repl, s)
+    # 清理残留的孤立开标记(基准无者删,基准有者保留)
+    s = LINK_OPEN_RE.sub(lambda m: m.group(0) if m.group(0) in base_opens else '', s)
+    # 残留孤立闭标记:仅当基准英文也有闭标记时保留,否则删
+    base_has_close = bool(LINK_CLOSE_RE.search(base_english))
+    if not base_has_close:
+        s = LINK_CLOSE_RE.sub('', s)
     return s
 
 
@@ -243,9 +273,16 @@ def backfill():
                 fstat['eng_changed'] += 1
                 pending.append((fn, key, "eng-changed-by-MM"))
                 return bm.group(0)
+            # 官方译文未译:<Chinese> 列内容规范化后等于英文原文(译者仅把英文复制进中文列)。
+            # 回填等于保留英文,应计入待翻译而非虚增回填数(不影响运行,只为统计准确)。
+            if norm_en(ochi) == oeng:
+                fstat['official_untranslated'] += 1
+                pending.append((fn, key, "official-untranslated"))
+                return bm.group(0)
 
-            # M3.1-步骤2: 剥离 [LINK=...]/[\LINK] 标记对,保留内部文字(A9,零风险)
-            chi_text = strip_links(ochi)
+            # M3.1-步骤2: 条件剥离 LINK。基准英文也有的 LINK 整段保留(A5,非悬空);
+            #             仅剥基准没有、官方译者额外加的 LINK(A9,可能悬空)。
+            chi_text = strip_links(ochi, eng_for_cmp)
 
             # M3.1-步骤1: 数值占位符大小写不敏感多重集守恒;若归一后仍不等(如多出 %HP)
             #             -> 跳过入待翻译
@@ -260,6 +297,13 @@ def backfill():
             if unk:
                 fstat['markup_unknown'] += 1
                 pending.append((fn, key, "unknown-markup:" + ",".join(unk)))
+                return bm.group(0)
+            # M3.1: LINK 类标记守恒(A5,与 M4 同口径)。条件剥离后,译文的 LINK 标记多重集
+            #        必须与基准英文一致——不一致者(如官方译文把基准的 [LINK=X] 丢弃/换成别的
+            #        目标)强行回填会破坏基准 LINK 结构,跳过入待翻译。
+            if link_multiset(chi_text) != link_multiset(eng_for_cmp):
+                fstat['link_mismatch'] += 1
+                pending.append((fn, key, "link-markup-mismatch"))
                 return bm.group(0)
 
             # 通过 -> 把译文数值占位符逐个改写为 MM 基准 English 的精确大小写
@@ -370,8 +414,11 @@ def self_verify(verify_samples, pending, stats, total):
     # 4. 统计数自洽
     keys = total['keys']
     accounted = (total['backfilled'] + total['mm_only'] + total['eng_changed']
-                 + total['no_translation'] + total['ph_mismatch'] + total['markup_unknown'])
-    print("[4] 统计自洽: keys=%d = backfilled+mm_only+eng_changed+no_tr+ph_mismatch+markup_unknown=%d : %s"
+                 + total['no_translation'] + total['ph_mismatch']
+                 + total['markup_unknown'] + total['link_mismatch']
+                 + total['official_untranslated'])
+    print("[4] 统计自洽: keys=%d = backfilled+mm_only+eng_changed+no_tr+ph_mismatch"
+          "+markup_unknown+link_mismatch+official_untranslated=%d : %s"
           % (keys, accounted, "OK" if keys == accounted else "FAIL"))
     ok = ok and keys == accounted
 
@@ -403,11 +450,17 @@ def write_report(stats, total, pending):
     A("1. **数值占位符大小写对齐**:比对按大小写不敏感;通过后把译文数值占位符逐个改写为 "
       "MM 基准 English 的精确大小写(`%D1`→`%d1` 等)。归一后多重集仍不等(如多出 `%HP`)→"
       "跳过入待翻译。")
-    A("2. **剥离 `[LINK=...]`/`[\\LINK]` 标记对**,保留内部文字(A9:官方译者加的概念链接目标"
-      "在 MM 中可能不存在,悬空链接有不确定性;剥掉后显示无损、零风险)。")
+    A("2. **条件剥离 `[LINK=...]`/`[\\LINK]` 标记对**(区分两种 LINK,兼顾 A5 与 A9):"
+      "**基准英文本身就含**的同名 `[LINK=X]`(官方译文照搬,目标在 MM 中存在、非悬空)→ "
+      "整段保留(满足 M4「LINK 标记守恒」校验);**基准英文没有、官方译者额外加**的 `[LINK=Y]`"
+      "(目标可能悬空)→ 删标记留内部文字(A9 零风险)。")
     A("3. **未知标记守恒**:剥 LINK 后,译文若仍含既不在合法词表、基准英文原文也没有的方括号"
       "标记(如官方旧写法 `[HAPPY_ICON]`,MM 已改用 `[ICON_HAPPY]`)→ 引擎不识别会字面显示,"
       "文不对题,跳过入待翻译。")
+    A("3b. **LINK 标记守恒**(A5,与 M4「LINK标记守恒」同口径):条件剥离后,译文的 LINK 类"
+      "标记多重集必须与基准英文一致。若官方译文把基准英文本有的 `[LINK=X]` 丢弃(改用颜色"
+      "高亮)或换成别的目标,导致译文 LINK 集合 ≠ 基准 → 强行回填会破坏基准 LINK 结构,"
+      "跳过入待翻译。")
     A("4. **纯排版标记差异**(`[NEWLINE]`/`[TAB]`/`[PARAGRAPH:N]`/`[COLOR_*]`/`[BOLD]`/"
       "`[ICON_*]`)保留原样,不做处理。")
     A("")
@@ -420,13 +473,18 @@ def write_report(stats, total, pending):
     A("| 跳过 · 英文被 MM 改过 | %d |" % total['eng_changed'])
     A("| 跳过 · 数值占位符不守恒 | %d |" % total['ph_mismatch'])
     A("| 跳过 · 未知标记(基准无且词表外) | %d |" % total['markup_unknown'])
+    A("| 跳过 · LINK 标记不守恒(译文丢/换基准的 LINK) | %d |" % total['link_mismatch'])
+    A("| 跳过 · 官方译文未译(中文列=英文原文) | %d |" % total['official_untranslated'])
     A("| 跳过 · 官方包无中文 | %d |" % total['no_translation'])
     A("| MM 独有(官方包无此 key) | %d |" % total['mm_only'])
     A("")
     待翻译 = (total['eng_changed'] + total['ph_mismatch'] + total['markup_unknown']
+              + total['link_mismatch'] + total['official_untranslated']
               + total['no_translation'] + total['mm_only'])
-    A("**待翻译合计 = %d**(= 英文改过 %d + 占位符不守恒 %d + 未知标记 %d + 无中文 %d + MM 独有 %d)"
+    A("**待翻译合计 = %d**(= 英文改过 %d + 占位符不守恒 %d + 未知标记 %d + LINK不守恒 %d + "
+      "官方未译 %d + 无中文 %d + MM 独有 %d)"
       % (待翻译, total['eng_changed'], total['ph_mismatch'], total['markup_unknown'],
+         total['link_mismatch'], total['official_untranslated'],
          total['no_translation'], total['mm_only']))
     A("")
 
@@ -461,13 +519,14 @@ def write_report(stats, total, pending):
 
     A("## 按文件分列")
     A("")
-    A("| 文件 | key 数 | 回填 | 英文改过 | 占位符不守恒 | 未知标记 | 无中文 | MM独有 |")
-    A("|------|-------|------|---------|------------|--------|-------|--------|")
+    A("| 文件 | key 数 | 回填 | 英文改过 | 占位符不守恒 | 未知标记 | LINK不守恒 | 无中文 | MM独有 |")
+    A("|------|-------|------|---------|------------|--------|----------|-------|--------|")
     for fn in sorted(stats):
         s = stats[fn]
-        A("| %s | %d | %d | %d | %d | %d | %d | %d |" %
+        A("| %s | %d | %d | %d | %d | %d | %d | %d | %d |" %
           (fn, s['keys'], s['backfilled'], s['eng_changed'],
-           s['ph_mismatch'], s['markup_unknown'], s['no_translation'], s['mm_only']))
+           s['ph_mismatch'], s['markup_unknown'], s['link_mismatch'],
+           s['no_translation'], s['mm_only']))
     A("")
 
     # Top10 回填 / Top10 待翻译
@@ -481,7 +540,7 @@ def write_report(stats, total, pending):
     A("")
     def pend_of(s):
         return (s['mm_only'] + s['eng_changed'] + s['ph_mismatch']
-                + s['markup_unknown'] + s['no_translation'])
+                + s['markup_unknown'] + s['link_mismatch'] + s['no_translation'])
     top_pending = sorted(stats.items(), key=lambda kv: pend_of(kv[1]), reverse=True)[:10]
     A("## Top10 待翻译最多的文件")
     A("")
@@ -512,9 +571,10 @@ def main():
         pass
     print("加载官方译文 ...")
     stats, total, verify_samples, pending = backfill()
-    print("回填完成:%d 文件,%d key,回填 %d,英文改过 %d,占位符不守恒 %d,未知标记 %d,无中文 %d,MM独有 %d"
+    print("回填完成:%d 文件,%d key,回填 %d,英文改过 %d,占位符不守恒 %d,未知标记 %d,LINK不守恒 %d,无中文 %d,MM独有 %d"
           % (len(stats), total['keys'], total['backfilled'], total['eng_changed'],
-             total['ph_mismatch'], total['markup_unknown'], total['no_translation'], total['mm_only']))
+             total['ph_mismatch'], total['markup_unknown'], total['link_mismatch'],
+             total['no_translation'], total['mm_only']))
     ok = self_verify(verify_samples, pending, stats, total)
     write_report(stats, total, pending)
     sys.exit(0 if ok else 1)

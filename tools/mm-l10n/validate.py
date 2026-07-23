@@ -3,17 +3,19 @@
 r"""MM 汉化覆盖包静态校验工具 (M4)。
 
 比对覆盖包 (MM汉化MOD/Assets/XML/Text/) 对 基准 (MM源码/Assets/XML/Text/)，
-逐文件执行以下校验（对应硬锚点 A1/A5，含 SM 2026-07-23 基于实物证据的两处修订）：
+逐文件执行以下校验（对应硬锚点 A1/A5，校验口径 v2 · SM 2026-07-23 裁决）：
 
   1. 可解析          —— xml.etree 解析通过（FAIL）
   2. key 集合一致    —— 覆盖包 <Tag> 集合、条数、顺序与基准完全一致（不增/删/重排/重复）（FAIL）
-  3. 数值占位符守恒  —— 每条 English 的 %s1/%d1/%s2… 数值占位符多重集与基准一致，【大小写不敏感】（FAIL；运行时报错风险）
-  4. 方括号标记       —— 分两档（SM 修订）：
-        · 标记多重集与基准不一致 = WARN（不是 FAIL）——官方汉化对图鉴长文的排版标记做过合理重排，游戏内多年验证无碍
-        · 但覆盖包译文出现【已知合法词表之外】的未知标记 = FAIL（词表从基准+官方包 English 列归纳）
+  3. 数值占位符守恒  —— 每条 English 的 %s1/%d1/%s2… 数值占位符多重集与基准一致，【大小写敏感】(%d1≠%D1)（FAIL；运行时报错风险）
+  4. 方括号标记       —— 口径 v2（含 LINK 方向分档）：
+        · 纯排版标记（[NEWLINE]/[TAB]/[PARAGRAPH:N]/[COLOR_*]/[COLOR_REVERT]/[BOLD]/[ICON_*] 等）多重集差异 = WARN（不计退出码）
+        · LINK 类（[LINK=*]/[\LINK]/[/LINK]）【按方向】：译文【缺失】基准的 LINK = WARN（剥离正常产物，显示无损）；
+          译文【多出】基准没有的 LINK = FAIL（防后续翻译批引入悬空链接目标）
+        · 覆盖包出现【已知合法词表之外且基准原文也无】的未知标记 = FAIL
   5. 其他语言未触碰   —— French/German/Italian/Spanish/Finnish 列（含 Gender/Plural 子结构）解析后值与基准逐字一致（FAIL）
-  6. 改动行纯 ASCII   —— 【SM 修订】只要求覆盖包中相对基准发生改动的 English 内容纯 ASCII（中文须用 &#x 实体，
-                        锚点 A1）；未改动内容以"与基准一致"为准（由检查项 5/4 覆盖），基准既有的非 ASCII 不判错（FAIL）
+  6. 改动行纯 ASCII   —— 只要求覆盖包中相对基准发生改动的 English 内容纯 ASCII（中文须用 &#x 实体，锚点 A1）；
+                        未改动内容以"与基准一致"为准（由检查项 5 覆盖），基准既有的非 ASCII 不判错（FAIL）
   7. 实体合法        —— 所有 &#x/&# 数字实体可解码，解码后无控制字符（除常见空白）（FAIL）
 
 退出码：全绿(可含 WARN) 0，任一 FAIL 非 0（=FAIL 文件数，封顶 100）。WARN 不影响退出码。
@@ -303,11 +305,13 @@ def validate_file(over_path, base_path):
             link_extra = {k: v for k, v in extra.items() if is_link_markup(k)}
             plain_miss = {k: v for k, v in miss.items() if not is_link_markup(k)}
             plain_extra = {k: v for k, v in extra.items() if not is_link_markup(k)}
-            # 4-FAIL(b)：涉及 LINK 类标记的差异（M3.1 剥离后不应再出现）
-            if link_miss or link_extra:
-                link_details.append("[%s] LINK 类标记差异 缺失=%s 多余=%s" %
-                                    (tag, link_miss or "{}", link_extra or "{}"))
-            # 4-WARN：纯排版标记差异（合理重排，不判 FAIL）
+            # 4-FAIL(b)：LINK 类【按方向分档】——译文【多出】基准没有的 LINK = FAIL（悬空链接目标风险）
+            if link_extra:
+                link_details.append("[%s] 译文多出基准没有的 LINK 标记 多余=%s" % (tag, link_extra))
+            # 4-WARN(link)：译文【缺失】基准的 LINK = WARN（LINK 剥离的正常产物，显示无损）
+            if link_miss:
+                warn_details.append("[%s] 译文缺失基准 LINK 标记(剥离正常) 缺失=%s" % (tag, link_miss))
+            # 4-WARN(plain)：纯排版标记差异（合理重排，不判 FAIL）
             if plain_miss or plain_extra:
                 warn_details.append("[%s] 排版标记多重集不一致 缺失=%s 多余=%s" %
                                     (tag, plain_miss or "{}", plain_extra or "{}"))
@@ -333,7 +337,7 @@ def validate_file(over_path, base_path):
 
     checks.append(("数值占位符守恒", len(ph_details) == 0, ph_details[:30]))
     checks.append(("标记合法", len(unknown_details) == 0, unknown_details[:30]))
-    checks.append(("LINK标记守恒", len(link_details) == 0, link_details[:30]))
+    checks.append(("LINK不多出", len(link_details) == 0, link_details[:30]))
     checks.append(("改动行纯ASCII", len(ascii_details) == 0, ascii_details[:30]))
     checks.append(("其他语言未触碰", len(lang_details) == 0, lang_details[:30]))
 

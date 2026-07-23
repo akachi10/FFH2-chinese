@@ -2270,7 +2270,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ILLIANS_HELP</Tag>
-		<English>Have access to a series of rituals that leads to the creation of the Auric Ascended unit.</English>
+		<English>Have access to a series of rituals that leads to the creation of the [LINK=UNIT_AURIC_ASCENDED]Auric Ascended[\LINK] unit.</English>
 		<Spanish>Tienen acceso a una serie de rituales que permiten crear la unidad [LINK=UNIT_AURIC_ASCENDED]Auric Ascendido[\LINK].</Spanish>
 	</TEXT>
 	<TEXT>
@@ -2313,7 +2313,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INFERNAL_HELP</Tag>
-		<English>Gain Manes when Evil units die.[NEWLINE] [ICON_BULLET]Cities start with free buildings and the Ashen Veil religion[NEWLINE] [ICON_BULLET]Cities spread Hell terrain</English>
+		<English>Gain [LINK=UNIT_MANES]Manes[\LINK] when Evil units die.[NEWLINE] [ICON_BULLET]Cities start with free buildings and the Ashen Veil religion[NEWLINE] [ICON_BULLET]Cities spread Hell terrain</English>
 		<Spanish>Ganan [LINK=UNIT_MANES]Manes[\LINK] cuando unidades Malignas mueren.[NEWLINE]  [ICON_BULLET]Sus ciudades comienzan con edificios gratuitos y la religi&#243;n del Velo Ceniciento.[NEWLINE]  [ICON_BULLET]Las ciudades extienden el terreno infernal.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -2395,7 +2395,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KURIOTATES_HELP</Tag>
-		<English>Limited amount of super cities with increased plot radius, all other cities are Settlements.</English>
+		<English>Limited amount of super cities with increased plot radius, all other cities are [LINK=CONCEPT_SETTLEMENT]Settlements[\LINK].</English>
 		<Spanish>Tienen un n&#250;mero limitado de super ciudades con un radio aumentado. El resto de sus ciudades son [LINK=CONCEPT_SETTLEMENT]Asentamientos[\LINK].</Spanish>
 	</TEXT>
 	<TEXT>
@@ -2591,7 +2591,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MERCURIANS_HELP</Tag>
-		<English>Gains Angels whenever Good units die.</English>
+		<English>Gains [LINK=UNIT_ANGEL]Angels[\LINK] whenever Good units die.</English>
 		<Spanish>Ganan [LINK=UNIT_ANGEL]&#193;ngeles[\LINK] cuando unidades Buenas mueren.</Spanish>
 	</TEXT>
 	<TEXT>

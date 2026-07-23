@@ -208,7 +208,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_SPELL_ABILITY</Tag>
-		<English>[ICON_BULLET]%s1_spell&#x4f7f;&#x7528;&#x53ef;&#x80fd;</English>
+		<English>[ICON_BULLET][LINK=literal]%s1_spell[\LINK]&#x4f7f;&#x7528;&#x53ef;&#x80fd;</English>
 		<Spanish>[ICON_BULLET]Esta unidad puede usar la habilidad [LINK=literal]%s1_spell[\LINK]</Spanish>
 	</TEXT>
 	<TEXT>
