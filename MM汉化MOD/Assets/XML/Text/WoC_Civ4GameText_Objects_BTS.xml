@@ -7,7 +7,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_EVENT</Tag>
-		<English>Events</English>
+		<English>&#x4e8b;&#x4ef6;</English>
 		<French>&#201;v&#233;nements</French>
 		<German>Ereignisse</German>
 		<Italian>Eventi</Italian>
@@ -16,7 +16,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_EVENTAGE</Tag>
-		<English>Ages</English>
+		<English>&#x65f6;&#x4ee3;</English>
 		<French>&#194;ges</French>
 		<German>Zeitalter</German>
 		<Italian>Ere</Italian>
@@ -25,7 +25,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_GREAT_PERSONS</Tag>
-		<English>Great People</English>
+		<English>&#x4f1f;&#x4eba;</English>
 		<French>Grandes personnes</French>
 		<German>Gro&#223;e Pers&#246;nlichkeiten</German>
 		<Italian>Grandi Personaggi</Italian>
@@ -34,7 +34,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_CONCEPT_DCM</Tag>
-		<English>DCM Concepts</English>
+		<English>DCM &#x6982;&#x5ff5;</English>
 		<French>Concepts de DCM</French>
 		<German>DCM-Konzepte</German>
 		<Italian>Nozioni di DCM</Italian>

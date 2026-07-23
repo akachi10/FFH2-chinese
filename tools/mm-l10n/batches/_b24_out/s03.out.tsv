@@ -1,0 +1,75 @@
+TXT_KEY_UNIT_DISCIPLE_OF_ACHERON	阿切隆信徒
+TXT_KEY_UNIT_SON_OF_THE_INFERNO	烈焰之子
+TXT_KEY_UNIT_MONK_PEDIA	第 6 日。遭遇一队破碎士兵的残部。他们见过我追猎的仇敌。若我加紧赶路,便只差一天,就能将他的邪恶从世上清除。我必须做好准备。——摘自恶魔猎人基德兰修士的日记。[PARAGRAPH:1]唯有最狡黠、最邪恶的猎物,才配得上武僧的注目。这些人已将自己的一生奉献于所需的极致专注与冥想,以求挣脱肉身孱弱的桎梏,成为凡人之上的存在。摆脱了物理法则的束缚,武僧具备了与恶魔本身交战——并取胜——所需的精神利器。
+TXT_KEY_UNIT_PRIEST_OF_WINTER_STRATEGY	寒冬祭司仅伊利安文明可用,在完成[LINK=literal]雪之手[\\LINK]仪式后被赐予。用他们来治疗你的单位,他们还能使用特殊的[LINK=literal]召唤暴风雪[\\LINK]能力。
+TXT_KEY_UNIT_WAR_MACHINE_PEDIA	邓塔罗并非寻常的多维洛人。作战时,他与旁人一样凶猛,这为他赢得了在部落中的位置;但战后,他既不参与宴饮,不讲述那些被夸大的英勇故事,甚至也不在被征服的族群身上满足其他欲望。[PARAGRAPH:1]不,每次战斗之后,邓塔罗都在战场上四处忙碌,在废墟中翻找。他检视每一柄生锈的刀刃、斧柄、战车轮子、结实的骨块乃至牙齿。这些都会被放进他的行囊,待下次返回多维洛领地时存放于家中。更让族人不齿的是,他会查看他们缴获的任何书籍,读一些,弃一些。他哥哥第一次撞见他读书时,把他打翻在地。第二次,邓塔罗打断了哥哥持斧的手臂、敲掉三颗牙,于是其他人便任他古怪下去。[PARAGRAPH:1]任何矮人俘虏都会被邓塔罗细细盘问。与同伴不同,他不问他们的酒、武器或财富在何处。他问他们蒸汽、机械与附魔之事。[PARAGRAPH:1]如此这般,一直持续到他晚年。部落的命运起起落落,但敌人渐渐将他们逼回苔原故土,并继续进逼。随后某夜,乌尔斯洛本身遭到一支纪律严明的军队突袭。战斗声惊醒了邓塔罗,厮杀声持续不断,直到被一声非尘世的轰鸣所淹没。邓塔罗那摇摇欲坠的屋子轰然炸裂。多维洛语中 &#145;机器' 一词便诞生于那一夜,伴随着邓塔罗的战争机器现身。[PARAGRAPH:1]它远远达不到讲求实用的矮人的审美标准,但无人能否认它的效用。它向前驱进时,重型弩箭齐射,只需定期装填。刀刃左右横扫,冲锋在前的长枪比一队骑士还多。它究竟是靠魔法、技术、内里几头绕圈奔跑的野兽驱动,还是这三者不圣洁的结合,除了邓塔罗,无人能够猜度。[PARAGRAPH:1]乌尔斯洛的敌人被杀得片甲不留。多维洛人开始夺回昔日的征服之地,邓塔罗一马当先。再没有人把他说成那个古怪之人,连邓塔罗的哥哥也开始以自己与这位老怪人的血亲关系自我介绍。邓塔罗本人几乎没有察觉自己水涨船高的地位。每场战斗之后,他都从战争机器上爬下来,开始在尸骸间翻拣,这里取一柄刀刃,那里取一只战车轮子,添进他的口袋。
+TXT_KEY_VOTE_FORCE_PEACE	强制和平
+TXT_KEY_VOTE_FORCE_WAR	召集军备
+TXT_KEY_VOTE_FORCE_WAR_PARAM	号召对 %s1_player 发动战争
+TXT_KEY_VOTE_FUND_DISSIDENTS_HELP	[ICON_BULLET]可能在上位议会成员的城市中引发不满
+TXT_KEY_VOTE_SECRETARY_GENERAL_OVERCOUNCIL	首席议员选举
+TXT_KEY_VOTE_SINGLE_CURRENCY	单一货币
+TXT_KEY_VOTE_SMUGGLING_RING	建立走私网络
+TXT_KEY_VOTE_TRADE_MAP	地图交换
+TXT_KEY_SPELL_DECLARE_BARBS	向蛮族宣战
+TXT_KEY_POPUP_DECLARE_BARBS	你目前与蛮族处于和平状态。你想要终止停战吗?
+TXT_KEY_WB_FORTIFY	驻守中
+TXT_KEY_WB_RAZE_CITY	夷平城市
+TXT_KEY_WB_STARTING_PLOT	起始格
+TXT_KEY_WB_UNIT_AI	单位 AI
+TXT_KEY_WB_EVER	始终
+TXT_KEY_WB_HIDE_DEAD	隐藏死亡单位
+TXT_KEY_WB_COMMANDS	命令
+TXT_KEY_WB_XLEVEL	等级
+TXT_KEY_WB_CITY	城市
+TXT_KEY_WB_MODIFY	修改 %s1
+TXT_KEY_WB_BASE_YIELD	基础 %s1:%d2
+TXT_KEY_WB_CITY_DATA2	城市数据 II
+TXT_KEY_WB_PLAYER_DATA	玩家数据
+TXT_KEY_WB_ERASE_ALL_PLOTS	擦除所有地块
+TXT_KEY_REVEAL_PLOT	显示地块
+TXT_KEY_REVEAL_SUBMARINE	显示潜艇
+TXT_KEY_REVEAL_STEALTH	显示隐匿单位
+TXT_KEY_WB_PLOT_DATA	地块数据
+TXT_KEY_WB_SHOW_HIDDEN	显示隐藏选项
+TXT_KEY_WB_AI_AUTOPLAY	AI 自动游戏:%d1
+TXT_KEY_WB_MAX_CITY_ELIMINATION	最大城市淘汰数:%d1
+TXT_KEY_WB_ADD_NEW_PLAYER	添加新玩家
+TXT_KEY_WB_ALL_PLOTS	所有地块
+TXT_KEY_WB_DAMAGE	伤害
+TXT_KEY_WB_PROMOTION_READY	可晋升
+TXT_KEY_WB_DIRECTION	方向
+TXT_KEY_WB_DEFY_RESOLUTION	违抗议案 [ICON_UNHAPPY]:%d1
+TXT_KEY_WB_COPY_ALL	应用于所有 %s1
+TXT_KEY_WB_GOLDEN_AGE_UNITS	[ICON_GREATPEOPLE] 需求:%d1
+TXT_KEY_WB_TEAM_DATA	队伍数据
+TXT_KEY_WB_MAP_CENTERING	地图居中
+TXT_KEY_WB_GOLD_TRADING	金钱交易
+TXT_KEY_WB_MAP_TRADING	地图交易
+TXT_KEY_WB_EXTRA_WATER_SIGHT	额外水域视野
+TXT_KEY_WB_MERGE_TEAM	合并队伍
+TXT_KEY_WB_GUARANTEED_ELIGIBILITY	保证参选资格
+TXT_KEY_WB_TRIGGER_EVENT	触发 %s1
+TXT_KEY_WB_ATTITUDE	态度
+TXT_KEY_WB_COUNTER_ESPIONAGE	反间谍
+TXT_KEY_WB_HAS_CAST	已施法
+TXT_KEY_WB_DURATION	持续时间
+TXT_KEY_WB_BUILD_DISABLED	禁止建造改良设施
+TXT_KEY_WB_PORTAL_X_COORDINATE	传送门出口 X:
+TXT_KEY_WB_PLOT_COUNTER	地块计数器:
+TXT_KEY_WB_GLOBAL_COUNTER_LIMIT	全局计数器上限: 
+TXT_KEY_WB_UNIT_ID	单位 ID:
+TXT_KEY_WB_UNIT_NAME	单位名称:
+TXT_KEY_WB_IS_IMMORTAL	不朽
+TXT_KEY_SPELL_SPHERES	法术领域
+TXT_KEY_REL_BUILDINGS	宗教建筑
+TXT_KEY_WB_HAS_CAST_WORLD_SPELL	已施放世界法术
+TXT_KEY_NO_RELIGION	无宗教
+TXT_WB_STRENGTH_DEFENSE	防御强度
+TXT_KEY_WB_STANDARD_PROMOTIONS	标准晋升
+TXT_KEY_TEAM_UNITS	队伍单位
+TXT_KEY_WB_AVAILIBLE_PROMOTIONS	可用晋升
+TXT_KEY_WB_SAME_PLOT	同一地块上的单位
+TXT_KEY_ALL	全部
+TXT_KEY_WB_SHRINE	圣祠
+TXT_KEY_WB_REAL	显示临时地图物件的计时器,并允许选择计时结束后它们所还原成的真实类型

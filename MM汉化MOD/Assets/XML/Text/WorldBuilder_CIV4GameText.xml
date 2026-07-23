@@ -3,127 +3,127 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_WB_TARGET_PLOT</Tag>
-		<English>Target Plot</English>
+		<English>&#x76ee;&#x6807;&#x5730;&#x5757;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_PUSH_MISSION</Tag>
-		<English>Push Mission</English>
+		<English>&#x63a8;&#x5165;&#x4efb;&#x52a1;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_ACTIVITY</Tag>
-		<English>Activity</English>
+		<English>&#x6d3b;&#x52a8;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_FORTIFY</Tag>
-		<English>Fortifying</English>
+		<English>&#x9a7b;&#x5b88;&#x4e2d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_DONE</Tag>
-		<English>Done</English>
+		<English>&#x5b8c;&#x6210;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_WAIT</Tag>
-		<English>Waiting</English>
+		<English>&#x7b49;&#x5f85;&#x4e2d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_DUPLICATE_CITY</Tag>
-		<English>Duplicate City</English>
+		<English>&#x590d;&#x5236;&#x57ce;&#x5e02;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_MOVE_CITY</Tag>
-		<English>Move City</English>
+		<English>&#x79fb;&#x52a8;&#x57ce;&#x5e02;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_RAZE_CITY</Tag>
-		<English>Raze City</English>
+		<English>&#x5937;&#x5e73;&#x57ce;&#x5e02;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_SENSIBILITY</Tag>
-		<English>Checks Prerequisites for Multiple Tiles Mode</English>
+		<English>&#x68c0;&#x67e5;&#x591a;&#x683c;&#x6a21;&#x5f0f;&#x7684;&#x524d;&#x7f6e;&#x6761;&#x4ef6;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_PLOT_TYPE</Tag>
-		<English>Plot Type</English>
+		<English>&#x5730;&#x5757;&#x7c7b;&#x578b;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_STARTING_PLOT</Tag>
-		<English>Starting Plot</English>
+		<English>&#x8d77;&#x59cb;&#x683c;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_PYTHON</Tag>
-		<English>Triggers Python Effects:</English>
+		<English>&#x89e6;&#x53d1; Python &#x6548;&#x679c;&#xff1a;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_UNIT_AI</Tag>
-		<English>Unit AI</English>
+		<English>&#x5355;&#x4f4d; AI</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_EVER</Tag>
-		<English>Ever</English>
+		<English>&#x59cb;&#x7ec8;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_HIDE_DEAD</Tag>
-		<English>Hide Dead</English>
+		<English>&#x9690;&#x85cf;&#x6b7b;&#x4ea1;&#x5355;&#x4f4d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_STATE_RELIGION</Tag>
-		<English>State Religion</English>
+		<English>&#x56fd;&#x6559;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_COMMANDS</Tag>
-		<English>Commands</English>
+		<English>&#x547d;&#x4ee4;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_XLEVEL</Tag>
-		<English>Level</English>
+		<English>&#x7b49;&#x7ea7;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_PLOT</Tag>
-		<English>Plot</English>
+		<English>&#x5730;&#x5757;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_UNIT</Tag>
-		<English>Unit</English>
+		<English>&#x5355;&#x4f4d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_CITY</Tag>
-		<English>City</English>
+		<English>&#x57ce;&#x5e02;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_GROUP</Tag>
-		<English>Group</English>
+		<English>&#x7f16;&#x7ec4;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_LANDMARKS</Tag>
-		<English>Landmarks</English>
+		<English>&#x5730;&#x6807;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_MODIFY</Tag>
-		<English>Modify %s1</English>
+		<English>&#x4fee;&#x6539; %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_AI_AUTOPLAY_WARNING</Tag>
-		<English>AI AutoPlay can be stopped with [COLOR_POSITIVE_TEXT]SPACE[COLOR_REVERT] or [COLOR_POSITIVE_TEXT]ESCAPE[COLOR_REVERT]</English>
+		<English>&#x53ef;&#x7528; [COLOR_POSITIVE_TEXT]&#x7a7a;&#x683c;&#x952e;[COLOR_REVERT] &#x6216; [COLOR_POSITIVE_TEXT]ESC &#x952e;[COLOR_REVERT] &#x505c;&#x6b62; AI &#x81ea;&#x52a8;&#x8fd0;&#x884c;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_COASTAL_TRADE</Tag>
-		<English>Coastal [ICON_TRADE]: %d1</English>
+		<English>&#x6cbf;&#x6d77; [ICON_TRADE]:%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_BASE_YIELD</Tag>
-		<English>Base %s1: %d2</English>
+		<English>&#x57fa;&#x7840; %s1:%d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_CITY_DATA2</Tag>
-		<English>City Data II</English>
+		<English>&#x57ce;&#x5e02;&#x6570;&#x636e; II</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_BASE_RATE</Tag>
-		<English>Base Rate: %d1</English>
+		<English>&#x57fa;&#x7840;&#x901f;&#x7387;:%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_PLAYER_DATA</Tag>
-		<English>Player Data</English>
+		<English>&#x73a9;&#x5bb6;&#x6570;&#x636e;</English>
 		<French>Donn&#233;es du joueur</French>
 		<German>Spielerdaten</German>
 		<Italian>Dati del giocatore</Italian>
@@ -131,42 +131,42 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_ERASE_ALL_PLOTS</Tag>
-		<English>Erase all plots</English>
+		<English>&#x64e6;&#x9664;&#x6240;&#x6709;&#x5730;&#x5757;</English>
 		<French>Effacer toutes les cases</French>
 		<German>Alle Felder löschen</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_REPEATABLE</Tag>
-		<English>Can use Civilizations and Leaders already in the Game</English>
+		<English>&#x53ef;&#x4f7f;&#x7528;&#x6e38;&#x620f;&#x4e2d;&#x5df2;&#x6709;&#x7684;&#x6587;&#x660e;&#x4e0e;&#x9886;&#x8896;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REVEAL_PLOT</Tag>
-		<English>Reveal Plot</English>
+		<English>&#x663e;&#x793a;&#x5730;&#x5757;</English>
 		<French>R&#233;v&#233;ler case</French>
 		<German>Feld sichtbar</German>
 		<Spanish>Revelar casilla</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REVEAL_SUBMARINE</Tag>
-		<English>Reveal Submarine</English>
+		<English>&#x663e;&#x793a;&#x6f5c;&#x8247;</English>
 		<French>R&#233;v&#233;ler sous-marin</French>
 		<German>U-Boote sichtbar</German>
 		<Spanish>Revelar submarinos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REVEAL_STEALTH</Tag>
-		<English>Reveal Stealth</English>
+		<English>&#x663e;&#x793a;&#x9690;&#x533f;&#x5355;&#x4f4d;</English>
 		<French>R&#233;v&#233;ler furtivit&#233;</French>
 		<German>Tarnzerstörer sichtbar</German>
 		<Spanish>Revelar unidades invisibles</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_ADD_UNITS</Tag>
-		<English>Add Units</English>
+		<English>&#x6dfb;&#x52a0;&#x5355;&#x4f4d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_PLOT_DATA</Tag>
-		<English>Plot Data</English>
+		<English>&#x5730;&#x5757;&#x6570;&#x636e;</English>
 		<French>Donn&#233;es de la case</French>
 		<German>Felddaten</German>
 		<Italian>Dati della casella</Italian>
@@ -174,62 +174,62 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_DEFAULT</Tag>
-		<English>Default</English>
+		<English>&#x9ed8;&#x8ba4;</English>
 		<German>Standard</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_SHOW_HIDDEN</Tag>
-		<English>Show Hidden Options</English>
+		<English>&#x663e;&#x793a;&#x9690;&#x85cf;&#x9009;&#x9879;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_SCRIPT_DATA</Tag>
-		<English>Script Data</English>
+		<English>&#x811a;&#x672c;&#x6570;&#x636e;</English>
 		<French>Donn&#233;es Script</French>
 		<Spanish>Datos de script</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_START_YEAR</Tag>
-		<English>Start Year</English>
+		<English>&#x8d77;&#x59cb;&#x5e74;&#x4efd;</English>
 		<French>Ann&#233;e de d&#233;part</French>
 		<German>Startjahr</German>
 		<Spanish>Año de inicio</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_GAME_YEAR</Tag>
-		<English>Game Year: %s1</English>
+		<English>&#x6e38;&#x620f;&#x5e74;&#x4efd;:%s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_MAX_TURNS</Tag>
-		<English>Max Turns: %d1</English>
+		<English>&#x6700;&#x5927;&#x56de;&#x5408;&#x6570;&#xff1a;%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_AI_AUTOPLAY</Tag>
-		<English>AI AutoPlay: %d1</English>
+		<English>AI &#x81ea;&#x52a8;&#x6e38;&#x620f;:%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_GAME_TURN</Tag>
-		<English>Game Turn: %d1</English>
+		<English>&#x6e38;&#x620f;&#x56de;&#x5408;:%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_ESTIMATED_END_TURN</Tag>
-		<English>Estimated End Turn: %d1</English>
+		<English>&#x9884;&#x8ba1;&#x7ed3;&#x675f;&#x56de;&#x5408;&#xff1a;%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_MAX_CITY_ELIMINATION</Tag>
-		<English>Max City Elimination: %d1</English>
+		<English>&#x6700;&#x5927;&#x57ce;&#x5e02;&#x6dd8;&#x6c70;&#x6570;:%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_TARGET_SCORE</Tag>
-		<English>Target Score: %d1</English>
+		<English>&#x76ee;&#x6807;&#x5206;&#x6570;:%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_NUKES_EXPLODED</Tag>
-		<English>Nukes Exploded: %d1</English>
+		<English>&#x5df2;&#x5f15;&#x7206;&#x6838;&#x6b66;&#xff1a;%d1</English>
 		<German>Explodierte Atomraketen: %d1</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_ADD_NEW_PLAYER</Tag>
-		<English>Add New Player</English>
+		<English>&#x6dfb;&#x52a0;&#x65b0;&#x73a9;&#x5bb6;</English>
 		<French>Ajout nouveau joueur</French>
 		<German>Neuen Spieler hinzufügen</German>
 		<Italian>Aggiungi giocatore</Italian>
@@ -237,23 +237,23 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_AREA_ID</Tag>
-		<English>Area ID</English>
+		<English>&#x533a;&#x57df; ID</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_SINGLE_PLOT</Tag>
-		<English>Single Plot</English>
+		<English>&#x5355;&#x4e2a;&#x5730;&#x5757;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_AREA_PLOTS</Tag>
-		<English>Area Plots</English>
+		<English>&#x533a;&#x57df;&#x5730;&#x5757;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_ALL_PLOTS</Tag>
-		<English>All Plots</English>
+		<English>&#x6240;&#x6709;&#x5730;&#x5757;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_UNIT_DATA</Tag>
-		<English>Unit Data</English>
+		<English>&#x5355;&#x4f4d;&#x6570;&#x636e;</English>
 		<French>Donn&#233;es de l'unit&#233;</French>
 		<German>Einheitendaten</German>
 		<Italian>Dati dell'unit?</Italian>
@@ -261,17 +261,17 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_DAMAGE</Tag>
-		<English>Damage</English>
+		<English>&#x4f24;&#x5bb3;</English>
 		<French>D&#233;g&#226;ts</French>
 		<German>Schaden</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_CARGO_SPACE</Tag>
-		<English>Cargo</English>
+		<English>&#x8fd0;&#x8f7d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_MOVES</Tag>
-		<English>Moves Left</English>
+		<English>&#x5269;&#x4f59;&#x79fb;&#x52a8;&#x529b;</English>
 		<French>Mouvements restants</French>
 		<German>Bewegungspunkte übig</German>
 		<Italian>Movimenti rimanenti</Italian>
@@ -279,7 +279,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_IMMOBILE_TIMER</Tag>
-		<English>Immobile Timer</English>
+		<English>&#x65e0;&#x6cd5;&#x79fb;&#x52a8;&#x8ba1;&#x65f6;</English>
 		<French>Tours d'inactivit&#233;</French>
 		<German>Unbeweglich</German>
 		<Italian>Turni di inattivit?</Italian>
@@ -287,7 +287,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_PROMOTION_READY</Tag>
-		<English>Promotion Ready</English>
+		<English>&#x53ef;&#x664b;&#x5347;</English>
 		<French>Pr&#234;t pour promotion</French>
 		<German>Beförderung kann vergeben werden</German>
 		<Italian>Pronto per le promozioni</Italian>
@@ -295,7 +295,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_MADE_ATTACK</Tag>
-		<English>Made Attack</English>
+		<English>&#x5df2;&#x53d1;&#x52a8;&#x653b;&#x51fb;</English>
 		<French>Attaque</French>
 		<German>Griff an</German>
 		<Italian>Attacca</Italian>
@@ -303,7 +303,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_MADE_INTERCEPT</Tag>
-		<English>Made Intercept</English>
+		<English>&#x5df2;&#x8fdb;&#x884c;&#x62e6;&#x622a;</English>
 		<French>Intercepte</French>
 		<German>Auf Abfangmission</German>
 		<Italian>Intercetta</Italian>
@@ -311,27 +311,27 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_DIRECTION</Tag>
-		<English>Direction</English>
+		<English>&#x65b9;&#x5411;</English>
 		<German>Blickrichtung</German>
 		<Spanish>Dirección</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_HURRY_ANGER</Tag>
-		<English>Hurry [ICON_UNHAPPY]: %d1</English>
+		<English>&#x52a0;&#x901f; [ICON_UNHAPPY]&#xff1a;%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_DEFY_RESOLUTION</Tag>
-		<English>Defy Resolution [ICON_UNHAPPY]: %d1</English>
+		<English>&#x8fdd;&#x6297;&#x8bae;&#x6848; [ICON_UNHAPPY]:%d1</English>
 		<French>D&#233;fier r&#233;solution [ICON_UNHAPPY]: %d1</French>
 		<Spanish>Desafiar resolución [ICON_UNHAPPY]: %d1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_TEMP_HAPPY</Tag>
-		<English>Temporary [ICON_HAPPY]: %d1</English>
+		<English>&#x4e34;&#x65f6; [ICON_HAPPY]:%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_DEFENSE</Tag>
-		<English>Defense: %d1[ICON_DEFENSE]</English>
+		<English>&#x9632;&#x5fa1;&#xff1a;%d1[ICON_DEFENSE]</English>
 		<French>D&#233;fense: %d1[ICON_DEFENSE]</French>
 		<German>Verteidigung: %d1[ICON_DEFENSE]</German>
 		<Italian>Difesa: %d1[ICON_DEFENSE]</Italian>
@@ -339,33 +339,33 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_GRANT_AVAILABLE</Tag>
-		<English>Grant Available</English>
+		<English>&#x53ef;&#x6388;&#x4e88;</English>
 		<French>Accorder disponible</French>
 		<German>Verlehe alle verfügbaren</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_COPY_ALL</Tag>
-		<English>Apply to All %s1</English>
+		<English>&#x5e94;&#x7528;&#x4e8e;&#x6240;&#x6709; %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_FREE_SPECIALISTS</Tag>
-		<English>Free Specialists</English>
+		<English>&#x514d;&#x8d39;&#x4e13;&#x5bb6;</English>
 		<French>Sp&#233;cialistes gratuits</French>
 		<German>Freie Spezialisten</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_PROGRESS</Tag>
-		<English>Progress: %d1</English>
+		<English>&#x8fdb;&#x5ea6;&#xff1a;%d1</English>
 		<French>Progr&#232;s: %d1</French>
 		<German>Fortschritt: %d1</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_GOLDEN_AGE_UNITS</Tag>
-		<English>[ICON_GREATPEOPLE] Required: %d1</English>
+		<English>[ICON_GREATPEOPLE] &#x9700;&#x6c42;:%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_ANARCHY</Tag>
-		<English>Anarchy: %d1</English>
+		<English>&#x65e0;&#x653f;&#x5e9c;&#x72b6;&#x6001;&#xff1a;%d1</English>
 		<French>Anarchie: %d1</French>
 		<German>Anarchie: %d1</German>
 		<Italian>Anarchia: %d1</Italian>
@@ -373,15 +373,15 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_STATE_RELIGION_UNIT</Tag>
-		<English>[ICON_RELIGION] Unit [ICON_PRODUCTION]: %d1%%</English>
+		<English>[ICON_RELIGION] &#x5355;&#x4f4d; [ICON_PRODUCTION]:%d1%%</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_STATE_RELIGION_BUILDING</Tag>
-		<English>[ICON_RELIGION] Building [ICON_PRODUCTION]: %d1%%</English>
+		<English>[ICON_RELIGION] &#x5efa;&#x7b51; [ICON_PRODUCTION]&#xff1a;%d1%%</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_TEAM_DATA</Tag>
-		<English>Team Data</English>
+		<English>&#x961f;&#x4f0d;&#x6570;&#x636e;</English>
 		<French>Donn&#233;es d'&#233;quipe</French>
 		<German>Teamdaten</German>
 		<Italian>Dati della squadra</Italian>
@@ -389,7 +389,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_MAP_CENTERING</Tag>
-		<English>Map Centering</English>
+		<English>&#x5730;&#x56fe;&#x5c45;&#x4e2d;</English>
 		<French>Centrer la carte</French>
 		<German>Weltkarte zentriert</German>
 		<Italian>Centra la mappa</Italian>
@@ -397,7 +397,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_GOLD_TRADING</Tag>
-		<English>Gold Trading</English>
+		<English>&#x91d1;&#x94b1;&#x4ea4;&#x6613;</English>
 		<French>&#201;change d'or</French>
 		<German>Goldhandel</German>
 		<Italian>Commercio di oro</Italian>
@@ -405,7 +405,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_TECH_TRADING</Tag>
-		<English>Tech Trading</English>
+		<English>&#x79d1;&#x6280;&#x4ea4;&#x6613;</English>
 		<French>Commerce de technologies</French>
 		<German>Techtausch</German>
 		<Italian>Commercio di tecnologie</Italian>
@@ -413,7 +413,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_MAP_TRADING</Tag>
-		<English>Map Trading</English>
+		<English>&#x5730;&#x56fe;&#x4ea4;&#x6613;</English>
 		<French>&#201;change de cartes</French>
 		<German>Kartentausch</German>
 		<Italian>Commercio di mappe</Italian>
@@ -421,7 +421,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_VASSAL_TRADING</Tag>
-		<English>Vassal Trading</English>
+		<English>&#x9644;&#x5eb8;&#x4ea4;&#x6613;</English>
 		<French>Permet la vassalit&#233;</French>
 		<German>Vasallen</German>
 		<Italian>Abilita gli stati vassalli</Italian>
@@ -429,7 +429,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_WATER_WORK</Tag>
-		<English>Water Work</English>
+		<English>&#x6c34;&#x4e0a;&#x5de5;&#x4f5c;</English>
 		<French>Travailler les cases d'eau</French>
 		<German>Wasserfelder bewirtschaften</German>
 		<Italian>Raggio d'avvistamento sull'acqua aumentato</Italian>
@@ -437,13 +437,13 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_EXTRA_WATER_SIGHT</Tag>
-		<English>Extra Water Sight</English>
+		<English>&#x989d;&#x5916;&#x6c34;&#x57df;&#x89c6;&#x91ce;</English>
 		<French>Vision suppl&#233;mentaire sur eau</French>
 		<German>Zusätzliche Sicht über Wasser</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_BRIDGE_BUILDING</Tag>
-		<English>Bridge Building</English>
+		<English>&#x5efa;&#x9020;&#x6865;&#x6881;</English>
 		<French>Construction de ponts</French>
 		<German>Brückenbau</German>
 		<Italian>Costruzione di ponti</Italian>
@@ -451,7 +451,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_IGNORE_IRRIGATION</Tag>
-		<English>Ignore Irrigation</English>
+		<English>&#x5ffd;&#x7565;&#x704c;&#x6e89;</English>
 		<French>Plus besoin d'irrigation</French>
 		<German>Bauernhöfe ohne Bewässerung</German>
 		<Italian>Ignora l'irrigazione</Italian>
@@ -459,7 +459,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_MERGE_TEAM</Tag>
-		<English>Merge Team</English>
+		<English>&#x5408;&#x5e76;&#x961f;&#x4f0d;</English>
 		<French>Forger une &#233;quipe</French>
 		<German>Teams zusammenschließen</German>
 		<Italian>Crea una squadra</Italian>
@@ -467,7 +467,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_NUKE_INTERCEPTION</Tag>
-		<English>Nuke Interception: %d1</English>
+		<English>&#x6838;&#x6b66;&#x62e6;&#x622a;&#xff1a;%d1</English>
 		<French>Interception de missiles nucl&#233;aires: %d1</French>
 		<German>Atomtaketen abfangen: %d1</German>
 		<Italian>Intercettazione di missili nucleari: %d1</Italian>
@@ -475,26 +475,26 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_ENEMY_WAR_WEARINESS</Tag>
-		<English>Enemy War Weariness: %d1</English>
+		<English>&#x654c;&#x65b9;&#x538c;&#x6218;&#x5ea6;:%d1</English>
 		<French>Lassitude de la guerre chez ennemi: %d1</French>
 		<German>Feindliche Kriegsmüdigkeit: %d1</German>
 		<Spanish>Hastío bélico del enemigo: %d1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_GUARANTEED_ELIGIBILITY</Tag>
-		<English>Guaranteed Eligibility</English>
+		<English>&#x4fdd;&#x8bc1;&#x53c2;&#x9009;&#x8d44;&#x683c;</English>
 		<French>Eligibilit&#233; garantie</French>
 		<German>Teilnahmeberechtigt</German>
 		<Spanish>Elegibilidad garantizada</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_FEATURE_VARIETY</Tag>
-		<English>Variety: %d1</English>
+		<English>&#x591a;&#x6837;&#x6027;&#xff1a;%d1</English>
 		<French>vari&#233;t&#233;: %d1</French>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_UPGRADE_PROGRESS</Tag>
-		<English>Upgrade Turns: %d1</English>
+		<English>&#x5347;&#x7ea7;&#x56de;&#x5408;:%d1</English>
 		<French>Tours pour am&#233;lioration: %d1</French>
 		<German>Upgraderunden: %d1</German>
 		<Italian>Turni per l'upgrade: %d1</Italian>
@@ -502,22 +502,22 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_TRIGGER_EVENT</Tag>
-		<English>Trigger %s1</English>
+		<English>&#x89e6;&#x53d1; %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_LATITUDE</Tag>
-		<English>Latitude: %d1</English>
+		<English>&#x7eac;&#x5ea6;&#xff1a;%d1</English>
 		<German>Spielraum: %d1</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_ATTITUDE</Tag>
-		<English>Attitude</English>
+		<English>&#x6001;&#x5ea6;</English>
 		<German>Verhältnis</German>
 		<Spanish>Actitud</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_CVASSAL</Tag>
-		<English>Capitulated</English>
+		<English>&#x5df2;&#x6295;&#x964d;</English>
 		<French>Capitul&#233;</French>
 		<German>Kapituliert</German>
 		<Italian>Capitolato</Italian>
@@ -525,25 +525,25 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_MODIFIER</Tag>
-		<English>Modifier</English>
+		<English>&#x4fee;&#x6b63;</English>
 		<German>Multiplikator</German>
 		<Spanish>Modificador</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_COUNTER_ESPIONAGE</Tag>
-		<English>Counter Espionage</English>
+		<English>&#x53cd;&#x95f4;&#x8c0d;</English>
 		<French>Contre-espionnage</French>
 		<German>Spionagepunkte</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_MEMORY</Tag>
-		<English>Memory</English>
+		<English>&#x8bb0;&#x5fc6;</English>
 		<French>M&#233;moire</French>
 		<German>Erinnerung</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_KILL</Tag>
-		<English>Kill</English>
+		<English>&#x6d88;&#x706d;</English>
 		<French>Tuer</French>
 		<German>Löschen</German>
 		<Spanish>Matar</Spanish>
@@ -552,285 +552,285 @@
 <!-- FFH2 Specific-->
 	<TEXT>
 		<Tag>TXT_KEY_WB_STRENGTH_DEFENSE</Tag>
-		<English>Base Defensive Strength:</English>
+		<English>&#x57fa;&#x7840;&#x9632;&#x5fa1;&#x529b;:</English>
 		<French>Force Defensive de base:</French>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_UNIT_RELIGION</Tag>
-		<English>Unit's Religion:</English>
+		<English>&#x5355;&#x4f4d;&#x7684;&#x5b97;&#x6559;&#xff1a;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_HAS_CAST</Tag>
-		<English>Has Casted</English>
+		<English>&#x5df2;&#x65bd;&#x6cd5;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_DURATION</Tag>
-		<English>Duration</English>
+		<English>&#x6301;&#x7eed;&#x65f6;&#x95f4;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_OWNER</Tag>
-		<English>Owner:</English>
+		<English>&#x6240;&#x6709;&#x8005;&#xff1a;</English>
 	</TEXT>
 
 	<TEXT>
 		<Tag>TXT_KEY_WB_MOVE_DISABLED_HUMAN</Tag>
-		<English>Move disabled for Humans</English>
+		<English>&#x5bf9;&#x4eba;&#x7c7b;&#x73a9;&#x5bb6;&#x7981;&#x7528;&#x79fb;&#x52a8;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_MOVE_DISABLED_AI</Tag>
-		<English>Move disabled for AIs</English>
+		<English>&#x5df2;&#x5bf9; AI &#x7981;&#x7528;&#x79fb;&#x52a8;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_BUILD_DISABLED</Tag>
-		<English>Improvement Building Disabled</English>
+		<English>&#x7981;&#x6b62;&#x5efa;&#x9020;&#x6539;&#x826f;&#x8bbe;&#x65bd;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_FOUND_DISABLED</Tag>
-		<English>City Founding Disabled</English>
+		<English>&#x5df2;&#x7981;&#x7528;&#x5efa;&#x57ce;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_PYTHON_INACTIVE</Tag>
-		<English>Python Inactive</English>
+		<English>Python &#x672a;&#x6fc0;&#x6d3b;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_PORTAL_X_COORDINATE</Tag>
-		<English>Portal Exit X:</English>
+		<English>&#x4f20;&#x9001;&#x95e8;&#x51fa;&#x53e3; X:</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_PORTAL_Y_COORDINATE</Tag>
-		<English>Portal Exit Y:</English>
+		<English>&#x4f20;&#x9001;&#x95e8;&#x51fa;&#x53e3; Y&#xff1a;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_PLOT_MIN_LEVEL</Tag>
-		<English>Minimum Level:</English>
+		<English>&#x6700;&#x4f4e;&#x7b49;&#x7ea7;:</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_PLOT_COUNTER</Tag>
-		<English>Plot Counter:</English>
+		<English>&#x5730;&#x5757;&#x8ba1;&#x6570;&#x5668;:</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_GLOBAL_COUNTER</Tag>
-		<English>Global Counter: </English>
+		<English>&#x5168;&#x5c40;&#x8ba1;&#x6570;&#x5668;&#xff1a;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_GLOBAL_COUNTER_LIMIT</Tag>
-		<English>Global Counter Limit: </English>
+		<English>&#x5168;&#x5c40;&#x8ba1;&#x6570;&#x5668;&#x4e0a;&#x9650;: </English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_SCENARIO_COUNTER</Tag>
-		<English>Scenario Counter: </English>
+		<English>&#x5267;&#x672c;&#x8ba1;&#x6570;&#x5668;:</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_ALIGNMENT</Tag>
-		<English>Alignment:</English>
+		<English>&#x9635;&#x8425;&#x503e;&#x5411;&#xff1a;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_COMMERCE_SLIDERS</Tag>
-		<English>Commerce Sliders:</English>
+		<English>&#x5546;&#x4e1a;&#x6ed1;&#x5757;:</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_GROUP_ID</Tag>
-		<English>Group ID: %d1</English>
+		<English>&#x7f16;&#x7ec4; ID&#xff1a;%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_UNIT_ID</Tag>
-		<English>Unit ID:</English>
+		<English>&#x5355;&#x4f4d; ID:</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_UNIT_NAME</Tag>
-		<English>Unit Name:</English>
+		<English>&#x5355;&#x4f4d;&#x540d;&#x79f0;:</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_CIV_TYPE</Tag>
-		<English>Civilization Type:</English>
+		<English>&#x6587;&#x660e;&#x7c7b;&#x578b;&#xff1a;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_REV_INDEX</Tag>
-		<English>Revolution Index [ICON_UNHAPPY]: %d1</English>
+		<English>&#x9769;&#x547d;&#x6307;&#x6570; [ICON_UNHAPPY]:%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_IS_IMMORTAL</Tag>
-		<English>Is Immortal</English>
+		<English>&#x4e0d;&#x673d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_SPHERES</Tag>
-		<English>Spell Spheres</English>
+		<English>&#x6cd5;&#x672f;&#x9886;&#x57df;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BUILDINGS</Tag>
-		<English>Unique Buildings</English>
+		<English>&#x72ec;&#x7279;&#x5efa;&#x7b51;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REL_BUILDINGS</Tag>
-		<English>Religious Buildings</English>
+		<English>&#x5b97;&#x6559;&#x5efa;&#x7b51;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_BUILDINGS</Tag>
-		<English>Spell Buildings</English>
+		<English>&#x6cd5;&#x672f;&#x5efa;&#x7b51;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_CURRENT_UNIT</Tag>
-		<English>Current Unit:</English>
+		<English>&#x5f53;&#x524d;&#x5355;&#x4f4d;:</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_HAS_CAST_WORLD_SPELL</Tag>
-		<English>Has Cast World Spell</English>
+		<English>&#x5df2;&#x65bd;&#x653e;&#x4e16;&#x754c;&#x6cd5;&#x672f;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_SCENARIO_COUNTER_UNIT</Tag>
-		<English>Alternate Type</English>
+		<English>&#x66ff;&#x4ee3;&#x7c7b;&#x578b;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_REASSIGN_PLAYER</Tag>
-		<English>Reassign Player</English>
+		<English>&#x91cd;&#x65b0;&#x5206;&#x914d;&#x73a9;&#x5bb6;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_HANDICAP</Tag>
-		<English>Difficulty Level:</English>
+		<English>&#x96be;&#x5ea6;&#x7b49;&#x7ea7;&#xff1a;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_IS_PERMANENT_SUMMON</Tag>
-		<English>Is Permanent Summon</English>
+		<English>&#x4e3a;&#x6c38;&#x4e45;&#x53ec;&#x5524;&#x7269;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_NO_RELIGION</Tag>
-		<English>No Religion</English>
+		<English>&#x65e0;&#x5b97;&#x6559;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_WB_STRENGTH_DEFENSE</Tag>
-		<English>Defensive Strength</English>
+		<English>&#x9632;&#x5fa1;&#x5f3a;&#x5ea6;</English>
 		<French>Defensive Puissance</French>
 		<Italian>Defensive Forza</Italian>
 		<Spanish>Defensive Fuerza</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_WB_CURRENT_RESEARCH</Tag>
-		<English>Current Research: </English>
+		<English>&#x5f53;&#x524d;&#x7814;&#x7a76;&#xff1a;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_SUMMON</Tag>
-		<English>Summons</English>
+		<English>&#x53ec;&#x5524;&#x7269;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_SUMMONER</Tag>
-		<English>Summoner</English>
+		<English>&#x53ec;&#x5524;&#x8005;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_STANDARD_PROMOTIONS</Tag>
-		<English>Standard Promotions</English>
+		<English>&#x6807;&#x51c6;&#x664b;&#x5347;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_REVIVE</Tag>
-		<English>Revive Player</English>
+		<English>&#x590d;&#x6d3b;&#x73a9;&#x5bb6;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_SWITCH_PLAYER</Tag>
-		<English>Switch Player</English>
+		<English>&#x5207;&#x6362;&#x73a9;&#x5bb6;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TIER_#</Tag>
-		<English>Tier %d1</English>
+		<English>&#x7b49;&#x7ea7; %d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WORLD_UNITS</Tag>
-		<English>World Units</English>
+		<English>&#x4e16;&#x754c;&#x5355;&#x4f4d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TEAM_UNITS</Tag>
-		<English>Team Units</English>
+		<English>&#x961f;&#x4f0d;&#x5355;&#x4f4d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_NATIONAL_UNITS</Tag>
-		<English>National Units</English>
+		<English>&#x56fd;&#x5bb6;&#x5355;&#x4f4d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNLIMITED_UNITS</Tag>
-		<English>Unlimited Units</English>
+		<English>&#x65e0;&#x9650;&#x5355;&#x4f4d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_AVAILIBLE_PROMOTIONS</Tag>
-		<English>Available Promotions</English>
+		<English>&#x53ef;&#x7528;&#x664b;&#x5347;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_CURRENT_PROMOTIONS</Tag>
-		<English>Has Promotions</English>
+		<English>&#x62e5;&#x6709;&#x664b;&#x5347;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_LACKS_PROMOTIONS</Tag>
-		<English>Does Not Have Promotions</English>
+		<English>&#x4e0d;&#x5177;&#x5907;&#x664b;&#x5347;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_SAME_PLOT</Tag>
-		<English>Units On The Same Plot</English>
+		<English>&#x540c;&#x4e00;&#x5730;&#x5757;&#x4e0a;&#x7684;&#x5355;&#x4f4d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_UNLIMITED_PROJECT</Tag>
-		<English>Unlimited Projects</English>
+		<English>&#x65e0;&#x9650;&#x9879;&#x76ee;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_SPELL</Tag>
-		<English>Cast Spell</English>
+		<English>&#x65bd;&#x653e;&#x6cd5;&#x672f;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_GO_TO</Tag>
-		<English>Go To</English>
+		<English>&#x524d;&#x5f80;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ALL</Tag>
-		<English>All</English>
+		<English>&#x5168;&#x90e8;</English>
 		<French>Tout</French>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_FEATS</Tag>
-		<English>Feats</English>
+		<English>&#x529f;&#x7ee9;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_SHRINE</Tag>
-		<English>Shrines</English>
+		<English>&#x5723;&#x7960;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SANCTUARY_TIMER</Tag>
-		<English>Sanctuary Timer: %d1</English>
+		<English>&#x5e87;&#x62a4;&#x6240;&#x8ba1;&#x65f6;:%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_TEMP_TIMER</Tag>
-		<English>Temporary Timer: %d1</English>
+		<English>&#x4e34;&#x65f6;&#x8ba1;&#x65f6;&#x5668;&#xff1a;%d1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_REAL</Tag>
-		<English>Shows timers for temporary map items and allows the selection of the real types to which they revert when the timers expire</English>
+		<English>&#x663e;&#x793a;&#x4e34;&#x65f6;&#x5730;&#x56fe;&#x7269;&#x4ef6;&#x7684;&#x8ba1;&#x65f6;&#x5668;,&#x5e76;&#x5141;&#x8bb8;&#x9009;&#x62e9;&#x8ba1;&#x65f6;&#x7ed3;&#x675f;&#x540e;&#x5b83;&#x4eec;&#x6240;&#x8fd8;&#x539f;&#x6210;&#x7684;&#x771f;&#x5b9e;&#x7c7b;&#x578b;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_FORTIFY_TURNS</Tag>
-		<English>Fortify Turns</English>
+		<English>&#x9a7b;&#x9632;&#x56de;&#x5408;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_TOGGLE</Tag>
-		<English>Toggle[SPACE]</English>
+		<English>&#x5207;&#x6362;[SPACE]</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_UNIT_CLASS</Tag>
-		<English>Unit Class Type</English>
+		<English>&#x5355;&#x4f4d;&#x7c7b;&#x522b;&#x7c7b;&#x578b;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_CAN_CAST</Tag>
-		<English>Can Cast</English>
+		<English>&#x53ef;&#x65bd;&#x6cd5;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_WAR_PLAN</Tag>
-		<English>Planning War</English>
+		<English>&#x8c0b;&#x5212;&#x6218;&#x4e89;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RESOLUTIONS</Tag>
-		<English>Resolutions</English>
+		<English>&#x8bae;&#x6848;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_IGNORE_HIDE</Tag>
-		<English>Ignore Hide</English>
+		<English>&#x5ffd;&#x7565;&#x9690;&#x85cf;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WB_BLOCKADING</Tag>
-		<English>Blockading</English>
+		<English>&#x5c01;&#x9501;&#x4e2d;</English>
 	</TEXT>
 
 </Civ4GameText>

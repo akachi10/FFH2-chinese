@@ -1,80 +1,74 @@
 # -*- coding: utf-8 -*-
-import json,re
-from collections import Counter
-data=json.load(open('_b17_in/s02.json',encoding='utf-8'))
-src={it['key']:it['en'] for it in data}
-
-# Build translations. Use actual backslash sequences via raw notation carefully.
-# In python source, to emit literal [\\LINK] (backslash-backslash) we write '[\\\\LINK]'.
-BS2='[\\\\LINK]'  # -> literal [\\LINK]
-
-esus = (
-"[TAB]一个秘密议会,它散布谎言的本领高超到常常连自己故事的真伪都分辨不清。它在多数大城市都设有“王座”(秘密聚会之所),尤其擅长将货物与人员偷运进出各地。杰斯被称为盗贼之王、暗影杰克与月歌,尽管教内领袖也常喜欢将这些名号据为己有。"
-"[PARAGRAPH:2]创立[PARAGRAPH]以下是关于本教创立流传最广的传说,无人知晓它是否属实。"
-"[PARAGRAPH]在其他诸神不知情时,杰斯会时不时潜入造化之中。他最常化身为游方的吟游诗人(男女随他心意),偶尔也化作商人、乞丐、豺狼或乌鸦。"
-"[PARAGRAPH]在一次这样的游历中,他遇见了奥里奥尔·佩雷格里努斯——一位多年来一直在偷盗自己神庙的基鲁莫夫祭司。就在他即将受审的前一夜,他坐在酒馆里喝闷酒,低声向任何愿意听他祷告的神明祈求,因为他自己所侍奉的神必定不会宽恕他的罪行。"
-"[PARAGRAPH]正在酒馆献艺的杰斯听见了他的话,便上前宽慰这人。两人对饮,奥里奥尔终于道出了自己的遭遇。杰斯给了他一个可以向教会讲述的谎言,可奥里奥尔仍担心没人会相信他。于是杰斯递给他一枚蛋白石圣甲虫,说它能让任何人都相信他的谎言。"
-"[PARAGRAPH]奥里奥尔带着圣甲虫去教会长老面前受审。令他惊讶的是,他们毫不怀疑地相信了他的谎言。指控他的人反遭惩处,而他在基鲁莫夫教会中的地位也随之提升。"
-"[PARAGRAPH]一年后杰斯归来,又在那间酒馆里找到了奥里奥尔。这次他已经潦倒不堪,几乎付不起自己的酒钱,世上一切他所珍视的东西都已失去。杰斯问他出了什么事,他说如今没有人相信他所说的任何话。他以为圣甲虫受了诅咒,便把它扔了。"
-"[PARAGRAPH]杰斯解释道,他确实让这人的谎言变得可信,但代价是:此后没有人会相信奥里奥尔说出的任何真话。倘若奥里奥尔对妻子说他爱她,她也不会相信。"
-"[PARAGRAPH]奥里奥尔对着酒杯啜泣起来。"
-"[PARAGRAPH]“你叫什么名字?”杰斯问。"
-"[PARAGRAPH]“奥里奥尔。”奥里奥尔说,目光仍盯着自己的酒。"
-"[PARAGRAPH]“我不信。”杰斯说,“我看你的名字该叫门达克斯·奥帕库斯。”"
-"[PARAGRAPH]“我的名字叫门达克斯?”奥里奥尔问。"
-"[PARAGRAPH]“这听着好多了。这是个人们会相信的名字。”杰斯说,“那你又侍奉哪位神?肯定不是基鲁莫夫,我看你侍奉的是杰斯,暗影之神。”"
-"[PARAGRAPH]“我侍奉暗影之神?”奥里奥尔问。"
-"[PARAGRAPH]“正是。看,这有多容易。”杰斯说,“还有记住:你可以对任何女人说你爱她,她都会相信你——只要那不是真的。倘若你当真爱她,你的话在她耳中便会发苦,你的深情会化作毒药,令她厌弃你。你可以去一座新城,开始新的生活,为杰斯兴建一座教会——只要你心里明白,这一切全是假戏。”"
-"[PARAGRAPH]“你的诅咒已经夺走了我妻子的爱。”奥里奥尔说,“我已失去在教会中的地位,你还要我连信仰也一并抛弃?我若直接去找教会长老,把你对我的所作所为告诉他们又如何?”"
-"[PARAGRAPH]“你尽可一试,可谁会信你呢?”杰斯笑着说。"
-"[PARAGRAPH]如今改名门达克斯的奥里奥尔,依杰斯所言,在一座废弃的帕特里亚庄园里创立了第一座幽冥王座(要让人相信他才是真正的主人,实在轻而易举)。那座王座的种种传统大多由他一手杜撰,是他一时兴之所至、灵感交织而成的一团乱麻。据说他此生最大的秘密,是他直到死去那天都还私藏着一座小小的基鲁莫夫神龛。"
-"[PARAGRAPH:3]教派[PARAGRAPH]每一座王座都可视为自成一派。它们之间没有共通的联络、规则或传统。有的残暴而好复仇,有的则轻松而自在。它们往往与自己所处的社群截然相反。有时它们是城邦政府背后的秘密力量,有时又不过是一群假扮秘密组织的少年冒险者。"
-"[PARAGRAPH:3]作为诸教中的一个异数,杰斯议会没有神庙,也没有寻常的信徒。身为一个秘密社团,它无法向城市或周遭所有单位公开地[LINK=SPELL_EVANGELIZE]传道"+BS2+"。然而,任何身为成员的单位都可以付出代价,在任意城市中建立起当地的议会据点。没有其他国教前置要求、且领袖持有相应国教的单位,可以花费金钱,向同一格上的杰斯[LINK=PROMOTION_EVANGELIZE]传道者"+BS2+"购买一次入会仪式。为奇迹付费——这一主题在杰斯议会中屡见不鲜。"
-"[PARAGRAPH]杰斯的祭司拥有间谍的种种能力,包括窃取情报、破坏城市生产,以及破坏包括独特地貌在内的各类设施。"
-"[PARAGRAPH]国教开放[LINK=UNIT_SHADOWRIDER]暗影骑手"+BS2+"、[LINK=UNIT_DISCIPLE_ESUS]骗徒 "+BS2+"、[LINK=UNIT_PRIEST_ESUS]窃贼"+BS2+"与[LINK=UNIT_HIGH_PRIEST_ESUS]鼓吹者"+BS2+"等单位。"
-"[PARAGRAPH]杰斯议会与天空的教诲有重大冲突。二者中的一方可以阻止另一方传入某城,或将另一方逐出。"
-"[PARAGRAPH]杰斯议会是与上位议会相抗衡的下位议会得以创立的幕后推手。在本教创立之前,任何玩家都不得采用下位议会政策;而任何以本教为国教的玩家也不得加入上位议会。\\r\\n\\t\\t\\r\\n\\t\\t\\r\\n\\t\\t\\r\\n"
-"[PARAGRAPH:3][LINK=RELIGION_COUNCIL_OF_ESUS]杰斯议会"+BS2+"的祭司与天使,其阿尔达会因[LINK=RELIGION_COUNCIL_OF_ESUS]杰斯议会"+BS2+"的影响而得到最大程度的强化,同时也会在较小程度上因[LINK=RELIGION_STEWARDS_OF_INEQUITY]不公之管家"+BS2+"、[LINK=RELIGION_ANOINTED]受膏者"+BS2+"、[LINK=RELIGION_COVEN]夹界"+BS2+"、[LINK=RELIGION_THE_ASHEN_VEIL]混沌之灰烬"+BS2+"、[LINK=RELIGION_SONS_OF_DISCORD]纷争之子"+BS2+"与[LINK=RELIGION_EMBER_LEGION]余烬军团"+BS2+"而增强。其阿尔达会因[LINK=RELIGION_CHILDREN_OF_THE_ONE]太一之子"+BS2+"、[LINK=RELIGION_MATRONAE]母神会"+BS2+"、[LINK=RELIGION_THE_EMPYREAN]天空的教诲"+BS2+"、[LINK=RELIGION_GREY_COUNCIL]灰议会"+BS2+"、[LINK=RELIGION_UNBLEMISHED]无瑕者"+BS2+"、[LINK=RELIGION_RINGGIVER]赐环者"+BS2+"、[LINK=RELIGION_THE_EMPYREAN]绝对秩序"+BS2+"、[LINK=RELIGION_RUNES_OF_KILMORPH]基鲁莫夫之痕"+BS2+"、[LINK=RELIGION_CULT_OF_THE_DRAGON]巨龙教团"+BS2+"、[LINK=RELIGION_HOUSE_OF_PLENTY]丰饶之家"+BS2+"、[LINK=RELIGION_BROTHERHOOD_OF_WARDENS]守护者兄弟会"+BS2+"与[LINK=RELIGION_FELLOWSHIP_OF_LEAVES]绿叶之友"+BS2+"而削弱。它在善良阵营的土地上会被削弱,在中立或邪恶阵营的土地上会被强化。靠近[LINK=BONUS_MANA_SHADOW]暗影能量"+BS2+"、[LINK=IMPROVEMENT_WODES_OAK]沃德橡树"+BS2+"与[LINK=IMPROVEMENT_WHISPERING_WOOD]低语森林"+BS2+"会使其增强;靠近[LINK=BONUS_MANA_SUN]太阳能量"+BS2+"、[LINK=IMPROVEMENT_MIRROR_OF_HEAVEN]天堂之镜"+BS2+"与[LINK=IMPROVEMENT_CITADEL_OF_LIGHT]光明堡垒"+BS2+"则会削弱它。"
-)
-
-grey = (
-"被延请来在各方之间裁断是非的审判官。他们的信仰宣扬摒弃偏私,做出裁决时不受地方或私人影响。机制:灰议会是一个投票机构,玩家可在其中与其他玩家一同参与选举。常被称为“裁断者”。\\r\\n\\r\\n\\r\\n"
-"[PARAGRAPH][ICON_BULLET][LINK=RELIGION_GREY_COUNCIL]灰议会"+BS2+"的祭司与天使,其阿尔达会因[LINK=RELIGION_GREY_COUNCIL]灰议会"+BS2+"的影响而增强。其阿尔达会因[LINK=RELIGION_CHILDREN_OF_THE_ONE]太一之子"+BS2+"、[LINK=RELIGION_MATRONAE]母神会"+BS2+"与[LINK=RELIGION_CULT_OF_THE_DRAGON]巨龙教团"+BS2+"而削弱。它在中立阵营的土地上会被强化,在善良或邪恶阵营的土地上会被削弱。靠近[LINK=BONUS_MANA_FORCE]力场能量"+BS2+"、[LINK=IMPROVEMENT_SEVEN_PINES]七松"+BS2+"或[LINK=IMPROVEMENT_RING_OF_WARDING]守护之环"+BS2+"会使其增强。\\r\\n\\r\\n\\t\\t"
-)
-
-out={'TXT_KEY_RELIGION_COUNCIL_OF_ESUS_PEDIA':esus,'TXT_KEY_RELIGION_GREY_COUNCIL_PEDIA':grey}
-
-# ---- parity verify vs source ----
-def inv(s):
-    return {
-      'PARA': Counter(re.findall(r'\[PARAGRAPH(?::\d)?\]',s)),
-      'TAB': s.count('[TAB]'),
-      'NEWLINE': s.count('[NEWLINE]'),
-      'ICON_BULLET': s.count('[ICON_BULLET]'),
-      'LINKopen': s.count('[LINK='),
-      'LINKclose': s.count('[\\\\LINK]'),
-      'lit_r': s.count('\\r'),'lit_n': s.count('\\n'),'lit_t': s.count('\\t'),
-      'realNL': s.count(chr(10)),'realTAB': s.count(chr(9)),
-      'entity': '&#x' in s,
-    }
-def linkset(s): return Counter(re.findall(r'\[LINK=[^\]]*\]',s))
-ok=True
-for k in out:
-    a,b=inv(src[k]),inv(out[k])
-    for f in a:
-        if a[f]!=b[f]:
-            ok=False; print(f"MISMATCH {k} {f}: src={a[f]} cn={b[f]}")
-    if linkset(src[k])!=linkset(out[k]):
-        ok=False
-        d1=linkset(src[k]); d2=linkset(out[k])
-        print(f"LINK TARGET set mismatch {k}:")
-        for t in set(d1)|set(d2):
-            if d1[t]!=d2[t]: print("   ",t,"src",d1[t],"cn",d2[t])
-    if chr(9) in out[k] or chr(10) in out[k]:
-        ok=False; print(f"{k}: real TAB/NL in translation!")
-print("PARITY OK" if ok else "PARITY FAILED")
-if ok:
-    with open('_b17_out/s02.out.tsv','w',encoding='utf-8') as f:
-        f.write('TXT_KEY_RELIGION_COUNCIL_OF_ESUS_PEDIA\t'+esus+'\n')
-        f.write('TXT_KEY_RELIGION_GREY_COUNCIL_PEDIA\t'+grey+'\n')
-    print("WROTE _b17_out/s02.out.tsv")
+import json
+tr = {
+"TXT_KEY_UNIT_LOSHA_PEDIA": "三位将领坐在前厅,等候被召入王座厅。其中一人是身经百战的老兵,冷峻沉着地坐着;第二人较为年轻、初任其职,紧张地坐立不安。那女人打了个呵欠,望向窗外。不久大门开启,他们被引入厅内,列于双王座之前。卫兵退下,只留三人与艾莉柯西丝和弗劳诺斯独处。[PARAGRAPH:1]艾莉柯西丝立刻起身,快步走向他们。&#147;你们三人受命守住我们的新殖民地帕武纳尔!可你们还没回来向我复命,像挨了打的狗一样,我的斥候就已告知我——我们的城市已成废墟!告诉我发生了什么,以及我为何不该把你们吞——为何不该处死你们。\" [PARAGRAPH:1]\"谢欧尔,先说你的汇报,\"弗劳诺斯插话道。他仍瘫坐在王座上,目光却锐利地盯住那年轻人。[PARAGRAPH:1]\"是,主人,女主人。我们……奉佩迪安之命,抵达城镇后将部队分为三部。我统领猎手。我们前往丘陵与森林,远在敌军逼近帕武纳尔之前便已发现他们。我,呃,我把手下分成小队,在敌军行军途中袭扰他们,并派斥候把敌军数量与编成的情报送回洛莎和佩迪安处。整整一个月,敌军围攻城镇,我持续伏击消耗他们。然后,城镇的大门开了!我兵力不足以击败敌军,主人们……我必须禀报,是洛莎和佩迪安辜负了你们。\"[PARAGRAPH:1]\"你们全都失败了,蠢货,\"艾莉柯西丝咆哮道。她跺着脚回到王座坐下,用凌厉的目光刺向谢欧尔。[PARAGRAPH:1]\"佩迪安,请继续说下去,\"弗劳诺斯道。[PARAGRAPH:1]\"正如谢欧尔所言,主人们,不过我必须把责任明明白白地归到洛莎肩上。我带走了突击部队,把弓箭手和移民留给她去部署城镇的防御。她本该轻而易举地守住整个季度,尽管敌军数量比我们预想的要多。我返回附近的阿凯亚去召集更多兵力,正在回程途中,便收到殖民地已被夷平的消息。我把手下留驻在那里,受召便回来了。所以显然是洛莎害我们输掉了这场仗,\"将军说完,退后一步,低下头。[PARAGRAPH:1]弗劳诺斯微微一笑。&#147;洛莎,看来正如我常对妹妹所说:柔弱的性别既缺乏力量,也缺乏判断力。不过,还是说说你的故事吧,我们且看看。\"[PARAGRAPH:1]洛莎从容地开口。&#147;正如他们所说,我的王子与公主,只是他们低估了你们敌人的数量。敌军数倍于我们出征时的兵力。若是硬拼,我们或许能拿下他们,但我军的伤亡将是重大的损失。因此我判定,失去那些移民好过一场血战。\" [PARAGRAPH:1]\"你好大的胆子!你受命是守住殖民地!\" [PARAGRAPH:1]\"我的女主人,命令就在我手上。上面写着:&#145;当入侵之军抵达我们的帕武纳尔城镇时阻止他们。'我正是这么做的。\" [PARAGRAPH:1]\"洛莎,你刚才说你丢了那些移民。\" [PARAGRAPH:1]\"哦,我是不是忘了提?在我把城镇——连同那些讨厌的居民——弃给敌军之前,我在粮仓里下了毒,酒里、水里也下了毒。\" [PARAGRAPH:1]艾莉柯西丝眨了眨眼;弗劳诺斯在王座上坐直了身子。&#147;谢欧尔,佩迪安,你们可以退下了,你们的命令稍后就到。洛莎,留下。\"年轻人溜了出去,年长者随后跟上,临走前却给了洛莎一个残忍的微笑。[PARAGRAPH:1]\"这么说,我惹恼了我的主人们?\"洛莎问道。[PARAGRAPH:1]\"亲爱的洛莎,\"艾莉柯西丝含笑说道,&#147;你已彻底为自己正了名。来吧,我们有一份礼物要给你。\"",
+"TXT_KEY_PEDIA_CATEGORY_EVENT": "事件",
+"TXT_KEY_PEDIA_CATEGORY_EVENTAGE": "时代",
+"TXT_KEY_PEDIA_CATEGORY_GREAT_PERSONS": "伟人",
+"TXT_KEY_PEDIA_CATEGORY_CONCEPT_DCM": "DCM 概念",
+"TXT_KEY_WB_PUSH_MISSION": "推入任务",
+"TXT_KEY_WB_WAIT": "等待中",
+"TXT_KEY_WB_MOVE_CITY": "移动城市",
+"TXT_KEY_WB_SENSIBILITY": "检查多格模式的前置条件",
+"TXT_KEY_WB_PLOT": "地块",
+"TXT_KEY_WB_UNIT": "单位",
+"TXT_KEY_WB_LANDMARKS": "地标",
+"TXT_KEY_WB_COASTAL_TRADE": "沿海 [ICON_TRADE]:%d1",
+"TXT_KEY_WB_BASE_RATE": "基础速率:%d1",
+"TXT_KEY_WB_REPEATABLE": "可使用游戏中已有的文明与领袖",
+"TXT_KEY_WB_ADD_UNITS": "添加单位",
+"TXT_KEY_WB_DEFAULT": "默认",
+"TXT_KEY_WB_SCRIPT_DATA": "脚本数据",
+"TXT_KEY_WB_GAME_YEAR": "游戏年份:%s1",
+"TXT_KEY_WB_GAME_TURN": "游戏回合:%d1",
+"TXT_KEY_WB_TARGET_SCORE": "目标分数:%d1",
+"TXT_KEY_WB_AREA_ID": "区域 ID",
+"TXT_KEY_WB_SINGLE_PLOT": "单个地块",
+"TXT_KEY_WB_UNIT_DATA": "单位数据",
+"TXT_KEY_WB_IMMOBILE_TIMER": "无法移动计时",
+"TXT_KEY_WB_MADE_INTERCEPT": "已进行拦截",
+"TXT_KEY_WB_TEMP_HAPPY": "临时 [ICON_HAPPY]:%d1",
+"TXT_KEY_WB_GRANT_AVAILABLE": "可授予",
+"TXT_KEY_WB_FREE_SPECIALISTS": "免费专家",
+"TXT_KEY_WB_STATE_RELIGION_UNIT": "[ICON_RELIGION] 单位 [ICON_PRODUCTION]:%d1%%",
+"TXT_KEY_WB_TECH_TRADING": "科技交易",
+"TXT_KEY_WB_VASSAL_TRADING": "附庸交易",
+"TXT_KEY_WB_IGNORE_IRRIGATION": "忽略灌溉",
+"TXT_KEY_WB_ENEMY_WAR_WEARINESS": "敌方厌战度:%d1",
+"TXT_KEY_WB_UPGRADE_PROGRESS": "升级回合:%d1",
+"TXT_KEY_WB_CVASSAL": "已投降",
+"TXT_KEY_WB_KILL": "消灭",
+"TXT_KEY_WB_STRENGTH_DEFENSE": "基础防御力:",
+"TXT_KEY_WB_MOVE_DISABLED_AI": "已对 AI 禁用移动",
+"TXT_KEY_WB_FOUND_DISABLED": "已禁用建城",
+"TXT_KEY_WB_PLOT_MIN_LEVEL": "最低等级:",
+"TXT_KEY_WB_SCENARIO_COUNTER": "剧本计数器:",
+"TXT_KEY_WB_COMMERCE_SLIDERS": "商业滑块:",
+"TXT_KEY_WB_REV_INDEX": "革命指数 [ICON_UNHAPPY]:%d1",
+"TXT_KEY_WB_CURRENT_UNIT": "当前单位:",
+"TXT_KEY_WB_REASSIGN_PLAYER": "重新分配玩家",
+"TXT_KEY_WB_IS_PERMANENT_SUMMON": "为永久召唤物",
+"TXT_KEY_WB_SUMMON": "召唤物",
+"TXT_KEY_WB_SUMMONER": "召唤者",
+"TXT_KEY_WB_SWITCH_PLAYER": "切换玩家",
+"TXT_KEY_WORLD_UNITS": "世界单位",
+"TXT_KEY_UNLIMITED_UNITS": "无限单位",
+"TXT_KEY_WB_LACKS_PROMOTIONS": "不具备晋升",
+"TXT_KEY_WB_SPELL": "施放法术",
+"TXT_KEY_SANCTUARY_TIMER": "庇护所计时:%d1",
+"TXT_KEY_WB_FORTIFY_TURNS": "驻防回合",
+"TXT_KEY_WB_UNIT_CLASS": "单位类别类型",
+"TXT_KEY_RESOLUTIONS": "议案",
+"TXT_KEY_WB_BLOCKADING": "封锁中",
+}
+data=json.load(open('_b24_in/s02.json',encoding='utf-8'))
+assert len(data)==59, len(data)
+lines=[]
+for it in data:
+    k=it['key']
+    assert k in tr, "missing "+k
+    v=tr[k]
+    assert '\n' not in v and '\t' not in v and '\r' not in v, k
+    lines.append(k+'\t'+v)
+open('_b24_out/s02.out.tsv','w',encoding='utf-8').write('\n'.join(lines)+'\n')
+print("wrote",len(lines),"rows")

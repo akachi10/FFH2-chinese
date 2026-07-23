@@ -2,17 +2,17 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_DECLARE_BARBS</Tag>
-		<English>Declare War on the Barbarians</English>
+		<English>&#x5411;&#x86ee;&#x65cf;&#x5ba3;&#x6218;</English>
 		<Spanish>Declarar la guerra a los Bárbaros</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_DECLARE_BARBS_HELP</Tag>
-		<English>Ends the truce between you and the Barbarian faction. This is irreversible.</English>
+		<English>&#x7ed3;&#x675f;&#x4f60;&#x4e0e;&#x86ee;&#x65cf;&#x9635;&#x8425;&#x4e4b;&#x95f4;&#x7684;&#x4f11;&#x6218;&#x3002;&#x6b64;&#x4e3e;&#x4e0d;&#x53ef;&#x9006;&#x8f6c;&#x3002;</English>
 		<Spanish>Termina la tregua con los bÃ¡rbaros. Esto es irreversible.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_DECLARE_BARBS</Tag>
-		<English>You are currently at peace with the Barbarians. Would you like to end the truce?</English>
+		<English>&#x4f60;&#x76ee;&#x524d;&#x4e0e;&#x86ee;&#x65cf;&#x5904;&#x4e8e;&#x548c;&#x5e73;&#x72b6;&#x6001;&#x3002;&#x4f60;&#x60f3;&#x8981;&#x7ec8;&#x6b62;&#x505c;&#x6218;&#x5417;?</English>
 		<Spanish>Estás en paz con los Bárbaros. ¿Deseas terminar con la tregua?.</Spanish>
 	</TEXT>
 </Civ4GameText>
