@@ -10,26 +10,26 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_AUTORAZE</Tag>
-		<English>[ICON_BULLET]Destroys improvements (in enemy territory) and terrain features when it enters a tile</English>
+		<English>[ICON_BULLET]&#x8fdb;&#x5165;&#x5730;&#x5757;&#x65f6;&#x6467;&#x6bc1;&#x6539;&#x826f;&#x8bbe;&#x65bd;&#xff08;&#x5728;&#x654c;&#x65b9;&#x9886;&#x571f;&#x5185;&#xff09;&#x4e0e;&#x5730;&#x5f62;&#x7279;&#x5f81;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_CREATE_GREAT_WORK_HELP</Tag>
-		<English>This order will have the unit create a Great Work and end revolts in the city they are currently in. It consumes the unit.</English>
+		<English>&#x6b64;&#x547d;&#x4ee4;&#x5c06;&#x4ee4;&#x8be5;&#x5355;&#x4f4d;&#x521b;&#x9020;&#x4e00;&#x4ef6;&#x4f1f;&#x5927;&#x6770;&#x4f5c;&#xff0c;&#x5e76;&#x5e73;&#x606f;&#x5176;&#x5f53;&#x524d;&#x6240;&#x5728;&#x57ce;&#x5e02;&#x7684;&#x53db;&#x4e71;&#x3002;&#x5b83;&#x4f1a;&#x6d88;&#x8017;&#x8be5;&#x5355;&#x4f4d;&#x3002;</English>
 		<Spanish>Esta orden hace que la unidad cree una gran obra y termina alzamiento en la ciudad en la que se encuentre, consumi&#233;ndose en el proceso.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CANNOT_CAPTURE</Tag>
-		<English>[ICON_BULLET]Unit cannot capture</English>
+		<English>[ICON_BULLET]&#x5355;&#x4f4d;&#x65e0;&#x6cd5;&#x4fd8;&#x83b7;</English>
 		<Spanish>[ICON_BULLET]La unidad no puede hacer capturas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CANNOT_PILLAGE</Tag>
-		<English>[ICON_BULLET]Unit cannot pillage</English>
+		<English>[ICON_BULLET]&#x5355;&#x4f4d;&#x65e0;&#x6cd5;&#x52ab;&#x63a0;</English>
 		<Spanish>[ICON_BULLET]La unidad no puede hacer pillaje</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CANNOT_PROTECT_CITY</Tag>
-		<English>[ICON_BULLET]Unit doesn't provide military happiness</English>
+		<English>[ICON_BULLET]&#x5355;&#x4f4d;&#x4e0d;&#x63d0;&#x4f9b;&#x519b;&#x4e8b;&#x5e78;&#x798f;</English>
 		<Spanish>[ICON_BULLET]La unidad no produce felicidad militar</Spanish>
 	</TEXT>
 	<TEXT>
@@ -69,7 +69,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_DURATION</Tag>
-		<English>Duration: Will die in %d1 [NUM1:turn:turns].</English>
+		<English>&#x6301;&#x7eed;&#x65f6;&#x95f4;&#xff1a;&#x5c06;&#x5728; %d1 [NUM1:&#x56de;&#x5408;:&#x56de;&#x5408;]&#x540e;&#x6b7b;&#x4ea1;&#x3002;</English>
 		<French>Dur&#233;e: mourra dans %d1 [NUM1:tour:tours].</French>
 		<German>Dauer: Wird sterben in %d1 [NUM1:Runde:Runden].</German>
 		<Spanish>Duraci&#243;n: Morir&#225; en %d1 [NUM1:turno:turnos].</Spanish>
@@ -83,7 +83,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_FREE_PROMOTION_PICK</Tag>
-		<English>[ICON_BULLET]Unit starts with %D1 free [NUM1:promotion:promotions]</English>
+		<English>[ICON_BULLET]&#x5355;&#x4f4d;&#x8d77;&#x59cb;&#x65f6;&#x62e5;&#x6709; %D1 &#x6b21;&#x514d;&#x8d39;[NUM1:&#x664b;&#x5347;:&#x664b;&#x5347;]</English>
 		<French>[ICON_BULLET]L'unit&#233; commence avec %D1 [NUM1:promotion:promotions] [NUM1:gratuite:gratuites]</French>
 		<German>[ICON_BULLET]Einheit startet mit %D1 [NUM1:freien:freien] [NUM1:Bef&#246;rderung:Bef&#246;rderungen]</German>
 		<Spanish>[ICON_BULLET]Esta unidad empieza con %D1 [NUM1:promoci&#243;n:promociones] [NUM1:gratuita:gratuitas]</Spanish>
@@ -97,14 +97,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_HAS_CASTED</Tag>
-		<English>Has already cast this turn</English>
+		<English>&#x672c;&#x56de;&#x5408;&#x5df2;&#x7ecf;&#x65bd;&#x6cd5;</English>
 		<French>a d&#233;ja lanc&#233; un sort ce tour</French>
 		<German>Hat diese Runde schon gezaubert</German>
 		<Spanish>Ya ha lanzado hechizos este turno</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_HELP_DELAYED_CASTING</Tag>
-		<English>Casting %s1_Spell (%d2_TurnsRemaining [NUM2:Turn:Turns] Remaining)</English>
+		<English>&#x6b63;&#x5728;&#x65bd;&#x653e; %s1_Spell&#xff08;&#x5269;&#x4f59; %d2_TurnsRemaining [NUM2:&#x56de;&#x5408;:&#x56de;&#x5408;]&#xff09;</English>
 		<Spanish>Lanzando el hechizo %s1_Spell (faltan %d2_TurnsRemaining [NUM2:turno:turnos])</Spanish>
 	</TEXT>
 	<TEXT>
@@ -115,7 +115,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_HELP_NO_UPKEEP</Tag>
-		<English>[ICON_BULLET]Costs no upkeep</English>
+		<English>[ICON_BULLET]&#x65e0;&#x9700;&#x7ef4;&#x62a4;&#x8d39;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_INFORMATION</Tag>
@@ -126,12 +126,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_INVESTIGATE_CITY</Tag>
-		<English>[ICON_BULLET]Can Investigate Rival City</English>
+		<English>[ICON_BULLET]&#x53ef;&#x8c03;&#x67e5;&#x5bf9;&#x624b;&#x57ce;&#x5e02;</English>
 		<Spanish>[ICON_BULLET]Puede investigar ciudades enemigas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MIN_LEVEL</Tag>
-		<English>[ICON_BULLET]Must be upgraded from a unit of level %d1 or higher</English>
+		<English>[ICON_BULLET]&#x5fc5;&#x987b;&#x7531; %d1 &#x7ea7;&#x6216;&#x66f4;&#x9ad8;&#x7ea7;&#x7684;&#x5355;&#x4f4d;&#x5347;&#x7ea7;&#x800c;&#x6765;</English>
 		<French>[ICON_BULLET]Doit &#234;tre am&#233;lior&#233; depuis une unit&#233; de niveau %d1 ou plus</French>
 		<German>[ICON_BULLET]Muss von einer Einheit der Stufe %d1 oder h&#246;her modernisiert werden</German>
 		<Spanish>[ICON_BULLET]Debe de ser actualizado desde una unidad de nivel %d1 o superior</Spanish>

@@ -59,7 +59,7 @@ def render(b):
     m=re.search(r'of\s+(?:the\s+)?(\[LINK=[^\]]*\][^\[]*\[\\\\LINK\])\s+will have', b)
     rel=linksub(m.group(1)) if m else '?'
     # the "influence of [LINK]" occurrence (faithful: keep this LINK too)
-    mi=re.search(r'influence of\s+(?:the\s+)?(\[LINK=[^\]]*\][^\[]*\[\\\\LINK\])(?=,| but)', b)
+    mi=re.search(r'influence of\s+(?:the\s+)?(\[LINK=[^\]]*\][^\[]*\[\\\\LINK\])(?=,| but|\.)', b)
     # 严格：仅当 'influence of' 后紧跟 LINK 才复用链接；否则用裸中文（源为裸文本，如 'the Brotherhood'）
     if mi:
         infl=linksub(mi.group(1))
@@ -116,6 +116,11 @@ def render(b):
     return out
 
 paras=[render(b)+'\\r\\n\\r\\n' for b in bullets]
+# 忠实镜像源文件 Laeran 段的孤立闭合标记 [\\LINK]（源 typo：Mind Mana 后多一个闭合符）
+for _i,_p in enumerate(paras):
+    if '莱兰之缚的' in _p and '心灵能量削弱' in _p:
+        paras[_i]=_p.replace('它会被心灵能量削弱。','它会被心灵能量[\\\\LINK]削弱。',1)
+        break
 body='[PARAGRAPH][ICON_BULLET]'.join(['']+paras)
 full=INTRO+body+"\\r\\n\\t\\t"
 leaks=re.findall(r'«[^»]*»',full)

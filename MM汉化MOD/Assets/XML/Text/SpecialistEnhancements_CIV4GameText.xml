@@ -9,7 +9,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BAD_HEALTH_FROM_SPECIALISTS</Tag>
-		<English>%D1_Change[ICON_UNHEALTHY] from Specialists</English>
+		<English>&#x6765;&#x81ea;&#x4e13;&#x5bb6;&#x7684; %D1_Change[ICON_UNHEALTHY]</English>
 		<French>%D1_Change[ICON_UNHEALTHY] des Sp&#233;cialistes</French>
 		<German>%D1_Change[ICON_UNHEALTHY] durch Spezialisten</German>
 		<Italian>%D1_Change[ICON_UNHEALTHY] per Specialisti</Italian>
@@ -18,7 +18,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_GOOD_HEALTH_FROM_SPECIALISTS</Tag>
-		<English>%D1_Change[ICON_HEALTHY] from Specialists</English>
+		<English>&#x6765;&#x81ea;&#x4e13;&#x5bb6;&#x7684; %D1_Change[ICON_HEALTHY]</English>
 		<French>%D1_Change[ICON_HEALTHY] des Sp&#233;cialistes</French>
 		<German>%D1_Change[ICON_HEALTHY] durch Spezialisten</German>
 		<Italian>%D1_Change[ICON_HEALTHY] per Specialisti</Italian>
@@ -38,7 +38,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_UNHAPPY_SPECIALISTS</Tag>
-		<English>+%d1_Change[ICON_UNHAPPY]: "We are angered by some citizens' occupations!"</English>
+		<English>+%d1_Change[ICON_UNHAPPY]&#xff1a;&#x201c;&#x67d0;&#x4e9b;&#x5e02;&#x6c11;&#x7684;&#x8425;&#x751f;&#x8ba9;&#x6211;&#x4eec;&#x6124;&#x6012;&#xff01;&#x201d;</English>
 		<French>+%d1_Change[ICON_UNHAPPY] : "Nous sommes indign&#233;s par les professions de certains citoyens!"</French>
 		<German>+%d1_Change[ICON_UNHAPPY]: "Wir sind von einigen Berufen Burger verargert!"</German>
 		<Italian>+%d1_Change[ICON_UNHAPPY]: "Noi siamo in collera per occupazioni alcuni cittadini!"</Italian>
@@ -47,7 +47,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_HAPPY_SPECIALISTS</Tag>
-		<English>+%d1_Change[ICON_HAPPY]: "Some citizens' jobs please us!"</English>
+		<English>+%d1_Change[ICON_HAPPY]&#xff1a;&#x201c;&#x67d0;&#x4e9b;&#x5e02;&#x6c11;&#x7684;&#x8425;&#x751f;&#x8ba9;&#x6211;&#x4eec;&#x6b22;&#x559c;&#xff01;&#x201d;</English>
 		<French>+%d1_Change[ICON_HAPPY] : "Nous sommes ravis par les emplois de certains citoyens!"</French>
 		<German>+%d1_Change[ICON_HAPPY]: "Arbeitsplätze Einige Bürger finden Sie uns!"</German>
 		<Italian>+%d1_Change[ICON_HAPPY]: "Siamo lieti di posti di lavoro da parte dei cittadini!"</Italian>

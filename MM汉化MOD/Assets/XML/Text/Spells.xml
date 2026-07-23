@@ -3,14 +3,14 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>SPELL_SPRING_PUT_OUT_FLAMES</Tag>
-		<English>[ICON_BULLET]Puts out smoke or flames on %d1 tiles</English>
+		<English>[ICON_BULLET]&#x6251;&#x706d; %d1 &#x4e2a;&#x5730;&#x5757;&#x4e0a;&#x7684;&#x70df;&#x96fe;&#x6216;&#x706b;&#x7130;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FEAST_XP</Tag>
-		<English>[ICON_BULLET]Unit gains %d1 XP.</English>
+		<English>[ICON_BULLET]&#x5355;&#x4f4d;&#x83b7;&#x5f97; %d1 &#x70b9;&#x7ecf;&#x9a8c;&#x3002;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FEAST_XP_MULTI</Tag>
-		<English>[ICON_BULLET]%d1 units gain %d2-%d3 XP.</English>
+		<English>[ICON_BULLET]%d1 &#x4e2a;&#x5355;&#x4f4d;&#x83b7;&#x5f97; %d2-%d3 &#x70b9;&#x7ecf;&#x9a8c;&#x3002;</English>
 	</TEXT>
 </Civ4GameText>

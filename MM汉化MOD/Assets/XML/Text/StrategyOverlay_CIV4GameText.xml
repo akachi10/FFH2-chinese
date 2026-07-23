@@ -4,77 +4,77 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_STRATOVERLAY_TITLE</Tag>
-		<English>Strategy Overlay</English>
+		<English>&#x7b56;&#x7565;&#x8986;&#x76d6;&#x5c42;</English>
 		<German>Strategie-Overlay</German>
 		<Italian>Livello Strategico</Italian>
 		<Spanish>Nivel Estrat&#233;gico</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STRATOVERLAY_DOTMAPPER</Tag>
-		<English>Dot Mapper</English>
+		<English>&#x70b9;&#x4f4d;&#x89c4;&#x5212;&#x5668;</English>
 		<German>Punkt-Werkzeug</German>
 		<Italian>Mappa di posizionamento</Italian>
 		<Spanish>Mapa de puntos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STRATOVERLAY_PLACECITY</Tag>
-		<English>Place City</English>
+		<English>&#x653e;&#x7f6e;&#x57ce;&#x5e02;</English>
 		<German>Stadt platzieren</German>
 		<Italian>Posiziona citt&#224;</Italian>
 		<Spanish>Colocar Ciudad</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STRATOVERLAY_REMOVECITY</Tag>
-		<English>Remove City</English>
+		<English>&#x79fb;&#x9664;&#x57ce;&#x5e02;</English>
 		<German>Stadt entfernen</German>
 		<Italian>Rimuovi Citt&#224;</Italian>
 		<Spanish>Eliminar Ciudad</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STRATOVERLAY_COLORSELECT</Tag>
-		<English>Color Selection</English>
+		<English>&#x989c;&#x8272;&#x9009;&#x62e9;</English>
 		<German>Farbauswahl</German>
 		<Italian>Seleziona colore</Italian>
 		<Spanish>Selecci&#243;n Color</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STRATOVERLAY_SIGNS</Tag>
-		<English>Signs</English>
+		<English>&#x6807;&#x724c;</English>
 		<German>Markierungen</German>
 		<Italian>Etichette</Italian>
 		<Spanish>Marcas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STRATOVERLAY_ADDSIGN_TITLE</Tag>
-		<English>Add Overlay Sign</English>
+		<English>&#x6dfb;&#x52a0;&#x8986;&#x76d6;&#x5c42;&#x6807;&#x724c;</English>
 		<German>Overlay-Markierung hinzuf&#252;gen</German>
 		<Italian>Aggiungi livello etichette</Italian>
 		<Spanish>A&#241;adir Marca Superpuesta</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STRATOVERLAY_ADDSIGN_BODY</Tag>
-		<English>Caption for the sign</English>
+		<English>&#x6807;&#x724c;&#x7684;&#x6587;&#x5b57;&#x8bf4;&#x660e;</English>
 		<German>Text der Markierung</German>
 		<Italian>Testo dell'etichetta</Italian>
 		<Spanish>Texto de la Marca</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STRATOVERLAY_ADDSIGN</Tag>
-		<English>Add Sign</English>
+		<English>&#x6dfb;&#x52a0;&#x6807;&#x724c;</English>
 		<German>Markierung hinzuf&#252;gen</German>
 		<Italian>Aggiungi etichetta</Italian>
 		<Spanish>A&#241;adir Marca</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STRATOVERLAY_REMOVESIGN</Tag>
-		<English>Remove Sign</English>
+		<English>&#x79fb;&#x9664;&#x6807;&#x724c;</English>
 		<German>Markierung entfernen</German>
 		<Italian>Rimuovi etichetta</Italian>
 		<Spanish>Eliminar Marca</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STRATOVERLAY_ADDSIGN_EDITBOX_HELP</Tag>
-		<English>Enter the text to be displayed on the sign</English>
+		<English>&#x8f93;&#x5165;&#x8981;&#x5728;&#x6807;&#x724c;&#x4e0a;&#x663e;&#x793a;&#x7684;&#x6587;&#x5b57;</English>
 		<German>Eingabe des Textes, der auf der Markierung erscheinen soll</German>
 		<Italian>Digita il testo che deve essere visualizzato sull'etichetta</Italian>
 		<Spanish>Introducir texto a mostrar en la marca</Spanish>

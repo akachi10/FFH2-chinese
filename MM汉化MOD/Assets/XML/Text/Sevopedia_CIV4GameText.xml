@@ -6,18 +6,18 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_SEVOPEDIA_TITLE</Tag>
-		<English>SEVOPEDIA</English>
+		<English>&#x6587;&#x660e;&#x767e;&#x79d1;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_SCREEN_INDEX</Tag>
-		<English>Index</English>
+		<English>&#x7d22;&#x5f15;</English>
 		<Italian>[SPACE][SPACE][SPACE][SPACE][SPACE]Indice</Italian>
 		<Spanish>Índice</Spanish>
 		<Finnish>Hakemisto</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_SCREEN_CONTENTS</Tag>
-		<English>Contents</English>
+		<English>&#x76ee;&#x5f55;</English>
 		<French>Mati&#232;res</French>
 		<German>Inhalt</German>
 		<Italian>Contenuto</Italian>
@@ -26,7 +26,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_UNIT_UPGRADES</Tag>
-		<English>Unit Upgrades</English>
+		<English>&#x5355;&#x4f4d;&#x5347;&#x7ea7;</English>
 		<French>Am&#233;liorations des Unit&#233;s</French>
 		<German>Modernisierungs-[NEWLINE]baum</German>
 		<Italian>Avanzamenti</Italian>
@@ -35,7 +35,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_PROMOTION_TREE</Tag>
-		<English>Promotion Tree</English>
+		<English>&#x664b;&#x5347;&#x6811;</English>
 		<French>Arborescence des Promotions</French>
 		<German>Bef&#246;rderungsbaum</German>
 		<Italian>Albero Promoz.</Italian>
@@ -44,7 +44,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_NATIONAL_WONDERS</Tag>
-		<English>National Wonders</English>
+		<English>&#x56fd;&#x5bb6;&#x5947;&#x8ff9;</English>
 		<French>Merveilles Nationales</French>
 		<German>Nationale Wunder</German>
 		<Italian>Merav. Naz.</Italian>
@@ -53,7 +53,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_GREAT_WONDERS</Tag>
-		<English>Great Wonders</English>
+		<English>&#x4f1f;&#x5927;&#x5947;&#x8ff9;</English>
 		<French>Merveilles Mondiales</French>
 		<German>Weltwunder</German>
 		<Italian>Grandi Merav.</Italian>
@@ -62,7 +62,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_CONCEPT_NEW</Tag>
-		<English>BTS Concepts</English>
+		<English>BTS &#x6982;&#x5ff5;</English>
 		<French>Conceptes BTS</French>
 		<German>Beyond the Sword-Konzepte</German>
 		<Italian>Concetti di BTS</Italian>
@@ -71,7 +71,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_FAV_CIVIC_AND_RELIGION</Tag>
-		<English>Favorite Civic and Religion</English>
+		<English>&#x504f;&#x597d;&#x653f;&#x7b56;&#x4e0e;&#x5b97;&#x6559;</English>
 		<French>Doctrine et Religion Pr&#233;f&#233;r&#233;e</French>
 		<German>Bevorzugte Staatsform und Religion</German>
 		<Italian>Forme di governo e Religioni preferite</Italian>

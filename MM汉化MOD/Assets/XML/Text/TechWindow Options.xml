@@ -8,35 +8,35 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_TECHWINDOW__VIEWTYPE_TEXT</Tag>
-		<English>View</English>
+		<English>&#x89c6;&#x56fe;</English>
 		<German>Ansicht</German>
 		<Italian>Visualizzazione</Italian>
 		<Spanish>Vista</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_TECHWINDOW__VIEWTYPE_HOVER</Tag>
-		<English>Determines the view to display when you discover a technology.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Original[COLOR_REVERT] - Default minimal Civ4 view.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Detailed[COLOR_REVERT] - Adds more detailed information.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Wide[COLOR_REVERT] - Wider version of the Detailed view.</English>
+		<English>&#x51b3;&#x5b9a;&#x4f60;&#x7814;&#x53d1;&#x51fa;&#x67d0;&#x9879;&#x79d1;&#x6280;&#x65f6;&#x663e;&#x793a;&#x7684;&#x89c6;&#x56fe;&#x3002;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]&#x539f;&#x59cb;[COLOR_REVERT] - &#x9ed8;&#x8ba4;&#x7684;&#x7cbe;&#x7b80; Civ4 &#x89c6;&#x56fe;&#x3002;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]&#x8be6;&#x7ec6;[COLOR_REVERT] - &#x589e;&#x52a0;&#x66f4;&#x8be6;&#x5c3d;&#x7684;&#x4fe1;&#x606f;&#x3002;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]&#x5bbd;&#x5e45;[COLOR_REVERT] - &#x8be6;&#x7ec6;&#x89c6;&#x56fe;&#x7684;&#x52a0;&#x5bbd;&#x7248;&#x672c;&#x3002;</English>
 		<German>Bestimmt das Aussehen des Popups, das nach Erforschung oder Erwerb einer Technologie angezeigt wird:[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Standard[COLOR_REVERT] - Minimale Standardansicht aus Civ4[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Ausf&#252;hrlich[COLOR_REVERT] - Zeigt die Informationen &#252;bersichtlicher an[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Verbreitert[COLOR_REVERT] - Breitere Version der ausf&#252;hrlichen Ansicht</German>
 		<Italian>Determina quale visualizzazione mostrare quando viene scoperta una nuova Tecnologia:[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Originale[COLOR_REVERT] - visualizzazione minima standard di Civ4;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Dettagliata[COLOR_REVERT] - aggiunge informazioni pi&#249; dettagliate;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Ampia[COLOR_REVERT] - versione estesa della visualizzazione dettagliata.</Italian>
 		<Spanish>Determina la vista a mostrar cuando descubres una nueva tecnologia.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Original[COLOR_REVERT] - Vista m&#237;nima Predeterminada Civ4.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Detallada[COLOR_REVERT] - A&#241;ade mas informaci&#243;n detallada.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Amplia[COLOR_REVERT] - Versi&#243;n ampliada de la vista detallada.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_TECHWINDOW__VIEWTYPE_LIST</Tag>
-		<English>Original|Detailed|Wide</English>
+		<English>&#x539f;&#x59cb;|&#x8be6;&#x7ec6;|&#x5bbd;&#x5e45;</English>
 		<German>Standard|Ausf&#252;hrlich|Verbreitert</German>
 		<Italian>Originale|Dettagliata|Ampia</Italian>
 		<Spanish>Original|Detallada|Amplia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_TECHWINDOW__CIVILOPEDIATEXT_TEXT</Tag>
-		<English>Show Civilopedia Text</English>
+		<English>&#x663e;&#x793a;&#x6587;&#x660e;&#x767e;&#x79d1;&#x6587;&#x672c;</English>
 		<German>Civilopedia-Text anzeigen</German>
 		<Italian>Mostra il testo della Civilopedia</Italian>
 		<Spanish>Mostrar Texto Civilopedia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_TECHWINDOW__CIVILOPEDIATEXT_HOVER</Tag>
-		<English>When checked, includes the Civilopedia text after the quote for the discovered technology.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x4f1a;&#x5728;&#x6240;&#x7814;&#x53d1;&#x79d1;&#x6280;&#x7684;&#x5f15;&#x8a00;&#x4e4b;&#x540e;&#x9644;&#x4e0a;&#x5176;&#x6587;&#x660e;&#x767e;&#x79d1;&#x6587;&#x672c;&#x3002;</English>
 		<German>Zeigt den kompletten Eintrag einer erforschten oder erworbenen Technolgie aus der Civilopedia zus&#228;tzlich zu deren Zitat an</German>
 		<Italian>Quando &#232; selezionato, include il testo della Civilopedia dopo la citazione per la tecnologia scoperta.</Italian>
 		<Spanish>Cuando se activa, incluye el texto de la Civilopedia despu&#233;s de la rese&#241;a de la tecnolog&#237;a descubierta.</Spanish>

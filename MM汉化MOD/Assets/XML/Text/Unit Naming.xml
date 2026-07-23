@@ -10,21 +10,21 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_UNIT_NAMING_DOMAIN_LAND</Tag>
-		<English>Land</English>
+		<English>&#x9646;&#x5730;</English>
 		<French>Terrestre</French>
 		<Italian>Terrestre</Italian>
 		<Spanish>Tierra</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_UNIT_NAMING_DOMAIN_SEA</Tag>
-		<English>Naval</English>
+		<English>&#x6d77;&#x519b;</English>
 		<German>Marine</German>
 		<Italian>Navale</Italian>
 		<Spanish>Mar</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_UNIT_NAMING_DOMAIN_AIR</Tag>
-		<English>Air</English>
+		<English>&#x7a7a;&#x4e2d;</English>
 		<French>A&#233;rien</French>
 		<German>Luft</German>
 		<Italian>Aerea</Italian>
@@ -32,7 +32,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_UNIT_NAMING_DOMAIN_IMMOBILE</Tag>
-		<English>Stationary</English>
+		<English>&#x56fa;&#x5b9a;</English>
 		<French>Stationnaire</French>
 		<German>Station&#228;r</German>
 		<Italian>Stazionario</Italian>

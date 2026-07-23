@@ -3,26 +3,26 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_COST</Tag>
-		<English>[ICON_BULLET]Costs %d1[ICON_GOLD]</English>
+		<English>[ICON_BULLET]&#x82b1;&#x8d39; %d1[ICON_GOLD]</English>
 		<French>[ICON_BULLET]Coûte %d1[ICON_GOLD]</French>
 		<German>[ICON_BULLET]Kostet %d1[ICON_GOLD]</German>
 		<Spanish>[ICON_BULLET]Cuesta %d1[ICON_GOLD]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_COST_CANNOT_PAY</Tag>
-		<English>[ICON_BULLET][COLOR_RED]Costs %d1[COLOR_REVERT][ICON_GOLD]</English>
+		<English>[ICON_BULLET][COLOR_RED]&#x82b1;&#x8d39; %d1[COLOR_REVERT][ICON_GOLD]</English>
 		<French>[ICON_BULLET][COLOR_RED]Coûte %d1[COLOR_REVERT][ICON_GOLD]</French>
 		<German>[ICON_BULLET][COLOR_RED]Kostet %d1[COLOR_REVERT][ICON_GOLD]</German>
 		<Spanish>[ICON_BULLET][COLOR_RED]Cuesta %d1[COLOR_REVERT][ICON_GOLD]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_PROFIT</Tag>
-		<English>[ICON_BULLET]Receive %d1[ICON_GOLD]</English>
+		<English>[ICON_BULLET]&#x83b7;&#x5f97; %d1[ICON_GOLD]</English>
 		<German>[ICON_BULLET]Erhalte %d1[ICON_GOLD]</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MESSAGE_SPELL_CAST</Tag>
-		<English>%s1_UnitName casts %s2</English>
+		<English>%s1_UnitName &#x65bd;&#x653e;&#x4e86; %s2</English>
 		<French>%s1_UnitName jets %s2</French>
 		<German>%s1_UnitName wirkt %s2</German>
 		<Italian>%s1_UnitName tiri %s2</Italian>
@@ -30,124 +30,124 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MESSAGE_SPELL_MISCAST</Tag>
-		<English>%s1_UnitName miscasts %s2</English>
+		<English>%s1_UnitName &#x65bd;&#x6cd5;&#x5931;&#x8bef;&#x4e86; %s2</English>
 		<German>%s1_UnitName schlägt fehl beim Wirken von %s2</German>
 		<Spanish>%s1_UnitName lanza mal %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_IGNORE_HAS_CASTED</Tag>
-		<English>[ICON_BULLET]Can be cast even after casting another spell this turn</English>
+		<English>[ICON_BULLET]&#x672c;&#x56de;&#x5408;&#x5373;&#x4fbf;&#x5df2;&#x65bd;&#x653e;&#x8fc7;&#x53e6;&#x4e00;&#x9053;&#x6cd5;&#x672f;&#xff0c;&#x4ecd;&#x53ef;&#x65bd;&#x653e;</English>
 		<German>[ICON_BULLET]Kann auch nach einem anderen Zauber im selben Zug gewirkt werden</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_PREREQ_CASTER_ALIVE</Tag>
-		<English>[ICON_BULLET]Caster must be alive</English>
+		<English>[ICON_BULLET]&#x65bd;&#x6cd5;&#x8005;&#x5fc5;&#x987b;&#x5b58;&#x6d3b;</English>
 		<German>[ICON_BULLET]Der Zaubernde muss lebendig sein</German>
 		<Spanish>[ICON_BULLET]El lanzador debe ser vivo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_PREREQ_CASTER_NO_DURATION</Tag>
-		<English>[ICON_BULLET]Caster must not be temporary</English>
+		<English>[ICON_BULLET]&#x65bd;&#x6cd5;&#x8005;&#x4e0d;&#x5f97;&#x4e3a;&#x4e34;&#x65f6;&#x5355;&#x4f4d;</English>
 		<German>[ICON_BULLET]Der Zaubernde darf nicht temporär sein</German>
 		<Spanish>[ICON_BULLET]El lanzador no debe ser temporal</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_VOTE_PREREQ</Tag>
-		<English>[ICON_BULLET]Requires the resolution %s1_vote</English>
+		<English>[ICON_BULLET]&#x9700;&#x8981;&#x51b3;&#x8bae; %s1_vote</English>
 		<German>[ICON_BULLET]Benötigt die Resolution %s1_vote</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_PREREQ_POPULATION</Tag>
-		<English>[ICON_BULLET]Requires at least %d1 population points</English>
+		<English>[ICON_BULLET]&#x9700;&#x8981;&#x81f3;&#x5c11; %d1 &#x70b9;&#x4eba;&#x53e3;</English>
 		<German>[ICON_BULLET]Benötigt mindestens %d1 Bevölkerungspunkte</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_ADD_POPULATION</Tag>
-		<English>[ICON_BULLET]Increases the population of the city by %d1</English>
+		<English>[ICON_BULLET]&#x4f7f;&#x57ce;&#x5e02;&#x4eba;&#x53e3;&#x589e;&#x52a0; %d1</English>
 		<German>[ICON_BULLET]Erhöht die Bevölkerungzahl der Stadt um %d1</German>
 		<Spanish>[ICON_BULLET]Aumenta la población de la ciudad por %d1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_REMOVE_POPULATION</Tag>
-		<English>[ICON_BULLET]Reduces the population of the city by %d1</English>
+		<English>[ICON_BULLET]&#x4f7f;&#x57ce;&#x5e02;&#x4eba;&#x53e3;&#x51cf;&#x5c11; %d1</English>
 		<German>[ICON_BULLET]Verringert die Bevölkerungzahl der Stadt um %d1</German>
 		<Spanish>[ICON_BULLET]Reduce la población de la ciudad por %d1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_MISCAST_CHANCE</Tag>
-		<English>[ICON_BULLET]%d1% to be miscast</English>
+		<English>[ICON_BULLET]%d1% &#x7684;&#x51e0;&#x7387;&#x65bd;&#x6cd5;&#x5931;&#x8bef;</English>
 		<French>[ICON_BULLET]%d1% de rater le sort</French>
 		<German>[ICON_BULLET]%d1% dass der Zauber fehlschlägt</German>
 		<Spanish>[ICON_BULLET]%d1% de ser lanzado mal</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_MISCAST_CHANCE_RANGE</Tag>
-		<English>[ICON_BULLET]%d1-%d2% to be miscast</English>
+		<English>[ICON_BULLET]%d1-%d2% &#x7684;&#x51e0;&#x7387;&#x65bd;&#x6cd5;&#x5931;&#x8bef;</English>
 		<French>[ICON_BULLET]%d1-%d2% de rater le sort</French>
 		<German>[ICON_BULLET]%d1-%d2% dass der Zauber fehlschlägt</German>
 		<Spanish>[ICON_BULLET]%d1-%d2% de ser lanzado mal</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_MISCAST_CHANCE_MODIFY</Tag>
-		<English>[ICON_BULLET]%D1% to the miscasting rate</English>
+		<English>[ICON_BULLET]&#x65bd;&#x6cd5;&#x5931;&#x8bef;&#x7387; %D1%</English>
 		<German>[ICON_BULLET]%D1% zur Fehlschlagsrate von Zaubern</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TERRAFORM_TRANSFORMS</Tag>
-		<English>[ICON_BULLET]Turns [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT] into [COLOR_HIGHLIGHT_TEXT]%s2[COLOR_REVERT]</English>
+		<English>[ICON_BULLET]&#x5c06; [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT] &#x53d8;&#x4e3a; [COLOR_HIGHLIGHT_TEXT]%s2[COLOR_REVERT]</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_STARTS_WAR_WITH</Tag>
-		<English>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Starts a war with %s1_player[COLOR_REVERT]</English>
+		<English>[ICON_BULLET][COLOR_NEGATIVE_TEXT]&#x4e0e; %s1_player &#x5f00;&#x6218;[COLOR_REVERT]</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_ADD_PROMOTION_HEADER</Tag>
-		<English>[COLOR_ALT_HIGHLIGHT_TEXT]Promotion: %s1[COLOR_REVERT]</English>
+		<English>[COLOR_ALT_HIGHLIGHT_TEXT]&#x664b;&#x5347;&#xff1a;%s1[COLOR_REVERT]</English>
 		<Spanish>[COLOR_ALT_HIGHLIGHT_TEXT]Promoci&#243;n: %s1[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_CREATE_BUILDING_PRE_HEADER</Tag>
-		<English>[COLOR_BUILDING_TEXT]Building: [COLOR_REVERT]</English>
+		<English>[COLOR_BUILDING_TEXT]&#x5efa;&#x7b51;&#xff1a;[COLOR_REVERT]</English>
 		<Spanish>[COLOR_BUILDING_TEXT]Edificio: [COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_CREATE_UNIT_PRE_HEADER</Tag>
-		<English>[COLOR_UNIT_TEXT]Unit: [COLOR_REVERT]</English>
+		<English>[COLOR_UNIT_TEXT]&#x5355;&#x4f4d;&#xff1a;[COLOR_REVERT]</English>
 		<Spanish>[COLOR_UNIT_TEXT]Unidad: [COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_SUMMON_UNIT</Tag>
-		<English>[ICON_BULLET]Summons a [LINK=literal]%s1_unit[\LINK]</English>
+		<English>[ICON_BULLET]&#x53ec;&#x5524;&#x4e00;&#x4e2a; [LINK=literal]%s1_unit[\LINK]</English>
 		<French>[ICON_BULLET]Evoque un %s1_unit</French>
 		<German>[ICON_BULLET]Beschw&#246;rt eine %s1_unit</German>
 		<Spanish>[ICON_BULLET]Invoca una unidad de [LINK=literal]%s1_unit[\LINK]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_SUMMON_UNIT_MULTIPLE</Tag>
-		<English>[ICON_BULLET]Summons %D1 [LINK=literal]%s2_unitname[\LINK](s)</English>
+		<English>[ICON_BULLET]&#x53ec;&#x5524; %D1 &#x4e2a; [LINK=literal]%s2_unitname[\LINK]</English>
 		<French>[ICON_BULLET]Evoque %D1 %s2_unitname(s)</French>
 		<German>[ICON_BULLET]Beschw&#246;rt %D1 %s2_unitname(s)</German>
 		<Spanish>[ICON_BULLET]Invoca %D1 [LINK=literal]%s2_unitname[\LINK](s)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_SUMMON_UNIT_PERMANENT</Tag>
-		<English>[SPACE](permanent)</English>
+		<English>[SPACE]&#xff08;&#x6c38;&#x4e45;&#xff09;</English>
 		<Spanish>[SPACE](permanente)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_SUMMON_UNIT_IMMOBILE</Tag>
-		<English>[NEWLINE][ICON_BULLET]Unit starts immobile</English>
+		<English>[NEWLINE][ICON_BULLET]&#x5355;&#x4f4d;&#x8d77;&#x59cb;&#x65f6;&#x65e0;&#x6cd5;&#x79fb;&#x52a8;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_HELP_HAS_ACTIVE_SUMMON</Tag>
-		<English>[COLOR_NEGATIVE_TEXT]Can only maintain one summon of this type[COLOR_REVERT]</English>
+		<English>[COLOR_NEGATIVE_TEXT]&#x6b64;&#x7c7b;&#x578b;&#x7684;&#x53ec;&#x5524;&#x540c;&#x65f6;&#x53ea;&#x80fd;&#x7ef4;&#x6301;&#x4e00;&#x4e2a;[COLOR_REVERT]</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_HELP_SUMMONS_VS_SUMMONERS</Tag>
-		<English>(%d1/%d2 summoned units active)</English>
+		<English>&#xff08;%d1/%d2 &#x4e2a;&#x53ec;&#x5524;&#x5355;&#x4f4d;&#x6d3b;&#x52a8;&#x4e2d;&#xff09;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPELL_HELP_SUMMONS_VS_SUMMONERS_UNAVAILABLE</Tag>
-		<English>[COLOR_NEGATIVE_TEXT](%d1/%d2 summoned units active)[COLOR_REVERT]</English>
+		<English>[COLOR_NEGATIVE_TEXT]&#xff08;%d1/%d2 &#x4e2a;&#x53ec;&#x5524;&#x5355;&#x4f4d;&#x6d3b;&#x52a8;&#x4e2d;&#xff09;[COLOR_REVERT]</English>
 	</TEXT>
 </Civ4GameText>
