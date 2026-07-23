@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_ADVANCED_TACTICS</Tag>
+		<English>Advanced Tactics</English>
+		<Spanish>Tácticas Avanzadas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_ADVANCED_TACTICS_HELP</Tag>
+		<English>Adds new Combat Results, Diplomacy Options and Great Generals</English>
+		<French>Ajoute de nouveaux résultats de combat, options de diplomatie et grands généraux</French>
+		<German>Addiert neue Kampf-Resultate, Diplomatie-Wahlen und große Generäle</German>
+		<Italian>Aggiunge i nuovi risultati di combattimento, le opzioni di diplomazia ed i grandi General</Italian>
+		<Spanish>Agrega nuevos resultados del combate, opciones de diplomacia y a los Grandes Generales.</Spanish>
+	</TEXT>
+<!-- Start War Prizes -->
+	<TEXT>
+		<Tag>TXT_KEY_WEHAVECAPTUREDSOMETHING</Tag>
+		<English>We have captured the %s1!</English>
+		<Spanish>¡Hemos capturado [NUM1:un:una:unos:unas] %s1!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WEHAVELOSTSOMETHING</Tag>
+		<English>Our %s1 has been captured!</English>
+		<Spanish>¡[NUM1:Nuestro:Nuestra:Nuestros:Nuestras] %s1 [NUM1:ha:ha:han:han] sido [NUM1:capturado:capturada:capturados:capturadas]!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_WARPRIZES_SUCCESS</Tag>
+		<English>We have captured the %s1!</English>
+		<Spanish>¡Hemos capturado [NUM2:un:una:unos:unas] %s1!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_WARPRIZES_FAILURE</Tag>
+		<English>Our %s1 has been captured!</English>
+		<Spanish>¡[NUM1:Nuestro:Nuestra:Nuestros:Nuestras] %s1 [NUM1:ha:ha:han:han] sido [NUM1:capturado:capturada:capturados:capturadas]!</Spanish>
+	</TEXT>
+<!-- End War Prizes -->
+<!-- Start Great Generals -->
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_GREAT_GENERAL_SPLIT</Tag>
+		<English>Detach Great General</English>
+		<Spanish>Separar Gran General</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_GENERAL_KILLED</Tag>
+		<English>A Great General has been killed!</English>
+		<Spanish>¡Un Gran General ha muerto!</Spanish>
+	</TEXT>
+<!-- End Great Generals -->
+</Civ4GameText>

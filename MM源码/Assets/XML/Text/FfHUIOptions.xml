@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Misc stuff -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWLEADERDEFEATPOPUP_TEXT</Tag>
+		<English>Defeat popups</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWLEADERDEFEATPOPUP_HOVER</Tag>
+		<English>Show leader-specific popup when a player is defeated</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__AVOIDANGRYCITIZENSDEFAULT_TEXT</Tag>
+		<English>Avoid angry citizens in new cities</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__AVOIDANGRYCITIZENSDEFAULT_HOVER</Tag>
+		<English>Avoid angry citizens is enabled by default in new cities</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__AVOIDUNHEALTHYCITIZENSDEFAULT_TEXT</Tag>
+		<English>Avoid unhealthy citizens in new cities</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__AVOIDUNHEALTHYCITIZENSDEFAULT_HOVER</Tag>
+		<English>Avoid unhealthy citizens is enabled by default in new cities</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__PLOTHELPNUMUNITS_TEXT</Tag>
+		<English>Individual units in plot tooltip</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__PLOTHELPNUMUNITS_HOVER</Tag>
+		<English>Number of units in plot tooltip that are shown individually</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWKHAZADVAULTTEXT_TEXT</Tag>
+		<English>Show Khazad vault status</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWKHAZADVAULTTEXT_HOVER</Tag>
+		<English>Show Khazad vault status next to your current gold and income in the top left corner. Note that this information is always provided (to Khazad players) by hovering the mouse over your current gold.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWSPELLADDEDPROMOTIONHELP_TEXT</Tag>
+		<English>Added promotion details in spell help</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWSPELLADDEDPROMOTIONHELP_HOVER</Tag>
+		<English>Spells that add promotions (to your or enemy units) show the properties of those promotions in their description</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWSPELLCREATEDUNITHELP_TEXT</Tag>
+		<English>Summoned unit details in spell help</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWSPELLCREATEDUNITHELP_HOVER</Tag>
+		<English>Spells that summon units show the properties of those units in their description</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWSPELLCREATEDBUILDINGHELP_TEXT</Tag>
+		<English>Created building details in spell help</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWSPELLCREATEDBUILDINGHELP_HOVER</Tag>
+		<English>Spells that create buildings show the properties of those buildings in their description</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWTURNSUNTILDIFFICULTYCHANGE_TEXT</Tag>
+		<English>Show turns until difficulty change</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_FFHUI__SHOWTURNSUNTILDIFFICULTYCHANGE_HOVER</Tag>
+		<English>If Flexible Difficulty or Increasing Difficulty is enabled, show the number of turns until the next change along with the current difficulty</English>
+	</TEXT>
+</Civ4GameText>

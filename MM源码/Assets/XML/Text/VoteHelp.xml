@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+	VOTE_PEDIA 11/2019 lfgr: Text for vote help
+	Used in various tooltips
+-->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!-- Text for Victory advisor -->
+	<TEXT>
+		<Tag>TXT_KEY_NO_ACTIVE_VOTE_SOURCES</Tag>
+		<English>No active councils</English>
+		<German>Keine aktiven Räte</German>
+		<Spanish>No hay concilios activos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SECRETARY_GENERAL_UNKNOWN</Tag>
+		<English>Unknown</English>
+		<German>Unbekannt</German>
+		<Spanish>Desconocido</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SECRETARY_GENERAL_VACANT</Tag>
+		<English>Vacant</English>
+		<German>Unbesetzt</German>
+		<Spanish>Vacante</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TURNS_UNTIL_NEXT_VOTE</Tag>
+		<English>Turns until next vote</English>
+		<German>Runden bis zur nächsten Abstimmung</German>
+	</TEXT>
+	
+	<!-- Message after voting -->
+	
+	<TEXT>
+		<Tag>TXT_KEY_MSG_VOTE_PASSED</Tag>
+		<English>The members of the %s1_council have passed the resolution %s2_resolution.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MSG_VOTE_REJECTED</Tag>
+		<English>The members of the %s1_council have rejected the resolution %s2_resolution.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MSG_VOTE_PASSED_AGAIN</Tag>
+		<English>The members of the %s1_council have confirmed the resolution %s2_resolution.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MSG_VOTE_REPEALED</Tag>
+		<English>The members of the %s1_council have repealed the resolution %s2_resolution.</English>
+	</TEXT>
+	
+	<!-- Text for vote help, used in various tooltips -->
+	
+	<!-- Requirements -->
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_REQUIRED_VOTES</Tag>
+		<English>[ICON_BULLET]Requires %d1 of %d2 Total Votes</English>
+		<French>[ICON_BULLET]N&#233;cessite %d1 sur %d2 votes au total</French>
+		<German>[ICON_BULLET]Erfordert %d1 von %d2 Gesamtstimmen</German>
+		<Italian>[ICON_BULLET]Richiede %d1 su %d2 voti totali</Italian>
+		<Spanish>[ICON_BULLET]Son necesarios %d1 de un total de %d2 votos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_POPULATION_THRESHOLD</Tag>
+		<English>[ICON_BULLET]Requires %d1%% of all votes</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_MIN_VOTERS</Tag>
+		<English>[ICON_BULLET]Requires at least %d1 voting members</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_ALL_PLAYERS</Tag>
+		<English>[ICON_BULLET]All players must be voting members</English>
+	</TEXT>
+	
+	<!-- Voting rules -->
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_CIV_VOTING</Tag>
+		<English>[ICON_BULLET]Each member has one vote</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_CIV_VOTING_RELIGION</Tag>
+		<English>[ICON_BULLET]Each member with a %F2_Religion city has one vote</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_CITY_VOTING</Tag>
+		<English>[ICON_BULLET]Each member has one vote per city</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_CITY_VOTING_RELIGION</Tag>
+		<English>[ICON_BULLET]Each member has one vote per %F2_Religion city</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_POP_VOTING</Tag>
+		<English>[ICON_BULLET]Each member has one vote per population point</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_POP_VOTING_RELIGION</Tag>
+		<English>[ICON_BULLET]Each member has one vote per %F2_Religion population point</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_STATE_RELIGION_VOTE_PERCENT</Tag>
+		<English>[ICON_BULLET]Players with correct state religion have %D1%% more votes</English>
+	</TEXT>
+	
+	<!-- Special effects -->
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_SEC_GEN_ELECTION</Tag>
+		<English>[ICON_BULLET]Election of the %s1 (can propose resolutions)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_VICTORY</Tag>
+		<English>[ICON_BULLET]Makes a player win a diplomatic victory</English>
+	</TEXT>
+	
+	<!-- Permanent effects (until revoked) -->
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_TRADE_ROUTES</Tag>
+		<English>[ICON_BULLET]%D1 trade routes ([ICON_TRADE]) for all players</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_NO_NUKES</Tag>
+		<English>[ICON_BULLET]Forbids nukes</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FREE_TRADE</Tag>
+		<English>[ICON_BULLET]Trade routes ([ICON_TRADE]) between all players</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_NO_BONUS</Tag>
+		<English>[ICON_BULLET]Disables access to %F1 for all members</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FORCE_CIVIC</Tag>
+		<English>[ICON_BULLET]All members have to adopt [LINK=literal]%s1[\LINK]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_ENABLES_ABILITY</Tag>
+		<English>[ICON_BULLET]Enables the ability [LINK=literal]%s1[\LINK]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_ENABLES_SPELL</Tag>
+		<English>[ICON_BULLET]Enables the spell [LINK=literal]%s1[\LINK]</English>
+	</TEXT>
+	
+	<!-- One-time effects: diplomacy -->
+	<!-- LFGR_TODO defensive pacts etc. can be canceled currently, should be permanent. -->
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_DEFENSIVE_PACT</Tag>
+		<English>[ICON_BULLET]All members sign defensive pacts with each other</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_OPEN_BORDERS</Tag>
+		<English>[ICON_BULLET]All members sign an open borders agreement with each other</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FORCE_PEACE</Tag>
+		<English>[ICON_BULLET]All other members sign a peace treaty with %s1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FORCE_PEACE_SOMEONE</Tag>
+		<English>[ICON_BULLET]All other members sign a peace treaty with a chosen member</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FORCE_NO_TRADE</Tag>
+		<English>[ICON_BULLET]All members cancel all deals with %s1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FORCE_NO_TRADE_SOMEONE</Tag>
+		<English>[ICON_BULLET]All members cancel all deals with a chosen non-member</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FORCE_WAR</Tag>
+		<English>[ICON_BULLET]All members declare war on %s1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FORCE_WAR_SOMEONE</Tag>
+		<English>[ICON_BULLET]All members declare war on a chosen non-member</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_NO_OUTSIDE_TECH_TRADES</Tag>
+		<English>[ICON_BULLET]Members cannot trade with non-members</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_CULTURE_NEEDS_EMPTY_RADIUS</Tag>
+		<English>[ICON_BULLET]Cannot overtake territory of other members via culture</English>
+	</TEXT>
+	
+	<!-- One-time effects: various -->
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_RECEIVE_UNIT_COST</Tag>
+		<English>[ICON_BULLET]Each member who can pay %d1 %F2 receives [LINK=literal]%s3[\LINK]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_RECEIVE_UNIT</Tag>
+		<English>[ICON_BULLET]Each member receives %s1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_CRIME</Tag>
+		<English>[ICON_BULLET]%D1 to the global crime rate</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_REASSIGN_CITY</Tag>
+		<English>[ICON_BULLET]Reassigns ownership of a city</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_REASSIGN_CITY_FROM_TO</Tag>
+		<English>[ICON_BULLET]Reassigns ownership of %s1 from %s2 to %s3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_TRADE_MAP</Tag>
+		<English>[ICON_BULLET]All members share their current world maps</English>
+	</TEXT>
+</Civ4GameText>

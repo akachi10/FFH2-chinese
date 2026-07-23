@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- RevolutionDCM/LoR -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Jesse Smith (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_MOD_NO_CONFIG</Tag>
+		<English>WARNING:[NEWLINE][NEWLINE]"%s1" not found![NEWLINE][NEWLINE]Default values are used![NEWLINE][NEWLINE]Check mod installation directory, should be:[NEWLINE][NEWLINE]%s2</English>
+		<German>ACHTUNG:[NEWLINE][NEWLINE]"%s1" nicht gefunden![NEWLINE][NEWLINE]Standardwerte werden verwendet![NEWLINE][NEWLINE]Bitte Modinstallationsordner pr&#252;fen:[NEWLINE][NEWLINE]%s2</German>
+		<Italian>ATTENZIONE:[NEWLINE][NEWLINE]"%s1" non trovato![NEWLINE][NEWLINE]Viene usata la configurazione base![NEWLINE][NEWLINE]Controlla la cartella di istallazione del Mod, dovrebbe essere:[NEWLINE][NEWLINE]%s2</Italian>
+		<Spanish>WARNING:[NEWLINE][NEWLINE]"%s1" no encontrado.[NEWLINE][NEWLINE]Usando los valores por defecto.[NEWLINE][NEWLINE]Revisa el directorio de la instalaci&#243;n del Mod, deber&#237;a ser:[NEWLINE][NEWLINE]%s2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_RUNNING_INFO</Tag>
+		<English>evolutionDCM running with the following components:</English>
+		<German>evolutionDCM l&#228;uft mit folgenden Komponenten:</German>
+		<Italian>evolutionDCM MOD in funzione con i componenti:</Italian>
+		<Spanish>evolution mod funcionando con estos componentes: (</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_RUNNING_ON</Tag>
+		<English>on</English>
+		<German>ein</German>
+		<Spanish>activado</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_RUNNING_OFF</Tag>
+		<English>off</English>
+		<German>aus</German>
+		<Spanish>desactivado</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_MAX_CIVS_IN_DLL</Tag>
+		<English>[NEWLINE][NEWLINE]Max civs in DLL: %d1</English>
+		<German>[NEWLINE][NEWLINE]Maximale Anzahl der Zivilisationen in DLL: %d1</German>
+		<Italian>[NEWLINE][NEWLINE]Numero massimo civilt&#224; (DLL): %d1</Italian>
+		<Spanish>[NEWLINE][NEWLINE]Civilizaciones m&#225;ximas en DLL: %d1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_REVS_WILL_STOP_AT</Tag>
+		<English>[NEWLINE][SPACE]Revolution will stop at %d1 Civs</English>
+		<German>[NEWLINE][SPACE]Revolution wird beendet bei %d1 Zivilisationen</German>
+		<Italian>[NEWLINE][SPACE]Il Mod "Revolution" terminer&#224; con %d1 Civilt&#224;</Italian>
+		<Spanish>[NEWLINE][SPACE]Revolution se detendr&#225; al llegar %d1 civilizaciones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_BARB_CIV_WILL_STOP_AT</Tag>
+		<English>[NEWLINE][SPACE]BarbarianCiv will stop at %d1 Civs</English>
+		<German>[NEWLINE][SPACE]Barbarenzivilisation wird beendet bei %d1 Zivilisationen</German>
+		<Italian>[NEWLINE][SPACE]Il Mod "BarbarianCiv" terminer&#224; con %d1 Civilt&#224;</Italian>
+		<Spanish>[NEWLINE][SPACE]BarbarianCiv se detendr&#225; al llegar a %d1 civilizaciones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_TURNS_IN_GAME</Tag>
+		<English>[NEWLINE]Turns in game: %d1</English>
+		<German>[NEWLINE]Runden im Spiel: %d1</German>
+		<Italian>[NEWLINE]Turni della partita: %d1</Italian>
+		<Spanish>[NEWLINE]Turnos en juego: %d1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_DEFAULT_NUM_PLAYERS</Tag>
+		<English>[NEWLINE]Default num players: %d1</English>
+		<German>[NEWLINE]Voreingestellte Anzahl der Spieler: %d1</German>
+		<Italian>[NEWLINE]Numero predefinito di giocatori: %d1</Italian>
+		<Spanish>[NEWLINE]Numero de jugadores por defecto: %d1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING</Tag>
+		<English>Initializing Revolution Mod</English>
+		<German>Initialisiere Revolution-Mod</German>
+		<Spanish>Inicializando Revolution Mod</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_INIT</Tag>
+		<English>[NEWLINE]Revolutions Options:</English>
+		<German>[NEWLINE]Revolutions-Optionen:</German>
+		<Italian>[NEWLINE]Opzioni "Revolutions" :</Italian>
+		<Spanish>[NEWLINE]Opciones Revolutions:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_DCM_OPTIONS</Tag>
+		<English>[NEWLINE]DCM Options:</English>
+		<German>[NEWLINE]DCM-Optionen:</German>
+		<Italian>[NEWLINE]Opzioni "DCM" :</Italian>
+		<Spanish>[NEWLINE]Opciones DCM:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_IDW_OPTIONS</Tag>
+		<English>[NEWLINE]IDW Options:</English>
+		<German>[NEWLINE]IDW-Optionen:</German>
+		<Italian>[NEWLINE]Opzioni "IDW" :</Italian>
+		<Spanish>[NEWLINE]Opciones IDW:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_INQUISITIONS_OPTIONS</Tag>
+		<English>[NEWLINE]Inquisitions Options:</English>
+		<German>[NEWLINE]Inquisitions-Optionen:</German>
+		<Italian>[NEWLINE]Opzioni "Inquisizioni" :</Italian>
+		<Spanish>[NEWLINE]Opciones Inquisici&#243;n:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_RELIGION_OPTIONS</Tag>
+		<English>[NEWLINE]Religion Options:</English>
+		<German>[NEWLINE]Religions-Optionen:</German>
+		<Italian>[NEWLINE]Opzioni "Religione":</Italian>
+		<Spanish>[NEWLINE]Opciones Religi&#243;n:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_SS_OPTIONS</Tag>
+		<English>[NEWLINE]Super Spies Options:</English>
+		<German>[NEWLINE]Superspion-Optionen:</German>
+		<Italian>[NEWLINE]Opzioni "Super Spie" :</Italian>
+		<Spanish>[NEWLINE]Opciones S&#250;per Esp&#237;as:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_GAME_SHORTCUTS</Tag>
+		<English>[NEWLINE]In Game Shortcuts:</English>
+		<German>[NEWLINE]Tastaturk&#252;rzel im Spiel:</German>
+		<Italian>[NEWLINE]Hot key in gioco:</Italian>
+		<Spanish>[NEWLINE]Atajos de Teclado en Juego:</Spanish>
+	</TEXT>
+
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_BARBARIAN_CIV</Tag>
+		<English>[NEWLINE][TAB]BarbarianCiv</English>
+		<German>[NEWLINE][TAB]Barbarenzivilisation</German>
+		<Italian>[NEWLINE][TAB]"BarbarianCiv"</Italian>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_BARBARIAN_WORLD</Tag>
+		<English>[NEWLINE][TAB]Barbarian World</English>
+		<German>[NEWLINE][TAB]Barbarenwelt</German>
+		<Italian>[NEWLINE][TAB]"Barbarian World"</Italian>
+		<Spanish>[NEWLINE][TAB]Mundo B&#225;rbaro</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_REVOLUTION</Tag>
+		<English>[NEWLINE][TAB]Revolutions</English>
+		<Italian>[NEWLINE][TAB]"Revolutions"</Italian>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_TECH_DIFFUSION</Tag>
+		<English>[NEWLINE][TAB]Tech Diffusion</English>
+		<German>[NEWLINE][TAB]Technologiediffusion</German>
+		<Italian>[NEWLINE][TAB]"Tech Diffusion"</Italian>
+		<Spanish>[NEWLINE][TAB]Difusi&#243;n Tecnol&#243;gica</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_START_AS_MINORS</Tag>
+		<English>[NEWLINE][TAB]Start As Minors</English>
+		<German>[NEWLINE][TAB]Als kleine Civ beginnen</German>
+		<Italian>[NEWLINE][TAB]"Start As Minors"</Italian>
+		<Spanish>[NEWLINE][TAB]Comenzar como Menores</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_NONE</Tag>
+		<English>[NEWLINE][TAB]None</English>
+		<German>[NEWLINE][TAB]Keine</German>
+		<Italian>[NEWLINE][TAB]"None"</Italian>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_BATTLE_EFFECTS</Tag>
+		<English>[NEWLINE][TAB]Battle Effects</English>
+		<German>[NEWLINE][TAB]Kampfeffekte</German>
+		<Italian>[NEWLINE][TAB]"Effetti della battaglia"</Italian>
+		<Spanish>[NEWLINE][TAB]Efectos de Batalla</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_ARCHER_BOMBARD</Tag>
+		<English>[NEWLINE][TAB]Archer Bombard</English>
+		<German>[NEWLINE][TAB]Bogensch&#252;tzenbombardierung</German>
+		<Italian>[NEWLINE][TAB]"Lancio di frecce a raffica"</Italian>
+		<Spanish>[NEWLINE][TAB]Cortina de Flechas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_STACK_ATTACK</Tag>
+		<English>[NEWLINE][TAB]Stack Attack</English>
+		<German>[NEWLINE][TAB]Stapelangriff</German>
+		<Italian>[NEWLINE][TAB]"Attacco di gruppo"</Italian>
+		<Spanish>[NEWLINE][TAB]Ataque Combinado</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_ATTACK_SUPPORT</Tag>
+		<English>[NEWLINE][TAB]Attack Support</English>
+		<German>[NEWLINE][TAB]Angriffsunterst&#252;tzung</German>
+		<Italian>[NEWLINE][TAB]"Attack Support"</Italian>
+		<Spanish>[NEWLINE][TAB]Soporte al ataque</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_RANGE_BOMBARD</Tag>
+		<English>[NEWLINE][TAB]Ranged Bombard</English>
+		<German>[NEWLINE][TAB]Fernbombardierung</German>
+		<Italian>[NEWLINE][TAB]"Bombardamento ad Area"</Italian>
+		<Spanish>[NEWLINE][TAB]Bombardeo a Distancia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_OPP_FIRE</Tag>
+		<English>[NEWLINE][TAB]Opportunity Fire</English>
+		<German>[NEWLINE][TAB]Gelegenheitstreffer</German>
+		<Italian>[NEWLINE][TAB]"Fuoco di Opportunit&#224;"</Italian>
+		<Spanish>[NEWLINE][TAB]Ataque de Oportunidad</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_AIR_BOMBING</Tag>
+		<English>[NEWLINE][TAB]Air Bombing</English>
+		<German>[NEWLINE][TAB]Luftbombardierung</German>
+		<Italian>[NEWLINE][TAB]"Bombardamento aereo"</Italian>
+		<Spanish>[NEWLINE][TAB]Bombardeo A&#233;reo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_ACTIVE_DEFENSE</Tag>
+		<English>[NEWLINE][TAB]Active Defense</English>
+		<German>[NEWLINE][TAB]Aktive Verteidigung</German>
+		<Italian>[NEWLINE][TAB]"Difesa Attiva"</Italian>
+		<Spanish>[NEWLINE][TAB]Defensa Activa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_FIGHTER_ENGAGE</Tag>
+		<English>[NEWLINE][TAB]Fighter Engage</English>
+		<German>[NEWLINE][TAB]J&#228;gerangriff</German>
+		<Italian>[NEWLINE][TAB]"Ingaggio"</Italian>
+		<Spanish>[NEWLINE][TAB]Superioridad A&#233;rea</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_NAVAL_BOMBARD</Tag>
+		<English>[NEWLINE][TAB]Naval Bombard</English>
+		<German>[NEWLINE][TAB]Seebombardierung</German>
+		<Italian>[NEWLINE][TAB]"Bombardamento Navale"</Italian>
+		<Spanish>[NEWLINE][TAB]Bombardeo Naval</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_IDW_ENABLED</Tag>
+		<English>[NEWLINE][TAB]IDW Influence</English>
+		<German>[NEWLINE][TAB]EbK-Beeinflussung</German>
+		<Italian>[NEWLINE][TAB]Influenza "IDW"</Italian>
+		<Spanish>[NEWLINE][TAB]Influencia IDW</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_PILLAGE_INFLUENCE</Tag>
+		<English>[NEWLINE][TAB]Pillage Influence</English>
+		<German>[NEWLINE][TAB]Beeinflussung durch Pl&#252;nderung</German>
+		<Italian>[NEWLINE][TAB]Influenza da Saccheggio</Italian>
+		<Spanish>[NEWLINE][TAB]Influencia Saqueos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_EMERGENCY_DRAFT</Tag>
+		<English>[NEWLINE][TAB]Spawn Emergency Defenders</English>
+		<German>[NEWLINE][TAB]Erzeuge Notfallverteidiger</German>
+		<Italian>[NEWLINE][TAB]Crea Difensori di Emergenza</Italian>
+		<Spanish>[NEWLINE][TAB]Crea Defensores Emergencia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_NO_BARBARIAN_INFLUENCE</Tag>
+		<English>[NEWLINE][TAB]No Barbarian Influence</English>
+		<German>[NEWLINE][TAB]Keine Beeinflussung bei Kampf mit Barbaren</German>
+		<Italian>[NEWLINE][TAB]Nessuna Influenza Barbarica</Italian>
+		<Spanish>[NEWLINE][TAB]Sin Influencia  Barbar&#225;</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_NO_NAVAL_INFLUENCE</Tag>
+		<English>[NEWLINE][TAB]No Naval Influence</English>
+		<German>[NEWLINE][TAB]Keine Beeinflussung auf Meeresfeldern</German>
+		<Italian>[NEWLINE][TAB]Nessuna Influenza Navale</Italian>
+		<Spanish>[NEWLINE][TAB]Sin Influencia Naval</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_INQUISITIONS_ENABLED</Tag>
+		<English>[NEWLINE][TAB]Inquisitions Enabled</English>
+		<German>[NEWLINE][TAB]Inquisitionen Aktiviert</German>
+		<Italian>[NEWLINE][TAB]"Inquisizioni" attivato</Italian>
+		<Spanish>[NEWLINE][TAB]Inquisici&#243;n Activada</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_RESPAWN_HOLY_CITIES</Tag>
+		<English>[NEWLINE][TAB]Holy City Relocation</English>
+		<German>[NEWLINE][TAB]Heilige Stadt versetzen</German>
+		<Italian>[NEWLINE][TAB]Riposizionamento Citt&#224; Santa</Italian>
+		<Spanish>[NEWLINE][TAB]Reubicaci&#243;n Ciudad Santa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_LIMITED_RELIGIONS</Tag>
+		<English>[NEWLINE][TAB]Limited Religions</English>
+		<German>[NEWLINE][TAB]Begrenzte Religionen</German>
+		<Italian>[NEWLINE][TAB]Religioni Limitate</Italian>
+		<Spanish>[NEWLINE][TAB]Religiones Limitadas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_CHOOSE_RELIGION</Tag>
+		<English>[NEWLINE][TAB]Choose Religion</English>
+		<German>[NEWLINE][TAB]Religion ausw&#228;hlen</German>
+		<Italian>[NEWLINE][TAB]Scegli Religione</Italian>
+		<Spanish>[NEWLINE][TAB]Escoger Religi&#243;n</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_SS_ENABLED</Tag>
+		<English>[NEWLINE][TAB]Super Spies Enabled</English>
+		<German>[NEWLINE][TAB]Superspione Aktiviert</German>
+		<Italian>[NEWLINE][TAB]"Super Spie" attivato</Italian>
+		<Spanish>[NEWLINE][TAB]Activar S&#250;per Esp&#237;as</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_SS_BRIBE</Tag>
+		<English>[NEWLINE][TAB]Bribe Mission</English>
+		<German>[NEWLINE][TAB]Bestechungsmission</German>
+		<Italian>[NEWLINE][TAB]Missione "Corruzione"</Italian>
+		<Spanish>[NEWLINE][TAB]Misiones de Soborno</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_SS_ASSASSINATE</Tag>
+		<English>[NEWLINE][TAB]Assassinate Mission</English>
+		<German>[NEWLINE][TAB]Attent&#228;termission</German>
+		<Italian>[NEWLINE][TAB]Missione "Assassinio"</Italian>
+		<Spanish>[NEWLINE][TAB]Misiones de Asesinato</Spanish>
+	</TEXT>
+
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_BUG_OPTIONS_SHORTCUT</Tag>
+		<English>[NEWLINE]CTRL-ALT-O = Game Options</English>
+		<German>[NEWLINE]CTRL-ALT-O = Spieloptionen</German>
+		<Italian>[NEWLINE]CTRL-ALT-O = Opzioni di gioco</Italian>
+		<Spanish>[NEWLINE]CTRL-ALT-O = Opciones de Juego</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_INIT_POPUP</Tag>
+		<English>[NEWLINE]CTRL-SHIFT-Q = This popup</English>
+		<German>[NEWLINE]CTRL-SHIFT-Q = Dieses Fenster</German>
+		<Italian>[NEWLINE]CTRL-SHIFT-Q = Questo Popup</Italian>
+		<Spanish>[NEWLINE]CTRL-SHIFT-Q = Este popup</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_MOD_INITIALIZING_AI_AUTOPLAY</Tag>
+		<English>[NEWLINE]CTRL-SHIFT-X = AI Autoplay</English>
+		<German>[NEWLINE]CTRL-SHIFT-X = KI Autoplay</German>
+		<Italian>[NEWLINE]CTRL-SHIFT-X = Automazione IA</Italian>
+	</TEXT>
+</Civ4GameText>

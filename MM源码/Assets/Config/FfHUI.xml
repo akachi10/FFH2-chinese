@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+	FfHUI 05/2020 lfgr
+	Configurable UI functionality for Fall from Heaven.
+-->
+<mod id="FfHUI"
+	name="Fall from Heaven 2 UI"
+	module="FfHUI"
+	author="lfgr"
+	date="05/2020">
+
+	<event type="setPlayerAlive" function="onSetPlayerAlive"/>
+
+	<options id="Fall from Heaven 2" file="Fall from Heaven 2.ini">
+		<section id="Popups">
+			<option id="ShowLeaderDefeatPopup" type="boolean" default="True" />
+		</section>
+		<section id="Cities">
+			<option id="AvoidAngryCitizensDefault" type="boolean" default="True" />
+			<option id="AvoidUnhealthyCitizensDefault" type="boolean" default="False" />
+		</section>
+		<section id="PlotHelp">
+			<list id="PlotHelpNumUnits" key="Plot Help Num Units" type="int" default="15" listType="int"
+				values="5, 10, 15, 20" />
+		</section>
+		<section id="Interface">
+			<option id="ShowKhazadVaultText" type="boolean" default="False" dirtyBit="GameData" />
+			<option id="ShowTurnsUntilDifficultyChange" type="boolean" default="True" dirtyBit="Score" />
+			<option id="ShowSpellAddedPromotionHelp" type="boolean" default="True" />
+			<option id="ShowSpellCreatedUnitHelp" type="boolean" default="True" />
+			<option id="ShowSpellCreatedBuildingHelp" type="boolean" default="True" />
+		</section>
+	</options>
+
+	<!-- Khazad vault text -->
+	<widget name="WIDGET_PLAYER_GOLD" function="getPlayerGoldTooltip"/>
+
+	<!-- Plot help unit cycling -->
+	<shortcut function="cyclePlotHelpForwards" keys="Ctrl Space | -"/>
+	<shortcut function="cyclePlotHelpBackwards" keys="Ctrl Shift Space"/>
+</mod>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+<!-- Start Puppet States -->
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_PUPPET_STATES</Tag>
+		<English>Puppet States</English>
+		<Spanish>Estados Marioneta</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_PUPPET_STATES_HELP</Tag>
+		<English>Allows the creation of Puppet States</English>
+		<Spanish>Permite la creación de Estados Marioneta</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_PUPPET_STATES</Tag>
+		<English>Puppet States</English>
+		<French>Sorts Mondiaux</French>
+		<German>Weltzauber</German>
+		<Italian>World Spells</Italian>
+		<Spanish>Estados Marioneta</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_PUPPET_STATES_PEDIA</Tag>
+		<English>[H1]Puppet States[\H1][PARAGRAPH:2]Puppet States can be formed when a civilization with knowledge of how to form Vassal States conquers a city. Puppet States are created as a Vassal of the conquering player, and are the same civilization type as the previous city owner. Puppet States are a special type of vassal in that they don't get a Palace and are permanently a Vassal unless they achieve Legitimacy. A Puppet State achieves Legitimacy when it is the last remaining civ of it's civilization type. At that point it becomes a regular Vassal rather than a Puppet State.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ENABLES_PUPPET_STATES</Tag>
+		<English>[ICON_BULLET]Enables Puppet States</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_CREATE_PUPPET_STATE</Tag>
+		<English>Form a pro-%s1 State in %s2_City</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MEMORY_MADE_PUPPET</Tag>
+		<English>&quot;We owe our power to you.&quot;</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_MAKE_PUPPET</Tag>
+		<English>%s1_CivAdj forces in %s2_City have named %s3_Leader as leader of the new %s4_Civ government!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_RETURN_PUPPET_CITY</Tag>
+		<English>No, hand control over to our %s1_CivName allies</English>
+		<French>Non, rendez-la aux %s1_CivName.</French>
+		<German>Nein, &#252;bergebt sie wieder an das %s1:2_CivName</German>
+		<Italian>No, restituisci il controllo all'%s1_CivName</Italian>
+		<Spanish>No, devolvedle el control al %s1_CivName</Spanish>
+	</TEXT>
+<!-- End Puppet States -->
+</Civ4GameText>

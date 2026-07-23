@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+	MagisterModMod EventHandlers
+	
+	DESCRIPTION HERE
+-->
+<mod id="MagisterEvents"
+	name="Magister Events"
+	author="MagisterCultuum"
+	version="..."
+	date="..."
+	url="...">
+	<event type="combatWithdrawal" module="MagisterEvents" function="onCombatWithdrawal"/>
+	<event type="combatRetreat" module="MagisterEvents" function="onCombatRetreat"/>
+	<event type="combatDefenderRetreat" module="MagisterEvents" function="onCombatDefenderRetreat"/>
+</mod>
