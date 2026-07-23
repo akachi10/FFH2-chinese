@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Text for general building help and messages. -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANTISPRAWLING</Tag>
+		<English>[ICON_BULLET]&#x57ce;&#x5e02;&#x5708;&#x7f29;&#x5c0f;</English>
+		<French>[ICON_BULLET]Emp&#234;che la ville d'exploiter le deuxi&#232;me rayon de cases.</French>
+		<German>[ICON_BULLET]Verbietet der Stadt die Nutzung des zweiten Stadtfeldrings.</German>
+		<Spanish>[ICON_BULLET]Proh&#237;be a la ciudad utilizar el segundo anillo de casillas.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_APPLY_FREE_PROMOTION_ON_MOVE</Tag>
+		<English>&#xff08;&#x4e5f;&#x7ed9;&#x4e88;&#x505c;&#x7559;&#x5728;&#x57ce;&#x5e02;&#x91cc;&#x7684;&#x5355;&#x4f4d;&#xff09;</English>
+		<French>[SPACE](appliqu&#233; aux unit&#233;s dans la ville)</French>
+		<German>[SPACE](angewendet von Einheiten in der Stadt)</German>
+		<Spanish>[SPACE](aplicado a las unidades en la ciudad)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CRIME</Tag>
+		<English>[ICON_BULLET]&#x72af;&#x7f6a;&#x7387;%D1</English>
+		<French>[ICON_BULLET]%D1 au taux de crimes</French>
+		<German>[ICON_BULLET]%D1 Verbrechensrate</German>
+		<Spanish>[ICON_BULLET]%D1 al &#237;ndice de criminalidad</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_EXPIRES_END_OF_TURN</Tag>
+		<English>[ICON_BULLET]Wears off at end of turn</English>
+		<German>[ICON_BULLET]Verschwindet am Ende des Zuges</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FREE_PROMOTION_PICK</Tag>
+		<English>[ICON_BULLET]&#x7ed9;&#x65b0;&#x5efa;&#x5355;&#x4f4d;%D1&#x6b21;&#x514d;&#x8d39;&#x664b;&#x5347;</English>
+		<French>[ICON_BULLET] Les unit&#233;s commencent avec %D1 promotion(s) gratuite(s)</French>
+		<German>[ICON_BULLET]Einheiten beginnen mit %D1 freier/en Bef&#246;rderung(en)</German>
+		<Spanish>[ICON_BULLET]Las unidades empiezan con %D1 promocion(es) gratuitas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GLOBAL_RESIST_ENEMY_MODIFY</Tag>
+		<English>[ICON_BULLET]&#x654c;&#x519b;&#x5bf9;&#x4f60;&#x7684;&#x9b54;&#x6cd5;&#x62e5;&#x6709;%D1%&#x7684;&#x62b5;&#x6297;&#x529b;</English>
+		<German>[ICON_BULLET]Feindliche Einheiten haben eine Wahrscheinlichkeit von %D1% euren Zauberspr&#252;chen zu widerstehen.</German>
+		<Spanish>[ICON_BULLET]Las unidades enemigas tienen un %D1% de resistir tus hechizos.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GLOBAL_RESIST_MODIFY</Tag>
+		<English>[ICON_BULLET]&#x4f60;&#x7684;&#x90e8;&#x961f;&#x62e5;&#x6709;%D1%&#x7684;&#x6297;&#x9b54;</English>
+		<German>[ICON_BULLET]Eure Einheiten haben eine Wahrscheinlickeit von %D1% Zauberspr&#252;chen zu widerstehen.</German>
+		<Spanish>[ICON_BULLET]Tus unidades tienen un %D1% de resistir hechizos.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_HELP_INVISIBLE</Tag>
+		<English>[ICON_BULLET]Makes the unit invisible (except in cities)</English>
+		<French>[ICON_BULLET]Rend l'unit&#233; invisible (except in cities)</French> <!-- TODO -->
+		<German>[ICON_BULLET]Einheit wird unsichtbar (au&#223;er in St&#228;dten)</German>
+		<Spanish>[ICON_BULLET]La unidad no puede ser vista (except in cities)</Spanish> <!-- TODO -->
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HIDE_UNITS</Tag>
+		<English>[ICON_BULLET]&#x672c;&#x56fd;&#x6587;&#x5316;&#x5708;&#x5185;&#x6240;&#x6709;&#x5355;&#x4f4d;&#x9690;&#x5f62;[NEWLINE][ICON_BULLET]&#x5bf9;&#x57ce;&#x5e02;&#x4e2d;&#x7684;&#x5355;&#x4f4d;&#x65e0;&#x6548;</English>
+		<German>[ICON_BULLET]Alle deine Einheiten sind unsichtbar solange sie sich innerhalb eurer Kulturgrenzen und nicht in einer Stadt aufhalten.</German>
+		<Spanish>[ICON_BULLET]Hace a todas tus unidades invisibles mientras que est&#233;n dentro de tus fronteras y no est&#233;n en una ciudad.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MIN_LEVEL</Tag>
+		<English>[ICON_BULLET]Requires level %d1 or higher</English>
+		<Spanish>[ICON_BULLET]Requiere nivel %d1 o superior</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NO_CIVIC_ANGER</Tag>
+		<English>[ICON_BULLET]&#x5185;&#x653f;&#x6cd5;&#x4ee4;&#x5e26;&#x6765;&#x7684;&#x4e0d;&#x6ee1;&#x65e0;&#x6548;&#x5316;</English>
+		<French>[ICON_BULLET]Annule les effets de la doctrine Col&#232;re pour votre &#233;quipe</French>
+		<German>[ICON_BULLET]Unzufriedenheit hat keinen Effekt auf die Stadt.</German>
+		<Spanish>[ICON_BULLET]Anula los efectos de infelicidad por Principios para tu equipo.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PLOT_RADIUS</Tag>
+		<English>[ICON_BULLET]&#x5c06;&#x57ce;&#x5e02;&#x7684;&#x5de5;&#x4f5c;&#x8303;&#x56f4;&#x6539;&#x53d8;&#x4e3a; %D1</English>
+		<French>[ICON_BULLET]Change le Rayon de production de la ville de %D1</French>
+		<German>[ICON_BULLET]Wechselt von 2 Stadtfeld-Ringen zu %D1</German>
+		<Spanish>[ICON_BULLET]Cambia el Radio de Alcance de la ciudad en %D1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_REMOVE_PROMOTION</Tag>
+		<English>[ICON_BULLET]&#x6d88;&#x9664;[COLOR_HIGHLIGHT_TEXT]%s1_promotion[COLOR_REVERT]&#x664b;&#x5347;</English>
+		<French>[ICON_BULLET]Enl&#232;ve la promotion %s1_promotion des unit&#233;s</French>
+		<German>[ICON_BULLET]Entfernt die %s1_promotion Bef&#246;rderung von Einheiten</German>
+		<Spanish>[ICON_BULLET]Quita la promoci&#243;n %s1_promotion de las unidades</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_REQUIRES_CASTER</Tag>
+		<English>[ICON_BULLET]&#x5f53;&#x65bd;&#x6cd5;&#x8005;&#x79bb;&#x5f00;&#x57ce;&#x5e02;&#x65f6;&#x6d88;&#x5931;</English>
+		<French>[ICON_BULLET]Enlev&#233; si le lanceur quitte la ville</French>
+		<German>[ICON_BULLET]Wird entfernt wenn der Zauberer die Stadt verl&#228;sst</German>
+		<Spanish>[ICON_BULLET]Se elimina si el lanzador abandona la ciudad</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RESIST_MAGIC</Tag>
+		<English>[ICON_BULLET]&#x57ce;&#x5e02;&#x4e2d;&#x7684;&#x5355;&#x4f4d;%D1%&#x9b54;&#x6cd5;&#x6297;&#x6027;</English>
+		<French>[ICON_BULLET]les unit&#233;s dans la ville ont %D1% de r&#233;sistance &#224; la magie</French>
+		<German>[ICON_BULLET]Einheiten in der Stadt %D1% widerstehen Magie</German>
+		<Spanish>[ICON_BULLET]Las unidades en la ciudad son un %D1% resistentes a la magia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SEE_INVISIBLE</Tag>
+		<English>[ICON_BULLET]&#x53d1;&#x73b0;&#x672c;&#x56fd;&#x6587;&#x5316;&#x5708;&#x5185;&#x6240;&#x6709;&#x9690;&#x5f62;&#x5355;&#x4f4d;</English>
+		<German>[ICON_BULLET]Deckt alle unsichtbaren Einheiten innerhalb eurer kulturellen Grenzen auf.</German>
+		<Spanish>[ICON_BULLET]Revela a todas las unidades invisibles de tu imperio.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SETTLEMENT</Tag>
+		<English>&#x5c45;&#x6c11;&#x70b9;</English>
+		<French>Campement</French>
+		<German>Siedlung</German>
+		<Spanish>
+			<Text>Asentamiento:Asentamientos</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SETTLEMENT_STRATEGY</Tag>
+		<English>&#x3000;&#x3000;&#x8be5;&#x5efa;&#x7b51;&#x6807;&#x793a;&#x4e86;&#x5e93;&#x91cc;&#x5965;&#x5854;&#x7279;&#x4eba;&#x7684;&#x8fb9;&#x8fdc;&#x5c45;&#x6c11;&#x70b9;&#x3002;&#x5c45;&#x6c11;&#x70b9;&#x65e0;&#x6cd5;&#x5efa;&#x9020;&#x771f;&#x6b63;&#x57ce;&#x5e02;&#x53ef;&#x4ee5;&#x751f;&#x4ea7;&#x7684;&#x5efa;&#x7b51;&#x548c;&#x5355;&#x4f4d;&#xff0c;&#x4e0d;&#x589e;&#x52a0;&#x7814;&#x53d1;&#xff0c;&#x4f46;&#x4e5f;&#x4e0d;&#x589e;&#x52a0;&#x672c;&#x56fd;&#x7684;&#x8d1f;&#x62c5;&#x3002;&#x6362;&#x53e5;&#x8bdd;&#x8bf4;&#xff0c;&#x5b83;&#x4eec;&#x662f;&#x7528;&#x6765;&#x6269;&#x5927;&#x5e93;&#x91cc;&#x5965;&#x5854;&#x7279;&#x4eba;&#x7684;&#x8fb9;&#x754c;&#xff0c;&#x4f7f;&#x5176;&#x5f71;&#x54cd;&#x4e0d;&#x53ea;&#x5c40;&#x9650;&#x4e8e;3&#x4e2a;&#x4e3b;&#x8981;&#x57ce;&#x5e02;</English>
+		<French>Ce b&#226;timent indique un campement p&#233;riph&#233;rique des Kuriotates. Il n'a pas acc&#232;s aux multiples b&#226;timents et unit&#233;s que produisent les vraies villes, il ne produit pas de recherche et ne requiert aucune maintenance. Au lieu de cela, il est utilis&#233; pour &#233;largir les fronti&#232;res kuriotates afin que leur influence aillent au-del&#224; des trois villes primaires.</French>
+		<German>Dieses Geb&#228;ude kennzeichnet eine abseits gelegene Siedlung der Kuriotaten. Dort k&#246;nnen im Gegensatz zu normalen St&#228;dten nur wenige Geb&#228;ude und Einheiten gebaut werden. Eine Siedlung tr&#228;gt nicht zur Forschungsleistung bei, kostet aber auch keinen Unterhalt. Sie werden gebraucht, um die Grenzen der Kuriotates &#252;ber den kulturellen Einfluss ihrer drei Kernst&#228;dte hinaus zu erweitern.</German>
+		<Spanish>Esta construcci&#243;n marca un asentamiento perif&#233;rico de los Kuriotates. No tiene acceso a muchas de las construcciones y unidades que pueden ser producidas en verdaderas ciudades; no da puntos de investigaci&#243;n pero tampoco contribuye a los costes del imperio. En lugar de eso, se utilizan para expandir los bordes Kuriotates para que su influencia pueda extenderse m&#225;s all&#225; de sus ciudades principales.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SETTLEMENT_TAG</Tag>
+		<English>: (&#x5c45;&#x6c11;&#x70b9;)</English>
+		<French>: (cmp)</French>
+		<German>: (Sdlg)</German>
+		<Spanish>: (asent)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SPACESHIP_MOD</Tag>
+		<English>[ICON_BULLET]&#x4eea;&#x5f0f;&#x5efa;&#x9020;&#x901f;&#x5ea6;%D1_Mod%%</English>
+		<French>[ICON_BULLET]%D1_Mod%% Production des Rituels</French>
+		<German>[ICON_BULLET]%D1_Mod%% Ritualproduktion</German>
+		<Spanish>[ICON_BULLET]%D1_Mod%% a la producci&#243;n de Rituales</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SPACESHIP_MOD_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57ce;&#x5e02;&#x7684;&#x4eea;&#x5f0f;&#x5efa;&#x9020;&#x901f;&#x5ea6;%D1_Mod%%</English>
+		<French>[ICON_BULLET]%D1_Mod%% Production des Rituels dans toutes les villes</French>
+		<German>[ICON_BULLET]%D1_Mod%% Ritualproduktion in allen St&#228;dten</German>
+		<Spanish>[ICON_BULLET]%D1_Mod%% a la producci&#243;n de Rituales en todas las ciudades</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SPRAWLING</Tag>
+		<English>[ICON_BULLET]&#x5141;&#x8bb8;&#x57ce;&#x5e02;&#x7684;&#x5de5;&#x4f5c;&#x8303;&#x56f4;&#x6269;&#x5927;&#x5230;&#x7b2c;&#x4e09;&#x683c;&#x3002;</English>
+		<French>[ICON_BULLET]Autorise la ville &#224; exploiter le troisi&#232;me rayon de cases.</French>
+		<German>[ICON_BULLET]Erlaubt der Stadt, den dritten Stadtfeldring zu nutzen.</German>
+		<Spanish>[ICON_BULLET]Permite a la ciudad utilizar el tercer anillo de casillas.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UNHAPPY_PRODUCTION</Tag>
+		<English>[ICON_BULLET]Provides +1[ICON_PRODUCTION] per unhappy population</English>
+		<French>[ICON_BULLET]Fournit +1[ICON_PRODUCTION] par citoyen m&#233;content</French>
+		<German>[ICON_BULLET]Erzeugt +1[ICON_PRODUCTION] f&#252;r jeden unzufriedenen B&#252;rger</German>
+		<Italian>[ICON_BULLET]Provides +1[ICON_PRODUCTION] per Unhappy population</Italian>
+		<Spanish>[ICON_BULLET]Da +1[ICON_PRODUCTION] por cada poblaci&#243;n infeliz.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UPGRADE_COST_MODIFIER</Tag>
+		<English>[ICON_BULLET]&#x5347;&#x7ea7;&#x8d39;&#x7528;%D1%</English>
+		<French>[ICON_BULLET]%D1% aux co&#251;ts d'am&#233;lioration</French>
+		<German>[ICON_BULLET]%D1% f&#252;r Modernisierungskosten</German>
+		<Spanish>[ICON_BULLET]%D1% al coste de mejoras</Spanish>
+	</TEXT>
+</Civ4GameText>

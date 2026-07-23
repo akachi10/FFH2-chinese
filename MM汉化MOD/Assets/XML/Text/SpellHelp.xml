@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Text for general spell help and messages. -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_COST</Tag>
+		<English>[ICON_BULLET]Costs %d1[ICON_GOLD]</English>
+		<French>[ICON_BULLET]Coûte %d1[ICON_GOLD]</French>
+		<German>[ICON_BULLET]Kostet %d1[ICON_GOLD]</German>
+		<Spanish>[ICON_BULLET]Cuesta %d1[ICON_GOLD]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_COST_CANNOT_PAY</Tag>
+		<English>[ICON_BULLET][COLOR_RED]Costs %d1[COLOR_REVERT][ICON_GOLD]</English>
+		<French>[ICON_BULLET][COLOR_RED]Coûte %d1[COLOR_REVERT][ICON_GOLD]</French>
+		<German>[ICON_BULLET][COLOR_RED]Kostet %d1[COLOR_REVERT][ICON_GOLD]</German>
+		<Spanish>[ICON_BULLET][COLOR_RED]Cuesta %d1[COLOR_REVERT][ICON_GOLD]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_PROFIT</Tag>
+		<English>[ICON_BULLET]Receive %d1[ICON_GOLD]</English>
+		<German>[ICON_BULLET]Erhalte %d1[ICON_GOLD]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MESSAGE_SPELL_CAST</Tag>
+		<English>%s1_UnitName casts %s2</English>
+		<French>%s1_UnitName jets %s2</French>
+		<German>%s1_UnitName wirkt %s2</German>
+		<Italian>%s1_UnitName tiri %s2</Italian>
+		<Spanish>%s1_UnitName lanza %s2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MESSAGE_SPELL_MISCAST</Tag>
+		<English>%s1_UnitName miscasts %s2</English>
+		<German>%s1_UnitName schlägt fehl beim Wirken von %s2</German>
+		<Spanish>%s1_UnitName lanza mal %s2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_IGNORE_HAS_CASTED</Tag>
+		<English>[ICON_BULLET]Can be cast even after casting another spell this turn</English>
+		<German>[ICON_BULLET]Kann auch nach einem anderen Zauber im selben Zug gewirkt werden</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_PREREQ_CASTER_ALIVE</Tag>
+		<English>[ICON_BULLET]Caster must be alive</English>
+		<German>[ICON_BULLET]Der Zaubernde muss lebendig sein</German>
+		<Spanish>[ICON_BULLET]El lanzador debe ser vivo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_PREREQ_CASTER_NO_DURATION</Tag>
+		<English>[ICON_BULLET]Caster must not be temporary</English>
+		<German>[ICON_BULLET]Der Zaubernde darf nicht temporär sein</German>
+		<Spanish>[ICON_BULLET]El lanzador no debe ser temporal</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_VOTE_PREREQ</Tag>
+		<English>[ICON_BULLET]Requires the resolution %s1_vote</English>
+		<German>[ICON_BULLET]Benötigt die Resolution %s1_vote</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_PREREQ_POPULATION</Tag>
+		<English>[ICON_BULLET]Requires at least %d1 population points</English>
+		<German>[ICON_BULLET]Benötigt mindestens %d1 Bevölkerungspunkte</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_ADD_POPULATION</Tag>
+		<English>[ICON_BULLET]Increases the population of the city by %d1</English>
+		<German>[ICON_BULLET]Erhöht die Bevölkerungzahl der Stadt um %d1</German>
+		<Spanish>[ICON_BULLET]Aumenta la población de la ciudad por %d1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_REMOVE_POPULATION</Tag>
+		<English>[ICON_BULLET]Reduces the population of the city by %d1</English>
+		<German>[ICON_BULLET]Verringert die Bevölkerungzahl der Stadt um %d1</German>
+		<Spanish>[ICON_BULLET]Reduce la población de la ciudad por %d1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_MISCAST_CHANCE</Tag>
+		<English>[ICON_BULLET]%d1% to be miscast</English>
+		<French>[ICON_BULLET]%d1% de rater le sort</French>
+		<German>[ICON_BULLET]%d1% dass der Zauber fehlschlägt</German>
+		<Spanish>[ICON_BULLET]%d1% de ser lanzado mal</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_MISCAST_CHANCE_RANGE</Tag>
+		<English>[ICON_BULLET]%d1-%d2% to be miscast</English>
+		<French>[ICON_BULLET]%d1-%d2% de rater le sort</French>
+		<German>[ICON_BULLET]%d1-%d2% dass der Zauber fehlschlägt</German>
+		<Spanish>[ICON_BULLET]%d1-%d2% de ser lanzado mal</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_MISCAST_CHANCE_MODIFY</Tag>
+		<English>[ICON_BULLET]%D1% to the miscasting rate</English>
+		<German>[ICON_BULLET]%D1% zur Fehlschlagsrate von Zaubern</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TERRAFORM_TRANSFORMS</Tag>
+		<English>[ICON_BULLET]Turns [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT] into [COLOR_HIGHLIGHT_TEXT]%s2[COLOR_REVERT]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_STARTS_WAR_WITH</Tag>
+		<English>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Starts a war with %s1_player[COLOR_REVERT]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_ADD_PROMOTION_HEADER</Tag>
+		<English>[COLOR_ALT_HIGHLIGHT_TEXT]Promotion: %s1[COLOR_REVERT]</English>
+		<Spanish>[COLOR_ALT_HIGHLIGHT_TEXT]Promoci&#243;n: %s1[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_CREATE_BUILDING_PRE_HEADER</Tag>
+		<English>[COLOR_BUILDING_TEXT]Building: [COLOR_REVERT]</English>
+		<Spanish>[COLOR_BUILDING_TEXT]Edificio: [COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_CREATE_UNIT_PRE_HEADER</Tag>
+		<English>[COLOR_UNIT_TEXT]Unit: [COLOR_REVERT]</English>
+		<Spanish>[COLOR_UNIT_TEXT]Unidad: [COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_SUMMON_UNIT</Tag>
+		<English>[ICON_BULLET]Summons a [LINK=literal]%s1_unit[\LINK]</English>
+		<French>[ICON_BULLET]Evoque un %s1_unit</French>
+		<German>[ICON_BULLET]Beschw&#246;rt eine %s1_unit</German>
+		<Spanish>[ICON_BULLET]Invoca una unidad de [LINK=literal]%s1_unit[\LINK]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_SUMMON_UNIT_MULTIPLE</Tag>
+		<English>[ICON_BULLET]Summons %D1 [LINK=literal]%s2_unitname[\LINK](s)</English>
+		<French>[ICON_BULLET]Evoque %D1 %s2_unitname(s)</French>
+		<German>[ICON_BULLET]Beschw&#246;rt %D1 %s2_unitname(s)</German>
+		<Spanish>[ICON_BULLET]Invoca %D1 [LINK=literal]%s2_unitname[\LINK](s)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_SUMMON_UNIT_PERMANENT</Tag>
+		<English>[SPACE](permanent)</English>
+		<Spanish>[SPACE](permanente)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_SUMMON_UNIT_IMMOBILE</Tag>
+		<English>[NEWLINE][ICON_BULLET]Unit starts immobile</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_HELP_HAS_ACTIVE_SUMMON</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]Can only maintain one summon of this type[COLOR_REVERT]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_HELP_SUMMONS_VS_SUMMONERS</Tag>
+		<English>(%d1/%d2 summoned units active)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_HELP_SUMMONS_VS_SUMMONERS_UNAVAILABLE</Tag>
+		<English>[COLOR_NEGATIVE_TEXT](%d1/%d2 summoned units active)[COLOR_REVERT]</English>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- RevolutionDCM/LoR -->
+<Civ4GameText>
+	<TEXT>
+		<Tag>TXT_KEY_CCV_MAININTERFACE__POSITIONOFSCORES_TEXT</Tag>
+		<English>Position of Scores</English>
+		<German>Position of Scores (POS)</German>
+		<Spanish>Ubicaci&#243;n de la Puntuaci&#243;n</Spanish>
+		<Finnish>Tulosten sijainti</Finnish>
+	</TEXT>
+</Civ4GameText>

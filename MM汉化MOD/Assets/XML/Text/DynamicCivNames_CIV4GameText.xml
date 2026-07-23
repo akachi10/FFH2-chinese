@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+RevolutionDCM/LoR, heavily modified by lfgr
+
+Name strings for DynamicCivNames
+Available parameters are
+	%s1_short - short description
+	s2_adj - adjective
+	%s3_city - the player's main city name
+	%s4_leader - the player's name
+-->
+	
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_DCN_DEFAULT</Tag>
+		<English>%s2_adj Empire</English>
+		<German>%s2_adj Reich</German>
+		<Spanish>Imperio %s2:2_adj</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_REFUGEES</Tag>
+		<English>%s2_adj Refugees</English>
+		<German>%s2_adj Fl&#252;chtlinge</German>
+		<Spanish>Refugiados %s2:2_adj</Spanish>
+		<Finnish>Pakolaisten %s2_adj</Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_THE_REBELS_OF</Tag>
+		<English>Rebels of %s3_city</English>
+		<German>Rebellen von %s3_city</German>
+		<Spanish>Rebeldes de %s3_city</Spanish>
+		<Finnish>Kapinallinen %s3_city</Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_REBELS_OF</Tag>
+		<English>%s2_adj Rebels of %s3_city</English>
+		<German>%s2_adj Rebellen von %s3_city</German>
+		<Spanish>Ej&#233;rcito rebelde %s2_adj de %s3_city</Spanish>
+		<Finnish>Kapinallinen %s2_adj-%s3_city</Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_REBELS</Tag>
+		<English>%s2_adj Rebels</English>
+		<German>%s2_adj Rebellen</German>
+		<Spanish>Rebeldes %s2:2_adj</Spanish>
+		<Finnish>Kapinallisten %s2_adj</Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_TRIBE</Tag>
+		<English>%s2_adj Tribe</English>
+		<German>Stamm der %s1_short</German>
+		<Spanish>Tribu del pueblo %s2_adj</Spanish>
+		<Finnish>Alku-%s2_adj</Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_ALLIANCE</Tag>
+		<English>Alliance</English>
+		<German>Allianz</German>
+		<Spanish>Alianza</Spanish>
+		<Finnish>Liitto</Finnish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_ORCISH_ADJECTIVE</Tag>
+		<English>Orcish</English>
+		<German>Orkisch</German>
+		<Spanish>Orco</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_CITY_STATES</Tag>
+		<English>%s2_adj city states</English>
+		<German>Stadtstaaten der %s1_short</German>
+		<Spanish>Ciudades %s2:2_adj</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_CITY</Tag>
+		<English>City of %s3_capital</English>
+		<German>Stadt %s3_capital</German>
+		<Spanish>Ciudad de %s3_capital</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_FREE_CITY</Tag>
+		<English>Free City of %s3_capital</English>
+		<German>Freie Stadt %s3_capital</German>
+		<Italian>City of %s3_capital</Italian>
+		<Spanish>Ciudad libre de %s3_capital</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_KINGDOM</Tag>
+		<English>Kingdom of %s3_capital</English>
+		<German>Königreich %s3_capital</German>
+		<Spanish>Reino de %s3_capital</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_DEFAULT</Tag>
+		<English>Realm of %s4_leader</English>
+		<German>Reich [NUM2:des:der:der:der] %s4_leader</German>
+		<Spanish>Imperio de %s4_leader</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_VASSAL_CLAN</Tag>
+		<English>Clan of %s3_capital</English>
+		<German>Klan von %s3_capital</German>
+		<Spanish>Clan de %s3_capital</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_VASSAL_CALABIM_MASTER</Tag>
+		<English>Principality of %s3_capital</English>
+		<German>Fürstentum von %s3_capital</German>
+		<Spanish>Principado de %s3_capital</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_VASSAL_MASTER_RELATED_THEOCRACY</Tag>
+		<English>Diocese of %s3_capital</English>
+		<German>Bistum von %s3_capital</German>
+		<Spanish>Diócesis de %s3_capital</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_VASSAL_SMALL_MASTER_RELATED_KINGDOM</Tag>
+		<English>County of %s3_capital</English>
+		<German>Grafentum von %s3_capital</German>
+		<Spanish>Condado de %s3_capital</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_VASSAL_MASTER_RELATED_KINGDOM</Tag>
+		<English>Duchy of %s3_capital</English>
+		<German>Herzogtum von %s3_capital</German>
+		<Spanish>Ducado de %s3_capital</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_VASSAL_DEFAULT</Tag>
+		<English>Province of %s3_capital</English>
+		<German>Provinz %s3_capital</German>
+		<Spanish>Provincia de %s3_capital</Spanish>
+	</TEXT>
+</Civ4GameText>

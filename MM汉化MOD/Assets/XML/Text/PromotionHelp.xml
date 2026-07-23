@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Text for general promotion help and messages. -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_EXPIRES_END_OF_TURN</Tag>
+		<English>[ICON_BULLET]Wears off at end of turn</English>
+		<German>[ICON_BULLET]Verschwindet am Ende des Zuges</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_HELP_INVISIBLE</Tag>
+		<English>[ICON_BULLET]Makes the unit invisible (except in cities)</English>
+		<French>[ICON_BULLET]Rend l'unit&#233; invisible (except in cities)</French> <!-- TODO -->
+		<German>[ICON_BULLET]Einheit wird unsichtbar (au&#223;er in St&#228;dten)</German>
+		<Spanish>[ICON_BULLET]La unidad no puede ser vista (except in cities)</Spanish> <!-- TODO -->
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MIN_LEVEL</Tag>
+		<English>[ICON_BULLET]Requires level %d1 or higher</English>
+		<Spanish>[ICON_BULLET]Requiere nivel %d1 o superior</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GARRISON_REV_IDX</Tag>
+		<English>[ICON_BULLET]%D1[ICON_INSTABILITY] when stationed in a city</English>
+	</TEXT>
+</Civ4GameText>

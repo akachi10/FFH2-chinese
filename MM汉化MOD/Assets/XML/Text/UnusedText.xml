@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Text unused in the current version -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CATAPULT_BALSERAPHS_PEDIA</Tag>
+		<English>&#x4e3a;&#x4e86;&#x6539;&#x53d8;&#x4e11;&#x964b;&#x7684;&#x5f62;&#x72b6;&#x9700;&#x8981;&#x4fee;&#x6539;&#x5168;&#x90e8;&#x7684;&#x5f39;&#x7c27;&#x7ed3;&#x6784;&#xff0c;&#x4e3a;&#x4e86;&#x79fb;&#x52a8;&#x91cd;&#x5fc3;&#x9700;&#x8981;&#x66ff;&#x6362;&#x9f7f;&#x8f6e;&#xff0c;&#x4e3a;&#x4e86;&#x56fa;&#x5b9a;&#x8fd9;&#x4e2a;&#x53e4;&#x602a;&#x73a9;&#x610f;&#x7684;&#x4f4d;&#x7f6e;&#x9700;&#x8981;&#x52a0;&#x957f;&#x4f20;&#x52a8;&#x6746;&#x3002;&#x5373;&#x4f7f;&#x666e;&#x5bbe;&#x5854;&#x514b;&#x60f3;&#x8ba9;&#x6bcd;&#x725b;&#x5728;&#x5929;&#x4e0a;&#x98de;&#x7fd4;&#xff0c;&#x5de5;&#x7a0b;&#x5e08;&#x4eec;&#x4e5f;&#x53ea;&#x80fd;&#x987a;&#x4ece;&#x4ed6;&#x7684;&#x7684;&#x610f;&#x613f;&#x3002;</English>
+		<German>Es war n&#246;tig gewesen, den gesamten Wurfmechanismus f&#252;r diese unpraktische Form neu zu entwerfen, die R&#228;der zu ersetzen, um die Schwerpunktverlagerung auszugleichen und den Wurfarm zu verl&#228;ngern, damit erm&#246;glicht wird, dass Tiere an Ort und Stelle stehen bleiben w&#252;rden. Aber Perpentach wollte K&#252;he fliegen sehen und seine Ingenieure waren nicht im stande ihm dies zu verwehren.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CATAPULT_BALSERAPHS_STRATEGY</Tag>
+		<English>&#x7ed9;&#x5976;&#x725b;&#x9b54;&#x529b;&#x5427;!</English>
+		<French>F&#232;che la vache!</French>
+		<German>F&#232;che la vache!</German>
+		<Spanish>F&#232;che la vache!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXECUTIONER</Tag>
+		<English>&#x523d;&#x5b50;&#x624b;</English>
+		<French>Ex&#233;cuteur</French>
+		<German>Scharfrichter</German>
+		<Spanish>
+			<Text>Ejecutor:Ejecutores</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER</Tag>
+		<English>&#x63a2;&#x9669;&#x5bb6;</English>
+		<French>Explorateur</French>
+		<German>Entdecker</German>
+		<Spanish>
+			<Text>Explorador:Exploradores</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GOBLIN_CHARIOT</Tag>
+		<English>&#x54e5;&#x5e03;&#x6797;&#x6218;&#x8f66;</English>
+		<French>Char Gobelin</French>
+		<German>Goblin-Streitwagen</German>
+		<Spanish>
+			<Text>Carro Goblin:Carros Goblin</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GOBLIN_WORKER</Tag>
+		<English>&#x54e5;&#x5e03;&#x6797;&#x5de5;&#x4eba;</English>
+		<French>Ouvrier Gobelin</French>
+		<German>Arbeitstrupp der Goblins</German>
+		<Spanish>
+			<Text>Trabajador Goblin:Trabajadores Goblin</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GOLEM_STRATEGY</Tag>
+		<English>&#x3000;&#x3000;&#x6ca1;&#x6709;&#x611f;&#x60c5;&#x548c;&#x601d;&#x60f3;&#x7684;&#x9b54;&#x50cf;&#x662f;&#x5f3a;&#x5927;&#x800c;&#x6602;&#x8d35;&#x7684;&#x5355;&#x4f4d;&#xff0c;&#x51e0;&#x4e4e;&#x548c;&#x7cbe;&#x82f1;&#x8089;&#x640f;&#x5355;&#x4f4d;&#x4e00;&#x6837;&#x5f3a;&#x5927;&#x4f46;&#x662f;&#x65e0;&#x6cd5;&#x5347;&#x7ea7;&#x3002;</English>
+		<French>Incapables de ressentir ou de penser quoi que ce soit, les Golems sont des unit&#233;s puissantes mais ch&#232;res. Ils sont presque aussi forts que les meilleures unit&#233;s de Corps &#224; Corps mais leur incapacit&#233; d'apprendre les emp&#234;che de monter en niveau.</French>
+		<German>Die gef&#252;hllosen und gedankenlosen Golems sind starke jedoch auch teure Einheiten. Ihre St&#228;rke entspricht fast den besten Nahkampfeinheiten, da sie aber unf&#228;hig sind zu lernen, k&#246;nnen sie keine Bef&#246;rderungen erhalten.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GRAVEBORN</Tag>
+		<English>&#x5893;&#x5730;&#x9a91;&#x5175;</English>
+		<French>N&#233;-de-la-Tombe</French>
+		<German>Totgeborener</German>
+		<Spanish>
+			<Text>Tumulario:Tumularios</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUNTING_DEMON</Tag>
+		<English>&#x6076;&#x9b54;&#x730e;&#x4eba;</English>
+		<French>D&#233;mon Chasseur</French>
+		<German>D&#228;monenj&#228;ger</German>
+		<Spanish>
+			<Text>Cazador de Demonios:Cazadores de Demonios</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUNTING_DEMON_PEDIA</Tag>
+		<English>Hunting Demon - &#x6076;&#x9b54;&#x730e;&#x4eba;[NEWLINE][NEWLINE]&#x3000;&#x3000;&#x5c31;&#x8fde;&#x6b8b;&#x66b4;&#x51f6;&#x608d;&#x7684;&#x5730;&#x72f1;&#x72ac;&#x4e5f;&#x5c48;&#x4ece;&#x4e8e;&#x72e1;&#x733e;&#x7684;&#x6076;&#x9b54;&#x730e;&#x4eba;&#x3002;&#x5bf9;&#x6076;&#x9b54;&#x6765;&#x8bf4;&#x4eba;&#x95f4;&#x5c31;&#x662f;&#x4e00;&#x7247;&#x8352;&#x91ce;&#x3002;&#x4ed6;&#x4eec;&#x8bd5;&#x56fe;&#x652f;&#x914d;&#x4eba;&#x7c7b;&#x4e16;&#x754c;&#xff0c;&#x4f46;&#x4ec5;&#x5f53;&#x4ed6;&#x4eec;&#x4e0d;&#x5b89;&#x65f6;&#x624d;&#x4f1a;&#x6709;&#x8fd9;&#x79cd;&#x60f3;&#x6cd5;&#x3002;&#x4e5f;&#x8bb8;&#x4ed6;&#x4eec;&#x8ba4;&#x4e3a;&#x6709;&#x4e9b;&#x4e8b;&#x5e76;&#x975e;&#x5b8c;&#x5168;&#x9519;&#x8bef;&#xff0c;&#x6216;&#x8005;&#x4ed6;&#x4eec;&#x7684;&#x751f;&#x5b58;&#x65b9;&#x5f0f;&#x66f4;&#x591a;&#x662f;&#x4f9d;&#x636e;&#x5f8b;&#x6cd5;&#x800c;&#x975e;&#x9aa8;&#x5b50;&#x91cc;&#x7684;&#x517d;&#x6027;&#x3002;&#x4e0d;&#x7ba1;&#x600e;&#x6837;&#xff0c;&#x7edd;&#x5927;&#x591a;&#x6570;&#x6076;&#x9b54;&#x628a;&#x5728;&#x56de;&#x5230;&#x5730;&#x72f1;&#x524d;&#x6355;&#x83b7;&#x7684;&#x7075;&#x9b42;&#x4f5c;&#x4e3a;&#x503c;&#x5f97;&#x5938;&#x8000;&#x7684;&#x6210;&#x5c31;&#xff0c;&#x6076;&#x9b54;&#x730e;&#x4eba;&#x5c31;&#x662f;&#x4e3a;&#x6b64;&#x88ab;&#x96c7;&#x4f63;&#x7684;&#x3002;&#x4ed6;&#x4eec;&#x5584;&#x4e8e;&#x53d1;&#x73b0;&#x5728;&#x68ee;&#x6797;&#x4e2d;&#x8ff7;&#x8def;&#x7684;&#x5b69;&#x5b50;&#xff0c;&#x8d70;&#x9519;&#x65b9;&#x5411;&#x7684;&#x671d;&#x5723;&#x8005;&#x6216;&#x8005;&#x5728;&#x8352;&#x91ce;&#x4e2d;&#x9677;&#x5165;&#x6c89;&#x601d;&#x7684;&#x5148;&#x77e5;&#x3002;</English>
+		<German>Der wilde Hunger des H&#246;llenhundes, in die Welt gebracht unter der Kontrolle eines listigen Jagtd&#228;monen der Infernals. Die ganze Welt der Sterblichen ist eine Wildnis f&#252;r die Infernals. Sie wollen die Welt der Menschen beherrschen, aber allein ihre Anwesenheit hier beunruhigt sie selbst nach so langer Zeit noch. Vielleicht ist es die Ahnung, dass etwas nicht ganz falsch ist oder dass die Struktur der Existenz auf der Grundlage von mehr Gesetzen konstruiert wurde als dem des &#220;berlebens der St&#228;rksten. Wie dem auch sei, die meisten Infernals versuchen, so viele Seelen wie m&#246;glich zu fangen, bevor sie zur H&#246;lle zur&#252;ckkehren, und die H&#246;llenhunde werden hierzu sehr erfolgreich eingesetzt. Sie sind speziell abgerichtet, um Kinder aufzusp&#252;ren, die sich im Wald verirrt haben, Pilger, die vom richtigen Weg abkommen oder Propheten, die in der Wildnis meditieren</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFERNAL_LORD</Tag>
+		<English>&#x5730;&#x72f1;&#x9886;&#x4e3b;</English>
+		<French>Seigneur des Enfers</French>
+		<German>H&#246;llenf&#252;rst</German>
+		<Spanish>
+			<Text>Se&#241;or Infernal:Se&#241;ores Infernales</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LAW_BRINGER</Tag>
+		<English>&#x5ba1;&#x5224;&#x8005;</English>
+		<French>L&#233;gislateur</French>
+		<German>Rechtsprecher</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LAW_BRINGER_PEDIA</Tag>
+		<English>Law Bringer - &#x5ba1;&#x5224;&#x8005;[NEWLINE][NEWLINE]&#x3000;&#x3000;&#x5ba1;&#x5224;&#x8005;&#x88ab;&#x5927;&#x5730;&#x51c0;&#x5316;&#x53ec;&#x5524;&#x51fa;&#x6765;&#xff0c;&#x4ed6;&#x4eec;&#x662f;&#x5f3a;&#x6709;&#x529b;&#x7684;&#x540c;&#x76df;&#x8005;&#x4f46;&#x662f;&#x4e0d;&#x4f1a;&#x653b;&#x51fb;&#x975e;&#x90aa;&#x6076;&#x52bf;&#x529b;&#x7684;&#x5355;&#x4f4d;&#x3002;</English>
+		<French>Une L&#233;gislateur est &#233;voqu&#233; depuis l'Au-Del&#224;, ils sont des alli&#233;s puissants mais refusent d'attaquer toute unit&#233;s n'appartenant pas &#224; des forces mal&#233;fiques.</French>
+		<German>Der Rechtsprecher wird aus der Gruft heraus beschworen. Er ist ein m&#228;chtiger Verb&#252;ndeter, doch wird er sich weigern, eine Einheit, die nicht zu den Heerscharen des B&#246;sen zu z&#228;hlen ist, anzugreifen.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIZARDMAN_ASSASSIN</Tag>
+		<English>&#x8725;&#x8734;&#x4eba;&#x523a;&#x5ba2;</English>
+		<French>Assassin L&#233;zard</French>
+		<German>Echsen-Meuchelm&#246;rder</German>
+		<Spanish>
+			<Text>Asesino Lagarto:Asesinos Lagarto</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LIZARDMAN_RANGER</Tag>
+		<English>&#x8725;&#x8734;&#x4eba;&#x6e38;&#x4fa0;</English>
+		<French>R&#244;deur L&#233;zard</French>
+		<German>Echsen-Waldl&#228;ufer</German>
+		<Spanish>
+			<Text>Montaraz Lagarto:Montaraces Lagarto</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MERRYMAN</Tag>
+		<English>&#x5c0f;&#x4e11;</English>
+		<French>Joyeux Drille</French>
+		<German>Narrenkrieger</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARROT</Tag>
+		<English>&#x9e66;&#x9e49;</English>
+		<French>Perroquet</French>
+		<German>Papagei</German>
+		<Spanish>
+			<Text>Loro:Loros</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PITCH_WAGON</Tag>
+		<English>&#x6bd5;&#x5176;&#x8f66;</English>
+		<French>Char &#224; Goudron</French>
+		<German>Pechkutsche</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RAVEN</Tag>
+		<English>&#x4e4c;&#x9e26;</English>
+		<French>Corbeau</French>
+		<German>Rabe</German>
+		<Spanish>
+			<Text>Cuervo:Cuervos</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RUHIN_ARCHER</Tag>
+		<English>&#x9c81;&#x5bbe;&#x5f13;&#x624b;</English>
+		<French>Archer Ruhin</French>
+		<German>Bogensch&#252;tze der Ruhin</German>
+		<Spanish>
+			<Text>Arquero Ruhin:Arqueros Ruhin</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SETTLER_HIPPUS</Tag>
+		<English>&#x5e0c;&#x666e;&#x65af;&#x79fb;&#x6c11;</English>
+		<French>Colon Hippus</French>
+		<German>Siedler der Hippus</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKULL_CATAPULT</Tag>
+		<English>&#x9ab7;&#x9ac5;&#x6295;&#x77f3;&#x8f66;</English>
+		<French>Catapulte &#224; Cr&#226;ne</French>
+		<German>Sch&#228;delwerfer</German>
+		<Spanish>
+			<Text>Catapulta de Calaveras:Catapultas de Calaveras</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKULL_CATAPULT_PEDIA</Tag>
+		<English>&#x6218;&#x6597;&#x4e2d;&#x83b7;&#x80dc;&#x65f6;&#xff0c;&#x4ed6;&#x4eec;&#x4e0d;&#x4f1a;&#x7f3a;&#x4e4f;&#x5f39;&#x836f;&#x3002;&#x5f53;&#x4ed6;&#x4eec;&#x5931;&#x8d25;&#x65f6;&#x2026;&#x2026;&#x540c;&#x6837;&#x4e0d;&#x4f1a;&#x532e;&#x4e4f;&#x3002;&#xff08;&#x8bd1;&#x6ce8;&#xff1a;&#x591a;&#x7ef4;&#x6d1b;&#x90e8;&#x843d;&#x5229;&#x7528;&#x6295;&#x63b7;&#x9ab7;&#x9ac5;&#x6765;&#x4ee3;&#x66ff;&#x6295;&#x77f3;&#x8f66;&#x7684;&#x5f39;&#x836f;&#x3002;&#xff09;</English>
+		<German>Falls die Doviello einen Kampf gewinnen, so besteht kein Mangel an Munition f&#252;r ihre Katapulte. Und wenn sie verlieren... besteht ebenfalls kein Mangel an Munition.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLAVE_DWARF</Tag>
+		<English>&#x77ee;&#x4eba;&#x5974;&#x96b6;</English>
+		<French>Esclave Nain</French>
+		<German>Zwergen-Sklave</German>
+		<Spanish>
+			<Text>Esclavo Enano:Esclavos Enanos</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLAVE_ELF</Tag>
+		<English>&#x7cbe;&#x7075;&#x5974;&#x96b6;</English>
+		<French>Esclave Elfe</French>
+		<German>Elfen-Sklave</German>
+		<Spanish>
+			<Text>Esclavo Elfo:Esclavos Elfos</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLAVE_ORC</Tag>
+		<English>&#x517d;&#x4eba;&#x5974;&#x96b6;</English>
+		<French>Esclave Orque</French>
+		<German>Ork-Sklave</German>
+		<Spanish>
+			<Text>Esclavo Orco:Esclavos Orcos</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPY</Tag>
+		<English>&#x95f4;&#x8c0d;</English>
+		<French>Espion</French>
+		<German>Spion</German>
+		<Spanish>
+			<Text>Esp&#237;a:Esp&#237;as</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>
