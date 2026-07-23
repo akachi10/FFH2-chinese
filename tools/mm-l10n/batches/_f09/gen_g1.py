@@ -101,10 +101,6 @@ SHORT={
  9:"力场能量",
 }
 
-# ---------- per-row LORE: exact English plain-run -> CN ----------
-# Populated iteratively; the completeness gate below prints any run still missing.
-LORE={}
-
 def translate(en):
     parts=BR.split(en)   # keeps bracket groups as separate items
     missing=[]

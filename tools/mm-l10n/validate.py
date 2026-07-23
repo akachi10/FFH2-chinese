@@ -13,6 +13,8 @@ r"""MM 汉化覆盖包静态校验工具 (M4)。
         · LINK 类（[LINK=*]/[\LINK]/[/LINK]）【按方向】：译文【缺失】基准的 LINK = WARN（剥离正常产物，显示无损）；
           译文【多出】基准没有的 LINK = FAIL（防后续翻译批引入悬空链接目标）
         · 覆盖包出现【已知合法词表之外且基准原文也无】的未知标记 = FAIL
+        · 闭合标记退化（成对族 X∈{H1,H2,BOLD,LINK}：相对基准【缺失 [\X]/[/X]】同时【多出裸 [X]】）
+          = FAIL（转义反斜杠/斜杠被吞的特征签名，破坏成对结构，非合理排版重排）
   5. 其他语言未触碰   —— French/German/Italian/Spanish/Finnish 列（含 Gender/Plural 子结构）解析后值与基准逐字一致（FAIL）
   6. 改动行纯 ASCII   —— 只要求覆盖包中相对基准发生改动的 English 内容纯 ASCII（中文须用 &#x 实体，锚点 A1）；
                         未改动内容以"与基准一致"为准（由检查项 5 覆盖），基准既有的非 ASCII 不判错（FAIL）
@@ -80,6 +82,31 @@ RE_LINK_MARKUP = re.compile(r"^\[(LINK=[^\[\]]*|\\LINK|/LINK)\]$")
 
 def is_link_markup(tok):
     return RE_LINK_MARKUP.match(tok) is not None
+
+
+# 成对标记的「闭合退化」检测：闭标记 [\X] / [/X] 的反斜杠(或斜杠)被吞，退化成裸开标记 [X]。
+# 这是转义被吞的特征签名，不是合理排版重排 —— 判 FAIL。
+# X 覆盖 H1/H2/BOLD 及 LINK(闭标记写法 [\LINK] 或 [/LINK])。base_name 取标记内的字母数字名。
+RE_CLOSE_MARKUP = re.compile(r"^\[[\\/]([A-Za-z0-9_]+)\]$")   # [\H1] [\BOLD] [/LINK] -> 名
+RE_OPEN_BARE = re.compile(r"^\[([A-Za-z0-9_]+)\]$")          # 裸开标记 [H1] [BOLD] [LINK] -> 名
+# 参与「闭合退化」判定的成对标记族(base 名)。LINK 的开标记通常带 =target，故裸 [LINK] 亦属退化特征。
+PAIRED_MARKUP_NAMES = {"H1", "H2", "BOLD", "LINK"}
+
+
+def close_markup_name(tok):
+    """闭标记 [\\X]/[/X] -> 名 X（属成对族则返回，否则 None）。"""
+    m = RE_CLOSE_MARKUP.match(tok)
+    if m and m.group(1) in PAIRED_MARKUP_NAMES:
+        return m.group(1)
+    return None
+
+
+def open_bare_name(tok):
+    """裸开标记 [X] -> 名 X（属成对族则返回，否则 None）。"""
+    m = RE_OPEN_BARE.match(tok)
+    if m and m.group(1) in PAIRED_MARKUP_NAMES:
+        return m.group(1)
+    return None
 # 数字实体：&#123; 或 &#x1F600;
 RE_NUM_ENTITY = re.compile(r"&#(x[0-9A-Fa-f]+|[0-9]+);")
 # 字节层切 <English>...</English> 段（含结构化内层 <Text>），用于精准 ASCII 校验（作用于原始字节）
@@ -271,6 +298,7 @@ def validate_file(over_path, base_path):
     ph_details = []      # 检查项 3：数值占位符不守恒（FAIL，大小写敏感）
     unknown_details = [] # 检查项 4-FAIL：未知标记
     link_details = []    # 检查项 4-FAIL：LINK 类标记差异
+    close_degrade_details = []  # 检查项 4-FAIL：闭合标记退化（[\X] 被吞成裸 [X]）
     warn_details = []    # 检查项 4-WARN：纯排版标记多重集差异（不影响退出码）
     lang_details = []    # 检查项 5：其他语言列被改动（FAIL）
     ascii_details = []   # 检查项 6：改动的 English 内容含非 ASCII（FAIL）
@@ -311,6 +339,36 @@ def validate_file(over_path, base_path):
             # 4-WARN(link)：译文【缺失】基准的 LINK = WARN（LINK 剥离的正常产物，显示无损）
             if link_miss:
                 warn_details.append("[%s] 译文缺失基准 LINK 标记(剥离正常) 缺失=%s" % (tag, link_miss))
+            # 4-FAIL(c)：闭合标记退化签名 —— 某成对族 X 相对基准【缺失 [\X]/[/X]】同时
+            #   【多出裸开标记 [X]】。这是闭标记的转义反斜杠/斜杠被吞的特征(如 [\H1]->[H1]、
+            #   [\BOLD]->[BOLD]、[/LINK]->[LINK])，会破坏成对结构，非合理排版重排 -> FAIL。
+            #   判定用整条(而非仅 miss/extra 差集)的多重集，兼容基准本有多个同名标记的情况。
+            b_close = {}
+            for m in b_marks:
+                n = close_markup_name(m)
+                if n:
+                    b_close[n] = b_close.get(n, 0) + 1
+            o_close = {}
+            o_open_bare = {}
+            for m in o_marks:
+                n = close_markup_name(m)
+                if n:
+                    o_close[n] = o_close.get(n, 0) + 1
+                n2 = open_bare_name(m)
+                if n2:
+                    o_open_bare[n2] = o_open_bare.get(n2, 0) + 1
+            b_open_bare = {}
+            for m in b_marks:
+                n2 = open_bare_name(m)
+                if n2:
+                    b_open_bare[n2] = b_open_bare.get(n2, 0) + 1
+            for name in PAIRED_MARKUP_NAMES:
+                close_lost = b_close.get(name, 0) - o_close.get(name, 0)   # 闭标记减少数
+                bare_gained = o_open_bare.get(name, 0) - b_open_bare.get(name, 0)  # 裸开标记增加数
+                if close_lost > 0 and bare_gained > 0:
+                    close_degrade_details.append(
+                        "[%s] 闭合标记退化: [\\%s]/[/%s] 缺失 %d 且多出裸 [%s] %d (转义被吞特征)"
+                        % (tag, name, name, close_lost, name, bare_gained))
             # 4-WARN(plain)：纯排版标记差异（合理重排，不判 FAIL）
             if plain_miss or plain_extra:
                 warn_details.append("[%s] 排版标记多重集不一致 缺失=%s 多余=%s" %
@@ -338,6 +396,7 @@ def validate_file(over_path, base_path):
     checks.append(("数值占位符守恒", len(ph_details) == 0, ph_details[:30]))
     checks.append(("标记合法", len(unknown_details) == 0, unknown_details[:30]))
     checks.append(("LINK不多出", len(link_details) == 0, link_details[:30]))
+    checks.append(("闭合标记未退化", len(close_degrade_details) == 0, close_degrade_details[:30]))
     checks.append(("改动行纯ASCII", len(ascii_details) == 0, ascii_details[:30]))
     checks.append(("其他语言未触碰", len(lang_details) == 0, lang_details[:30]))
 
