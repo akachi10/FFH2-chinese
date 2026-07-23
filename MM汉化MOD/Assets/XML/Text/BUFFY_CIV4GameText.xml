@@ -7,137 +7,137 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_BUFFY_INVALID_HOF_GOTM</Tag>
-		<English>[COLOR_WARNING_TEXT]Warning:[COLOR_REVERT] This game is not valid for HOF or GOTM use.</English>
+		<English>[COLOR_WARNING_TEXT]&#x8b66;&#x544a;&#xff1a;[COLOR_REVERT]&#x672c;&#x5c40;&#x6e38;&#x620f;&#x4e0d;&#x9002;&#x7528;&#x4e8e; HOF &#x6216; GOTM&#x3002;</English>
 		<German>[COLOR_WARNING_TEXT]Warnung:[COLOR_REVERT] Diese Partie ist nicht zul&#228;ssig zur Verwendung mit HOF oder GOTM.</German>
 		<Italian>[COLOR_WARNING_TEXT]Attenzione:[COLOR_REVERT] questa partita non &#232; valida per l'uso con HOF o GOTM.</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]Advertencia:[COLOR_REVERT] Esta partida no es v&#225;lida para su uso con HOF o GOTM.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFY_INVALID_HOF</Tag>
-		<English>[COLOR_WARNING_TEXT]HOF Warning:[COLOR_REVERT] This game is not valid for HOF use. See the Settings page of the Victory screen for details.</English>
+		<English>[COLOR_WARNING_TEXT]HOF &#x8b66;&#x544a;&#xff1a;[COLOR_REVERT]&#x672c;&#x5c40;&#x6e38;&#x620f;&#x4e0d;&#x9002;&#x7528;&#x4e8e; HOF&#x3002;&#x8be6;&#x89c1;&#x80dc;&#x5229;&#x754c;&#x9762;&#x7684;&#x201c;&#x8bbe;&#x7f6e;&#x201d;&#x9875;&#x3002;</English>
 		<German>[COLOR_WARNING_TEXT]HOF-Warnung:[COLOR_REVERT] Diese Partie ist nicht zul&#228;ssig zur Verwendung mit HOF. Beachten Sie die Seite "Einstellungen" im Sieg-Bildschirm.</German>
 		<Italian>[COLOR_WARNING_TEXT]Avviso HOF:[COLOR_REVERT] questa partita non &#232; valida per l'uso con HOF. Per maggiori dettagli, guarda la pagina delle Impostazioni nella Schermata di Vittoria.</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]HOF Advertencia:[COLOR_REVERT] Esta partida no es v&#225;lida para su uso con HOF. Consulta la pesta&#241;a de Configuraci&#243;n en la pantalla de Victoria para conocer los detalles.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_NOT_VALID</Tag>
-		<English>This game is not valid for HOF use. See the [COLOR_WARNING_TEXT]highlighted[COLOR_REVERT] in the boxes below for the specific invalid settings.</English>
+		<English>&#x672c;&#x5c40;&#x6e38;&#x620f;&#x4e0d;&#x9002;&#x7528;&#x4e8e; HOF&#x3002;&#x8bf7;&#x67e5;&#x770b;&#x4e0b;&#x65b9;&#x65b9;&#x6846;&#x4e2d;[COLOR_WARNING_TEXT]&#x9ad8;&#x4eae;&#x6807;&#x51fa;[COLOR_REVERT]&#x7684;&#x5177;&#x4f53;&#x65e0;&#x6548;&#x8bbe;&#x7f6e;&#x3002;</English>
 		<German>Diese Partie ist nicht zul&#228;ssig zur Verwendung mit HOF. Beachten Sie die [COLOR_WARNING_TEXT]hervorgehobenen[COLOR_REVERT] Einstellungen in den Feldern unten, um diese entsprechend zu &#228;ndern.</German>
 		<Italian>Questa partita non &#232; valida per l'uso con HOF. Vedi la parte [COLOR_WARNING_TEXT]evidenziata[COLOR_REVERT] nelle caselle sottostanti per le specifiche impostazioni non valide.</Italian>
 		<Spanish>Esta partida no es v&#225;lida para su uso con HOF. Consulta las partes [COLOR_WARNING_TEXT]resaltadas[COLOR_REVERT] in las opciones de m&#225;s abajo para ver la configuraci&#243;n incorrecta.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING</Tag>
-		<English>HOF Warning</English>
+		<English>HOF &#x8b66;&#x544a;</English>
 		<German>HOF-Warnung</German>
 		<Italian>Avviso HOF</Italian>
 		<Spanish>HOF Advertencia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_MAC</Tag>
-		<English>[COLOR_WARNING_TEXT]Mac Players cannot submit HoF Entries[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]Mac &#x73a9;&#x5bb6;&#x65e0;&#x6cd5;&#x63d0;&#x4ea4; HoF &#x8bb0;&#x5f55;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]Mac-Spieler k&#246;nnen keine HoF-Ergebnisse einreichen[COLOR_REVERT]</German>
 		<Spanish>[COLOR_WARNING_TEXT]Jugadores con Mac no pueden enviar entradas al HoF [COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_NO_TEAMS</Tag>
-		<English>[COLOR_WARNING_TEXT]Team play is not allowed[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x4e0d;&#x5141;&#x8bb8;&#x7ec4;&#x961f;&#x6e38;&#x620f;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]Verb&#252;ndete sind nicht erlaubt[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Il gioco di squadra non &#232; consentito[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]Juego en equipos no permitido[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_MULT_LEADERS</Tag>
-		<English>[COLOR_WARNING_TEXT]%s1 has been chosen %d2 times[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]%s1 &#x5df2;&#x88ab;&#x9009;&#x62e9; %d2 &#x6b21;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]%s1 wurde %d2x gew&#228;hlt[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]%s1 &#232; stato scelto %d2 volte[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]%s1 ha sido elegido %d2 veces[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_TOO_FEW_OPPONENTS</Tag>
-		<English>[COLOR_WARNING_TEXT]%d1 or more opponents are required for a %s2[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]%s2 &#x9700;&#x8981; %d1 &#x540d;&#x6216;&#x66f4;&#x591a;&#x5bf9;&#x624b;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]%d1 oder mehr Gegner sind erforderlich f&#252;r ein %s2[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Sono necessari %d1 o pi&#249; avversari per un %s2[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]%d1 o m&#225;s oponentes son necesarios para un %s2[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_TOO_MANY_OPPONENTS</Tag>
-		<English>[COLOR_WARNING_TEXT]%d1 or less opponents are required for a %s2[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]%s2 &#x9700;&#x8981; %d1 &#x540d;&#x6216;&#x66f4;&#x5c11;&#x5bf9;&#x624b;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]%d1 oder weniger Gegner sind erforderlich f&#252;r ein %s2[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Sono necessari %d1 o meno avversari per un %s2[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]%d1 o menos oponentes son necesarios para un %s2[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_INSTALL_LOCATION</Tag>
-		<English>[COLOR_WARNING_TEXT]BUFFY must be installed to:[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]BUFFY &#x5fc5;&#x987b;&#x5b89;&#x88c5;&#x5230;&#xff1a;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]BUFFY muss hier installiert sein:[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]BUFFY deve essere installato in:[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]BUFFY debe instalarse en:[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_MULTI_PLAYER_NOT_ALLOWED</Tag>
-		<English>[COLOR_WARNING_TEXT]Multi-player games not allowed[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x4e0d;&#x5141;&#x8bb8;&#x591a;&#x4eba;&#x6e38;&#x620f;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]Multiplayer-Partien nicht erlaubt[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Le partite in multi-player non sono consentite[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]partidas Multijugador no permitidas[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_DLL_MISSING</Tag>
-		<English>[COLOR_WARNING_TEXT]The BUFFY DLL is missing.[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]BUFFY DLL &#x7f3a;&#x5931;&#x3002;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]Die BUFFY-DLL fehlt[COLOR_REVERT]</German>
 		<Spanish>[COLOR_WARNING_TEXT]La DLL de BUFFY no se encuentra.[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_SKIPPED</Tag>
-		<English>[COLOR_WARNING_TEXT]Skipped Checksum.[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x5df2;&#x8df3;&#x8fc7;&#x6821;&#x9a8c;&#x548c;&#x3002;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]Pr&#252;fsumme &#252;bersprungen.[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Checksum saltato.[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]Ignorado Checksum.[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_MISSING</Tag>
-		<English>[COLOR_WARNING_TEXT]CRCs are missing. This game can't be used. Check Locked Modified Assets if unchecked.[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x6821;&#x9a8c;&#x548c; CRC &#x7f3a;&#x5931;&#x3002;&#x672c;&#x5c40;&#x6e38;&#x620f;&#x65e0;&#x6cd5;&#x4f7f;&#x7528;&#x3002;&#x82e5;&#x672a;&#x52fe;&#x9009;&#xff0c;&#x8bf7;&#x68c0;&#x67e5;&#x201c;&#x9501;&#x5b9a;&#x5df2;&#x4fee;&#x6539;&#x8d44;&#x4ea7;&#x201d;&#x3002;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]CRC-Werte fehlen. Diese Partie kann nicht verwendet werden. Aktivieren Sie "Locked Modified Assets", falls diese Option deaktiviert ist.[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Mancano i CRC. Questa partita non pu&#242; essere usata. Seleziona 'Locked Modified Assets' (se non lo &#232; gi&#224;).[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]No se encuentra CRCs. Esta partida no puede ser utilizada. Comprueba si Bloquear Par&#225;metros Modificados (Locked Modified Assets) esta desmarcado.[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_DIFFERENT</Tag>
-		<English>[COLOR_WARNING_TEXT]The assets are different from a standard install. Contact the HOF staff.[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x8d44;&#x4ea7;&#x4e0e;&#x6807;&#x51c6;&#x5b89;&#x88c5;&#x4e0d;&#x540c;&#x3002;&#x8bf7;&#x8054;&#x7cfb; HOF &#x5de5;&#x4f5c;&#x4eba;&#x5458;&#x3002;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]Die Dateien unterscheiden sich von einer Standard-Installation. Kontaktieren Sie das HOF-Team.[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]'Assets' differenti da quelli di una partita standard; contatta lo Staff HOF.[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]Los ajustes son distintos a los de una instalaci&#243;n est&#225;ndar. Contacta con elHOF staff.[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_FAILED</Tag>
-		<English>[COLOR_WARNING_TEXT]Failed to check CRCs.[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x6821;&#x9a8c; CRC &#x5931;&#x8d25;&#x3002;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]Pr&#252;fung der CRC-Werte fehlgeschlagen.[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Controllo dei CRC fallito.[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]Fallo al comprobar CRCs.[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_VICTORY_CONDITIONS</Tag>
-		<English>[COLOR_WARNING_TEXT]All Victory Conditions must be enabled. The following are missing:[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x5fc5;&#x987b;&#x542f;&#x7528;&#x6240;&#x6709;&#x80dc;&#x5229;&#x6761;&#x4ef6;&#x3002;&#x4ee5;&#x4e0b;&#x6761;&#x4ef6;&#x7f3a;&#x5931;&#xff1a;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]Alle Siegbedingungen m&#252;ssen aktiviert sein. Die folgenden sind deaktiviert:[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Tutte le Condizioni di Vittoria devono essere abilitate; mancano le seguenti:[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]Todas las Condiciones de Victoria deben estar activadas. Las siguientes faltan:[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_REQUIRED</Tag>
-		<English>[COLOR_WARNING_TEXT](Required)[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#xff08;&#x5fc5;&#x9700;&#xff09;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT](erforderlich)[COLOR_REVERT]</German>
 		<Spanish>[COLOR_WARNING_TEXT](Requerido)[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_NOT_ALLOWED</Tag>
-		<English>[COLOR_WARNING_TEXT](Not allowed)[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#xff08;&#x4e0d;&#x5141;&#x8bb8;&#xff09;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT](Nicht erlaubt)[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT](non consentito)[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT](No permitido)[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUFFYWARNING_BALANCED_RESOUCES_NOT_ALLOWED</Tag>
-		<English>[COLOR_WARNING_TEXT]Balanced resources not allowed[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x4e0d;&#x5141;&#x8bb8;&#x5e73;&#x8861;&#x8d44;&#x6e90;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]Ausgewogene Ressourcen sind nicht erlaubt[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Il bilanciamento delle Risorse non &#232; consentito[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]Recursos equilibrados no permitidos[COLOR_REVERT]</Spanish>

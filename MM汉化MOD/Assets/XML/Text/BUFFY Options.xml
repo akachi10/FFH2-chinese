@@ -9,7 +9,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_BUFFY__ENABLED_TEXT</Tag>
-		<English>Enabled</English>
+		<English>&#x542f;&#x7528;</English>
 		<French>Activ&#233;</French>
 		<German>Aktivieren</German>
 		<Italian>Attivato</Italian>
@@ -17,35 +17,35 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_BUFFY__ENABLED_HOVER</Tag>
-		<English>When checked, BUFFY is in operation.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;BUFFY &#x5904;&#x4e8e;&#x8fd0;&#x884c;&#x72b6;&#x6001;&#x3002;</English>
 		<German>Aktiviert BUFFY</German>
 		<Italian>Quando &#232; selezionato, il BUFFY Mod &#232; attivo.</Italian>
 		<Spanish>Cuando se activa, BUFFY esta operativo.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_BUFFY__WARNINGSDAWNOFMAN_TEXT</Tag>
-		<English>Warnings on Dawn of Man</English>
+		<English>&#x5728;&#x201c;&#x4eba;&#x7c7b;&#x9ece;&#x660e;&#x201d;&#x754c;&#x9762;&#x663e;&#x793a;&#x8b66;&#x544a;</English>
 		<German>BUFFY-Warnungen bei Gr&#252;ndung der Zivilisation</German>
 		<Italian>Mostra gli avvertimenti in 'Dawn of Man'</Italian>
 		<Spanish>Advertencias en el 'Amanecer del Hombre'</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_BUFFY__WARNINGSDAWNOFMAN_HOVER</Tag>
-		<English>When checked, BUFFY warnings are shown on the Dawn of Man screen.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;BUFFY &#x8b66;&#x544a;&#x4f1a;&#x663e;&#x793a;&#x5728;&#x201c;&#x4eba;&#x7c7b;&#x9ece;&#x660e;&#x201d;&#x754c;&#x9762;&#x4e0a;&#x3002;</English>
 		<German>Zeigt die BUFFY-Warnungen beim Bildschirm "Gr&#252;ndung der Zivilisation"</German>
 		<Italian>Quando &#232; selezionato, mostra gli avvenimenti del BUFFY Mod nella schermata 'Dawn of Man'.</Italian>
 		<Spanish>Cuando se activa, las advertencias de BUFFY se muestran en la pantalla 'Amanecer del Hombre'.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_BUFFY__WARNINGSSETTINGS_TEXT</Tag>
-		<English>Warnings on Settings tab</English>
+		<English>&#x5728;&#x201c;&#x8bbe;&#x7f6e;&#x201d;&#x9009;&#x9879;&#x5361;&#x663e;&#x793a;&#x8b66;&#x544a;</English>
 		<German>BUFFY-Warnungen bei Einstellungen</German>
 		<Italian>Mostra gli avvertimenti nelle Impostazioni</Italian>
 		<Spanish>Advertencias en la Pesta&#209;a de Configuraci&#243;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_BUFFY__WARNINGSSETTINGS_HOVER</Tag>
-		<English>When checked, BUFFY warnings are shown on the Settings tab of the Victory Screen.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;BUFFY &#x8b66;&#x544a;&#x4f1a;&#x663e;&#x793a;&#x5728;&#x80dc;&#x5229;&#x754c;&#x9762;&#x7684;&#x201c;&#x8bbe;&#x7f6e;&#x201d;&#x9009;&#x9879;&#x5361;&#x4e0a;&#x3002;</English>
 		<German>Zeigt die BUFFY-Warnungen beim Bildschirm "Einstellungen"</German>
 		<Italian>Quando &#232; selezionato, mostra gli avvenimenti del BUFFY Mod nella schermata delle Impostazioni.</Italian>
 		<Spanish>Cuando se activa, las advertencias de BUFFY se muestran en la pantalla de Configuraci&#243;n en la Pantalla de Victoria.</Spanish>

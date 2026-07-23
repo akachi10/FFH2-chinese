@@ -6,25 +6,25 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVDCM__REVDCMRESET_TEXT</Tag>
-		<English>Reset Options To Defaults</English>
+		<English>&#x5c06;&#x9009;&#x9879;&#x91cd;&#x7f6e;&#x4e3a;&#x9ed8;&#x8ba4;&#x503c;</English>
 		<German>Auf Standardoptionen zur&#252;cksetzen</German>
 		<Spanish>Resetear Opciones a Predefinidas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVDCM__REVDCMRESET_HOVER</Tag>
-		<English>Reset all options back to mod defaults (game effect is immediate but reload BUG options screen to visually confirm)</English>
+		<English>&#x5c06;&#x6240;&#x6709;&#x9009;&#x9879;&#x91cd;&#x7f6e;&#x56de;&#x6a21;&#x7ec4;&#x9ed8;&#x8ba4;&#x503c;&#xff08;&#x6e38;&#x620f;&#x5185;&#x7acb;&#x5373;&#x751f;&#x6548;&#xff0c;&#x4f46;&#x9700;&#x91cd;&#x65b0;&#x52a0;&#x8f7d; BUG &#x9009;&#x9879;&#x754c;&#x9762;&#x624d;&#x80fd;&#x5728;&#x89c6;&#x89c9;&#x4e0a;&#x786e;&#x8ba4;&#xff09;</English>
 		<German>Alle Optionen auf Standard dieses Mods zur&#252;ckstellen (&#196;nderungen sind im Spiel unmittelbar wirksam, BUG-Optionen neu starten, um sie hier zu sehen</German>
 		<Spanish>Resetea todas las opciones a las predefinidas del mod (los cambios de los efectos en el juego son inmediatos, pero recarga la pantalla de Opciones Bug para confirmarlo)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVDCM__REVDCMHIDDENATTITUDE_TEXT</Tag>
-		<English>&#x663e;&#x793a;&#x8be6;&#x7ec6;&#x7684; AI &#x6001;&#x5ea6;&#x4fe1;&#x606f;</English>
+		<English>&#x663e;&#x793a; AI &#x8be6;&#x7ec6;&#x6001;&#x5ea6;&#x4fe1;&#x606f;</English>
 		<German>Zeigt detailierte Infos zur Einstellung der KIs</German>
 		<Spanish>Muestra informaci&#243;n detallada de la actitud de la IA</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVDCM__REVDCMHIDDENATTITUDE_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x542f;&#x7528; DaveMcW &#x5236;&#x4f5c;&#x7684;&#x9690;&#x85cf;&#x6001;&#x5ea6; Mod</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x542f;&#x7528; DaveMcW &#x5236;&#x4f5c;&#x7684;&#x9690;&#x85cf;&#x6001;&#x5ea6;&#x6a21;&#x7ec4;</English>
 		<German>Schaltet den verborgenen Einstellungsmodus (Hidden Attitude Mod) von DaveMcW ein</German>
 		<Spanish>Cuando se activa, habilita el Mod Actitud Oculta de DaveMcW</Spanish>
 	</TEXT>
@@ -36,7 +36,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVDCM__OC_RESPAWN_HOLY_CITIES_HOVER</Tag>
-		<English>&#x5141;&#x8bb8;&#x5ba1;&#x5224;&#x6e05;&#x6d17;&#x5723;&#x57ce;&#xff1b;&#x82e5;&#x5b58;&#x5728;&#x67d0;&#x4e2a;&#x6587;&#x660e;&#x62e5;&#x6709;&#x4e24;&#x5ea7;&#x4fe1;&#x5949;&#x88ab;&#x6e05;&#x6d17;&#x5723;&#x57ce;&#x5b97;&#x6559;&#x7684;&#x57ce;&#x5e02;&#xff0c;&#x5219;&#x8be5;&#x5723;&#x57ce;&#x4f1a;&#x53d1;&#x751f;&#x8fc1;&#x79fb;</English>
+		<English>&#x5141;&#x8bb8;&#x5b97;&#x6559;&#x5ba1;&#x5224;&#x6e05;&#x6d17;&#x5723;&#x57ce;&#xff1b;&#x82e5;&#x67d0;&#x4e2a;&#x6587;&#x660e;&#x62e5;&#x6709;&#x4e24;&#x5ea7;&#x4fe1;&#x5949;&#x88ab;&#x6e05;&#x6d17;&#x5723;&#x57ce;&#x4e4b;&#x5b97;&#x6559;&#x7684;&#x57ce;&#x5e02;&#xff0c;&#x5219;&#x5723;&#x57ce;&#x5c06;&#x8fc1;&#x79fb;&#x81f3;&#x8be5;&#x5904;</English>
 		<German>Erlaubt es Inquisitionen Heilige St&#228;dte auszul&#246;schen; wenn eine Zivilisation mit 2 St&#228;dten dieser Religion existiert, so wird die Heilige Stadt dorthin versetzt</German>
 		<Spanish>Permite a los Inquisidores purgar Ciudades Santas; si existe una civilizaci&#243;n qu&#233; tiene dos ciudades con la religi&#243;n de la ciudad santa purgada, la ciudad santa se reubicara</Spanish>
 	</TEXT>
@@ -48,7 +48,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVDCM__LIMITED_RELIGIONS_EXCEPTIONS_HOVER</Tag>
-		<English>&#x9009;&#x4e2d;&#x540e;&#xff0c;&#x5373;&#x4fbf;&#x5f00;&#x542f;&#x6709;&#x9650;&#x5b97;&#x6559;&#xff0c;&#x5355;&#x57ce;&#x6587;&#x660e;&#x4e0e;&#x53db;&#x519b;&#x4ecd;&#x53ef;&#x521b;&#x7acb;&#x591a;&#x4e2a;&#x5b97;&#x6559;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5373;&#x4fbf;&#x542f;&#x7528;&#x6709;&#x9650;&#x5b97;&#x6559;&#xff0c;&#x5355;&#x57ce;&#x6587;&#x660e;&#x4e0e;&#x53db;&#x519b;&#x4ecd;&#x53ef;&#x521b;&#x7acb;&#x591a;&#x79cd;&#x5b97;&#x6559;</English>
 		<German>Auch bei Auswahl von Begrenzten Religionen k&#246;nnen von Zivilisationen mit nur einer Stadt und Rebellen mehrere Religionen gegr&#252;ndet werden.</German>
 	</TEXT>
 	<TEXT>
@@ -59,7 +59,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVDCM__OC_LIMITED_RELIGIONS_HOVER</Tag>
-		<English>&#x6bcf;&#x4e2a;&#x6587;&#x660e;&#x53ea;&#x80fd;&#x521b;&#x7acb;&#x4e00;&#x4e2a;&#x5b97;&#x6559;&#xff0c;&#x56e0;&#x800c;&#x53ea;&#x62e5;&#x6709;&#x4e00;&#x5ea7;&#x5723;&#x57ce;&#xff08;&#x9664;&#x975e;&#x901a;&#x8fc7;&#x5f81;&#x670d;&#x83b7;&#x5f97;&#x66f4;&#x591a;&#xff09;&#xff1b;&#x4f7f;&#x4e00;&#x5c40;&#x6e38;&#x620f;&#x4e2d;&#x5b97;&#x6559;&#x5206;&#x5e03;&#x66f4;&#x4e3a;&#x5747;&#x8861;&#xff0c;&#x5236;&#x9020;&#x66f4;&#x591a;&#x5916;&#x4ea4;&#x4e0a;&#x7684;&#x5b97;&#x6559;&#x7d27;&#x5f20;</English>
+		<English>&#x4e00;&#x4e2a;&#x6587;&#x660e;&#x53ea;&#x80fd;&#x521b;&#x7acb;&#x4e00;&#x79cd;&#x5b97;&#x6559;&#xff0c;&#x56e0;&#x800c;&#x53ea;&#x62e5;&#x6709;&#x4e00;&#x5ea7;&#x5723;&#x57ce;&#xff08;&#x9664;&#x975e;&#x901a;&#x8fc7;&#x5f81;&#x670d;&#x83b7;&#x5f97;&#x66f4;&#x591a;&#xff09;&#xff1b;&#x8fd9;&#x4f1a;&#x4f7f;&#x5404;&#x5b97;&#x6559;&#x5728;&#x6e38;&#x620f;&#x4e2d;&#x4f20;&#x64ad;&#x5f97;&#x66f4;&#x5747;&#x8861;&#xff0c;&#x4ece;&#x800c;&#x5236;&#x9020;&#x66f4;&#x591a;&#x5916;&#x4ea4;&#x4e0a;&#x7684;&#x5b97;&#x6559;&#x7d27;&#x5f20;</English>
 		<German>Eine Zivilisation kann nur eine Religion gr&#252;nden und somit nur eine Heilige Stadt besitzen (au&#223;er durch Eroberung); Erzeugt eine gleichm&#228;&#223;igere Verteilung der Religionen im Spiel und bewirkt verst&#228;rkte religi&#246;s-diplomatische Spannungen</German>
 		<Spanish>Una civilizaci&#243;n solo puede fundar una religi&#243;n y poseer una sola ciudad santa (A no ser que se obtenga por conquista); Provoca una mayor difusi&#243;n de las religiones en el juego, creando mayores tensiones diplom&#225;ticas por las religiones.</Spanish>
 	</TEXT>
@@ -71,7 +71,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVDCM__CHOOSE_RELIGION_HOVER</Tag>
-		<English>&#x4f5c;&#x7528;&#x4e0e;&#x6e38;&#x620f;&#x9009;&#x9879;&#x7248;&#x672c;&#x76f8;&#x540c;&#xff0c;&#x533a;&#x522b;&#x5728;&#x4e8e;&#x4f60;&#x4e0d;&#x4ec5;&#x80fd;&#x9009;&#x62e9;&#x81ea;&#x5df1;&#x6240;&#x521b;&#x7acb;&#x7684;&#x4fe1;&#x4ef0;&#xff0c;&#x8fd8;&#x80fd;&#x9009;&#x62e9; AI &#x7684;</English>
+		<English>&#x4e0e;&#x6e38;&#x620f;&#x9009;&#x9879;&#x7248;&#x672c;&#x4f5c;&#x7528;&#x76f8;&#x540c;&#xff0c;&#x533a;&#x522b;&#x5728;&#x4e8e;&#x4f60;&#x4e0d;&#x4ec5;&#x53ef;&#x9009;&#x62e9;&#x81ea;&#x5df1;&#x521b;&#x7acb;&#x7684;&#x4fe1;&#x4ef0;&#xff0c;&#x8fd8;&#x53ef;&#x9009;&#x62e9; AI &#x7684;&#x4fe1;&#x4ef0;</English>
 		<German>Funktioniert wie die normale Spieloption, au&#223;er dass man nicht nur den selbst erforschten Glauben, sondern auch den der KIs ausw&#228;hlen kann</German>
 		<Spanish>Funciona igual que la opci&#243;n incluida en el juego, excepto que no solo escoges la religi&#243;n, sino tambi&#233;n la  de la IA.</Spanish>
 	</TEXT>

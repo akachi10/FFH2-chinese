@@ -4,7 +4,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_INTERFACE_1</Tag>
-		<English>*BUG Hint*: Press [ALT + CTRL + O] to enter The BUG Mod Options Screen.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x6309; [ALT + CTRL + O] &#x8fdb;&#x5165; BUG &#x6a21;&#x7ec4;&#x9009;&#x9879;&#x754c;&#x9762;&#x3002;</English>
 		<French>*Conseils du BUG*: Pressez [ALT + CTRL + O] pour acc&#232;der aux &#233;crans d'options du BUG Mod.</French>
 		<German>[BUG] Tipp... Mit der Tastenkombination [STRG + ALT + O] l&#228;sst sich das Optionsmen&#252; der BUG Mod aufrufen.</German>
 		<Italian>*Suggerimento del BUG Team*: Premi [ALT + CTRL + O] per accedere alla schermata di configurazione del BUG Mod.</Italian>
@@ -12,7 +12,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_INTERFACE_2</Tag>
-		<English>*BUG Hint*: Ever forget to build that Barracks?  [ALT +M] -OR- [ALT + CTRL + R] will allow you to set up reminders so you don't forget again!</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x603b;&#x662f;&#x5fd8;&#x8bb0;&#x5efa;&#x9020;&#x90a3;&#x5ea7;&#x5175;&#x8425;&#xff1f;[ALT +M] &#x6216; [ALT + CTRL + R] &#x53ef;&#x8ba9;&#x4f60;&#x8bbe;&#x7f6e;&#x63d0;&#x9192;&#xff0c;&#x4ece;&#x6b64;&#x4e0d;&#x518d;&#x9057;&#x6f0f;&#xff01;</English>
 		<French>*Conseils du BUG*: Oubli&#233; de construire une Caserne?  [ALT +M] -OU- [ALT + CTRL + R] vous permet de cr&#233;er une alerte pour que vous ne l'oublierez plus jamais!</French>
 		<German>[BUG] Tipp... Mit den Tastenkombinationen [ALT + M] oder [STRG + ALT + R] lassen sich Erinnerungen verfassen, die nach einer festgelegten Anzahl Runden wieder erscheinen.</German>
 		<Italian>*Suggerimento del BUG Team*: Ti dimentichi sempre di costruire le caserme? [ALT +M] -O- [ALT + CTRL + R] ti permette di inserire un promemoria in modo da non dimenticartene pi&#249;!</Italian>
@@ -20,7 +20,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_INTERFACE_3</Tag>
-		<English>*BUG Hint*: [ALT + S] allows you to make Sticky Notes on tiles.  Just click and type.  Pressing [ALT + S] again, and then clicking on an existing note will remove it.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;[ALT + S] &#x53ef;&#x8ba9;&#x4f60;&#x5728;&#x5730;&#x5757;&#x4e0a;&#x8d34;&#x4fbf;&#x7b7e;&#x3002;&#x53ea;&#x9700;&#x70b9;&#x51fb;&#x5e76;&#x8f93;&#x5165;&#x3002;&#x518d;&#x6b21;&#x6309; [ALT + S] &#x540e;&#x70b9;&#x51fb;&#x73b0;&#x6709;&#x4fbf;&#x7b7e;&#x5373;&#x53ef;&#x5c06;&#x5176;&#x79fb;&#x9664;&#x3002;</English>
 		<French>*Conseils du BUG*: [ALT + S] vous permet de mettre un signe sur une case.  Il suffit de cliquer et de typer.  Pressez [ALT + S] de nouveau et puis cliquer sur un signe existant l'enl&#232;vera.</French>
 		<German>[BUG] Tipp... Mit der Tastenkombination [ALT + S] lassen sich Haftnotizen an Gel&#228;ndefeldern anbringen. Eine Haftnotiz l&#228;sst sich mit derselben Tastenkombination auch wieder entfernen.</German>
 		<Italian>*Suggerimento del BUG Team*: [ALT + S] ti consente di inserire note nelle caselle. Devi solo cliccarci e scrivere. Premendo nuovamente [ALT + S] e cliccando su una nota esistente, la si rimuove.</Italian>
@@ -28,7 +28,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_INTERFACE_4</Tag>
-		<English>*BUG Hint*: To cancel all Worker Orders quickly, select 1 worker with orders, and while holding the [ALT] key, click the cancel orders button.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x8981;&#x5feb;&#x901f;&#x53d6;&#x6d88;&#x6240;&#x6709;&#x5de5;&#x4eba;&#x6307;&#x4ee4;&#xff0c;&#x9009;&#x4e2d;&#x4e00;&#x4e2a;&#x5df2;&#x6709;&#x6307;&#x4ee4;&#x7684;&#x5de5;&#x4eba;&#xff0c;&#x6309;&#x4f4f; [ALT] &#x952e;&#xff0c;&#x70b9;&#x51fb;&#x53d6;&#x6d88;&#x6307;&#x4ee4;&#x6309;&#x94ae;&#x3002;</English>
 		<French>*Conseils du BUG*: Pour annuler tous les ordres des Ouvriers, s&#233;lectionnez 1 ouvrier avec des ordres, et en gardant [ALT] enfonc&#233;, cliquez le bouton pour annuler les ordres.</French>
 		<German>[BUG] Tipp... Bei gedr&#252;ckter [ALT]-Taste lassen sich die Missionen aller aktiven Bautrupps per Mausklick auf das Abbrechensymbol eines aktiven Bautrupps abbrechen.</German>
 		<Italian>*Suggerimento del BUG Team*: Per cancellare velocemente tutti gli ordini dei lavoratori, selezionane uno che abbia ordini attivi, tieni premuto il tasto [ALT] e clicca il pulsante di cancellazione degli ordini.</Italian>
@@ -36,7 +36,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_INTERFACE_5</Tag>
-		<English>*BUG Hint*: [ALT + E] will allow you to make a custom Event in the autologger.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;[ALT + E] &#x53ef;&#x8ba9;&#x4f60;&#x5728;&#x81ea;&#x52a8;&#x8bb0;&#x5f55;&#x5668;&#x4e2d;&#x521b;&#x5efa;&#x4e00;&#x6761;&#x81ea;&#x5b9a;&#x4e49;&#x4e8b;&#x4ef6;&#x3002;</English>
 		<French>*Conseils du BUG*: [ALT + E] vous permet d'ajouter une entr&#233;e customis&#233;e dans l'autologger.</French>
 		<German>[BUG] Tipp... Mit der Tastenkombination [ALT + E] k&#246;nnen dem Protokoll eigene Eintr&#228;ge hinzugef&#252;gt werden.</German>
 		<Italian>*Suggerimento del BUG Team*: [ALT + E] ti consente di inserire un evento personalizzato nel registro automatico.</Italian>
@@ -44,7 +44,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_INTERFACE_6</Tag>
-		<English>*BUG Hint*: Clicking on the Scroll button within the Domestic Advisor will allow you to customize it to your playing style.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x70b9;&#x51fb;&#x5185;&#x653f;&#x987e;&#x95ee;&#x4e2d;&#x7684;&#x5377;&#x8f74;&#x6309;&#x94ae;&#xff0c;&#x53ef;&#x6309;&#x4f60;&#x7684;&#x6e38;&#x620f;&#x98ce;&#x683c;&#x5bf9;&#x5176;&#x8fdb;&#x884c;&#x81ea;&#x5b9a;&#x4e49;&#x3002;</English>
 		<French>*Conseils du BUG*: Cliquer sur le parchemin dans l'adviseur domestique vous permet de le customiser comme vous le d&#233;sirez.</French>
 		<German>[BUG] Tipp... Mit einem Klick auf die gelbe Schriftrolle im "Inlandsberater" l&#228;sst sich dieser an den eigenen Spielstil anpassen.</German>
 		<Italian>*Suggerimento del BUG Team*: Cliccare sul pulsante con la pergamena nella schermata del Consigliere Interno ti permetter&#224; di personalizzarlo in base al tuo stile di gioco.</Italian>
@@ -52,7 +52,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_INTERFACE_7</Tag>
-		<English>*BUG Hint*: To create rally points, select the city, or cities, you are building units it, hold down the [SHIFT] key and Right Click on the tile you want your rally point to be at.  You will see a yellow circle showing the rally point.[NEWLINE]To cancel orders select the same city or cities, [SHIFT] and Right click on any city square, and it will cancel the rally orders.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x8981;&#x8bbe;&#x7f6e;&#x96c6;&#x7ed3;&#x70b9;&#xff0c;&#x9009;&#x4e2d;&#x4f60;&#x6b63;&#x5728;&#x5176;&#x4e2d;&#x5efa;&#x9020;&#x5355;&#x4f4d;&#x7684;&#x57ce;&#x5e02;&#xff08;&#x4e00;&#x5ea7;&#x6216;&#x591a;&#x5ea7;&#xff09;&#xff0c;&#x6309;&#x4f4f; [SHIFT] &#x952e;&#x5e76;&#x53f3;&#x952e;&#x70b9;&#x51fb;&#x4f60;&#x60f3;&#x8bbe;&#x4e3a;&#x96c6;&#x7ed3;&#x70b9;&#x7684;&#x5730;&#x5757;&#x3002;&#x4f60;&#x4f1a;&#x770b;&#x5230;&#x4e00;&#x4e2a;&#x8868;&#x793a;&#x96c6;&#x7ed3;&#x70b9;&#x7684;&#x9ec4;&#x8272;&#x5706;&#x5708;&#x3002;[NEWLINE]&#x8981;&#x53d6;&#x6d88;&#x6307;&#x4ee4;&#xff0c;&#x9009;&#x4e2d;&#x540c;&#x4e00;&#x5ea7;&#x6216;&#x51e0;&#x5ea7;&#x57ce;&#x5e02;&#xff0c;&#x6309; [SHIFT] &#x5e76;&#x53f3;&#x952e;&#x70b9;&#x51fb;&#x4efb;&#x610f;&#x57ce;&#x5e02;&#x65b9;&#x683c;&#xff0c;&#x5373;&#x53ef;&#x53d6;&#x6d88;&#x96c6;&#x7ed3;&#x6307;&#x4ee4;&#x3002;</English>
 		<French>*Conseils du BUG*: Pour cr&#233;er des points de rassemblement, s&#233;lectionnez la ville ou les villes o&#249; vous construisez vos unit&#233;s, gardez [SHIFT] enfonc&#233; et cliquez avec le bouton de droite sur la case o&#249; vous voulez que vos unit&#233;s aillent. Un cercle jaune indiquera le point de rassemblement.[NEWLINE]Pour annuler cet ordre, s&#233;lectionnez la m&#234;me ville, gardez [SHIFT] enfonc&#233; et cliquez avec le bouton de droite et cliquez sur une case de ville.</French>
 		<German>[BUG] Tipp... Bei gedr&#252;ckter [UMSCHALT]-Taste in Verbindung mit einem Rechtsklick l&#228;sst sich f&#252;r eine oder mehrere St&#228;dte ein Sammelpunkt f&#252;r Einheiten setzen. Der Sammelpunkt wird durch einen gelben Kreis markiert. Wird bei gedr&#252;ckter [UMSCHALT]-Taste in Verbindung mit einem Rechtsklick ein Stadtgel&#228;ndefeld ausgew&#228;hlt, l&#228;sst sich der Sammelpunkt wieder aufheben.</German>
 		<Italian>*Suggerimento del BUG Team*: Per creare punti di raduno, seleziona la citt&#224; (o le citt&#224;) in cui stai costruendo le unit&#224;, tieni premuto il tasto Maiusc e clicca col destro sulla casella dove vuoi collocare il punto di raduno. Vedrai un cerchio giallo indicare il punto di raduno.[NEWLINE]Per cancellare il punto di raduno, seleziona la stessa (o le stesse) citt&#224;, tieni premuto il tasto Maiusc e clicca col destro su una qualunque casella cittadina.</Italian>
@@ -60,7 +60,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_1</Tag>
-		<English>*BUG Hint*: When a tile is in the City Cross of two different cities, you can change its city ownership by clicking on that tile from the chosen city's City Screen.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x5f53;&#x67d0;&#x5730;&#x5757;&#x4f4d;&#x4e8e;&#x4e24;&#x5ea7;&#x4e0d;&#x540c;&#x57ce;&#x5e02;&#x7684;&#x57ce;&#x5e02;&#x8303;&#x56f4;&#x5185;&#x65f6;&#xff0c;&#x4f60;&#x53ef;&#x4ee5;&#x5728;&#x6240;&#x9009;&#x57ce;&#x5e02;&#x7684;&#x57ce;&#x5e02;&#x754c;&#x9762;&#x4e2d;&#x70b9;&#x51fb;&#x8be5;&#x5730;&#x5757;&#xff0c;&#x4ece;&#x800c;&#x66f4;&#x6539;&#x5176;&#x57ce;&#x5e02;&#x5f52;&#x5c5e;&#x3002;</English>
 		<French>*Conseils du BUG*: Quand une case est dans la Croix de Ville de plusieures villes, vous pouvez changez la ville &#224; laquelle la case appartient en cliquant dessus dans l'&#233;cran de ville de la ville choisie.</French>
 		<German>[BUG] Tipp... Befindet sich ein Gel&#228;ndefeld im Einzugsbereich zweier St&#228;dte, l&#228;sst sich dessen Zugeh&#246;rigkeit festlegen, indem es im Stadt-Bildschirm der betreffenden Stadt per Mausklick ausgew&#228;hlt wird.</German>
 		<Italian>*Suggerimento del BUG Team*: Quando una casella appartiene all'area cittadina di due diverse citt&#224;, puoi cambiare la sua appartenenza cliccando su di essa dalla Schermata Cittadina della citt&#224; a cui vuoi che appartenga.</Italian>
@@ -68,7 +68,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_2</Tag>
-		<English>*BUG Hint*: When you're weak there is no shame in giving into rivals demands.  This will give you time to build your defenses as you enjoy the short improvement in relations between your nations.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x5f53;&#x4f60;&#x5b9e;&#x529b;&#x5f31;&#x5c0f;&#x65f6;&#xff0c;&#x5411;&#x5bf9;&#x624b;&#x7684;&#x8981;&#x6c42;&#x8ba9;&#x6b65;&#x5e76;&#x4e0d;&#x53ef;&#x803b;&#x3002;&#x8fd9;&#x80fd;&#x4e3a;&#x4f60;&#x4e89;&#x53d6;&#x65f6;&#x95f4;&#x6784;&#x7b51;&#x9632;&#x5fa1;&#xff0c;&#x540c;&#x65f6;&#x4eab;&#x53d7;&#x4e24;&#x56fd;&#x5173;&#x7cfb;&#x77ed;&#x6682;&#x7684;&#x6539;&#x5584;&#x3002;</English>
 		<French>*Conseils du BUG*: Il n'y a pas de d&#233;shonneur &#224; acc&#232;der aux demandes de vos rivaux quand vous &#234;tes faible. Ceci vous permettra de renforcer vos d&#233;fenses pendant le temps qui vous profitez des relations am&#233;lior&#233;es de vos nations.</French>
 		<German>[BUG] Tipp... Es ist keine Schande, in einer unterlegenen Position den Forderungen von st&#228;rkeren Gegnern nachzukommen. Die durch die kurze Verbesserung der diplomatischen Beziehungen gewonnene Zeit kann genutzt werden, um die eigenen Verteidigungslinien zu verst&#228;rken.</German>
 		<Italian>*Suggerimento del BUG Team*: Quando sei debole, non c'&#232; vergogna nell'accettare le pretese dei rivali. Ti conceder&#224; il tempo necessario per costruire le tue difese nel conseguente breve periodo di miglioramento dei rapporti fra le vostre nazioni.</Italian>
@@ -76,7 +76,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_3</Tag>
-		<English>*BUG Hint*: When at War, use fast moving units to pillage strategic resources such as Iron, or Aluminum first, and leave a sentry to prevent the enemy from reconnecting that resource.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x5f00;&#x6218;&#x65f6;&#xff0c;&#x7528;&#x5feb;&#x901f;&#x79fb;&#x52a8;&#x7684;&#x5355;&#x4f4d;&#x4f18;&#x5148;&#x52ab;&#x63a0;&#x94c1;&#x3001;&#x94dd;&#x7b49;&#x6218;&#x7565;&#x8d44;&#x6e90;&#xff0c;&#x5e76;&#x7559;&#x4e0b;&#x4e00;&#x540d;&#x54e8;&#x5175;&#xff0c;&#x9632;&#x6b62;&#x654c;&#x4eba;&#x91cd;&#x65b0;&#x63a5;&#x901a;&#x8be5;&#x8d44;&#x6e90;&#x3002;</English>
 		<French>*Conseils du BUG*: Pendant une Guerre, utilisez des unit&#233;s rapides pour piller les ressources strat&#233;giques comme le Fer ou l'Aluminium, et laissez-y une sentinelle pour &#233;viter que votre ennemi ne reconnecte la ressource.</French>
 		<German>[BUG] Tipp... W&#228;hrend eines Krieges sollten schnelle Einheiten genutzt werden, um zuerst strategische Ressourcen, wie Eisen oder Aluminium, zu pl&#252;ndern. Nachr&#252;ckende Einheiten k&#246;nnen dann deren Bewachung &#252;bernehmen, um dem Gegner den Zugang zu diesen Ressourcen dauerhaft zu verwehren.</German>
 		<Italian>*Suggerimento del BUG Team*: Quando sei in guerra, utilizza le unit&#224; che si muovono velocemente per depredare le risorse strategiche, e lascia sul posto una sentinella per evitare che il nemico le recuperi.</Italian>
@@ -84,7 +84,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_4</Tag>
-		<English>*BUG Hint*: Save your promotions for when your unit is injured to speed up healing, and when you promote, use them to tailor your unit for the type of enemy you are facing.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x628a;&#x664b;&#x5347;&#x7559;&#x5230;&#x5355;&#x4f4d;&#x53d7;&#x4f24;&#x65f6;&#x4f7f;&#x7528;&#x4ee5;&#x52a0;&#x901f;&#x6cbb;&#x7597;&#xff1b;&#x664b;&#x5347;&#x65f6;&#xff0c;&#x6839;&#x636e;&#x4f60;&#x6240;&#x9762;&#x5bf9;&#x7684;&#x654c;&#x4eba;&#x7c7b;&#x578b;&#x91cf;&#x8eab;&#x5b9a;&#x5236;&#x4f60;&#x7684;&#x5355;&#x4f4d;&#x3002;</English>
 		<French>*Conseils du BUG*: Attendez pour promouvoir une unit&#233; pour le moment ou elle a besoin de soins. Quand vous promovez, choisissez les promotions en fonction de l'ennemi que vous encontrez.</French>
 		<German>[BUG] Tipp... Eine verf&#252;gbare Bef&#246;rderung muss einer Einheit nicht sofort verliehen werden. Manchmal lohnt es sich zu warten, um im passenden Moment die bestgeeignete Bef&#246;rderung und Bonusf&#228;higkeit zu w&#228;hlen. Eine Bef&#246;rderung wirkt auf verletzte Einheiten &#252;brigens heilsam.</German>
 		<Italian>*Suggerimento del BUG Team*: Risparmia le promozioni per accelerare la cura quando le tue unit&#224; vengono ferite, e quando le promuovi, ottimizza le tue unit&#224; contro il tipo di nemico che stai affrontando.</Italian>
@@ -92,7 +92,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_5</Tag>
-		<English>*BUG Hint*: Always consider having siege equipment before attacking a city.  A Swordsman can do more damage entering through a hole in the wall, then trying to climb over it with arrows raining down from above.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x8fdb;&#x653b;&#x57ce;&#x5e02;&#x524d;&#xff0c;&#x52a1;&#x5fc5;&#x8003;&#x8651;&#x5148;&#x5907;&#x597d;&#x653b;&#x57ce;&#x5668;&#x68b0;&#x3002;&#x5251;&#x58eb;&#x4ece;&#x57ce;&#x5899;&#x7f3a;&#x53e3;&#x653b;&#x5165;&#x6240;&#x9020;&#x6210;&#x7684;&#x4f24;&#x5bb3;&#xff0c;&#x8fdc;&#x80dc;&#x4e8e;&#x9876;&#x7740;&#x7bad;&#x96e8;&#x7ffb;&#x8d8a;&#x57ce;&#x5899;&#x3002;</English>
 		<French>*Conseils du BUG*: N'attaquez pas une ville sans machines de si&#232;ge. Un Spadassin peut faire plus de d&#233;gats en rentrant par une br&#232;che dans la muraille, qu'en essayant de l'escalader sous une pluie de fl&#232;ches.</French>
 		<German>[BUG] Tipp... F&#252;r die Einnahme einer gr&#246;&#223;eren Stadt sollten gen&#252;gend Belagerungswaffen zur Verf&#252;gung stehen, um die Verteidigungsanlagen niederzurei&#223;en und die Verteidiger zu schw&#228;chen.</German>
 		<Italian>*Suggerimento del BUG Team*: Procurati sempre l'equipaggiamento d'assedio prima di assediare una citt&#224;. Uno Spadaccino pu&#242; fare pi&#249; danni entrando da un buco nelle mura, che cercando di scavalcarle sotto una pioggia di frecce.</Italian>
@@ -100,7 +100,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_6</Tag>
-		<English>*BUG Hint*: Examine what resources are available before researching worker techs.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x5728;&#x7814;&#x7a76;&#x5de5;&#x4eba;&#x79d1;&#x6280;&#x4e4b;&#x524d;&#xff0c;&#x5148;&#x67e5;&#x770b;&#x6709;&#x54ea;&#x4e9b;&#x8d44;&#x6e90;&#x53ef;&#x7528;&#x3002;</English>
 		<French>*Conseils du BUG*: Examinez quelles ressources sont &#224; votre disposition avant de choisir une technologie &#224; rechercher.</French>
 		<German>[BUG] Tipp... Bevor Technolgien erforscht werden, die die F&#228;higkeiten der Bautrupps erweitern, sollte zun&#228;chst das Umland erkundet werden, um die dort verf&#252;gbaren Ressourcen m&#246;glichst schnell erschlie&#223;en und nutzen zu k&#246;nnen.</German>
 		<Italian>*Suggerimento del BUG Team*: Esamina quali risorse sono disponibili prima di ricercare le tecnologie dei lavoratori.</Italian>
@@ -108,7 +108,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_7</Tag>
-		<English>*BUG Hint*: Always consider escorting your Settlers.  It's mighty dangerous out in the Wilderness.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x52a1;&#x5fc5;&#x8003;&#x8651;&#x4e3a;&#x4f60;&#x7684;&#x79fb;&#x6c11;&#x62a4;&#x822a;&#x3002;&#x8352;&#x91ce;&#x4e4b;&#x4e2d;&#xff0c;&#x51f6;&#x9669;&#x4e07;&#x5206;&#x3002;</English>
 		<French>*Conseils du BUG*: Escortez toujours vos Colons. La nature peut &#234;tre tr&#232;s dangereuse.</French>
 		<German>[BUG] Tipp... Wertvolle Einheiten ohne nennenswerte Verteidigungsf&#228;higkeiten, wie Siedler und Galeonen, k&#246;nnen leicht Opfer von Angriffen werden und verdienen deshalb auf fremdem Terrain einen Begleitschutz.</German>
 		<Italian>*Suggerimento del BUG Team*: Scorta sempre i tuoi Coloni. E' molto pericoloso vagare per le Terre Selvagge (specialmente quelle inesplorate).</Italian>
@@ -116,7 +116,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_8</Tag>
-		<English>*BUG Hint*: Play to your Civilization's traits, and specialize your Empire.  No use being Charismatic and Aggressive and never starting a war.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x5584;&#x7528;&#x4f60;&#x6587;&#x660e;&#x7684;&#x7279;&#x6027;&#xff0c;&#x8ba9;&#x4f60;&#x7684;&#x5e1d;&#x56fd;&#x4e13;&#x7cbe;&#x5316;&#x3002;&#x65e2;&#x662f;&#x9b45;&#x529b;&#x578b;&#x53c8;&#x662f;&#x4fb5;&#x7565;&#x578b;&#xff0c;&#x5374;&#x4ece;&#x4e0d;&#x53d1;&#x52a8;&#x6218;&#x4e89;&#xff0c;&#x90a3;&#x5c31;&#x6beb;&#x65e0;&#x610f;&#x4e49;&#x4e86;&#x3002;</English>
 		<French>*Conseils du BUG*: Utilisez les Traits de votre Civilisation et sp&#233;cialisez votre Empire. Que vaut &#234;tre Charismatique et Aggressif si vous ne partez pas en guerre?</French>
 		<German>[BUG] Tipp... Der eigene Spielstil sollte sich an den Eigenschaften des gew&#228;hlten Staatsoberhaupts orientieren und die eigene Zivilisation entsprechend spezialisiert werden. Die Eigenschaften "Charismatisch" und "Aggressiv" n&#252;tzen wenig, wenn keine Kriege beabsichtigt sind.</German>
 		<Italian>*Suggerimento del BUG Team*: Sfrutta le caratteristiche della tua Civilt&#224;, e specializza il tuo Impero.  E' inutile essere Carismatico ed Aggressivo e non iniziare neppure una guerra.</Italian>
@@ -124,7 +124,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_9</Tag>
-		<English>*BUG Hint*: Selling resources that you no longer use, such as copper or iron, can pay off nicely over the long run.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x51fa;&#x552e;&#x4f60;&#x4e0d;&#x518d;&#x4f7f;&#x7528;&#x7684;&#x8d44;&#x6e90;&#xff08;&#x5982;&#x94dc;&#x6216;&#x94c1;&#xff09;&#xff0c;&#x957f;&#x8fdc;&#x6765;&#x770b;&#x80fd;&#x5e26;&#x6765;&#x53ef;&#x89c2;&#x7684;&#x56de;&#x62a5;&#x3002;</English>
 		<French>*Conseils du BUG*: Vendre des ressources que vous n'utilisez plus, comme le Cuivre ou le Fer, peut &#234;tre tr&#232;s profitable. Veillez juste que vous les vendez &#224; un ami plus faible que vous!</French>
 		<German>[BUG] Tipp... Der Verkauf von zwischenzeitlich unbrauchbaren Ressourcen, wie Kupfer oder Eisen, kann langfristig vorteilhaft sein, wenn der K&#228;ufer ein momentan noch schwacher Verb&#252;ndeter ist.</German>
 		<Italian>*Suggerimento del BUG Team*: Vendere le risorse che non usi pi&#249;, come Rame e Ferro, pu&#242; rendere parecchio a lungo termine. Per&#242; assicurati di venderle ad una nazione amica pi&#249; debole!</Italian>
@@ -132,7 +132,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_10</Tag>
-		<English>*BUG Hint*: Don't neglect your Diplomacy!  Pay attention to the information you gather, telling you what is available out there.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x522b;&#x5ffd;&#x89c6;&#x4f60;&#x7684;&#x5916;&#x4ea4;&#xff01;&#x7559;&#x610f;&#x4f60;&#x6240;&#x6536;&#x96c6;&#x7684;&#x60c5;&#x62a5;&#xff0c;&#x5b83;&#x4f1a;&#x544a;&#x8bc9;&#x4f60;&#x5916;&#x754c;&#x6709;&#x54ea;&#x4e9b;&#x673a;&#x4f1a;&#x3002;</English>
 		<French>*Conseils du BUG*: Ne n&#233;gligez pas votre Diplomatie! Faites attention aux Alertes qui arrivent et qui vous informent de ce qui est disponible.</French>
 		<German>[BUG] Tipp... Die Diplomatie sollte nicht vernachl&#228;ssigt werden. W&#228;hrend einer Partie erscheinen st&#228;ndig Meldungen, die die verf&#252;gbaren Handelswaren anderer Zivilisationen anzeigen.</German>
 		<Italian>*Suggerimento del BUG Team*: Non trascurare la Diplomazia!  Fai attenzione agli avvisi che compaiono per dirti cosa c'&#232; di disponibile in giro.</Italian>
@@ -140,7 +140,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_11</Tag>
-		<English>*BUG Hint*: Be the first to circle the globe, and your Naval Units all receive +1 movement.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x7387;&#x5148;&#x73af;&#x6e38;&#x4e16;&#x754c;&#xff0c;&#x4f60;&#x7684;&#x6240;&#x6709;&#x6d77;&#x519b;&#x5355;&#x4f4d;&#x90fd;&#x5c06;&#x83b7;&#x5f97; +1 &#x79fb;&#x52a8;&#x529b;&#x3002;</English>
 		<French>*Conseils du BUG*: Soyez le premier &#224; naviguer autour du globe, et tous vos Unit&#233;s Navales recevront +1 en mouvement.</French>
 		<German>[BUG] Tipp... Die Marineeinheiten der Zivilisation, die als erste die Welt umrundet, erhalten einen Bewegungsbonus von +1.</German>
 		<Italian>*Suggerimento del BUG Team*: Circunnaviga il globo per primo, e tutte le tue Unit&#224; Navali presenti e future riceveranno un bonus di +1 al loro movimento.</Italian>
@@ -148,7 +148,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_12</Tag>
-		<English>*BUG Hint*: Animals can't enter your land, so it can be worth the risk to leave your city undefended and use your warrior for early exploration.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x52a8;&#x7269;&#x65e0;&#x6cd5;&#x8fdb;&#x5165;&#x4f60;&#x7684;&#x9886;&#x571f;&#xff0c;&#x56e0;&#x6b64;&#x5192;&#x9669;&#x8ba9;&#x57ce;&#x5e02;&#x4e0d;&#x8bbe;&#x9632;&#x3001;&#x7528;&#x6218;&#x58eb;&#x8fdb;&#x884c;&#x65e9;&#x671f;&#x63a2;&#x7d22;&#xff0c;&#x6216;&#x8bb8;&#x662f;&#x503c;&#x5f97;&#x7684;&#x3002;</English>
 		<French>*Conseils du BUG*: Les Animaux ne peuvent pas entrer en votre territoire. Vous pouvez donc prendre le risque de laisser votre ville sans d&#233;fense et d'aller explorer avec votre Guerrier au d&#233;but du jeu.</French>
 		<German>[BUG] Tipp... Tiere k&#246;nnen die Grenzen von St&#228;dten nicht &#252;berschreiten. Deshalb kann es sinnvoll sein, ein Risiko einzugehen und St&#228;dte zun&#228;chst unbewacht zu lassen, um mit den ersten Kriegern die Welt schon fr&#252;h zu erkunden.</German>
 		<Italian>*Suggerimento del BUG Team*: Gli animali non possono entrare nel tuo territorio, perci&#242; nele prime fasi del gioco pu&#242; valere la pena di correre il rischio di lasciare la tua citt&#224; indifesa e utilizzare il tuo Guerriero per una esplorazione preliminare.</Italian>
@@ -156,7 +156,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_13</Tag>
-		<English>*BUG Hint*: Form trade relations with nations that get along with each other to avoid an diplomatic repercussions.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x4e0e;&#x5f7c;&#x6b64;&#x5173;&#x7cfb;&#x878d;&#x6d3d;&#x7684;&#x56fd;&#x5bb6;&#x5efa;&#x7acb;&#x8d38;&#x6613;&#x5173;&#x7cfb;&#xff0c;&#x4ee5;&#x907f;&#x514d;&#x5916;&#x4ea4;&#x4e0a;&#x7684;&#x8d1f;&#x9762;&#x5f71;&#x54cd;&#x3002;</English>
 		<French>*Conseils du BUG*: Formez des relations commerciales avec des nations qui s'agr&#233;ent entre eux, pour &#233;viter des p&#233;nalit&#233;s diplomatiques.</French>
 		<German>[BUG] Tipp... Zwischen &#228;hnlichen Zivilisationen sollten Handelsverbindungen gekn&#252;pft werden, um einen Diplomatiemalus zu vermeiden.</German>
 		<Italian>*Suggerimento del BUG Team*: Stabilisci relazioni mercantili con nazioni che vanno d'accordo per evitare penalit&#224; nei rapporti.</Italian>
@@ -164,7 +164,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_14</Tag>
-		<English>*BUG Hint*: If you neglect your military, and your power becomes weak, a neighbor WILL attack you.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x82e5;&#x4f60;&#x758f;&#x4e8e;&#x519b;&#x5907;&#x3001;&#x5b9e;&#x529b;&#x53d8;&#x5f31;&#xff0c;&#x90bb;&#x56fd;&#x5fc5;&#x5c06;&#x6765;&#x72af;&#x3002;</English>
 		<French>*Conseils du BUG*: Si vous n&#233;gligez votre arm&#233;e et que votre pouvoir d&#233;cline, un de vos voisins vous attaquera s&#251;rement!</French>
 		<German>[BUG] Tipp... Das Milit&#228;r sollte nicht vernachl&#228;ssigt werden. Eine schwache Zivilisation wird gern von benachbarten Zivilisationen angegriffen.</German>
 		<Italian>*Suggerimento del BUG Team*: Se trascuri il tuo esercito, e la tua potenza si indebolisce, un paese confinante ti attaccher&#224; sicuramente.</Italian>
@@ -172,7 +172,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_15</Tag>
-		<English>*BUG Hint*: Station naval units near your water based resources, and put them on Sea Patrol to protect your resources.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x628a;&#x6d77;&#x519b;&#x5355;&#x4f4d;&#x9a7b;&#x624e;&#x5728;&#x4f60;&#x7684;&#x6c34;&#x57df;&#x8d44;&#x6e90;&#x9644;&#x8fd1;&#xff0c;&#x8ba9;&#x5b83;&#x4eec;&#x6267;&#x884c;&#x6d77;&#x4e0a;&#x5de1;&#x903b;&#x4ee5;&#x4fdd;&#x62a4;&#x4f60;&#x7684;&#x8d44;&#x6e90;&#x3002;</English>
 		<French>*Conseils du BUG*: Stationnez des unit&#233;s navales pr&#232;s de vos ressources aquatiques, et faites les Patrouiller pour les prot&#233;ger.</French>
 		<German>[BUG] Tipp... Marineeinheiten sollten in der N&#228;he von Meeres-Ressourcen stationiert und mit dem Auftrag "Seepatrouille" versehen werden, um diese zu verteidigen.</German>
 		<Italian>*Suggerimento del BUG Team*: Disloca le tue unit&#224; navali vicino alle tue risorse acquatiche e mettile di pattuglia per proteggerle.</Italian>
@@ -180,7 +180,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_16</Tag>
-		<English>*BUG Hint*: When selling Technologies, shop around for the highest bidder, and then work your way down.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x51fa;&#x552e;&#x79d1;&#x6280;&#x65f6;&#xff0c;&#x8d27;&#x6bd4;&#x4e09;&#x5bb6;&#xff0c;&#x5148;&#x627e;&#x51fa;&#x4ef7;&#x6700;&#x9ad8;&#x7684;&#x4e70;&#x5bb6;&#xff0c;&#x518d;&#x9010;&#x7ea7;&#x5f80;&#x4e0b;&#x8c08;&#x3002;</English>
 		<French>*Conseils du BUG*: Quand vous vendez des Technologies, essayez d'abord de les vendre &#224; celui qui vous payera le plus.</French>
 		<German>[BUG] Tipp... Beim Technologiehandel sollten die Angebote verschiedener Oberh&#228;upter verglichen werden, um dann dem h&#246;chsten Bieter den Zuschlag zu geben.</German>
 		<Italian>*Suggerimento del BUG Team*: Quando ti appresti a vendere Tecnologie, prima non dimenticare di controllare chi te le pagher&#224; di pi&#249;.</Italian>
@@ -188,7 +188,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_17</Tag>
-		<English>*BUG Hint*: Watch your neighbors' civics changes.  A change from Free Religion to Theocracy could mean an arms build-up.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x7559;&#x610f;&#x90bb;&#x56fd;&#x7684;&#x653f;&#x7b56;&#x53d8;&#x52a8;&#x3002;&#x7531;&#x81ea;&#x7531;&#x5b97;&#x6559;&#x8f6c;&#x4e3a;&#x795e;&#x6743;&#xff0c;&#x53ef;&#x80fd;&#x610f;&#x5473;&#x7740;&#x519b;&#x5907;&#x6269;&#x5f20;&#x3002;</English>
 		<French>*Conseils du BUG*: Gardez un oeuil sur les changements de Doctrine de vos voisins. Un changement de Libert&#233; de Culte vers Th&#233;ocratie peut indiquer l'assemblement d'une arm&#233;e.</French>
 		<German>[BUG] Tipp... Ein Wechsel der Staatsform in einer benachbarten Zivilisation sollte aufmerksam verfolgt werden. Es k&#246;nnte die Vorbereitung auf einen Krieg sein.</German>
 		<Italian>*Suggerimento del BUG Team*: Tieni d'occhio i cambiamenti di forma di governo dei tuoi vicini. Un cambiamento da Libert&#224; Religiosa a Teocrazia pu&#242; significare un aumento di aggressivit&#224;.</Italian>
@@ -196,7 +196,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_18</Tag>
-		<English>*BUG Hint*: Speak softly and carry a big stick, and you will go far.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x8bf4;&#x8bdd;&#x6e29;&#x548c;&#xff0c;&#x624b;&#x6301;&#x5927;&#x68d2;&#xff0c;&#x4f60;&#x4fbf;&#x80fd;&#x8d70;&#x5f97;&#x957f;&#x8fdc;&#x3002;</English>
 		<French>*Conseils du BUG*: Parlez doucement et portez un gros b&#226;ton, et vous irez loin.</French>
 		<German>[BUG] Tipp... Anregungen und Hinweise zur "BUG Mod" k&#246;nnen bei civfanatics.com im dortigen Forum hinterlassen werden.</German>
 		<Italian>*Suggerimento del BUG Team*: Poche parole e un grosso bastone ti porteranno lontano.</Italian>
@@ -204,7 +204,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_19</Tag>
-		<English>*BUG Hint*: Sometimes it's better to stop a Scout or Explorer on a forest, hill, or jungle tile and lose the extra movement in favor of safety.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x6709;&#x65f6;&#xff0c;&#x8ba9;&#x65a5;&#x5019;&#x6216;&#x63a2;&#x9669;&#x5bb6;&#x505c;&#x5728;&#x68ee;&#x6797;&#x3001;&#x4e18;&#x9675;&#x6216;&#x4e1b;&#x6797;&#x5730;&#x5757;&#x4e0a;&#xff0c;&#x4ee5;&#x635f;&#x5931;&#x989d;&#x5916;&#x79fb;&#x52a8;&#x529b;&#x6362;&#x53d6;&#x5b89;&#x5168;&#xff0c;&#x53cd;&#x800c;&#x66f4;&#x597d;&#x3002;</English>
 		<French>*Conseils du BUG*: Parfois il vaut mieux arr&#234;ter un Eclaireur ou un Explorateur sur une f&#244;ret, une montagne ou une jungle et perdre un peu de mouvement pour gagner en s&#233;curit&#233;.</French>
 		<German>[BUG] Tipp... Es kann sinnvoll sein, einen Sp&#228;her oder Kundschafter eine Runde auf einem Wald-, H&#252;gel- oder Dschungel-Gel&#228;ndefeld beenden zu lassen, um die &#252;bersch&#252;ssigen Bewegungspunkte gegen gr&#246;&#223;ere Sicherheit einzutauschen.</German>
 		<Italian>*Suggerimento del BUG Team*: A volte &#232; meglio fermare un Esploratore su una casella di collina, foresta o giungla e perdere il movimento extra in favore della prudenza.</Italian>
@@ -212,21 +212,21 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_20</Tag>
-		<English>*BUG Hint*: Never go up against a Sicilian when death is on the line.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x6027;&#x547d;&#x6538;&#x5173;&#x4e4b;&#x65f6;&#xff0c;&#x5207;&#x83ab;&#x4e0e;&#x897f;&#x897f;&#x91cc;&#x4eba;&#x4f5c;&#x5bf9;&#x3002;</English>
 		<German>[BUG] Tipp... Das Team der BUG Mod dankt Ihnen f&#252;r Ihr Vertrauen und hofft, dass die Mod Ihnen genauso viel Spa&#223; macht, wie wir bei ihrer Entwicklung hatten!</German>
 		<Italian>*Suggerimento del BUG Team*: "Mai mettersi contro un Siciliano quando si tratta di uccidere"</Italian>
 		<Spanish>*Consejo BUG*: Nunca vayas contra un Siciliano cuando se trate de matar.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_21</Tag>
-		<English>*BUG Hint*: Be nice to your mother.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x8981;&#x5bf9;&#x4f60;&#x7684;&#x6bcd;&#x4eb2;&#x597d;&#x4e00;&#x70b9;&#x3002;</English>
 		<German>[BUG] Tipp... Sei nett zu deiner Mutter.</German>
 		<Italian>*Suggerimento del BUG Team*: "Sii gentile con tua madre"</Italian>
 		<Spanish>*Consejo BUG*: Se amable con tu madre.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HINT_22</Tag>
-		<English>*BUG Hint*: The cake is a lie.</English>
+		<English>*BUG &#x63d0;&#x793a;*&#xff1a;&#x86cb;&#x7cd5;&#x662f;&#x4e2a;&#x8c0e;&#x8a00;&#x3002;</English>
 		<German>[BUG] Tipp... Der Kuchen ist eine L&#252;ge.</German>
 		<Italian>*Suggerimento del BUG Team*: "The cake is a lie"</Italian>
 		<Spanish>*Consejo BUG*: The cake is a lie.</Spanish>

@@ -8,7 +8,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ACTIVEPOPUP_TEXT</Tag>
-		<English>RevInit &#x5f39;&#x7a97;</English>
+		<English>&#x9769;&#x547d;&#x521d;&#x59cb;&#x5316;&#x5f39;&#x7a97;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ACTIVEPOPUP_HOVER</Tag>
@@ -17,11 +17,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__REVCONFIGDEBUGMODE_TEXT</Tag>
-		<English>RevConfig &#x8c03;&#x8bd5;</English>
+		<English>&#x9769;&#x547d;&#x914d;&#x7f6e;&#x8c03;&#x8bd5;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__REVCONFIGDEBUGMODE_HOVER</Tag>
-		<English>&#x8bf7;&#x52ff;&#x6539;&#x52a8;&#x6b64;&#x9879;</English>
+		<English>&#x8bf7;&#x52ff;&#x66f4;&#x6539;&#x6b64;&#x9879;</English>
 		<Spanish>No cambies esto</Spanish>
 	</TEXT>
 
@@ -37,12 +37,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ANNOUNCEBARBSETTLE_TEXT</Tag>
-		<English>&#x516c;&#x544a;&#x86ee;&#x65cf;&#x5b9a;&#x5c45;</English>
+		<English>&#x901a;&#x544a;&#x86ee;&#x65cf;&#x5b9a;&#x5c45;</English>
 		<Spanish>Anuncia Asentamiento B&#225;rbaro</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ANNOUNCEBARBSETTLE_HOVER</Tag>
-		<English>&#x542f;&#x7528;&#x540e;&#xff0c;&#x5f53;&#x86ee;&#x65cf;&#x57ce;&#x5e02;&#x5b89;&#x5b9a;&#x4e0b;&#x6765;&#x5e76;&#x8bde;&#x751f;&#x65b0;&#x6587;&#x660e;&#x65f6;&#x53d1;&#x51fa;&#x516c;&#x544a;</English>
+		<English>&#x542f;&#x7528;&#x540e;&#xff0c;&#x5f53;&#x86ee;&#x65cf;&#x57ce;&#x5e02;&#x5b9a;&#x5c45;&#x5e76;&#x50ac;&#x751f;&#x65b0;&#x6587;&#x660e;&#x65f6;&#x4e88;&#x4ee5;&#x901a;&#x544a;</English>
 		<Spanish>Activa el anuncio cuando una ciudad b&#225;rbara se asienta y forma una nueva civilizaci&#243;n.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -52,7 +52,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__USEPOPUP_HOVER</Tag>
-		<English>&#x516c;&#x544a;&#x86ee;&#x65cf;&#x57ce;&#x5e02;&#x5b9a;&#x5c45;&#x65f6;&#x4f7f;&#x7528;&#x5f39;&#x7a97;</English>
+		<English>&#x901a;&#x544a;&#x86ee;&#x65cf;&#x57ce;&#x5e02;&#x5b9a;&#x5c45;&#x65f6;&#x4f7f;&#x7528;&#x5f39;&#x7a97;</English>
 		<Spanish>Muestra un popup anunciando que una ciudad b&#225;rbara se asienta y forma una nueva civilizaci&#243;n.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -62,17 +62,17 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ONLYNOTIFYNEARBYPLAYERS_HOVER</Tag>
-		<English>&#x86ee;&#x65cf;&#x57ce;&#x5e02;&#x5b9a;&#x5c45;&#x65f6;&#x4ec5;&#x901a;&#x77e5;&#x90bb;&#x8fd1;&#x7684;&#x73a9;&#x5bb6;</English>
+		<English>&#x86ee;&#x65cf;&#x57ce;&#x5e02;&#x5b9a;&#x5c45;&#x65f6;&#xff0c;&#x4ec5;&#x901a;&#x77e5;&#x90bb;&#x8fd1;&#x73a9;&#x5bb6;</English>
 		<Spanish>Solo los jugadores cercanos son notificados cuando una ciudad b&#225;rbara se asienta.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BLOCKPOPUPINAUTO_TEXT</Tag>
-		<English>&#x65e0;&#x81ea;&#x52a8;&#x5f39;&#x7a97;</English>
+		<English>&#x4e0d;&#x81ea;&#x52a8;&#x5f39;&#x7a97;</English>
 		<Spanish>No Popup en autom&#225;tico</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BLOCKPOPUPINAUTO_HOVER</Tag>
-		<English>&#x5728; AIAutoPlay &#x5f00;&#x542f;&#x65f6;&#x9501;&#x5b9a;&#x86ee;&#x65cf;&#x5b9a;&#x5c45;&#x5f39;&#x7a97;&#xff08;&#x5c06;&#x4ee5;&#x6d88;&#x606f;&#x5f62;&#x5f0f;&#x663e;&#x793a;&#xff09;</English>
+		<English>AI &#x81ea;&#x52a8;&#x6e38;&#x73a9;&#x5f00;&#x542f;&#x65f6;&#x9501;&#x5b9a;&#x86ee;&#x65cf;&#x5b9a;&#x5c45;&#x5f39;&#x7a97;&#xff08;&#x5c06;&#x6539;&#x4ee5;&#x6d88;&#x606f;&#x5f62;&#x5f0f;&#x663e;&#x793a;&#xff09;</English>
 		<Spanish>Bloquea el popup de asentamiento b&#225;rbaro cuando AIAutoPlay esta activado (solo se mostrara el mensaje)</Spanish>
 	</TEXT>
 	<TEXT>
@@ -85,22 +85,22 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDPOLICY_TEXT</Tag>
-		<English>&#x65b0;&#x4e16;&#x754c;&#x653f;&#x7b56;</English>
+		<English>&#x65b0;&#x5927;&#x9646;&#x7b56;&#x7565;</English>
 		<Spanish>Pol&#237;tica de Nuevo Mundo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDPOLICY_HOVER</Tag>
-		<English>&#x8bbe;&#x5b9a;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x5728;&#x65b0;&#x4e16;&#x754c;&#x9646;&#x5757;&#x5b9a;&#x5c45;&#x65f6;&#x7684;&#x65b0;&#x4e16;&#x754c;&#x653f;&#x7b56;[NEWLINE]0&#xff1a;&#x65b0;&#x4e16;&#x754c;&#x4e0e;&#x65e7;&#x4e16;&#x754c;&#x4e00;&#x89c6;&#x540c;&#x4ec1;[NEWLINE]1&#xff1a;&#x65b0;&#x4e16;&#x754c;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x6b63;&#x5e38;&#x8bde;&#x751f;&#xff0c;&#x4f46;&#x7531;&#x5f31;&#x5c0f;&#x52bf;&#x529b;&#x5347;&#x7ea7;&#x4e3a;&#x5b8c;&#x6574;&#x6587;&#x660e;&#x7684;&#x51e0;&#x7387;&#x964d;&#x4f4e;[NEWLINE]2&#xff1a;&#x65b0;&#x4e16;&#x754c;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x5728;&#x4e0e;&#x65e7;&#x4e16;&#x754c;&#x6587;&#x660e;&#x63a5;&#x89e6;&#x524d;&#x59cb;&#x7ec8;&#x4fdd;&#x6301;&#x5f31;&#x5c0f;&#x52bf;&#x529b;[NEWLINE]3&#xff1a;&#x540c; 2&#xff0c;&#x4f46;&#x65b0;&#x4e16;&#x754c;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x5728;&#x65e7;&#x4e16;&#x754c;&#x5355;&#x4f4d;&#x767b;&#x9646;&#x8be5;&#x9646;&#x5757;&#x524d;&#x65e0;&#x6cd5;&#x5b9a;&#x5c45;[NEWLINE]4&#xff1a;&#x5728;&#x65e7;&#x4e16;&#x754c;&#x6587;&#x660e;&#x5355;&#x4f4d;&#x767b;&#x9646;&#x9646;&#x5757;&#x524d;&#xff0c;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x4e0d;&#x4f1a;&#x8bde;&#x751f;[NEWLINE]5&#xff1a;&#x5728;&#x65e7;&#x4e16;&#x754c;&#x6587;&#x660e;&#x4e8e;&#x9646;&#x5757;&#x4e0a;&#x5efa;&#x7acb;&#x57ce;&#x5e02;&#x524d;&#xff0c;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x4e0d;&#x4f1a;&#x8bde;&#x751f;</English>
+		<English>&#x8bbe;&#x5b9a;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x5728;&#x65b0;&#x5927;&#x9646;&#x677f;&#x5757;&#x5b9a;&#x5c45;&#x7684;&#x7b56;&#x7565;[NEWLINE]0&#xff1a;&#x65b0;&#x5927;&#x9646;&#x4e0e;&#x65e7;&#x5927;&#x9646;&#x540c;&#x7b49;&#x5bf9;&#x5f85;[NEWLINE]1&#xff1a;&#x65b0;&#x5927;&#x9646;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x7167;&#x5e38;&#x751f;&#x6210;&#xff0c;&#x4f46;&#x7531;&#x5c0f;&#x56fd;&#x5347;&#x7ea7;&#x4e3a;&#x5b8c;&#x6574;&#x6587;&#x660e;&#x7684;&#x51e0;&#x7387;&#x964d;&#x4f4e;[NEWLINE]2&#xff1a;&#x65b0;&#x5927;&#x9646;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x4fdd;&#x6301;&#x5c0f;&#x56fd;&#x72b6;&#x6001;&#xff0c;&#x76f4;&#x81f3;&#x4e0e;&#x65e7;&#x5927;&#x9646;&#x6587;&#x660e;&#x53d6;&#x5f97;&#x63a5;&#x89e6;[NEWLINE]3&#xff1a;&#x540c; 2&#xff0c;&#x4f46;&#x65b0;&#x5927;&#x9646;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x987b;&#x5f85;&#x65e7;&#x5927;&#x9646;&#x5355;&#x4f4d;&#x767b;&#x9646;&#x8be5;&#x677f;&#x5757;&#x540e;&#x65b9;&#x53ef;&#x5b9a;&#x5c45;[NEWLINE]4&#xff1a;&#x987b;&#x5f85;&#x65e7;&#x5927;&#x9646;&#x6587;&#x660e;&#x5355;&#x4f4d;&#x767b;&#x9646;&#x8be5;&#x677f;&#x5757;&#x540e;&#xff0c;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x624d;&#x4f1a;&#x751f;&#x6210;[NEWLINE]5&#xff1a;&#x987b;&#x5f85;&#x65e7;&#x5927;&#x9646;&#x6587;&#x660e;&#x5728;&#x8be5;&#x677f;&#x5757;&#x5efa;&#x57ce;&#x540e;&#xff0c;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x624d;&#x4f1a;&#x751f;&#x6210;</English>
 		<Spanish>Establece la Pol&#237;tica de Nuevo Mundo sobre las civilizaciones b&#225;rbaras asent&#225;ndose en territorios 'Nuevo Mundo'[NEWLINE]0:  Nuevo Mundo tratado como Viejo Mundo[NEWLINE]1:  Las civilizaciones b&#225;rbaras del Nuevo Mundo aparecen normalmente, pero la probabilidad de crecer a una civilizaci&#243;n completa es reducida[NEWLINE]2:  Las civilizaciones b&#225;rbaras del Nuevo Mundo permanecen como civilizaciones menores hasta el contacto con las civilizaciones del Viejo Mundo[NEWLINE]3:  Como el punto 2, pero las civilizaciones b&#225;rbaras del Nuevo Mundo no pueden pasar de menores hasta que una unidad del Viejo Mundo pisa la tierra[NEWLINE]4:  Las civilizaciones b&#225;rbaras del Nuevo Mundo no crecer&#225;n a civilizaci&#243;n menor hasta que una unidad del Viejo Mundo pisa la tierra[NEWLINE]5:  Las civilizaciones b&#225;rbaras del Nuevo Mundo no crecer&#225;n a civilizaci&#243;n menor hasta que una civilizaci&#243;n del Viejo Mundo funda una ciudad en el territorio</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MINORHALFLIFE_TEXT</Tag>
-		<English>&#x5f31;&#x5c0f;&#x52bf;&#x529b;&#x534a;&#x8870;&#x671f;</English>
+		<English>&#x5c0f;&#x56fd;&#x534a;&#x8870;&#x671f;</English>
 		<Spanish>Vida Media Civ. Menor</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MINORHALFLIFE_HOVER</Tag>
-		<English>&#x5728;&#x6ee1;&#x8db3;&#x65b0;&#x4e16;&#x754c;&#x653f;&#x7b56; 2 &#x53ca;&#x4ee5;&#x4e0a;&#x7684;&#x6761;&#x4ef6;&#x540e;&#xff0c;&#x65b0;&#x4e16;&#x754c;&#x5f31;&#x5c0f;&#x6587;&#x660e;&#x4fdd;&#x6301;&#x5f31;&#x5c0f;&#x72b6;&#x6001;&#x7684;&#x5e73;&#x5747;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x6ee1;&#x8db3;&#x65b0;&#x5927;&#x9646;&#x7b56;&#x7565; 2 &#x53ca;&#x4ee5;&#x4e0a;&#x7684;&#x6761;&#x4ef6;&#x540e;&#xff0c;&#x65b0;&#x5927;&#x9646;&#x5c0f;&#x56fd;&#x6587;&#x660e;&#x4fdd;&#x6301;&#x5c0f;&#x56fd;&#x72b6;&#x6001;&#x7684;&#x5e73;&#x5747;&#x56de;&#x5408;&#x6570;</English>
 		<Spanish>Numero de turnos medio en que una civilizaci&#243;n menor permanece menor despu&#233;s de que las condiciones de Pol&#237;tica de Nuevo Mundo 2 y superiores se han cumplido</Spanish>
 	</TEXT>
 	<TEXT>
@@ -110,7 +110,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__FIERCENATIVES_HOVER</Tag>
-		<English>&#x65b0;&#x4e16;&#x754c;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x9664;&#x4e86;&#x4e0e;&#x5176;&#x4ed6;&#x65b0;&#x4e16;&#x754c;&#x6587;&#x660e;&#x4ea4;&#x6218;&#x5916;&#xff0c;&#x8fd8;&#x4f1a;&#x4f18;&#x5148;&#x653b;&#x51fb;&#x65e7;&#x4e16;&#x754c;&#x6587;&#x660e;</English>
+		<English>&#x65b0;&#x5927;&#x9646;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x9664;&#x4e86;&#x4e0e;&#x5176;&#x4ed6;&#x65b0;&#x5927;&#x9646;&#x6587;&#x660e;&#x4ea4;&#x6218;&#x5916;&#xff0c;&#x8fd8;&#x4f1a;&#x4f18;&#x5148;&#x653b;&#x51fb;&#x65e7;&#x5927;&#x9646;&#x6587;&#x660e;</English>
 		<Spanish>Las civilizaciones b&#225;rbaras del Nuevo Mundo atacaran a las del Viejo Mundo preferiblemente y adem&#225;s de las guerras que tuvieran con otras civilizaciones del Nuevo Mundo</Spanish>
 	</TEXT>
 	<TEXT>
@@ -120,17 +120,17 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__OFFERCONTROL_HOVER</Tag>
-		<English>&#x5411;&#x73a9;&#x5bb6;&#x63d0;&#x4f9b;&#x5bf9;&#x65b0;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x7684;&#x63a7;&#x5236;&#x6743;</English>
+		<English>&#x5411;&#x73a9;&#x5bb6;&#x63d0;&#x4f9b;&#x5bf9;&#x65b0;&#x751f;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x7684;&#x63a7;&#x5236;&#x6743;</English>
 		<Spanish>Ofrece al jugador tomar el control de las nuevas civilizaciones b&#225;rbaras</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CANCELAUTOFOROFFER_TEXT</Tag>
-		<English>&#x53d6;&#x6d88;&#x63a7;&#x5236;&#x6743;&#x63d0;&#x4f9b;</English>
+		<English>&#x53d6;&#x6d88;&#x63d0;&#x4f9b;&#x63a7;&#x5236;&#x6743;</English>
 		<Spanish>Cancelar Ofrecer Control</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CANCELAUTOFOROFFER_HOVER</Tag>
-		<English>&#x53d6;&#x6d88;&#x73a9;&#x5bb6;&#x5bf9;&#x65b0;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x7684;&#x63a7;&#x5236;&#x6743;</English>
+		<English>&#x53d6;&#x6d88;&#x73a9;&#x5bb6;&#x5bf9;&#x65b0;&#x751f;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x7684;&#x63a7;&#x5236;&#x6743;</English>
 		<Spanish>Cancela la toma de control de las nuevas civilizaciones b&#225;rbaras por el jugador</Spanish>
 	</TEXT>
 	<TEXT>
@@ -140,27 +140,27 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BARBCIVSBYSTYLE_HOVER</Tag>
-		<English>&#x82e5;&#x57ce;&#x5e02;&#x62e5;&#x6709;&#x6587;&#x5316;&#xff0c;&#x5219;&#x8bde;&#x751f;&#x7684;&#x65b0;&#x6587;&#x660e;&#x91c7;&#x7528;&#x6587;&#x5316;&#x6700;&#x9ad8;&#x73a9;&#x5bb6;&#x7684;&#x7f8e;&#x672f;&#x98ce;&#x683c;</English>
+		<English>&#x82e5;&#x57ce;&#x5e02;&#x62e5;&#x6709;&#x6587;&#x5316;&#xff0c;&#x5219;&#x751f;&#x6210;&#x7684;&#x65b0;&#x6587;&#x660e;&#x91c7;&#x7528;&#x6587;&#x5316;&#x503c;&#x6700;&#x9ad8;&#x73a9;&#x5bb6;&#x7684;&#x7f8e;&#x672f;&#x98ce;&#x683c;</English>
 		<Spanish>Si una ciudad tiene cultura, genera una nueva civilizaci&#243;n b&#225;rbaras con el mismo estilo art&#237;stico que el jugador con la cultura m&#225;s elevada.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BARBCIVMAXCIVS_TEXT</Tag>
-		<English>&#x6700;&#x5927;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x6570;</English>
+		<English>&#x86ee;&#x65cf;&#x6587;&#x660e;&#x4e0a;&#x9650;</English>
 		<Spanish>Maximo de Civ. B&#225;rbaras</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BARBCIVMAXCIVS_HOVER</Tag>
-		<English>&#x82e5;&#x6e38;&#x620f;&#x4e2d;&#x7684;&#x6587;&#x660e;&#x6570;&#x5df2;&#x8fbe;&#x6b64;&#x503c;&#xff0c;&#x5219;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x4e0d;&#x518d;&#x8bde;&#x751f;&#xff08;-1 &#x8868;&#x793a;&#x91c7;&#x7528; DLL &#x4e0a;&#x9650;&#xff09;</English>
+		<English>&#x82e5;&#x6e38;&#x620f;&#x4e2d;&#x6587;&#x660e;&#x6570;&#x91cf;&#x5df2;&#x8fbe;&#x6b64;&#x503c;&#xff0c;&#x5219;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x4e0d;&#x518d;&#x751f;&#x6210;&#xff08;-1 &#x8868;&#x793a;&#x91c7;&#x7528; DLL &#x4e0a;&#x9650;&#xff09;</English>
 		<Spanish>Las Civ. B&#225;rbaras no se asentaran si ya hay este n&#250;mero de civilizaciones en el juego (-1 del l&#237;mite DLL)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__FORMMINORMODIFIER_TEXT</Tag>
-		<English>&#x5f62;&#x6210;&#x5f31;&#x5c0f;&#x52bf;&#x529b;&#x4fee;&#x6b63;</English>
+		<English>&#x5f62;&#x6210;&#x5c0f;&#x56fd;&#x4fee;&#x6b63;</English>
 		<Spanish>Modificador Creacion Civ. Menor</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__FORMMINORMODIFIER_HOVER</Tag>
-		<English>&#x6539;&#x53d8;&#x86ee;&#x65cf;&#x57ce;&#x5e02;&#x8f6c;&#x53d8;&#x4e3a;&#x5f31;&#x5c0f;&#x6587;&#x660e;&#x7684;&#x51e0;&#x7387;&#xff09;</English>
+		<English>&#x6539;&#x53d8;&#x86ee;&#x65cf;&#x57ce;&#x5e02;&#x8f6c;&#x53d8;&#x4e3a;&#x5c0f;&#x56fd;&#x6587;&#x660e;&#x7684;&#x51e0;&#x7387;</English>
 		<French>Change odds of barb city turning into a minor civ</French>
 		<German>Change odds of barb city turning into a minor civ</German>
 		<Italian>Change odds of barb city turning into a minor civ</Italian>
@@ -169,12 +169,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MINPOPULATION_TEXT</Tag>
-		<English>&#x57ce;&#x5e02;&#x6700;&#x5c0f;&#x4eba;&#x53e3;</English>
+		<English>&#x6700;&#x4f4e;&#x57ce;&#x5e02;&#x4eba;&#x53e3;</English>
 		<Spanish>M&#237;nima Poblaci&#243;n Ciudad B&#225;rbara</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MINPOPULATION_HOVER</Tag>
-		<English>&#x86ee;&#x65cf;&#x57ce;&#x5e02;&#x5b9a;&#x5c45;&#x6240;&#x9700;&#x7684;&#x6700;&#x5c0f;&#x4eba;&#x53e3;</English>
+		<English>&#x86ee;&#x65cf;&#x57ce;&#x5e02;&#x5b9a;&#x5c45;&#x6240;&#x9700;&#x7684;&#x6700;&#x4f4e;&#x4eba;&#x53e3;</English>
 		<Spanish>M&#237;nimo de poblaci&#243;n necesario para una ciudad b&#225;rbara se asiente.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -184,7 +184,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MINCONTACTS_HOVER</Tag>
-		<English>&#x86ee;&#x65cf;&#x6587;&#x660e;&#x7531;&#x5f31;&#x5c0f;&#x52bf;&#x529b;&#x5347;&#x7ea7;&#x4e3a;&#x5b8c;&#x6574;&#x6587;&#x660e;&#x6240;&#x9700;&#x7684;&#xff08;&#x4e0e;&#x4efb;&#x610f;&#x6587;&#x660e;&#x7684;&#xff09;&#x6700;&#x5c11;&#x63a5;&#x89e6;&#x6b21;&#x6570;</English>
+		<English>&#x86ee;&#x65cf;&#x6587;&#x660e;&#x7531;&#x5c0f;&#x56fd;&#x5347;&#x7ea7;&#x4e3a;&#x5b8c;&#x6574;&#x6587;&#x660e;&#x6240;&#x9700;&#x7684;&#x6700;&#x5c11;&#x63a5;&#x89e6;&#x6570;&#xff08;&#x4e0e;&#x4efb;&#x610f;&#x6587;&#x660e;&#x7684;&#x63a5;&#x89e6;&#xff09;</English>
 		<French>Minimum number of contacts (with any civs) a Barbarian Civ needs to settle from a minor to full civ</French>
 		<German>Minimum number of contacts (with any civs) a Barbarian Civ needs to settle from a minor to full civ</German>
 		<Italian>Minimum number of contacts (with any civs) a Barbarian Civ needs to settle from a minor to full civ</Italian>
@@ -198,7 +198,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MINFULLCONTACTS_HOVER</Tag>
-		<English>&#x86ee;&#x65cf;&#x6587;&#x660e;&#x7531;&#x5f31;&#x5c0f;&#x52bf;&#x529b;&#x5347;&#x7ea7;&#x4e3a;&#x5b8c;&#x6574;&#x6587;&#x660e;&#x6240;&#x9700;&#x7684;&#xff08;&#x4e0e;&#x5b8c;&#x6574;&#x6587;&#x660e;&#x7684;&#xff09;&#x6700;&#x5c11;&#x63a5;&#x89e6;&#x6b21;&#x6570;</English>
+		<English>&#x86ee;&#x65cf;&#x6587;&#x660e;&#x7531;&#x5c0f;&#x56fd;&#x5347;&#x7ea7;&#x4e3a;&#x5b8c;&#x6574;&#x6587;&#x660e;&#x6240;&#x9700;&#x7684;&#x6700;&#x5c11;&#x63a5;&#x89e6;&#x6570;&#xff08;&#x4e0e;&#x5b8c;&#x6574;&#x6587;&#x660e;&#x7684;&#x63a5;&#x89e6;&#xff09;</English>
 		<Spanish>N&#250;mero m&#237;nimo de contactos (con Civ. Completas) que una Civilizaci&#243;n B&#225;rbara menor necesita para convertirse en una Civilizaci&#243;n Completa.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -208,7 +208,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BASEMILITARYODDS_HOVER</Tag>
-		<English>&#x519b;&#x4e8b;&#x578b;&#x6269;&#x5f20;&#x7684;&#x57fa;&#x7840;&#x51e0;&#x7387;</English>
+		<English>&#x519b;&#x4e8b;&#x578b;&#x6269;&#x519b;&#x7684;&#x57fa;&#x7840;&#x51e0;&#x7387;</English>
 		<Spanish>Probabilidades base del estilo 'Incremento en la Fuerza Militar'</Spanish>
 	</TEXT>
 	<TEXT>
@@ -223,41 +223,41 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDREDUCTION_TEXT</Tag>
-		<English>&#x65b0;&#x4e16;&#x754c;&#x524a;&#x51cf;</English>
+		<English>&#x65b0;&#x5927;&#x9646;&#x524a;&#x51cf;</English>
 		<Spanish>Reducci&#243;n Nuevo Mundo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDREDUCTION_HOVER</Tag>
-		<English>&#x524a;&#x51cf;&#x6388;&#x4e88;&#x72ec;&#x5c45;&#x4e00;&#x7247;&#x5927;&#x9646;&#x7684;&#x524d;&#x86ee;&#x65cf;&#x7684;&#x79d1;&#x6280;&#xff08;&#x6570;&#x503c;&#x8d8a;&#x5927;&#xff0c;&#x5176;&#x843d;&#x540e;&#x7a0b;&#x5ea6;&#x8d8a;&#x6df1;&#xff09;</English>
+		<English>&#x524a;&#x51cf;&#x72ec;&#x5c45;&#x4e8e;&#x67d0;&#x5927;&#x9646;&#x7684;&#x524d;&#x86ee;&#x65cf;&#x6240;&#x83b7;&#x79d1;&#x6280;&#xff08;&#x503c;&#x8d8a;&#x5927;&#xff0c;&#x5176;&#x843d;&#x540e;&#x7a0b;&#x5ea6;&#x8d8a;&#x9ad8;&#xff09;</English>
 		<Spanish>Reduce las tecnolog&#237;as obtenidas por las nuevas civilizaciones b&#225;rbaras que est&#233;n solas en un continente (Valor elevado significa que obtienen menos tecnolog&#237;as)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDERASBEHIND_TEXT</Tag>
-		<English>&#x65b0;&#x4e16;&#x754c;&#x843d;&#x540e;&#x65f6;&#x4ee3;&#x6570;</English>
+		<English>&#x65b0;&#x5927;&#x9646;&#x843d;&#x540e;&#x7eaa;&#x5143;&#x6570;</English>
 		<Spanish>Atraso Eras Nuevo Mundo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDERASBEHIND_HOVER</Tag>
-		<English>&#x65b0;&#x4e16;&#x754c;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x5728;&#x83b7;&#x51c6;&#x8bde;&#x751f;&#x524d;&#x987b;&#x843d;&#x540e;&#x7684;&#x65f6;&#x4ee3;&#x6570;</English>
+		<English>&#x65b0;&#x5927;&#x9646;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x83b7;&#x51c6;&#x751f;&#x6210;&#x524d;&#x987b;&#x843d;&#x540e;&#x7684;&#x7eaa;&#x5143;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BUILDERBONUSTECHS_TEXT</Tag>
-		<English>&#x5efa;&#x8bbe;&#x8005;&#x79d1;&#x6280;&#x52a0;&#x6210;</English>
+		<English>&#x5efa;&#x8bbe;&#x578b;&#x79d1;&#x6280;&#x5956;&#x52b1;</English>
 		<Spanish>Bonus Tecnolog&#237;as Diligente</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BUILDERBONUSTECHS_HOVER</Tag>
-		<English>&#x5efa;&#x8bbe;&#x8005;&#x578b;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x83b7;&#x5f97;&#x7684;&#x989d;&#x5916;&#x79d1;&#x6280;&#x6570;&#x91cf;</English>
+		<English>&#x5efa;&#x8bbe;&#x578b;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x83b7;&#x5f97;&#x7684;&#x5956;&#x52b1;&#x79d1;&#x6280;&#x6570;&#x91cf;</English>
 		<Spanish>Numero de tecnolog&#237;as de bonus que obtienen las civilizaciones b&#225;rbaras de tipo Diligente.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MILITARYWINDOW_HOVER_TEXT</Tag>
-		<English>&#x5ba3;&#x6218;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x5ba3;&#x6218;&#x56de;&#x5408;&#x7a97;&#x53e3;</English>
 		<Spanish>Declarar Guerra</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MILITARYWINDOW_HOVER_HOVER</Tag>
-		<English>&#x7531;&#x5f31;&#x5c0f;&#x52bf;&#x529b;&#x5347;&#x7ea7;&#x4e3a;&#x5b8c;&#x6574;&#x6587;&#x660e;&#x540e;&#xff0c;&#x519b;&#x56fd;&#x4e3b;&#x4e49;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x4f1a;&#x5728;&#x6b64;&#x56de;&#x5408;&#x7a97;&#x53e3;&#x5185;&#x5411;&#x5176;&#x9047;&#x5230;&#x7684;&#x7b2c;&#x4e00;&#x4e2a;&#x6587;&#x660e;&#x5ba3;&#x6218;</English>
+		<English>&#x7531;&#x5c0f;&#x56fd;&#x5347;&#x7ea7;&#x4e3a;&#x5b8c;&#x6574;&#x6587;&#x660e;&#x540e;&#xff0c;&#x519b;&#x4e8b;&#x578b;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x5c06;&#x5728;&#x6b64;&#x56de;&#x5408;&#x7a97;&#x53e3;&#x5185;&#x5411;&#x9047;&#x5230;&#x7684;&#x7b2c;&#x4e00;&#x4e2a;&#x6587;&#x660e;&#x5ba3;&#x6218;</English>
 		<Spanish>Despu&#233;s de asentarse como una civilizaci&#243;n completa, las civilizaciones Agresivas declararan la guerra a la primera civilizaci&#243;n que se encuentren dentro de esta ventana de turnos.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -272,21 +272,21 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MILITARYSTRENGTH_TEXT</Tag>
-		<English>&#x989d;&#x5916;&#x5355;&#x4f4d;&#x500d;&#x7387;</English>
+		<English>&#x5956;&#x52b1;&#x5355;&#x4f4d;&#x500d;&#x7387;</English>
 		<Spanish>Multiplicador Bonus Unidades</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MILITARYSTRENGTH_HOVER</Tag>
-		<English>&#x5f71;&#x54cd;&#x6388;&#x4e88;&#x86ee;&#x65cf;&#x7684;&#xff08;&#x975e;&#x9632;&#x5fa1;&#x6027;&#xff09;&#x519b;&#x4e8b;&#x5355;&#x4f4d;&#x6570;&#x91cf;</English>
+		<English>&#x5f71;&#x54cd;&#x7ed9;&#x4e88;&#x86ee;&#x65cf;&#x7684;&#xff08;&#x975e;&#x9632;&#x5fa1;&#x6027;&#xff09;&#x519b;&#x4e8b;&#x5355;&#x4f4d;&#x6570;&#x91cf;</English>
 		<Spanish>Afecta al n&#250;mero de (no defensivas) unidades militares otorgadas a los barbaros.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDBONUSES_TEXT</Tag>
-		<English>&#x65b0;&#x4e16;&#x754c;&#x52a0;&#x6210;</English>
+		<English>&#x65b0;&#x5927;&#x9646;&#x5956;&#x52b1;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__NEWWORLDBONUSES_HOVER</Tag>
-		<English>&#x6388;&#x4e88;&#x5728;&#x65b0;&#x4e16;&#x754c;&#x8bde;&#x751f;&#x7684;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x7684;&#x52a0;&#x6210;&#x3002;[NEWLINE]0&#xff1a;&#x65e0; &#x2014;&#x2014; &#x65b0;&#x4e16;&#x754c;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x5728;&#x8bde;&#x751f;&#x6216;&#x5b9a;&#x5c45;&#x65f6;&#x4e0d;&#x83b7;&#x5f97;&#x4efb;&#x4f55;&#x989d;&#x5916;&#x79d1;&#x6280;&#x3001;&#x5355;&#x4f4d;&#x6216;&#x5efa;&#x7b51;[NEWLINE]1&#xff1a;&#x524a;&#x51cf; &#x2014;&#x2014; &#x65b0;&#x4e16;&#x754c;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x83b7;&#x5f97;&#x86ee;&#x65cf;&#x5df2;&#x77e5;&#x7684;&#x5168;&#x90e8;&#x79d1;&#x6280;&#xff0c;&#x5e76;&#x83b7;&#x5f97;&#x4e00;&#x4e9b;&#x6587;&#x5316;&#x4e0e;&#x514d;&#x8d39;&#x5355;&#x4f4d;[NEWLINE]2&#xff1a;&#x65b0;&#x4e16;&#x754c;&#x7684;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x4e0e;&#x65e7;&#x4e16;&#x754c;&#x8bde;&#x751f;&#x7684;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x540c;&#x7b49;&#x5bf9;&#x5f85;</English>
+		<English>&#x7ed9;&#x4e88;&#x5728;&#x65b0;&#x5927;&#x9646;&#x751f;&#x6210;&#x7684;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x7684;&#x5956;&#x52b1;&#x3002;[NEWLINE]0&#xff1a;&#x65e0;&#x2014;&#x2014;&#x65b0;&#x5927;&#x9646;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x5728;&#x751f;&#x6210;&#x6216;&#x5b9a;&#x5c45;&#x65f6;&#x4e0d;&#x83b7;&#x5f97;&#x4efb;&#x4f55;&#x5956;&#x52b1;&#x79d1;&#x6280;&#x3001;&#x5355;&#x4f4d;&#x6216;&#x5efa;&#x7b51;[NEWLINE]1&#xff1a;&#x524a;&#x51cf;&#x2014;&#x2014;&#x65b0;&#x5927;&#x9646;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x83b7;&#x5f97;&#x86ee;&#x65cf;&#x6240;&#x638c;&#x63e1;&#x7684;&#x5168;&#x90e8;&#x79d1;&#x6280;&#xff0c;&#x5e76;&#x83b7;&#x5f97;&#x4e00;&#x4e9b;&#x6587;&#x5316;&#x4e0e;&#x514d;&#x8d39;&#x5355;&#x4f4d;[NEWLINE]2&#xff1a;&#x65b0;&#x5927;&#x9646;&#x7684;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x4e0e;&#x5728;&#x65e7;&#x5927;&#x9646;&#x751f;&#x6210;&#x7684;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x540c;&#x7b49;&#x5bf9;&#x5f85;</English>
 	</TEXT>
 
 	<TEXT>
@@ -295,7 +295,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MILITARYWINDOW_HOVER</Tag>
-		<English>&#x65b0;&#x521b;&#x5efa;&#x7684;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x5728;&#x80fd;&#x591f;&#x5b9a;&#x5c45;&#x5e76;&#x5f00;&#x5c55;&#x5916;&#x4ea4;&#x4e4b;&#x524d;&#xff0c;&#x5fc5;&#x987b;&#x4fdd;&#x6301;&#x5f31;&#x5c0f;&#x6587;&#x660e;&#x72b6;&#x6001;&#x7684;&#x6700;&#x5c11;&#x56de;&#x5408;&#x6570;&#x3002;</English>
+		<English>&#x65b0;&#x751f;&#x86ee;&#x65cf;&#x6587;&#x660e;&#x5728;&#x5b9a;&#x5c45;&#x5e76;&#x53c2;&#x4e0e;&#x5916;&#x4ea4;&#x4e4b;&#x524d;&#xff0c;&#x5fc5;&#x987b;&#x4fdd;&#x6301;&#x5c0f;&#x56fd;&#x72b6;&#x6001;&#x7684;&#x6700;&#x5c11;&#x56de;&#x5408;&#x6570;&#x3002;</English>
 		<French>Minimum turns a new created barb civ must remain a minor civ, before it can settle and engage in diplomacy</French>
 		<German>Minimum turns a new created barb civ must remain a minor civ, before it can settle and engage in diplomacy</German>
 		<Italian>Minimum turns a new created barb civ must remain a minor civ, before it can settle and engage in diplomacy</Italian>
@@ -309,7 +309,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__REVDEBUGMODE_HOVER</Tag>
-		<English>&#x663e;&#x793a;&#x9769;&#x547d;&#x8c03;&#x8bd5;&#x4fe1;&#x606f;&#x5e76;&#x8bb0;&#x5f55;&#x8c03;&#x8bd5;&#x65e5;&#x5fd7;&#x3002;</English>
+		<English>&#x663e;&#x793a;&#x9769;&#x547d;&#x8c03;&#x8bd5;&#x4fe1;&#x606f;&#x5e76;&#x8bb0;&#x5f55;&#x8c03;&#x8bd5;&#x4fe1;&#x606f;&#x65e5;&#x5fd7;&#x3002;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__SHOWDEBUGMESSAGES_TEXT</Tag>
@@ -321,19 +321,19 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CENTERPOPUPS_TEXT</Tag>
-		<English>&#x5c45;&#x4e2d;&#x5f39;&#x7a97;</English>
+		<English>&#x5f39;&#x7a97;&#x5c45;&#x4e2d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CENTERPOPUPS_HOVER</Tag>
-		<English>&#x9769;&#x547d;&#x6d88;&#x606f;&#x5f39;&#x7a97;&#x5c06;&#x5c45;&#x4e2d;&#x663e;&#x793a;&#x3002;</English>
+		<English>&#x9769;&#x547d;&#x6d88;&#x606f;&#x5f39;&#x7a97;&#x5c45;&#x4e2d;&#x663e;&#x793a;&#x3002;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__SHOWREVINDEXINPOPUP_TEXT</Tag>
-		<English>RevIndex &#x5f39;&#x7a97;</English>
+		<English>&#x9769;&#x547d;&#x6307;&#x6570;&#x5f39;&#x7a97;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__SHOWREVINDEXINPOPUP_HOVER</Tag>
-		<English>&#x542f;&#x7528;&#x7279;&#x6b8a;&#x7684; RevIndex &#x5f39;&#x7a97;&#xff08;&#x8c03;&#x8bd5;&#x4fe1;&#x606f;&#xff09;</English>
+		<English>&#x542f;&#x7528;&#x4e13;&#x95e8;&#x7684;&#x9769;&#x547d;&#x6307;&#x6570;&#x5f39;&#x7a97;&#xff08;&#x8c03;&#x8bd5;&#x4fe1;&#x606f;&#xff09;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MAXSCORELINES_TEXT</Tag>
@@ -341,7 +341,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MAXSCORELINES_HOVER</Tag>
-		<English>&#x8ba1;&#x5206;&#x677f;&#x4e0a;&#x663e;&#x793a;&#x7684;&#x6700;&#x5927;&#x8ba1;&#x5206;&#x884c;&#x6570;&#xff08;-1 &#x8868;&#x793a;&#x6700;&#x5927;&#xff09;</English>
+		<English>&#x8ba1;&#x5206;&#x677f;&#x4e0a;&#x663e;&#x793a;&#x7684;&#x6700;&#x5927;&#x884c;&#x6570;&#xff08;-1 &#x8868;&#x793a;&#x6700;&#x5927;&#x503c;&#xff09;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ARTSTYLETYPES_TEXT</Tag>
@@ -349,7 +349,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ARTSTYLETYPES_HOVER</Tag>
-		<English>&#x8bde;&#x751f;&#x7684;&#x53db;&#x519b;&#x504f;&#x597d;&#x91c7;&#x7528;&#x6bcd;&#x56fd;&#x7684;&#x7f8e;&#x672f;&#x98ce;&#x683c;&#x7c7b;&#x578b;</English>
+		<English>&#x751f;&#x6210;&#x7684;&#x53db;&#x519b;&#x504f;&#x5411;&#x91c7;&#x7528;&#x6bcd;&#x56fd;&#x7684;&#x7f8e;&#x672f;&#x98ce;&#x683c;&#x7c7b;&#x578b;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__OFFERDEFECTTOREVS_TEXT</Tag>
@@ -357,7 +357,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__OFFERDEFECTTOREVS_HOVER</Tag>
-		<English>&#x5411;&#x5883;&#x5185;&#x53d1;&#x751f;&#x53db;&#x4e71;&#x7684;&#x4eba;&#x7c7b;&#x73a9;&#x5bb6;&#x63d0;&#x4f9b;&#x53db;&#x6295;&#x5e76;&#x9886;&#x5bfc;&#x53db;&#x519b;&#x7684;&#x9009;&#x62e9;&#x3002;</English>
+		<English>&#x5411;&#x53d1;&#x751f;&#x53db;&#x4e71;&#x7684;&#x4eba;&#x7c7b;&#x73a9;&#x5bb6;&#x63d0;&#x4f9b;&#x53db;&#x6295;&#x5e76;&#x9886;&#x5bfc;&#x53db;&#x519b;&#x7684;&#x9009;&#x62e9;&#x3002;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ALLOWASSIMILATION_TEXT</Tag>
@@ -373,23 +373,23 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ALLOWSMALLBARBREVS_HOVER</Tag>
-		<English>&#x5c0f;&#x89c4;&#x6a21;&#x9769;&#x547d;&#x4ee5;&#x65e0;&#x7ec4;&#x7ec7;&#x53db;&#x519b;&#xff08;&#x86ee;&#x65cf;&#xff09;&#x5f62;&#x5f0f;&#x8bde;&#x751f;</English>
+		<English>&#x5c0f;&#x89c4;&#x6a21;&#x9769;&#x547d;&#x4ee5;&#x65e0;&#x7ec4;&#x7ec7;&#x53db;&#x519b;&#xff08;&#x86ee;&#x65cf;&#xff09;&#x5f62;&#x5f0f;&#x751f;&#x6210;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ALLOWBREAKVASSAL_TEXT</Tag>
-		<English>&#x5141;&#x8bb8;&#x6253;&#x7834;&#x9644;&#x5eb8;</English>
+		<English>&#x5141;&#x8bb8;&#x74e6;&#x89e3;&#x9644;&#x5eb8;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ALLOWBREAKVASSAL_HOVER</Tag>
-		<English>&#x5141;&#x8bb8;&#x9769;&#x547d;&#x6253;&#x7834;&#x9644;&#x5eb8;&#x56fd;&#x5173;&#x7cfb;</English>
+		<English>&#x5141;&#x8bb8;&#x9769;&#x547d;&#x74e6;&#x89e3;&#x9644;&#x5eb8;&#x56fd;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ENDWARSONDEATH_TEXT</Tag>
-		<English>&#x706d;&#x4ea1;&#x5373;&#x7ec8;&#x6218;</English>
+		<English>&#x706d;&#x4ea1;&#x65f6;&#x7ed3;&#x675f;&#x6218;&#x4e89;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ENDWARSONDEATH_HOVER</Tag>
-		<English>&#x5f53;&#x53db;&#x519b;&#x6587;&#x660e;&#x706d;&#x4ea1;&#x65f6;&#xff0c;&#x53d6;&#x6d88;&#x5176;&#x5f53;&#x524d;&#x7684;&#x6218;&#x4e89;&#xff08;&#x4ee5;&#x9632;&#x5176;&#x590d;&#x6d3b;&#xff09;</English>
+		<English>&#x53db;&#x519b;&#x6587;&#x660e;&#x706d;&#x4ea1;&#x65f6;&#xff0c;&#x53d6;&#x6d88;&#x5f53;&#x524d;&#x7684;&#x6218;&#x4e89;&#xff08;&#x4ee5;&#x5907;&#x5176;&#x590d;&#x6d3b;&#xff09;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CULTURALREVOLUTION_TEXT</Tag>
@@ -409,11 +409,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CIVICREVOLUTION_TEXT</Tag>
-		<English>&#x653f;&#x7b56;&#x9769;&#x547d;</English>
+		<English>&#x5236;&#x5ea6;&#x9769;&#x547d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CIVICREVOLUTION_HOVER</Tag>
-		<English>&#x5141;&#x8bb8;&#x57fa;&#x4e8e;&#x653f;&#x7b56;&#x7684;&#x9769;&#x547d;</English>
+		<English>&#x5141;&#x8bb8;&#x57fa;&#x4e8e;&#x5236;&#x5ea6;&#x7684;&#x9769;&#x547d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__LEADERREVOLUTION_TEXT</Tag>
@@ -433,11 +433,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MAXNATIONALITY_TEXT</Tag>
-		<English>&#x6700;&#x5927;&#x6c11;&#x65cf;&#x6027;</English>
+		<English>&#x6c11;&#x65cf;&#x6027;&#x4e0a;&#x9650;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MAXNATIONALITY_HOVER</Tag>
-		<English>&#x57ce;&#x5e02;&#x6c11;&#x65cf;&#x6027;&#x767e;&#x5206;&#x6bd4;&#x4e0a;&#x9650;&#xff0c;&#x8d85;&#x8fc7;&#x6b64;&#x503c;&#x540e;&#x57ce;&#x5e02;&#x5c06;&#x4e0d;&#x518d;&#x53d7;&#x57fa;&#x4e8e;&#x6c11;&#x65cf;&#x6027;&#x7684;&#x9769;&#x547d;&#x5f71;&#x54cd;&#x3002;</English>
+		<English>&#x57ce;&#x5e02;&#x4e2d;&#x7684;&#x6c11;&#x65cf;&#x6027;&#x767e;&#x5206;&#x6bd4;&#x4e0a;&#x9650;&#xff0c;&#x8d85;&#x8fc7;&#x6b64;&#x503c;&#x540e;&#x57ce;&#x5e02;&#x5c06;&#x4e0d;&#x518d;&#x53d7;&#x57fa;&#x4e8e;&#x6c11;&#x65cf;&#x6027;&#x7684;&#x9769;&#x547d;&#x5f71;&#x54cd;&#x3002;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CLOSERADIUS_TEXT</Tag>
@@ -445,7 +445,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CLOSERADIUS_HOVER</Tag>
-		<English>&#x6b96;&#x6c11;&#x5730;&#x8d1f;&#x9762;&#x9769;&#x547d;&#x6548;&#x5e94;&#x7684;&#x9650;&#x5236;&#x8ddd;&#x79bb;&#xff0c;&#x4ee5;&#x53ca;&#x53db;&#x4e71;&#x57ce;&#x5e02;&#x80fd;&#x591f;&#x5f71;&#x54cd;&#x5e76;&#x62c9;&#x62e2;&#x5176;&#x4ed6;&#x57ce;&#x5e02;&#x7684;&#x8ddd;&#x79bb;&#x3002;</English>
+		<English>&#x9650;&#x5b9a;&#x6b96;&#x6c11;&#x5730;&#x8d1f;&#x9762;&#x9769;&#x547d;&#x6548;&#x5e94;&#x7684;&#x8ddd;&#x79bb;&#xff0c;&#x4ee5;&#x53ca;&#x53db;&#x4e71;&#x57ce;&#x5e02;&#x53ef;&#x5f71;&#x54cd;&#x5e76;&#x62c9;&#x62e2;&#x5176;&#x4ed6;&#x57ce;&#x5e02;&#x7684;&#x8ddd;&#x79bb;&#x3002;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ALLOWSTATERELIGIONTOJOIN_TEXT</Tag>
@@ -461,7 +461,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__INDEXMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8; RevIdx &#x53d8;&#x52a8;&#x91cf;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x9769;&#x547d;&#x6307;&#x6570;&#x53d8;&#x5316;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__INDEXOFFSET_TEXT</Tag>
@@ -469,7 +469,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__INDEXOFFSET_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8; RevIdx &#x53d8;&#x52a8;&#x91cf;&#x7684;&#x504f;&#x79fb;&#x91cf;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x9769;&#x547d;&#x6307;&#x6570;&#x53d8;&#x5316;&#x7684;&#x504f;&#x79fb;&#x91cf;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__HUMANINDEXMODIFIER_TEXT</Tag>
@@ -477,7 +477,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__HUMANINDEXMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x4eba;&#x7c7b;&#x73a9;&#x5bb6; RevIdx &#x53d8;&#x52a8;&#x91cf;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x4eba;&#x7c7b;&#x73a9;&#x5bb6;&#x9769;&#x547d;&#x6307;&#x6570;&#x53d8;&#x5316;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__HUMANINDEXOFFSET_TEXT</Tag>
@@ -485,7 +485,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__HUMANINDEXOFFSET_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x4eba;&#x7c7b;&#x73a9;&#x5bb6; RevIdx &#x53d8;&#x52a8;&#x91cf;&#x7684;&#x504f;&#x79fb;&#x91cf;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x4eba;&#x7c7b;&#x73a9;&#x5bb6;&#x9769;&#x547d;&#x6307;&#x6570;&#x53d8;&#x5316;&#x7684;&#x504f;&#x79fb;&#x91cf;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CHANCEMODIFIER_TEXT</Tag>
@@ -493,7 +493,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CHANCEMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x9769;&#x547d;&#x7206;&#x53d1;&#x51e0;&#x7387;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x9769;&#x547d;&#x53d1;&#x751f;&#x51e0;&#x7387;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__STRENGTHMODIFIER_TEXT</Tag>
@@ -501,7 +501,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__STRENGTHMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x521d;&#x59cb;&#x53db;&#x4e71;&#x5f3a;&#x5ea6;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x521d;&#x59cb;&#x53db;&#x4e71;&#x5f3a;&#x5ea6;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__REINFORCEMENTMODIFIER_TEXT</Tag>
@@ -509,7 +509,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__REINFORCEMENTMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x9769;&#x547d;&#x589e;&#x63f4;&#x5f3a;&#x5ea6;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x53db;&#x519b;&#x589e;&#x63f4;&#x5f3a;&#x5ea6;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__HAPPINESSMODIFIER_TEXT</Tag>
@@ -517,7 +517,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__HAPPINESSMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x57fa;&#x4e8e;&#x5e78;&#x798f;&#x5ea6;&#x7684; RevIdx &#x53d8;&#x52a8;&#x91cf;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x57fa;&#x4e8e;&#x5e78;&#x798f;&#x5ea6;&#x7684;&#x9769;&#x547d;&#x6307;&#x6570;&#x53d8;&#x5316;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__COLONYMODIFIER_TEXT</Tag>
@@ -525,7 +525,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__COLONYMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x57fa;&#x4e8e;&#x6b96;&#x6c11;&#x5730;&#x7684; RevIdx &#x53d8;&#x52a8;&#x91cf;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x57fa;&#x4e8e;&#x6b96;&#x6c11;&#x5730;&#x7684;&#x9769;&#x547d;&#x6307;&#x6570;&#x53d8;&#x5316;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__DISTANCETOCAPITALMODIFIER_TEXT</Tag>
@@ -533,7 +533,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__DISTANCETOCAPITALMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x8ddd;&#x9996;&#x90fd;&#x8ddd;&#x79bb;&#x6240;&#x81f4; RevIdx &#x60e9;&#x7f5a;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x56e0;&#x8ddd;&#x9996;&#x90fd;&#x8fdc;&#x8fd1;&#x800c;&#x4ea7;&#x751f;&#x7684;&#x9769;&#x547d;&#x6307;&#x6570;&#x60e9;&#x7f5a;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CULTURERATEMODIFIER_TEXT</Tag>
@@ -541,7 +541,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CULTURERATEMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x6587;&#x5316;&#x901f;&#x7387;&#x6240;&#x81f4; RevIdx &#x52a0;&#x6210;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x57fa;&#x4e8e;&#x6587;&#x5316;&#x901f;&#x7387;&#x7684;&#x9769;&#x547d;&#x6307;&#x6570;&#x5956;&#x52b1;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__NATIONALITYMODIFIER_TEXT</Tag>
@@ -549,7 +549,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__NATIONALITYMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x57fa;&#x4e8e;&#x6c11;&#x65cf;&#x6027;&#x7684; RevIdx &#x53d8;&#x52a8;&#x91cf;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x57fa;&#x4e8e;&#x6c11;&#x65cf;&#x6027;&#x7684;&#x9769;&#x547d;&#x6307;&#x6570;&#x53d8;&#x5316;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__GARRISONMODIFIER_TEXT</Tag>
@@ -557,7 +557,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__GARRISONMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x57ce;&#x5e02;&#x9a7b;&#x519b;&#x6240;&#x81f4; RevIdx &#x52a0;&#x6210;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x6765;&#x81ea;&#x57ce;&#x5e02;&#x9a7b;&#x519b;&#x7684;&#x9769;&#x547d;&#x6307;&#x6570;&#x5956;&#x52b1;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__RELIGIONMODIFIER_TEXT</Tag>
@@ -565,7 +565,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__RELIGIONMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x57fa;&#x4e8e;&#x5b97;&#x6559;&#x7684; RevIdx &#x53d8;&#x52a8;&#x91cf;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x57fa;&#x4e8e;&#x5b97;&#x6559;&#x7684;&#x9769;&#x547d;&#x6307;&#x6570;&#x53d8;&#x5316;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CIVSIZEMODIFIER_TEXT</Tag>
@@ -573,7 +573,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CIVSIZEMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x57fa;&#x4e8e;&#x6587;&#x660e;&#x89c4;&#x6a21;&#x7684; RevIdx &#x53d8;&#x52a8;&#x91cf;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x57fa;&#x4e8e;&#x6587;&#x660e;&#x89c4;&#x6a21;&#x7684;&#x9769;&#x547d;&#x6307;&#x6570;&#x53d8;&#x5316;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CITYLOSTMODIFIER_TEXT</Tag>
@@ -581,15 +581,15 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CITYLOSTMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x5931;&#x53bb;&#x57ce;&#x5e02;&#x6240;&#x81f4; RevIdx &#x60e9;&#x7f5a;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x56e0;&#x5931;&#x53bb;&#x57ce;&#x5e02;&#x800c;&#x4ea7;&#x751f;&#x7684;&#x9769;&#x547d;&#x6307;&#x6570;&#x60e9;&#x7f5a;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CITYACQUIREDMODIFIER_TEXT</Tag>
-		<English>&#x5f97;&#x57ce;&#x4fee;&#x6b63;</English>
+		<English>&#x593a;&#x57ce;&#x4fee;&#x6b63;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CITYACQUIREDMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x5f81;&#x670d;&#x57ce;&#x5e02;&#x6240;&#x81f4; RevIdx &#x52a0;&#x6210;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x56e0;&#x5f81;&#x670d;&#x57ce;&#x5e02;&#x800c;&#x83b7;&#x5f97;&#x7684;&#x9769;&#x547d;&#x6307;&#x6570;&#x5956;&#x52b1;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__REVCULTUREMODIFIER_TEXT</Tag>
@@ -597,15 +597,15 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__REVCULTUREMODIFIER_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x57ce;&#x5e02;&#x6587;&#x5316;&#x6240;&#x81f4; RevIdx &#x52a0;&#x6210;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x6765;&#x81ea;&#x57ce;&#x5e02;&#x6587;&#x5316;&#x7684;&#x9769;&#x547d;&#x6307;&#x6570;&#x5956;&#x52b1;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CIVICSODDS_TEXT</Tag>
-		<English>&#x653f;&#x7b56;&#x51e0;&#x7387;</English>
+		<English>&#x5236;&#x5ea6;&#x51e0;&#x7387;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CIVICSODDS_HOVER</Tag>
-		<English>&#x53db;&#x4e71;&#x53d1;&#x751f;&#x65f6;&#x7528;&#x4e8e;&#x5224;&#x5b9a;&#x9769;&#x547d;&#x7c7b;&#x578b;&#x7684;&#x51e0;&#x7387;&#xff0c;&#x8c03;&#x6574;&#x653f;&#x7b56;&#x578b;&#x53db;&#x4e71;&#x7684;&#x53ef;&#x80fd;&#x6027;</English>
+		<English>&#x53db;&#x4e71;&#x53d1;&#x751f;&#x65f6;&#x7528;&#x4e8e;&#x51b3;&#x5b9a;&#x9769;&#x547d;&#x7c7b;&#x578b;&#x7684;&#x51e0;&#x7387;&#xff0c;&#x8c03;&#x6574;&#x5236;&#x5ea6;&#x578b;&#x53db;&#x4e71;&#x7684;&#x51e0;&#x7387;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__RELIGIONODDS_TEXT</Tag>
@@ -613,7 +613,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__RELIGIONODDS_HOVER</Tag>
-		<English>&#x53db;&#x4e71;&#x53d1;&#x751f;&#x65f6;&#x7528;&#x4e8e;&#x5224;&#x5b9a;&#x9769;&#x547d;&#x7c7b;&#x578b;&#x7684;&#x51e0;&#x7387;&#xff0c;&#x8c03;&#x6574;&#x5b97;&#x6559;&#x578b;&#x53db;&#x4e71;&#x7684;&#x53ef;&#x80fd;&#x6027;</English>
+		<English>&#x53db;&#x4e71;&#x53d1;&#x751f;&#x65f6;&#x7528;&#x4e8e;&#x51b3;&#x5b9a;&#x9769;&#x547d;&#x7c7b;&#x578b;&#x7684;&#x51e0;&#x7387;&#xff0c;&#x8c03;&#x6574;&#x5b97;&#x6559;&#x578b;&#x53db;&#x4e71;&#x7684;&#x51e0;&#x7387;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__LEADERODDS_TEXT</Tag>
@@ -621,15 +621,15 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__LEADERODDS_HOVER</Tag>
-		<English>&#x53db;&#x4e71;&#x53d1;&#x751f;&#x65f6;&#x7528;&#x4e8e;&#x5224;&#x5b9a;&#x9769;&#x547d;&#x7c7b;&#x578b;&#x7684;&#x51e0;&#x7387;&#xff0c;&#x8c03;&#x6574;&#x9886;&#x8896;&#x578b;&#x53db;&#x4e71;&#x7684;&#x53ef;&#x80fd;&#x6027;</English>
+		<English>&#x53db;&#x4e71;&#x53d1;&#x751f;&#x65f6;&#x7528;&#x4e8e;&#x51b3;&#x5b9a;&#x9769;&#x547d;&#x7c7b;&#x578b;&#x7684;&#x51e0;&#x7387;&#xff0c;&#x8c03;&#x6574;&#x9886;&#x8896;&#x578b;&#x53db;&#x4e71;&#x7684;&#x51e0;&#x7387;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CRUSADEODDS_TEXT</Tag>
-		<English>&#x5723;&#x6218;&#x51e0;&#x7387;</English>
+		<English>&#x5341;&#x5b57;&#x519b;&#x51e0;&#x7387;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CRUSADEODDS_HOVER</Tag>
-		<English>&#x53db;&#x4e71;&#x53d1;&#x751f;&#x65f6;&#x7528;&#x4e8e;&#x5224;&#x5b9a;&#x9769;&#x547d;&#x7c7b;&#x578b;&#x7684;&#x51e0;&#x7387;&#xff0c;&#x8c03;&#x6574;&#x5723;&#x6218;&#x578b;&#x53db;&#x4e71;&#x7684;&#x53ef;&#x80fd;&#x6027;</English>
+		<English>&#x53db;&#x4e71;&#x53d1;&#x751f;&#x65f6;&#x7528;&#x4e8e;&#x51b3;&#x5b9a;&#x9769;&#x547d;&#x7c7b;&#x578b;&#x7684;&#x51e0;&#x7387;&#xff0c;&#x8c03;&#x6574;&#x5341;&#x5b57;&#x519b;&#x578b;&#x53db;&#x4e71;&#x7684;&#x51e0;&#x7387;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__INDEPENDENCEODDS_TEXT</Tag>
@@ -637,7 +637,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__INDEPENDENCEODDS_HOVER</Tag>
-		<English>&#x53db;&#x4e71;&#x53d1;&#x751f;&#x65f6;&#x7528;&#x4e8e;&#x5224;&#x5b9a;&#x9769;&#x547d;&#x7c7b;&#x578b;&#x7684;&#x51e0;&#x7387;&#xff0c;&#x8c03;&#x6574;&#x72ec;&#x7acb;&#x578b;&#x53db;&#x4e71;&#x7684;&#x53ef;&#x80fd;&#x6027;</English>
+		<English>&#x53db;&#x4e71;&#x53d1;&#x751f;&#x65f6;&#x7528;&#x4e8e;&#x51b3;&#x5b9a;&#x9769;&#x547d;&#x7c7b;&#x578b;&#x7684;&#x51e0;&#x7387;&#xff0c;&#x8c03;&#x6574;&#x72ec;&#x7acb;&#x578b;&#x53db;&#x4e71;&#x7684;&#x51e0;&#x7387;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__HUMANWARNFRAC_TEXT</Tag>
@@ -645,15 +645,15 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__HUMANWARNFRAC_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x5411;&#x4eba;&#x7c7b;&#x73a9;&#x5bb6;&#x9884;&#x8b66;&#x57ce;&#x5e02;&#x5373;&#x5c06;&#x53d1;&#x751f;&#x9769;&#x547d;&#x95ee;&#x9898;&#x7684; RevIdx &#x6bd4;&#x4f8b;&#xff08;1.0 &#x76f8;&#x5f53;&#x4e8e; RevIdx &#x4e3a; 1000&#xff09;</English>
+		<English>&#x7528;&#x4e8e;&#x5c31;&#x57ce;&#x5e02;&#x4e2d;&#x5373;&#x5c06;&#x53d1;&#x751f;&#x7684;&#x9769;&#x547d;&#x95ee;&#x9898;&#x5411;&#x4eba;&#x7c7b;&#x73a9;&#x5bb6;&#x53d1;&#x51fa;&#x8b66;&#x544a;&#x7684;&#x9769;&#x547d;&#x6307;&#x6570;&#x6bd4;&#x4f8b;&#xff08;1.0 &#x76f8;&#x5f53;&#x4e8e;&#x9769;&#x547d;&#x6307;&#x6570; 1000&#xff09;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__WARNTURNS_TEXT</Tag>
-		<English>&#x8b66;&#x544a;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x8b66;&#x544a;&#x56de;&#x5408;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__WARNTURNS_HOVER</Tag>
-		<English>&#x91cd;&#x590d;&#x53d1;&#x51fa;&#x5373;&#x5c06;&#x9769;&#x547d;&#x8b66;&#x544a;&#x524d;&#x987b;&#x7b49;&#x5f85;&#x7684;&#x6700;&#x5c11;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x91cd;&#x590d;&#x53d1;&#x51fa;&#x5373;&#x5c06;&#x53d1;&#x751f;&#x7684;&#x9769;&#x547d;&#x8b66;&#x544a;&#x524d;&#x987b;&#x7b49;&#x5f85;&#x7684;&#x6700;&#x5c11;&#x56de;&#x5408;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__WARWEARINESSMOD_TEXT</Tag>
@@ -661,15 +661,15 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__WARWEARINESSMOD_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x6539;&#x53d8;&#x538c;&#x6218;&#x60c5;&#x7eea;&#x6240;&#x81f4; RevIdx &#x60e9;&#x7f5a;&#x7684;&#x500d;&#x7387;</English>
+		<English>&#x7528;&#x4e8e;&#x8c03;&#x6574;&#x56e0;&#x538c;&#x6218;&#x60c5;&#x7eea;&#x6240;&#x81f4;&#x9769;&#x547d;&#x6307;&#x6570;&#x60e9;&#x7f5a;&#x7684;&#x4e58;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__REVMAXCIVS_TEXT</Tag>
-		<English>&#x9769;&#x547d;&#x6700;&#x5927;&#x6587;&#x660e;&#x6570;</English>
+		<English>&#x9769;&#x547d;&#x6587;&#x660e;&#x4e0a;&#x9650;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__REVMAXCIVS_HOVER</Tag>
-		<English>&#x6e38;&#x620f;&#x4e2d;&#x9769;&#x547d;&#x505c;&#x6b62;&#x53d1;&#x751f;&#x524d;&#x6240;&#x5141;&#x8bb8;&#x7684;&#x6700;&#x5927;&#x73a9;&#x5bb6;&#x6570;&#x91cf;&#xff08;-1 &#x8868;&#x793a;&#x5f15;&#x64ce;&#x5141;&#x8bb8;&#x7684;&#x6700;&#x5927;&#x73a9;&#x5bb6;&#x6570;&#xff09;</English>
+		<English>&#x6e38;&#x620f;&#x4e2d;&#x5141;&#x8bb8;&#x7684;&#x6700;&#x5927;&#x73a9;&#x5bb6;&#x6570;&#x91cf;&#xff0c;&#x8d85;&#x8fc7;&#x6b64;&#x503c;&#x540e;&#x9769;&#x547d;&#x5c06;&#x4e0d;&#x518d;&#x53d1;&#x751f;&#xff08;-1 &#x8868;&#x793a;&#x5f15;&#x64ce;&#x5141;&#x8bb8;&#x7684;&#x6700;&#x5927;&#x73a9;&#x5bb6;&#x6570;&#xff09;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__TURNSBETWEENREVS_TEXT</Tag>
@@ -677,31 +677,31 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__TURNSBETWEENREVS_HOVER</Tag>
-		<English>&#x5df2;&#x7ecf;&#x53db;&#x4e71;&#x8fc7;&#x7684;&#x57ce;&#x5e02;&#x80fd;&#x591f;&#x5f15;&#x53d1;&#x65b0;&#x9769;&#x547d;&#x524d;&#x5fc5;&#x987b;&#x7ecf;&#x8fc7;&#x7684;&#x6700;&#x5c11;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x5df2;&#x53d1;&#x751f;&#x8fc7;&#x53db;&#x4e71;&#x7684;&#x57ce;&#x5e02;&#x518d;&#x6b21;&#x50ac;&#x751f;&#x65b0;&#x9769;&#x547d;&#x524d;&#xff0c;&#x5fc5;&#x987b;&#x7ecf;&#x8fc7;&#x7684;&#x6700;&#x5c11;&#x56de;&#x5408;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ACCEPTEDTURNS_TEXT</Tag>
-		<English>&#x63a5;&#x53d7;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x63a5;&#x53d7;&#x540e;&#x56de;&#x5408;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ACCEPTEDTURNS_HOVER</Tag>
-		<English>&#x63a5;&#x53d7;&#x53db;&#x519b;&#x8981;&#x6c42;&#x540e;&#xff0c;&#x80fd;&#x591f;&#x5f15;&#x53d1;&#x9769;&#x547d;&#x524d;&#x5fc5;&#x987b;&#x7ecf;&#x8fc7;&#x7684;&#x6700;&#x5c11;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x63a5;&#x53d7;&#x53db;&#x519b;&#x8981;&#x6c42;&#x540e;&#xff0c;&#x9769;&#x547d;&#x518d;&#x6b21;&#x50ac;&#x751f;&#x524d;&#x5fc5;&#x987b;&#x7ecf;&#x8fc7;&#x7684;&#x6700;&#x5c11;&#x56de;&#x5408;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ACQUIREDTURNS_TEXT</Tag>
-		<English>&#x5360;&#x9886;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x593a;&#x57ce;&#x540e;&#x56de;&#x5408;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ACQUIREDTURNS_HOVER</Tag>
-		<English>&#x65b0;&#x8fd1;&#x5f81;&#x670d;&#x7684;&#x57ce;&#x5e02;&#x53ef;&#x5f15;&#x53d1;&#x9769;&#x547d;&#x524d;&#x5fc5;&#x987b;&#x7ecf;&#x8fc7;&#x7684;&#x6700;&#x5c11;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x65b0;&#x8fd1;&#x5f81;&#x670d;&#x7684;&#x57ce;&#x5e02;&#x50ac;&#x751f;&#x9769;&#x547d;&#x524d;&#x5fc5;&#x987b;&#x7ecf;&#x8fc7;&#x7684;&#x6700;&#x5c11;&#x56de;&#x5408;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BUYOFFTURNS_TEXT</Tag>
-		<English>&#x5360;&#x9886;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x593a;&#x57ce;&#x540e;&#x56de;&#x5408;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BUYOFFTURNS_HOVER</Tag>
-		<English>&#x6536;&#x4e70;&#x53db;&#x519b;&#x540e;&#xff0c;&#x80fd;&#x591f;&#x53d1;&#x751f;&#x9769;&#x547d;&#x524d;&#x5fc5;&#x987b;&#x7ecf;&#x8fc7;&#x7684;&#x6700;&#x5c11;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x6536;&#x4e70;&#x53db;&#x519b;&#x540e;&#xff0c;&#x9769;&#x547d;&#x518d;&#x6b21;&#x53d1;&#x751f;&#x524d;&#x5fc5;&#x987b;&#x7ecf;&#x8fc7;&#x7684;&#x6700;&#x5c11;&#x56de;&#x5408;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BASEREINFORCEMENTTURNS_TEXT</Tag>
@@ -709,7 +709,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BASEREINFORCEMENTTURNS_HOVER</Tag>
-		<English>&#x53db;&#x4e71;&#x83b7;&#x5f97;&#x589e;&#x63f4;&#x524d;&#x7ecf;&#x8fc7;&#x7684;&#x5e73;&#x5747;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x53db;&#x4e71;&#x83b7;&#x5f97;&#x589e;&#x63f4;&#x524d;&#x6240;&#x7ecf;&#x8fc7;&#x7684;&#x5e73;&#x5747;&#x56de;&#x5408;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MINREINFORCEMENTTURNS_TEXT</Tag>
@@ -725,7 +725,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__ALWAYSVIOLENTTHRESHOLD_HOVER</Tag>
-		<English>&#x5f15;&#x53d1;&#x53db;&#x4e71;&#x7684;&#x57ce;&#x5e02;&#x5fc5;&#x5b9a;&#x91c7;&#x53d6;&#x66b4;&#x529b;&#x65b9;&#x5f0f;&#x5e76;&#x8bde;&#x751f;&#x53db;&#x519b;&#x5355;&#x4f4d;&#x7684; RevIdx &#x6570;&#x503c;</English>
+		<English>&#x5f53;&#x9769;&#x547d;&#x6307;&#x6570;&#x8fbe;&#x5230;&#x6b64;&#x503c;&#x65f6;&#xff0c;&#x5f15;&#x53d1;&#x53db;&#x4e71;&#x7684;&#x57ce;&#x5e02;&#x5fc5;&#x5b9a;&#x91c7;&#x53d6;&#x66b4;&#x529b;&#x5f62;&#x5f0f;&#x5e76;&#x751f;&#x6210;&#x53db;&#x519b;&#x5355;&#x4f4d;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__INSTIGATEREVOLUTIONTHRESHOLD_TEXT</Tag>
@@ -733,7 +733,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__INSTIGATEREVOLUTIONTHRESHOLD_HOVER</Tag>
-		<English>&#x57ce;&#x5e02;&#x53ef;&#x717d;&#x52a8;&#x53db;&#x4e71;&#x7684; RevIdx &#x6570;&#x503c;</English>
+		<English>&#x57ce;&#x5e02;&#x53ef;&#x717d;&#x52a8;&#x53db;&#x4e71;&#x6240;&#x9700;&#x8fbe;&#x5230;&#x7684;&#x9769;&#x547d;&#x6307;&#x6570;&#x503c;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__JOINREVOLUTIONFRAC_TEXT</Tag>
@@ -741,24 +741,24 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__JOINREVOLUTIONFRAC_HOVER</Tag>
-		<English>&#x57ce;&#x5e02;&#x53ef;&#x52a0;&#x5165;&#x67d0;&#x5ea7;&#x717d;&#x52a8;&#x57ce;&#x5e02;&#x53db;&#x4e71;&#x7684; RevIdx &#x717d;&#x52a8;&#x9608;&#x503c;&#x6bd4;&#x4f8b;</English>
+		<English>&#x57ce;&#x5e02;&#x53ef;&#x52a0;&#x5165;&#x67d0;&#x717d;&#x52a8;&#x57ce;&#x5e02;&#x53db;&#x4e71;&#x6240;&#x9700;&#x8fbe;&#x5230;&#x7684;&#x3001;&#x5360;&#x9769;&#x547d;&#x6307;&#x6570;&#x717d;&#x52a8;&#x9608;&#x503c;&#x7684;&#x6bd4;&#x4f8b;</English>
 		<Finnish>RevIdx value at which a city can instigate rebellions</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BADLOCALTHRESHOLD_TEXT</Tag>
-		<English>&#x5c40;&#x90e8;&#x9608;&#x503c;</English>
+		<English>&#x672c;&#x5730;&#x9608;&#x503c;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BADLOCALTHRESHOLD_HOVER</Tag>
-		<English>&#x5f71;&#x54cd;&#x5c40;&#x90e8; RevIdx &#x6548;&#x5e94;&#x4e0e;&#x6536;&#x4e70;&#xff0c;&#x4ee5;&#x53ca;&#x57ce;&#x5e02;&#x840c;&#x751f;&#x53db;&#x610f;&#x65f6;&#x9644;&#x52a0;&#x7684;&#x60e9;&#x7f5a;</English>
+		<English>&#x5f71;&#x54cd;&#x672c;&#x5730;&#x9769;&#x547d;&#x6307;&#x6570;&#x6548;&#x5e94;&#x4e0e;&#x8d3f;&#x8d42;&#xff0c;&#x4ee5;&#x53ca;&#x57ce;&#x5e02;&#x840c;&#x751f;&#x53db;&#x610f;&#x65f6;&#x9644;&#x52a0;&#x7684;&#x60e9;&#x7f5a;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__DENIEDTURNS_TEXT</Tag>
-		<English>&#x62d2;&#x7edd;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x62d2;&#x7edd;&#x540e;&#x56de;&#x5408;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__DENIEDTURNS_HOVER</Tag>
-		<English>&#x62d2;&#x7edd;&#x53db;&#x519b;&#x6761;&#x4ef6;&#x540e;&#xff0c;&#x65b0;&#x53db;&#x4e71;&#x80fd;&#x591f;&#x8bde;&#x751f;&#x6216;&#x53db;&#x519b;&#x80fd;&#x591f;&#x63d0;&#x51fa;&#x65b0;&#x8981;&#x6c42;&#x524d;&#x7684;&#x5ef6;&#x8fdf;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x62d2;&#x7edd;&#x53db;&#x519b;&#x6761;&#x4ef6;&#x540e;&#xff0c;&#x65b0;&#x53db;&#x4e71;&#x50ac;&#x751f;&#x6216;&#x53db;&#x519b;&#x63d0;&#x51fa;&#x65b0;&#x8981;&#x6c42;&#x524d;&#x7684;&#x56de;&#x5408;&#x5ef6;&#x8fdf;</English>
 	</TEXT>
 
 	<TEXT>
@@ -767,7 +767,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__AIAUTOPLAYENABLE_HOVER</Tag>
-		<English>&#x542f;&#x7528; AIAutoplay</English>
+		<English>&#x542f;&#x7528; AI &#x81ea;&#x52a8;&#x6e38;&#x73a9;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BLOCKPOPUPS_TEXT</Tag>
@@ -775,7 +775,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BLOCKPOPUPS_HOVER</Tag>
-		<English>&#x5728; AIAutoplay &#x671f;&#x95f4;&#x5c4f;&#x853d;&#x5f39;&#x7a97;</English>
+		<English>AI &#x81ea;&#x52a8;&#x6e38;&#x73a9;&#x671f;&#x95f4;&#x5c4f;&#x853d;&#x5f39;&#x7a97;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__SAVEALLDEATHS_TEXT</Tag>
@@ -787,11 +787,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__REFORTIFY_TEXT</Tag>
-		<English>&#x91cd;&#x65b0;&#x9a7b;&#x9632;</English>
+		<English>&#x91cd;&#x65b0;&#x56fa;&#x5b88;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__REFORTIFY_HOVER</Tag>
-		<English>&#x5f53;&#x4eba;&#x7c7b;&#x4ece; AIAutoplay &#x63a5;&#x7ba1;&#x63a7;&#x5236;&#x6743;&#x65f6;&#xff0c;&#x91cd;&#x65b0;&#x4f7f;&#x5355;&#x4f4d;&#x8fdb;&#x5165;&#x9a7b;&#x9632;&#x72b6;&#x6001;</English>
+		<English>&#x4eba;&#x7c7b;&#x4ece; AI &#x81ea;&#x52a8;&#x6e38;&#x73a9;&#x63a5;&#x7ba1;&#x63a7;&#x5236;&#x6743;&#x65f6;&#xff0c;&#x4f7f;&#x5355;&#x4f4d;&#x91cd;&#x65b0;&#x8fdb;&#x5165;&#x56fa;&#x5b88;&#x72b6;&#x6001;</English>
 	</TEXT>
 
 	<TEXT>
@@ -800,7 +800,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CHANGEPLAYERENABLE_HOVER</Tag>
-		<English>&#x542f;&#x7528;&#x73a9;&#x5bb6;&#x5207;&#x6362;&#x529f;&#x80fd;</English>
+		<English>&#x542f;&#x7528;&#x5207;&#x6362;&#x73a9;&#x5bb6;&#x529f;&#x80fd;</English>
 	</TEXT>
 
 	<TEXT>
@@ -809,7 +809,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__CHANGEPLAYERDEBUGMODE_HOVER</Tag>
-		<English>&#x4e3a;&#x73a9;&#x5bb6;&#x5207;&#x6362;&#x529f;&#x80fd;&#x542f;&#x7528;&#x8c03;&#x8bd5;&#x4fe1;&#x606f;&#x4e0e;&#x65e5;&#x5fd7;&#x8bb0;&#x5f55;</English>
+		<English>&#x4e3a;&#x5207;&#x6362;&#x73a9;&#x5bb6;&#x529f;&#x80fd;&#x542f;&#x7528;&#x8c03;&#x8bd5;&#x4fe1;&#x606f;&#x4e0e;&#x65e5;&#x5fd7;&#x8bb0;&#x5f55;</English>
 	</TEXT>
 
 	<TEXT>
@@ -826,23 +826,23 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__MINTECHSBEHIND_HOVER</Tag>
-		<English>&#x56e2;&#x961f;&#x83b7;&#x5f97;&#x79d1;&#x6280;&#x6269;&#x6563;&#x52a0;&#x6210;&#x524d;&#x5fc5;&#x987b;&#x843d;&#x540e;&#x7684;&#x6700;&#x5c11;&#x79d1;&#x6280;&#x6570;</English>
+		<English>&#x56e2;&#x961f;&#x83b7;&#x5f97;&#x79d1;&#x6280;&#x6269;&#x6563;&#x5956;&#x52b1;&#x524d;&#x987b;&#x843d;&#x540e;&#x7684;&#x6700;&#x5c11;&#x79d1;&#x6280;&#x6570;&#x91cf;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__FULLEFFECTTECHSBEHIND_TEXT</Tag>
-		<English>&#x5168;&#x6548;&#x843d;&#x540e;&#x79d1;&#x6280;&#x6570;</English>
+		<English>&#x5b8c;&#x5168;&#x843d;&#x540e;&#x79d1;&#x6280;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__FULLEFFECTTECHSBEHIND_HOVER</Tag>
-		<English>&#x56e2;&#x961f;&#x83b7;&#x5f97;&#x5168;&#x989d;&#x79d1;&#x6280;&#x6269;&#x6563;&#x52a0;&#x6210;&#x524d;&#x5fc5;&#x987b;&#x843d;&#x540e;&#x7684;&#x79d1;&#x6280;&#x6570;</English>
+		<English>&#x56e2;&#x961f;&#x83b7;&#x5f97;&#x5b8c;&#x6574;&#x79d1;&#x6280;&#x6269;&#x6563;&#x5956;&#x52b1;&#x524d;&#x987b;&#x843d;&#x540e;&#x7684;&#x79d1;&#x6280;&#x6570;&#x91cf;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BONUSTECHSBEHIND_TEXT</Tag>
-		<English>&#x52a0;&#x6210;&#x843d;&#x540e;&#x79d1;&#x6280;&#x6570;</English>
+		<English>&#x5956;&#x52b1;&#x843d;&#x540e;&#x79d1;&#x6280;&#x6570;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__BONUSTECHSBEHIND_HOVER</Tag>
-		<English>&#x7528;&#x4e8e;&#x5411;&#x4e25;&#x91cd;&#x843d;&#x540e;&#x6587;&#x660e;&#x63d0;&#x4f9b;&#x9ad8;&#x989d;&#x79d1;&#x6280;&#x6269;&#x6563;&#x52a0;&#x6210;&#x7684;&#x843d;&#x540e;&#x79d1;&#x6280;&#x6570;&#x504f;&#x79fb;&#x91cf;</English>
+		<English>&#x7528;&#x4e8e;&#x5411;&#x4e25;&#x91cd;&#x843d;&#x540e;&#x7684;&#x6587;&#x660e;&#x7ed9;&#x4e88;&#x9ad8;&#x989d;&#x79d1;&#x6280;&#x6269;&#x6563;&#x5956;&#x52b1;&#x7684;&#x843d;&#x540e;&#x79d1;&#x6280;&#x6570;&#x504f;&#x79fb;&#x91cf;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__DIFFUSIONMOD_TEXT</Tag>
@@ -850,7 +850,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__DIFFUSIONMOD_HOVER</Tag>
-		<English>&#x79d1;&#x6280;&#x6269;&#x6563;&#x8ba1;&#x7b97;&#x4e2d;&#x4f7f;&#x7528;&#x7684;&#x4fee;&#x6b63;&#x91cf;</English>
+		<English>&#x7528;&#x4e8e;&#x79d1;&#x6280;&#x6269;&#x6563;&#x8ba1;&#x7b97;&#x7684;&#x4fee;&#x6b63;&#x503c;</English>
 	</TEXT>
 
 	<TEXT>
@@ -859,19 +859,19 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__DYNAMICNAMESDEBUGMODE_HOVER</Tag>
-		<English>&#x4e3a;&#x52a8;&#x6001;&#x6587;&#x660e;&#x540d;&#x79f0;&#x542f;&#x7528;&#x8c03;&#x8bd5;&#x4fe1;&#x606f;&#x4e0e;&#x65e5;&#x5fd7;&#x8bb0;&#x5f55;</English>
+		<English>&#x4e3a;&#x52a8;&#x6001;&#x6587;&#x660e;&#x547d;&#x540d;&#x542f;&#x7528;&#x8c03;&#x8bd5;&#x4fe1;&#x606f;&#x4e0e;&#x65e5;&#x5fd7;&#x8bb0;&#x5f55;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__DNCLEVEL_TEXT</Tag>
-		<English>&#x52a8;&#x6001;&#x540d;&#x79f0;&#x7b49;&#x7ea7;</English>
+		<English>&#x52a8;&#x6001;&#x547d;&#x540d;&#x7b49;&#x7ea7;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__DNCLEVEL_HOVER</Tag>
-		<English>&#x52a8;&#x6001;&#x6587;&#x660e;&#x540d;&#x79f0;&#x7ec4;&#x4ef6;&#x751f;&#x6210;&#x540d;&#x79f0;&#x65f6;&#x6240;&#x91c7;&#x7528;&#x7684;&#x521b;&#x610f;&#x7a0b;&#x5ea6;</English>
+		<English>&#x52a8;&#x6001;&#x6587;&#x660e;&#x547d;&#x540d;&#x7ec4;&#x4ef6;&#x751f;&#x6210;&#x540d;&#x79f0;&#x65f6;&#x6240;&#x91c7;&#x7528;&#x7684;&#x521b;&#x610f;&#x7a0b;&#x5ea6;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__DNCLEVEL_LIST</Tag>
-		<English>&#x5173;&#x95ed;|&#x6781;&#x7b80;|&#x4e2d;&#x7b49;|&#x9ad8;</English>
+		<English>&#x5173;|&#x6700;&#x5c0f;|&#x4e2d;|&#x9ad8;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__TEAMNAMING_TEXT</Tag>
@@ -879,7 +879,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__TEAMNAMING_HOVER</Tag>
-		<English>&#x52a8;&#x6001;&#x6587;&#x660e;&#x540d;&#x79f0;&#x8de8;&#x56e2;&#x961f;&#x5e94;&#x7528;</English>
+		<English>&#x52a8;&#x6001;&#x6587;&#x660e;&#x547d;&#x540d;&#x5e94;&#x7528;&#x4e8e;&#x5404;&#x56e2;&#x961f;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__LEAVEHUMANPLAYERNAME_TEXT</Tag>
@@ -887,18 +887,18 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__LEAVEHUMANPLAYERNAME_HOVER</Tag>
-		<English>&#x52a8;&#x6001;&#x6587;&#x660e;&#x540d;&#x79f0;&#x4e0d;&#x5e94;&#x7528;&#x4e8e;&#x4eba;&#x7c7b;&#x73a9;&#x5bb6;</English>
+		<English>&#x52a8;&#x6001;&#x6587;&#x660e;&#x547d;&#x540d;&#x4e0d;&#x5e94;&#x7528;&#x4e8e;&#x4eba;&#x7c7b;&#x73a9;&#x5bb6;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__EMPIREDEFAULTNAME_TEXT</Tag>
-		<English>&#x201c;&#x5e1d;&#x56fd;&#x201d;&#x9ed8;&#x8ba4;&#x540d;&#x79f0;</English>
+		<English>"&#x5e1d;&#x56fd;"&#x9ed8;&#x8ba4;&#x540d;&#x79f0;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_REVOLUTION__EMPIREDEFAULTNAME_HOVER</Tag>
-		<English>&#x4f7f;&#x7528;&#x201c;&#x963f;&#x59c6;&#x83b1;&#x7279;&#x5e1d;&#x56fd;&#x201d;&#x8fd9;&#x7c7b;&#x5f62;&#x5f0f;&#x7684;&#x9ed8;&#x8ba4;&#x540d;&#x79f0;&#xff0c;&#x800c;&#x975e;&#x201c;&#x963f;&#x59c6;&#x83b1;&#x7279;&#x5b66;&#x9662;&#x201d;</English>
+		<English>&#x91c7;&#x7528;"&#x963f;&#x59c6;&#x83b1;&#x7279;&#x5e1d;&#x56fd;"&#x8fd9;&#x7c7b;&#x9ed8;&#x8ba4;&#x540d;&#x79f0;&#xff0c;&#x800c;&#x975e;"&#x963f;&#x59c6;&#x83b1;&#x7279;&#x5b66;&#x9662;"</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_DNC_DISABLED_MULTIPLAYER</Tag>
-		<English>&#x52a8;&#x6001;&#x6587;&#x660e;&#x540d;&#x79f0;&#x5728;&#x591a;&#x4eba;&#x6e38;&#x620f;&#x4e2d;&#x88ab;&#x7981;&#x7528;</English>
+		<English>&#x591a;&#x4eba;&#x6e38;&#x620f;&#x4e2d;&#x7981;&#x7528;&#x52a8;&#x6001;&#x6587;&#x660e;&#x547d;&#x540d;</English>
 	</TEXT>
 </Civ4GameText>

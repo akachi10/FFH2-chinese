@@ -3,7 +3,7 @@
 <!-- MapScriptTools strings. -->
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_1_VOLCANO</Tag>
-		<English>Big Brothers' Doom</English>
+		<English>&#x8001;&#x5927;&#x54e5;&#x7684;&#x672b;&#x65e5;</English>
 		<French>Big Brothers' Doom</French>
 		<German>Big Brothers' Doom</German>
 		<Italian>Big Brothers' Doom</Italian>
@@ -11,7 +11,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_1_PEAK</Tag>
-		<English>The Big Brother</English>
+		<English>&#x8001;&#x5927;&#x54e5;&#x5cf0;</English>
 		<French>The Big Brother</French>
 		<German>The Big Brother</German>
 		<Italian>The Big Brother</Italian>
@@ -19,7 +19,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_1_FLAT</Tag>
-		<English>Watchers' Retreat</English>
+		<English>&#x5b88;&#x671b;&#x8005;&#x9690;&#x5c45;&#x5730;</English>
 		<French>Watchers' Retreat</French>
 		<German>Watchers' Retreat</German>
 		<Italian>Watchers' Retreat</Italian>
@@ -27,7 +27,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_1_WATER</Tag>
-		<English>Watchers' Pool</English>
+		<English>&#x5b88;&#x671b;&#x8005;&#x6c34;&#x6f6d;</English>
 		<French>Watchers' Pool</French>
 		<German>Watchers' Pool</German>
 		<Italian>Watchers' Pool</Italian>
@@ -35,7 +35,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_1_HILLS</Tag>
-		<English>Big Brother Range</English>
+		<English>&#x8001;&#x5927;&#x54e5;&#x5c71;&#x8109;</English>
 		<French>Big Brother Range</French>
 		<German>Big Brother Range</German>
 		<Italian>Big Brother Range</Italian>
@@ -43,7 +43,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_2_VOLCANO</Tag>
-		<English>Hole of the World</English>
+		<English>&#x4e16;&#x754c;&#x4e4b;&#x5b54;</English>
 		<French>Hole of the World</French>
 		<German>Hole of the World</German>
 		<Italian>Hole of the World</Italian>
@@ -51,7 +51,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_2_PEAK</Tag>
-		<English>The Big Dent</English>
+		<English>&#x5de8;&#x5751;&#x5cf0;</English>
 		<French>The Big Dent</French>
 		<German>The Big Dent</German>
 		<Italian>The Big Dent</Italian>
@@ -59,7 +59,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_2_FLAT</Tag>
-		<English>Hammers' Rest</English>
+		<English>&#x94c1;&#x9524;&#x61a9;&#x5730;</English>
 		<French>Hammers' Rest</French>
 		<German>Hammers' Rest</German>
 		<Italian>Hammers' Rest</Italian>
@@ -67,7 +67,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_2_WATER</Tag>
-		<English>Hole of the World</English>
+		<English>&#x4e16;&#x754c;&#x4e4b;&#x5b54;</English>
 		<French>Hole of the World</French>
 		<German>Hole of the World</German>
 		<Italian>Hole of the World</Italian>
@@ -75,7 +75,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_2_HILLS</Tag>
-		<English>Big Dent Highlands</English>
+		<English>&#x5de8;&#x5751;&#x9ad8;&#x5730;</English>
 		<French>Big Dent Highlands</French>
 		<German>Big Dent Highlands</German>
 		<Italian>Big Dent Highlands</Italian>
@@ -83,7 +83,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_3_VOLCANO</Tag>
-		<English>Roaring Spike</English>
+		<English>&#x5486;&#x54ee;&#x5c16;&#x5cf0;</English>
 		<French>Roaring Spike</French>
 		<German>Roaring Spike</German>
 		<Italian>Roaring Spike</Italian>
@@ -91,7 +91,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_3_PEAK</Tag>
-		<English>The Great Spine</English>
+		<English>&#x5de8;&#x810a;&#x5cf0;</English>
 		<French>The Great Spine</French>
 		<German>The Great Spine</German>
 		<Italian>The Great Spine</Italian>
@@ -99,7 +99,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_3_FLAT</Tag>
-		<English>Lost Valley</English>
+		<English>&#x5931;&#x843d;&#x8c37;&#x5730;</English>
 		<French>Lost Valley</French>
 		<German>Lost Valley</German>
 		<Italian>Lost Valley</Italian>
@@ -107,7 +107,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_3_WATER</Tag>
-		<English>Forgotten Hollow</English>
+		<English>&#x9057;&#x5fd8;&#x5e7d;&#x6d3c;</English>
 		<French>Forgotten Hollow</French>
 		<German>Forgotten Hollow</German>
 		<Italian>Forgotten Hollow</Italian>
@@ -115,7 +115,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_3_HILLS</Tag>
-		<English>Great Spinal Mountains</English>
+		<English>&#x5de8;&#x810a;&#x5c71;&#x8109;</English>
 		<French>Great Spinal Mountains</French>
 		<German>Great Spinal Mountains</German>
 		<Italian>Great Spinal Mountains</Italian>
@@ -123,7 +123,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_4_VOLCANO</Tag>
-		<English>Abyss Portal</English>
+		<English>&#x6df1;&#x6e0a;&#x4e4b;&#x95e8;</English>
 		<French>Abyss Portal</French>
 		<German>Abyss Portal</German>
 		<Italian>Abyss Portal</Italian>
@@ -131,7 +131,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_4_PEAK</Tag>
-		<English>Celestial Throne</English>
+		<English>&#x5929;&#x754c;&#x738b;&#x5ea7;</English>
 		<French>Celestial Throne</French>
 		<German>Celestial Throne</German>
 		<Italian>Celestial Throne</Italian>
@@ -139,7 +139,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_4_FLAT</Tag>
-		<English>Paradise Meadow</English>
+		<English>&#x4e50;&#x56ed;&#x8349;&#x7538;</English>
 		<French>Paradise Meadow</French>
 		<German>Paradise Meadow</German>
 		<Italian>Paradise Meadow</Italian>
@@ -147,7 +147,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_4_WATER</Tag>
-		<English>Divine Bath</English>
+		<English>&#x795e;&#x5723;&#x6d74;&#x6c60;</English>
 		<French>Divine Bath</French>
 		<German>Divine Bath</German>
 		<Italian>Divine Bath</Italian>
@@ -155,7 +155,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_4_HILLS</Tag>
-		<English>Celestial Belt</English>
+		<English>&#x5929;&#x754c;&#x4e4b;&#x5e26;</English>
 		<French>Celestial Belt</French>
 		<German>Celestial Belt</German>
 		<Italian>Celestial Belt</Italian>
@@ -163,7 +163,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_5_VOLCANO</Tag>
-		<English>Demon's Breath</English>
+		<English>&#x6076;&#x9b54;&#x4e4b;&#x606f;</English>
 		<French>Demon's Breath</French>
 		<German>Demon's Breath</German>
 		<Italian>Demon's Breath</Italian>
@@ -171,7 +171,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_5_PEAK</Tag>
-		<English>Roof of the World</English>
+		<English>&#x4e16;&#x754c;&#x4e4b;&#x5dc5;</English>
 		<French>Roof of the World</French>
 		<German>Roof of the World</German>
 		<Italian>Roof of the World</Italian>
@@ -179,7 +179,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_5_FLAT</Tag>
-		<English>Banshee's Playground</English>
+		<English>&#x5973;&#x5996;&#x6e38;&#x4e50;&#x573a;</English>
 		<French>Banshee's Playground</French>
 		<German>Banshee's Playground</German>
 		<Italian>Banshee's Playground</Italian>
@@ -187,7 +187,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_5_WATER</Tag>
-		<English>Devil's Pool</English>
+		<English>&#x9b54;&#x9b3c;&#x6c34;&#x6f6d;</English>
 		<French>Devil's Pool</French>
 		<German>Devil's Pool</German>
 		<Italian>Devil's Pool</Italian>
@@ -195,7 +195,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_5_HILLS</Tag>
-		<English>Howling Barrier</English>
+		<English>&#x568e;&#x53eb;&#x5c4f;&#x969c;</English>
 		<French>Howling Barrier</French>
 		<German>Howling Barrier</German>
 		<Italian>Howling Barrier</Italian>
@@ -203,7 +203,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_6_VOLCANO</Tag>
-		<English>Witches' Cauldron</English>
+		<English>&#x5973;&#x5deb;&#x4e4b;&#x91dc;</English>
 		<French>Witches' Cauldron</French>
 		<German>Witches' Cauldron</German>
 		<Italian>Witches' Cauldron</Italian>
@@ -211,7 +211,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_6_PEAK</Tag>
-		<English>Warlock's Hat</English>
+		<English>&#x672f;&#x58eb;&#x4e4b;&#x5e3d;</English>
 		<French>Warlock's Hat</French>
 		<German>Warlock's Hat</German>
 		<Italian>Warlock's Hat</Italian>
@@ -219,7 +219,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_6_FLAT</Tag>
-		<English>Fairies' Glen</English>
+		<English>&#x7cbe;&#x7075;&#x5e7d;&#x8c37;</English>
 		<French>Fairies' Glen</French>
 		<German>Fairies' Glen</German>
 		<Italian>Fairies' Glen</Italian>
@@ -227,7 +227,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_6_WATER</Tag>
-		<English>Satyr's Lake</English>
+		<English>&#x8428;&#x63d0;&#x5c14;&#x4e4b;&#x6e56;</English>
 		<French>Satyr's Lake</French>
 		<German>Satyr's Lake</German>
 		<Italian>Satyr's Lake</Italian>
@@ -235,7 +235,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_6_HILLS</Tag>
-		<English>Wizard's Mountains</English>
+		<English>&#x5deb;&#x5e08;&#x5c71;&#x8109;</English>
 		<French>Wizard's Mountains</French>
 		<German>Wizard's Mountains</German>
 		<Italian>Wizard's Mountains</Italian>
@@ -243,7 +243,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_PLANETFALL_VOLCANO</Tag>
-		<English>Smoker</English>
+		<English>&#x5192;&#x70df;&#x8005;</English>
 		<French>Smoker</French>
 		<German>Smoker</German>
 		<Italian>Smoker</Italian>
@@ -251,7 +251,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_PLANETFALL_PEAK</Tag>
-		<English>Highest Ridges</English>
+		<English>&#x81f3;&#x9ad8;&#x5c71;&#x810a;</English>
 		<French>Highest Ridges</French>
 		<German>Highest Ridges</German>
 		<Italian>Highest Ridges</Italian>
@@ -259,7 +259,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_PLANETFALL_FLAT</Tag>
-		<English>Murphy's Folly</English>
+		<English>&#x58a8;&#x83f2;&#x7684;&#x8822;&#x5730;</English>
 		<French>Murphy's Folly</French>
 		<German>Murphy's Folly</German>
 		<Italian>Murphy's Folly</Italian>
@@ -267,7 +267,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_PLANETFALL_WATER</Tag>
-		<English>Alpha Pocket</English>
+		<English>&#x963f;&#x5c14;&#x6cd5;&#x6d3c;&#x5730;</English>
 		<French>Alpha Pocket</French>
 		<German>Alpha Pocket</German>
 		<Italian>Alpha Pocket</Italian>
@@ -275,7 +275,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_PLANETFALL_HILLS</Tag>
-		<English>Sid's Highlands</English>
+		<English>&#x5e2d;&#x5fb7;&#x9ad8;&#x5730;</English>
 		<French>Sid's Highlands</French>
 		<German>Sid's Highlands</German>
 		<Italian>Sid's Highlands</Italian>
@@ -283,7 +283,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_MARSNOW_VOLCANO</Tag>
-		<English>Martian Glow</English>
+		<English>&#x706b;&#x661f;&#x8f89;&#x5149;</English>
 		<French>Martian Glow</French>
 		<German>Martian Glow</German>
 		<Italian>Martian Glow</Italian>
@@ -291,7 +291,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_MARSNOW_PEAK</Tag>
-		<English>Olympus Mons</English>
+		<English>&#x5965;&#x6797;&#x5e15;&#x65af;&#x5c71;</English>
 		<French>Olympus Mons</French>
 		<German>Olympus Mons</German>
 		<Italian>Olympus Mons</Italian>
@@ -299,7 +299,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_MARSNOW_FLAT</Tag>
-		<English>Collin's Folly</English>
+		<English>&#x67ef;&#x6797;&#x7684;&#x8822;&#x5730;</English>
 		<French>Collin's Folly</French>
 		<German>Collin's Folly</German>
 		<Italian>Collin's Folly</Italian>
@@ -307,7 +307,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_MARSNOW_WATER</Tag>
-		<English>Aldrin's Drink</English>
+		<English>&#x5965;&#x5c14;&#x5fb7;&#x6797;&#x4e4b;&#x996e;</English>
 		<French>Aldrin's Drink</French>
 		<German>Aldrin's Drink</German>
 		<Italian>Aldrin's Drink</Italian>
@@ -315,7 +315,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_DENT_MARSNOW_HILLS</Tag>
-		<English>Armstrong's Hurdle</English>
+		<English>&#x963f;&#x59c6;&#x65af;&#x7279;&#x6717;&#x4e4b;&#x969c;</English>
 		<French>Armstrong's Hurdle</French>
 		<German>Armstrong's Hurdle</German>
 		<Italian>Armstrong's Hurdle</Italian>
@@ -323,7 +323,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_1_LAKE</Tag>
-		<English>Big Bog Lake</English>
+		<English>&#x5927;&#x6ce5;&#x6cbc;&#x6e56;</English>
 		<French>Big Bog Lake</French>
 		<German>Big Bog Lake</German>
 		<Italian>Big Bog Lake</Italian>
@@ -331,7 +331,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_1_LAND</Tag>
-		<English>The Big Bog</English>
+		<English>&#x5927;&#x6ce5;&#x6cbc;</English>
 		<French>The Big Bog</French>
 		<German>The Big Bog</German>
 		<Italian>The Big Bog</Italian>
@@ -339,7 +339,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_2_LAKE</Tag>
-		<English>Darkwater Basin</English>
+		<English>&#x9ed1;&#x6c34;&#x76c6;&#x5730;</English>
 		<French>Darkwater Basin</French>
 		<German>Darkwater Basin</German>
 		<Italian>Darkwater Basin</Italian>
@@ -347,7 +347,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_2_LAND</Tag>
-		<English>Darkwater Moor</English>
+		<English>&#x9ed1;&#x6c34;&#x8352;&#x91ce;</English>
 		<French>Darkwater Moor</French>
 		<German>Darkwater Moor</German>
 		<Italian>Darkwater Moor</Italian>
@@ -355,7 +355,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_3_LAKE</Tag>
-		<English>Dregmoor</English>
+		<English>&#x6e23;&#x6ed3;&#x6cbc;&#x6cfd;</English>
 		<French>Dregmoor</French>
 		<German>Dregmoor</German>
 		<Italian>Dregmoor</Italian>
@@ -363,7 +363,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_3_LAND</Tag>
-		<English>Dregmarsh</English>
+		<English>&#x6e23;&#x6ed3;&#x6e7f;&#x5730;</English>
 		<French>Dregmarsh</French>
 		<German>Dregmarsh</German>
 		<Italian>Dregmarsh</Italian>
@@ -371,7 +371,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_4_LAKE</Tag>
-		<English>Lantern Lake</English>
+		<English>&#x706f;&#x7b3c;&#x6e56;</English>
 		<French>Lantern Lake</French>
 		<German>Lantern Lake</German>
 		<Italian>Lantern Lake</Italian>
@@ -379,7 +379,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_4_LAND</Tag>
-		<English>Lanternmoor</English>
+		<English>&#x706f;&#x7b3c;&#x8352;&#x91ce;</English>
 		<French>Lanternmoor</French>
 		<German>Lanternmoor</German>
 		<Italian>Lanternmoor</Italian>
@@ -387,7 +387,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_DEFAULT_1</Tag>
-		<English>Niflheim</English>
+		<English>&#x5c3c;&#x5f17;&#x5c14;&#x6d77;&#x59c6;</English>
 		<French>Niflheim</French>
 		<German>Niflheim</German>
 		<Italian>Niflheim</Italian>
@@ -395,7 +395,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_DEFAULT_2</Tag>
-		<English>Atlantis</English>
+		<English>&#x4e9a;&#x7279;&#x5170;&#x8482;&#x65af;</English>
 		<French>Atlantis</French>
 		<German>Atlantis</German>
 		<Italian>Atlantis</Italian>
@@ -403,7 +403,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_DEFAULT_3</Tag>
-		<English>Numenor</English>
+		<English>&#x52aa;&#x95e8;&#x8bfa;&#x5c14;</English>
 		<French>Numenor</French>
 		<German>Numenor</German>
 		<Italian>Numenor</Italian>
@@ -411,7 +411,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_DEFAULT_4</Tag>
-		<English>Minos</English>
+		<English>&#x7c73;&#x8bfa;&#x65af;</English>
 		<French>Minos</French>
 		<German>Minos</German>
 		<Italian>Minos</Italian>
@@ -419,7 +419,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_DEFAULT_5</Tag>
-		<English>Rillanon</English>
+		<English>&#x745e;&#x62c9;&#x519c;</English>
 		<French>Rillanon</French>
 		<German>Rillanon</German>
 		<Italian>Rillanon</Italian>
@@ -427,7 +427,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_DEFAULT_6</Tag>
-		<English>Ensligholm</English>
+		<English>&#x6069;&#x65af;&#x5229;&#x970d;&#x5c14;&#x59c6;</English>
 		<French>Ensligholm</French>
 		<German>Ensligholm</German>
 		<Italian>Ensligholm</Italian>
@@ -435,7 +435,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_PLANETFALL_1</Tag>
-		<English>Alien HQ</English>
+		<English>&#x5916;&#x661f;&#x4eba;&#x603b;&#x90e8;</English>
 		<French>Alien HQ</French>
 		<German>Alien HQ</German>
 		<Italian>Alien HQ</Italian>
@@ -443,7 +443,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_PLANETFALL_2</Tag>
-		<English>Command Center</English>
+		<English>&#x6307;&#x6325;&#x4e2d;&#x5fc3;</English>
 		<French>Command Center</French>
 		<German>Command Center</German>
 		<Italian>Command Center</Italian>
@@ -451,7 +451,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_PLANETFALL_3</Tag>
-		<English>City of Light</English>
+		<English>&#x5149;&#x660e;&#x4e4b;&#x57ce;</English>
 		<French>City of Light</French>
 		<German>City of Light</German>
 		<Italian>City of Light</Italian>
@@ -459,7 +459,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_PLANETFALL_4</Tag>
-		<English>Atlantis Command</English>
+		<English>&#x4e9a;&#x7279;&#x5170;&#x8482;&#x65af;&#x6307;&#x6325;&#x90e8;</English>
 		<French>Atlantis Command</French>
 		<German>Atlantis Command</German>
 		<Italian>Atlantis Command</Italian>
@@ -467,7 +467,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_PLANETFALL_5</Tag>
-		<English>Isle of Delanira</English>
+		<English>&#x5fb7;&#x62c9;&#x5c3c;&#x62c9;&#x5c9b;</English>
 		<French>Isle of Delanira</French>
 		<German>Isle of Delanira</German>
 		<Italian>Isle of Delanira</Italian>
@@ -475,7 +475,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_PLANETFALL_6</Tag>
-		<English>Island of Dexamenus</English>
+		<English>&#x5fb7;&#x514b;&#x8428;&#x6885;&#x52aa;&#x65af;&#x5c9b;</English>
 		<French>Island of Dexamenus</French>
 		<German>Island of Dexamenus</German>
 		<Italian>Island of Dexamenus</Italian>
@@ -483,7 +483,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_MARSNOW_4</Tag>
-		<English>Forerunners' Station</English>
+		<English>&#x5148;&#x9a71;&#x8005;&#x7ad9;</English>
 		<French>Forerunners' Station</French>
 		<German>Forerunners' Station</German>
 		<Italian>Forerunners' Station</Italian>
@@ -491,7 +491,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_MARSNOW_5</Tag>
-		<English>Ancients' Retreat</English>
+		<English>&#x4e0a;&#x53e4;&#x8005;&#x9690;&#x5c45;&#x5730;</English>
 		<French>Ancients' Retreat</French>
 		<German>Ancients' Retreat</German>
 		<Italian>Ancients' Retreat</Italian>
@@ -499,7 +499,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_MARSNOW_6</Tag>
-		<English>Precursor's Dwellings</English>
+		<English>&#x5148;&#x6c11;&#x5c45;&#x6240;</English>
 		<French>Precursor's Dwellings</French>
 		<German>Precursor's Dwellings</German>
 		<Italian>Precursor's Dwellings</Italian>
@@ -507,7 +507,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_MARSNOW_7</Tag>
-		<English>Old Martian Ruins</English>
+		<English>&#x53e4;&#x706b;&#x661f;&#x9057;&#x8ff9;</English>
 		<French>Old Martian Ruins</French>
 		<German>Old Martian Ruins</German>
 		<Italian>Old Martian Ruins</Italian>
@@ -516,7 +516,7 @@
 <!-- MapScript descriptions. -->
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_ARCHIPELAGO_DESCR</Tag>
-		<English>The ultimate water map for Civilization IV. Powerful navies not optional!</English>
+		<English>&#x300a;&#x6587;&#x660e;IV&#x300b;&#x7ec8;&#x6781;&#x6c34;&#x57df;&#x5730;&#x56fe;&#x3002;&#x5f3a;&#x5927;&#x7684;&#x6d77;&#x519b;&#x5e76;&#x975e;&#x53ef;&#x6709;&#x53ef;&#x65e0;&#xff01;</English>
 		<French>La carte marine par excellence pour Civilization IV. Il faudra une flotte puissante !</French>
 		<German>Die ultimative Wasserkarte f&#252;r Civilization IV. Schlagkr&#228;ftige Marineflotten sind hier ein Muss!</German>
 		<Italian>La mappa acquatica definitiva di Civilization IV: una potente flotta navale &#232; d'obbligo!</Italian>
@@ -524,7 +524,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_EARTH3_DESCR</Tag>
-		<English>Derivative map generator that simulates a randomized Earth.</English>
+		<English>&#x6a21;&#x62df;&#x968f;&#x673a;&#x5316;&#x5730;&#x7403;&#x7684;&#x884d;&#x751f;&#x5730;&#x56fe;&#x751f;&#x6210;&#x5668;&#x3002;</English>
 		<French>Derivative map generator that simulates a randomized Earth.</French>
 		<German>Derivative map generator that simulates a randomized Earth.</German>
 		<Italian>Derivative map generator that simulates a randomized Earth.</Italian>
@@ -532,7 +532,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_EREBUS_DESCR</Tag>
-		<English>Random map that creates a region of a fantasy type world where much of the world is unknown and irrelevant. It allows terrain to be created on a smaller, more detailed scale than planetary maps.</English>
+		<English>&#x968f;&#x673a;&#x5730;&#x56fe;&#xff0c;&#x751f;&#x6210;&#x4e00;&#x7247;&#x5947;&#x5e7b;&#x4e16;&#x754c;&#x7684;&#x533a;&#x57df;&#xff0c;&#x4e16;&#x754c;&#x7684;&#x5927;&#x90e8;&#x5206;&#x672a;&#x77e5;&#x4e14;&#x65e0;&#x5173;&#x7d27;&#x8981;&#x3002;&#x5b83;&#x5141;&#x8bb8;&#x4ee5;&#x6bd4;&#x884c;&#x661f;&#x7ea7;&#x5730;&#x56fe;&#x66f4;&#x5c0f;&#x3001;&#x66f4;&#x7cbe;&#x7ec6;&#x7684;&#x5c3a;&#x5ea6;&#x751f;&#x6210;&#x5730;&#x5f62;&#x3002;</English>
 		<French>Random map that creates a region of a fantasy type world where much of the world is unknown and irrelevant. It allows terrain to be created on a smaller, more detailed scale than planetary maps.</French>
 		<German>Random map that creates a region of a fantasy type world where much of the world is unknown and irrelevant. It allows terrain to be created on a smaller, more detailed scale than planetary maps.</German>
 		<Italian>Random map that creates a region of a fantasy type world where much of the world is unknown and irrelevant. It allows terrain to be created on a smaller, more detailed scale than planetary maps.</Italian>
@@ -540,7 +540,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_FRACTURED_WORLD_DESCR</Tag>
-		<English>Evolving plate tectonics map. When the eons come and go, the world slowly changes as the continents drift and break apart, and new islands are created that may be driven into the continents.</English>
+		<English>&#x6f14;&#x5316;&#x7684;&#x677f;&#x5757;&#x6784;&#x9020;&#x5730;&#x56fe;&#x3002;&#x968f;&#x7740;&#x7eaa;&#x5143;&#x6765;&#x53bb;&#xff0c;&#x5927;&#x9646;&#x6f02;&#x79fb;&#x3001;&#x65ad;&#x88c2;&#xff0c;&#x4e16;&#x754c;&#x7f13;&#x6162;&#x6539;&#x53d8;&#xff0c;&#x5e76;&#x751f;&#x6210;&#x53ef;&#x80fd;&#x88ab;&#x63a8;&#x5411;&#x5927;&#x9646;&#x7684;&#x65b0;&#x5c9b;&#x5c7f;&#x3002;</English>
 		<French>Evolving plate tectonics map. When the eons come and go, the world slowly changes as the continents drift and break apart, and new islands are created that may be driven into the continents.</French>
 		<German>Evolving plate tectonics map. When the eons come and go, the world slowly changes as the continents drift and break apart, and new islands are created that may be driven into the continents.</German>
 		<Italian>Evolving plate tectonics map. When the eons come and go, the world slowly changes as the continents drift and break apart, and new islands are created that may be driven into the continents.</Italian>
@@ -548,7 +548,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_INLAND_SEA_DESCR</Tag>
-		<English>A large sea inhabits the center, surrounded by a thick ring of land.</English>
+		<English>&#x4e00;&#x7247;&#x5927;&#x6d77;&#x5c45;&#x4e8e;&#x4e2d;&#x592e;&#xff0c;&#x56db;&#x5468;&#x88ab;&#x539a;&#x539a;&#x7684;&#x9646;&#x5730;&#x73af;&#x5e26;&#x5305;&#x56f4;&#x3002;</English>
 		<French>Un vaste oc&#233;an central est entour&#233; d'un large anneau de terre.</French>
 		<German>In der Mitte dieser Karte befindet sich ein gro&#223;es Meer, das von einem dicken Landring umschlossen ist.</German>
 		<Italian>Un ampio mare riempie il centro della mappa, circondato da uno spesso anello di terra.</Italian>
@@ -556,7 +556,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_MEDIUM_AND_SMALL_DESCR</Tag>
-		<English>Realistic world with highly random landmasses medium and small. East and west hemispheres are divided by ocean, although rarely an island chain may connect them.</English>
+		<English>&#x9ad8;&#x5ea6;&#x968f;&#x673a;&#x7684;&#x4e2d;&#x5c0f;&#x578b;&#x9646;&#x5757;&#x6784;&#x6210;&#x7684;&#x771f;&#x5b9e;&#x4e16;&#x754c;&#x3002;&#x4e1c;&#x897f;&#x534a;&#x7403;&#x88ab;&#x6d77;&#x6d0b;&#x5206;&#x9694;&#xff0c;&#x5c3d;&#x7ba1;&#x5076;&#x5c14;&#x53ef;&#x80fd;&#x6709;&#x4e00;&#x6761;&#x5c9b;&#x94fe;&#x5c06;&#x5b83;&#x4eec;&#x76f8;&#x8fde;&#x3002;</English>
 		<French>Monde r&#233;aliste constitu&#233; de continents dont la taille varie de petite &#224; moyenne. Les h&#233;misph&#232;res est et ouest sont s&#233;par&#233;s par un oc&#233;an et peuvent parfois &#234;tre reli&#233;s par un archipel.</French>
 		<German>Realistische Welt mit zufällig verteilten mittleren und kleinen Landmassen. Osten und Westen sind durch einen Ozean getrennt, allerdings werden sie an ein paar seltenen Stellen durch Inselketten verbunden.</German>
 		<Italian>Un mondo realistico con territori casuali piccoli e medi. Gli emisferi orientale e occidentale sono separati dall'oceano, anche se sporadicamente può comparire un'isola che li collega.</Italian>
@@ -564,7 +564,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_PANGAEA_DESCR</Tag>
-		<English>Pan-Gaia: "One Earth," a massive single continent.</English>
+		<English>&#x6cdb;&#x76d6;&#x4e9a;&#xff1a;&#x201c;&#x540c;&#x4e00;&#x4e2a;&#x5730;&#x7403;&#x201d;&#xff0c;&#x4e00;&#x5757;&#x5de8;&#x5927;&#x7684;&#x5355;&#x4e00;&#x5927;&#x9646;&#x3002;</English>
 		<French>Pan-Gaia: "Une terre", un seul et &#233;norme continent.</French>
 		<German>Pang&#228;a: "Eine Erde", ein einziger gewaltiger Kontinent.</German>
 		<Italian>Pan-Gaia: "Una terra", un enorme continente.</Italian>
@@ -572,7 +572,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_PERFECT_WORLD_DESCR</Tag>
-		<English>Random map that simulates earth-like plate tectonics, geostrophic and monsoon winds and rainfall.</English>
+		<English>&#x968f;&#x673a;&#x5730;&#x56fe;&#xff0c;&#x6a21;&#x62df;&#x7c7b;&#x5730;&#x7684;&#x677f;&#x5757;&#x6784;&#x9020;&#x3001;&#x5730;&#x8f6c;&#x98ce;&#x4e0e;&#x5b63;&#x98ce;&#x53ca;&#x964d;&#x96e8;&#x3002;</English>
 		<French>Random map that simulates earth-like plate tectonics, geostrophic and monsoon winds and rainfall.</French>
 		<German>Random map that simulates earth-like plate tectonics, geostrophic and monsoon winds and rainfall.</German>
 		<Italian>Random map that simulates earth-like plate tectonics, geostrophic and monsoon winds and rainfall.</Italian>
@@ -580,7 +580,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_RANDOM_DESCR</Tag>
-		<English>Map script which allows to randomly select a map script between Earth3, Erebus, Fractured World, Inland Sea, Medium and Small, PlanetFall, Sea Highlands and Tectonics.</English>
+		<English>&#x5730;&#x56fe;&#x811a;&#x672c;&#xff0c;&#x53ef;&#x5728; Earth3&#x3001;Erebus&#x3001;Fractured World&#x3001;Inland Sea&#x3001;Medium and Small&#x3001;PlanetFall&#x3001;Sea Highlands &#x548c; Tectonics &#x4e4b;&#x95f4;&#x968f;&#x673a;&#x9009;&#x53d6;&#x4e00;&#x4e2a;&#x5730;&#x56fe;&#x811a;&#x672c;&#x3002;</English>
 		<French>Map script which allows to randomly select a map script between Earth3, Erebus, Fractured World, Inland Sea, Medium and Small, PlanetFall, Sea Highlands and Tectonics.</French>
 		<German>Map script which allows to randomly select a map script between Earth3, Erebus, Fractured World, Inland Sea, Medium and Small, PlanetFall, Sea Highlands and Tectonics.</German>
 		<Italian>Map script which allows to randomly select a map script between Earth3, Erebus, Fractured World, Inland Sea, Medium and Small, PlanetFall, Sea Highlands and Tectonics.</Italian>
@@ -588,7 +588,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_RING_WORLD_DESCR</Tag>
-		<English>Random map based on Larry Niven's famous 'Ringworld' novel. It creates a thin (16 tiles wide) but long map with artificial landmasses and climate.</English>
+		<English>&#x57fa;&#x4e8e;&#x62c9;&#x91cc;&#xb7;&#x5c3c;&#x6587;&#x8457;&#x540d;&#x5c0f;&#x8bf4;&#x300a;&#x73af;&#x5f62;&#x4e16;&#x754c;&#x300b;&#x7684;&#x968f;&#x673a;&#x5730;&#x56fe;&#x3002;&#x5b83;&#x751f;&#x6210;&#x4e00;&#x5f20;&#x72ed;&#x7a84;&#xff08;16 &#x683c;&#x5bbd;&#xff09;&#x4f46;&#x5f88;&#x957f;&#x7684;&#x5730;&#x56fe;&#xff0c;&#x5e26;&#x6709;&#x4eba;&#x9020;&#x9646;&#x5757;&#x4e0e;&#x6c14;&#x5019;&#x3002;</English>
 		<French>Random map based on Larry Niven's famous 'Ringworld' novel. It creates a thin (16 tiles wide) but long map with artificial landmasses and climate.</French>
 		<German>Random map based on Larry Niven's famous 'Ringworld' novel. It creates a thin (16 tiles wide) but long map with artificial landmasses and climate.</German>
 		<Italian>Random map based on Larry Niven's famous 'Ringworld' novel. It creates a thin (16 tiles wide) but long map with artificial landmasses and climate.</Italian>
@@ -596,7 +596,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_SEA_HIGHLANDS_DESCR</Tag>
-		<English>Highlands, valleys and mountain ranges with several bigger lakes.</English>
+		<English>&#x9ad8;&#x5730;&#x3001;&#x8c37;&#x5730;&#x4e0e;&#x5c71;&#x8109;&#xff0c;&#x5e76;&#x6709;&#x82e5;&#x5e72;&#x8f83;&#x5927;&#x7684;&#x6e56;&#x6cca;&#x3002;</English>
 		<French>Highlands, valleys and mountain ranges with several bigger lakes.</French>
 		<German>Highlands, valleys and mountain ranges with several bigger lakes.</German>
 		<Italian>Highlands, valleys and mountain ranges with several bigger lakes.</Italian>
@@ -604,7 +604,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_TECTONICS_DESCR</Tag>
-		<English>Produces mountain ranges, and simulates plate tectonics, giving more realistic/earthlike terrain (mountain ranges, mountains near coasts like the Andes, or between subcontinents like the Himalaia).</English>
+		<English>&#x751f;&#x6210;&#x5c71;&#x8109;&#xff0c;&#x5e76;&#x6a21;&#x62df;&#x677f;&#x5757;&#x6784;&#x9020;&#xff0c;&#x5e26;&#x6765;&#x66f4;&#x771f;&#x5b9e;/&#x7c7b;&#x5730;&#x7684;&#x5730;&#x5f62;&#xff08;&#x5c71;&#x8109;&#x3001;&#x5982;&#x5b89;&#x7b2c;&#x65af;&#x5c71;&#x822c;&#x9760;&#x8fd1;&#x6d77;&#x5cb8;&#x7684;&#x5c71;&#x5cf0;&#xff0c;&#x6216;&#x5982;&#x559c;&#x9a6c;&#x62c9;&#x96c5;&#x822c;&#x4f4d;&#x4e8e;&#x6b21;&#x5927;&#x9646;&#x4e4b;&#x95f4;&#x7684;&#x5c71;&#x5cf0;&#xff09;&#x3002;</English>
 		<French>Crée des chaînes de montagne et simule la tectonique des plaques, pour un terrain plus réaliste et plus semblable à la Terre (chaînes de montagne, montagnes à proximité des côtes comme les Andes, ou entre différents sous-continents comme l'Himalaya).</French>
 		<German>Erstellt Bergketten und simuliert Plattentektonik für realistischeres/irdischeres Gelände (wie Bergketten, Berge in Küstennähe, wie etwa die Anden, oder zwischen Subkontinenten, wie etwa der Himalaja).</German>
 		<Italian>Produce catene montuose e simula la tettonica a placche fornendo un territorio più realistico e simile a quello della Terra (montagne costiere come le Ande oppure tra subcontinenti come l'Himalaya).</Italian>
@@ -612,7 +612,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_TERRA_DESCR</Tag>
-		<English>Terra generates random land masses similar to those of the planet Earth. All players begin in the Old World. These maps are extra large!</English>
+		<English>Terra &#x751f;&#x6210;&#x4e0e;&#x5730;&#x7403;&#x76f8;&#x4f3c;&#x7684;&#x968f;&#x673a;&#x9646;&#x5757;&#x3002;&#x6240;&#x6709;&#x73a9;&#x5bb6;&#x90fd;&#x4ece;&#x65e7;&#x4e16;&#x754c;&#x5f00;&#x59cb;&#x3002;&#x8fd9;&#x4e9b;&#x5730;&#x56fe;&#x683c;&#x5916;&#x5de8;&#x5927;&#xff01;</English>
 		<French>Des continents similaires &#224; ceux de la Terre sont cr&#233;&#233;s al&#233;atoirement. Tous les joueurs commencent dans l'Antiquit&#233;. Ces cartes sont immenses !</French>
 		<German>Terra generiert zuf&#228;llige Landfl&#228;chen, &#228;hnlich wie die auf dem Planeten Erde. Alle Spieler beginnen zun&#228;chst in der Alten Welt. Diese Kartenvarianten sind besonders gro&#223;!</German>
 		<Italian>Terra genera delle masse terrestri casuali simili a quelle del nostro pianeta. Tutti i giocatori iniziano nel Vecchio Mondo. Queste mappe sono grandissime!</Italian>
@@ -621,7 +621,7 @@
 <!-- General MapScript options. -->
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_WORLD_WRAP</Tag>
-		<English>World Wrap</English>
+		<English>&#x4e16;&#x754c;&#x73af;&#x7ed5;</English>
 		<French>Globe terrestre</French>
 		<German>Weltkugeldrehung</German>
 		<Italian>Estensione del pianeta</Italian>
@@ -629,7 +629,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_WORLD_WRAP_FLAT</Tag>
-		<English>Flat (No wrap)</English>
+		<English>&#x5e73;&#x9762;&#xff08;&#x65e0;&#x73af;&#x7ed5;&#xff09;</English>
 		<French>Plat (No wrap)</French>
 		<German>Flach (No wrap)</German>
 		<Italian>Piatto (No wrap)</Italian>
@@ -637,7 +637,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_WORLD_WRAP_CYLINDRICAL</Tag>
-		<English>Cylindrical (Horizontal wrap)</English>
+		<English>&#x67f1;&#x9762;&#xff08;&#x6c34;&#x5e73;&#x73af;&#x7ed5;&#xff09;</English>
 		<French>Cylindrique (Horizontal wrap)</French>
 		<German>Zylindrisch (Horizontal wrap)</German>
 		<Italian>Cilindrico (Horizontal wrap)</Italian>
@@ -645,7 +645,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_WORLD_WRAP_TUBULAR</Tag>
-		<English>Tubular (Vertical wrap)</English>
+		<English>&#x7ba1;&#x72b6;&#xff08;&#x5782;&#x76f4;&#x73af;&#x7ed5;&#xff09;</English>
 		<French>Tubular (Vertical wrap)</French>
 		<German>Tubular (Vertical wrap)</German>
 		<Italian>Tubular (Vertical wrap)</Italian>
@@ -653,7 +653,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_WORLD_WRAP_TOROIDAL</Tag>
-		<English>Toroidal (Complete wrap)</English>
+		<English>&#x73af;&#x9762;&#xff08;&#x5b8c;&#x5168;&#x73af;&#x7ed5;&#xff09;</English>
 		<French>Toro&#239;dal (Complete wrap)</French>
 		<German>Ringf&#246;rmig (Complete wrap)</German>
 		<Italian>Toroidale (Complete wrap)</Italian>
@@ -661,7 +661,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_COASTS</Tag>
-		<English>Coasts</English>
+		<English>&#x6d77;&#x5cb8;</English>
 		<French>Coasts</French>
 		<German>Coasts</German>
 		<Italian>Coasts</Italian>
@@ -669,7 +669,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_COASTS_STANDARD</Tag>
-		<English>Standard</English>
+		<English>&#x6807;&#x51c6;</English>
 		<French>Standard</French>
 		<German>Standard</German>
 		<Italian>Standard</Italian>
@@ -677,7 +677,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_COASTS_EXPANDED</Tag>
-		<English>Expanded</English>
+		<English>&#x6269;&#x5c55;</English>
 		<French>Expanded</French>
 		<German>Expanded</German>
 		<Italian>Expanded</Italian>
@@ -685,7 +685,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_TEAM_START</Tag>
-		<English>Team Start</English>
+		<English>&#x56e2;&#x961f;&#x8d77;&#x59cb;</English>
 		<French>Team Start</French>
 		<German>Team Start</German>
 		<Italian>Team Start</Italian>
@@ -693,7 +693,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_TEAM_START_NEIGHBORS</Tag>
-		<English>Neighbors</English>
+		<English>&#x76f8;&#x90bb;</English>
 		<French>Neighbors</French>
 		<German>Neighbors</German>
 		<Italian>Neighbors</Italian>
@@ -701,7 +701,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_TEAM_START_SEPARATED</Tag>
-		<English>Separated</English>
+		<English>&#x5206;&#x9694;</English>
 		<French>Separated</French>
 		<German>Separated</German>
 		<Italian>Separated</Italian>
@@ -709,7 +709,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_TEAM_START_RANDOM</Tag>
-		<English>Random</English>
+		<English>&#x968f;&#x673a;</English>
 		<French>Random</French>
 		<German>Random</German>
 		<Italian>Random</Italian>
@@ -717,7 +717,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_MARS_THEME</Tag>
-		<English>Mars Theme</English>
+		<English>&#x706b;&#x661f;&#x4e3b;&#x9898;</English>
 		<French>Mars Theme</French>
 		<German>Mars Theme</German>
 		<Italian>Mars Theme</Italian>
@@ -725,7 +725,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_MARS_THEME_SANDS_OF_MARS</Tag>
-		<English>Sands of Mars</English>
+		<English>&#x706b;&#x661f;&#x4e4b;&#x6c99;</English>
 		<French>Sands of Mars</French>
 		<German>Sands of Mars</German>
 		<Italian>Sands of Mars</Italian>
@@ -733,7 +733,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_MARS_THEME_TERRAFORMED_MARS</Tag>
-		<English>Terraformed Mars</English>
+		<English>&#x6539;&#x9020;&#x540e;&#x7684;&#x706b;&#x661f;</English>
 		<French>Terraformed Mars</French>
 		<German>Terraformed Mars</German>
 		<Italian>Terraformed Mars</Italian>
@@ -741,7 +741,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RESOURCES</Tag> <!-- TXT_KEY_CONCEPT_RESOURCES -->
-		<English>Resources</English>
+		<English>&#x8d44;&#x6e90;</English>
 		<French>
 			<Text>Ressources</Text>
 			<Gender>Female</Gender>
@@ -765,7 +765,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RESOURCES_STANDARD</Tag>
-		<English>Standard</English>
+		<English>&#x6807;&#x51c6;</English>
 		<French>
 			<Text>Normal</Text>
 			<Gender>Male</Gender>
@@ -789,7 +789,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RESOURCES_BALANCED</Tag>
-		<English>Balanced</English>
+		<English>&#x5e73;&#x8861;</English>
 		<French>Equilibr&#233;</French>
 		<German>Ausgewogen</German>
 		<Italian>Bilanciato</Italian>
@@ -798,7 +798,7 @@
 <!-- Archipelago options. -->
 	<TEXT>
 		<Tag>TXT_KEY_MAP_ARCHIPELAGO_LANDMASS_TYPE</Tag>
-		<English>Landmass Type</English>
+		<English>&#x9646;&#x5757;&#x7c7b;&#x578b;</English>
 		<French>Type continents</French>
 		<German>Landmassentyp</German>
 		<Italian>Tipo massa terra</Italian>
@@ -806,7 +806,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_ARCHIPELAGO_LANDMASS_SNAKY</Tag>
-		<English>Snaky Continents</English>
+		<English>&#x86c7;&#x5f62;&#x5927;&#x9646;</English>
 		<French>Continents sinueux</French>
 		<German>Gewundene Kontinente</German>
 		<Italian>Continenti tortuosi</Italian>
@@ -814,7 +814,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_ARCHIPELAGO_LANDMASS_ARCHIPELAGO</Tag>
-		<English>Archipelago</English>
+		<English>&#x7fa4;&#x5c9b;</English>
 		<French>Archipel</French>
 		<German>Archipel</German>
 		<Italian>Arcipelago</Italian>
@@ -822,7 +822,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_ARCHIPELAGO_LANDMASS_TINY_ISLANDS</Tag>
-		<English>Tiny Islands</English>
+		<English>&#x5fae;&#x5c0f;&#x5c9b;&#x5c7f;</English>
 		<French>Ilots</French>
 		<German>Winzige Inseln</German>
 		<Italian>Isole minuscole</Italian>
@@ -832,7 +832,7 @@
 <!-- Earth3 options. -->
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EARTH3_REGIONS</Tag>
-		<English>Map regions</English>
+		<English>&#x5730;&#x56fe;&#x533a;&#x57df;</English>
 		<French>Map regions</French>
 		<German>Map regions</German>
 		<Italian>Map regions</Italian>
@@ -840,7 +840,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EARTH3_REGIONS_NORMAL</Tag>
-		<English>Normal Earth</English>
+		<English>&#x666e;&#x901a;&#x5730;&#x7403;</English>
 		<French>Normal Earth</French>
 		<German>Normal Earth</German>
 		<Italian>Normal Earth</Italian>
@@ -848,7 +848,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EARTH3_REGIONS_SPECIAL</Tag>
-		<English>Special regions</English>
+		<English>&#x7279;&#x6b8a;&#x533a;&#x57df;</English>
 		<French>Special regions</French>
 		<German>Special regions</German>
 		<Italian>Special regions</Italian>
@@ -857,7 +857,7 @@
 <!-- Erebus options. -->
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EREBUS_MOUNTAINS</Tag>
-		<English>Mountains</English>
+		<English>&#x5c71;&#x8109;</English>
 		<French>Mountains</French>
 		<German>Mountains</German>
 		<Italian>Mountains</Italian>
@@ -865,7 +865,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EREBUS_MOUNTAINS_NO_SOFTENING</Tag>
-		<English>No softening</English>
+		<English>&#x4e0d;&#x67d4;&#x5316;</English>
 		<French>No softening</French>
 		<German>No softening</German>
 		<Italian>No softening</Italian>
@@ -873,7 +873,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EREBUS_MOUNTAINS_10_PEAKS</Tag>
-		<English>10% less peaks</English>
+		<English>&#x5c71;&#x5cf0;&#x51cf;&#x5c11; 10%</English>
 		<French>10% less peaks</French>
 		<German>10% less peaks</German>
 		<Italian>10% less peaks</Italian>
@@ -881,7 +881,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EREBUS_MOUNTAINS_20_PEAKS</Tag>
-		<English>20% less peaks</English>
+		<English>&#x5c71;&#x5cf0;&#x51cf;&#x5c11; 20%</English>
 		<French>20% less peaks</French>
 		<German>20% less peaks</German>
 		<Italian>20% less peaks</Italian>
@@ -889,7 +889,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EREBUS_MOUNTAINS_30_PEAKS</Tag>
-		<English>30% less peaks</English>
+		<English>&#x5c71;&#x5cf0;&#x51cf;&#x5c11; 30%</English>
 		<French>30% less peaks</French>
 		<German>30% less peaks</German>
 		<Italian>30% less peaks</Italian>
@@ -897,7 +897,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EREBUS_MOUNTAINS_40_PEAKS</Tag>
-		<English>40% less peaks</English>
+		<English>&#x5c71;&#x5cf0;&#x51cf;&#x5c11; 40%</English>
 		<French>40% less peaks</French>
 		<German>40% less peaks</German>
 		<Italian>40% less peaks</Italian>
@@ -905,7 +905,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EREBUS_MOUNTAINS_50_PEAKS</Tag>
-		<English>50% less peaks</English>
+		<English>&#x5c71;&#x5cf0;&#x51cf;&#x5c11; 50%</English>
 		<French>50% less peaks</French>
 		<German>50% less peaks</German>
 		<Italian>50% less peaks</Italian>
@@ -913,7 +913,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EREBUS_MOUNTAINS_60_PEAKS</Tag>
-		<English>60% less peaks</English>
+		<English>&#x5c71;&#x5cf0;&#x51cf;&#x5c11; 60%</English>
 		<French>60% less peaks</French>
 		<German>60% less peaks</German>
 		<Italian>60% less peaks</Italian>
@@ -921,7 +921,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EREBUS_MOUNTAINS_70_PEAKS</Tag>
-		<English>70% less peaks</English>
+		<English>&#x5c71;&#x5cf0;&#x51cf;&#x5c11; 70%</English>
 		<French>70% less peaks</French>
 		<German>70% less peaks</German>
 		<Italian>70% less peaks</Italian>
@@ -929,7 +929,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EREBUS_MOUNTAINS_80_PEAKS</Tag>
-		<English>80% less peaks</English>
+		<English>&#x5c71;&#x5cf0;&#x51cf;&#x5c11; 80%</English>
 		<French>80% less peaks</French>
 		<German>80% less peaks</German>
 		<Italian>80% less peaks</Italian>
@@ -937,7 +937,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EREBUS_MOUNTAINS_90_PEAKS</Tag>
-		<English>90% less peaks</English>
+		<English>&#x5c71;&#x5cf0;&#x51cf;&#x5c11; 90%</English>
 		<French>90% less peaks</French>
 		<German>90% less peaks</German>
 		<Italian>90% less peaks</Italian>
@@ -945,7 +945,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EREBUS_MOUNTAINS_NO_PEAKS</Tag>
-		<English>No peaks</English>
+		<English>&#x65e0;&#x5c71;&#x5cf0;</English>
 		<French>No peaks</French>
 		<German>No peaks</German>
 		<Italian>No peaks</Italian>
@@ -953,7 +953,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EREBUS_STARTING_POSITIONS</Tag>
-		<English>Starting positions</English>
+		<English>&#x8d77;&#x59cb;&#x4f4d;&#x7f6e;</English>
 		<French>Starting positions</French>
 		<German>Starting positions</German>
 		<Italian>Starting positions</Italian>
@@ -961,7 +961,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EREBUS_STARTING_POSITIONS_EREBUS</Tag>
-		<English>Erebus</English>
+		<English>&#x57c3;&#x96f7;&#x5e03;&#x65af;</English>
 		<French>Erebus</French>
 		<German>Erebus</German>
 		<Italian>Erebus</Italian>
@@ -969,7 +969,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_EREBUS_STARTING_POSITIONS_ORIGINAL</Tag>
-		<English>Default</English>
+		<English>&#x9ed8;&#x8ba4;</English>
 		<French>Default</French>
 		<German>Default</German>
 		<Italian>Default</Italian>
@@ -978,7 +978,7 @@
 <!-- Fractured World -->
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WATER</Tag>
-		<English>Water (% of plots)</English>
+		<English>&#x6c34;&#x57df;&#xff08;&#x5360;&#x5730;&#x5757; %&#xff09;</English>
 		<French>Water (% of plots)</French>
 		<German>Water (% of plots)</German>
 		<Italian>Water (% of plots)</Italian>
@@ -986,7 +986,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_DESERT</Tag>
-		<English>Desert (% of plots)</English>
+		<English>&#x6c99;&#x6f20;&#xff08;&#x5360;&#x5730;&#x5757; %&#xff09;</English>
 		<French>Desert (% of plots)</French>
 		<German>Desert (% of plots)</German>
 		<Italian>Desert (% of plots)</Italian>
@@ -994,7 +994,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WATER_85</Tag>
-		<English>Islandworld (85%)</English>
+		<English>&#x5c9b;&#x5c7f;&#x4e16;&#x754c;&#xff08;85%&#xff09;</English>
 		<French>Islandworld (85%)</French>
 		<German>Islandworld (85%)</German>
 		<Italian>Islandworld (85%)</Italian>
@@ -1002,7 +1002,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WATER_80</Tag>
-		<English>Waterworld (80%)</English>
+		<English>&#x6c34;&#x4e16;&#x754c;&#xff08;80%&#xff09;</English>
 		<French>Waterworld (80%)</French>
 		<German>Waterworld (80%)</German>
 		<Italian>Waterworld (80%)</Italian>
@@ -1010,7 +1010,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WATER_75</Tag>
-		<English>Oceanworld (75%)</English>
+		<English>&#x6d77;&#x6d0b;&#x4e16;&#x754c;&#xff08;75%&#xff09;</English>
 		<French>Oceanworld (75%)</French>
 		<German>Oceanworld (75%)</German>
 		<Italian>Oceanworld (75%)</Italian>
@@ -1018,7 +1018,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WATER_70</Tag>
-		<English>Earthlike (70%)</English>
+		<English>&#x7c7b;&#x5730;&#x7403;&#xff08;70%&#xff09;</English>
 		<French>Earthlike (70%)</French>
 		<German>Earthlike (70%)</German>
 		<Italian>Earthlike (70%)</Italian>
@@ -1026,7 +1026,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WATER_65</Tag>
-		<English>Continental (65%)</English>
+		<English>&#x5927;&#x9646;&#x578b;&#xff08;65%&#xff09;</English>
 		<French>Continental (65%)</French>
 		<German>Continental (65%)</German>
 		<Italian>Continental (65%)</Italian>
@@ -1034,7 +1034,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WATER_60</Tag>
-		<English>Seaworld (60%)</English>
+		<English>&#x6d77;&#x6d0b;&#x578b;&#xff08;60%&#xff09;</English>
 		<French>Seaworld (60%)</French>
 		<German>Seaworld (60%)</German>
 		<Italian>Seaworld (60%)</Italian>
@@ -1042,7 +1042,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WATER_50</Tag>
-		<English>Spiderworld (50%)</English>
+		<English>&#x86db;&#x7f51;&#x4e16;&#x754c;&#xff08;50%&#xff09;</English>
 		<French>Spiderworld (50%)</French>
 		<German>Spiderworld (50%)</German>
 		<Italian>Spiderworld (50%)</Italian>
@@ -1050,7 +1050,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WATER_40</Tag>
-		<English>Pangaea (40%)</English>
+		<English>&#x6cdb;&#x5927;&#x9646;&#xff08;40%&#xff09;</English>
 		<French>Pangaea (40%)</French>
 		<German>Pangaea (40%)</German>
 		<Italian>Pangaea (40%)</Italian>
@@ -1058,7 +1058,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WATER_30</Tag>
-		<English>Lakeworld (30%)</English>
+		<English>&#x6e56;&#x6cca;&#x4e16;&#x754c;&#xff08;30%&#xff09;</English>
 		<French>Lakeworld (30%)</French>
 		<German>Lakeworld (30%)</German>
 		<Italian>Lakeworld (30%)</Italian>
@@ -1066,7 +1066,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WATER_20</Tag>
-		<English>Pondworld (20%)</English>
+		<English>&#x6c60;&#x5858;&#x4e16;&#x754c;&#xff08;20%&#xff09;</English>
 		<French>Pondworld (20%)</French>
 		<German>Pondworld (20%)</German>
 		<Italian>Pondworld (20%)</Italian>
@@ -1074,7 +1074,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WATER_10</Tag>
-		<English>Desertworld (10%)</English>
+		<English>&#x6c99;&#x6f20;&#x4e16;&#x754c;&#xff08;10%&#xff09;</English>
 		<French>Desertworld (10%)</French>
 		<German>Desertworld (10%)</German>
 		<Italian>Desertworld (10%)</Italian>
@@ -1082,7 +1082,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_PEAKS</Tag>
-		<English>Peaks (% of land)</English>
+		<English>&#x5c71;&#x5cf0;&#xff08;&#x5360;&#x9646;&#x5730; %&#xff09;</English>
 		<French>Peaks (% of land)</French>
 		<German>Peaks (% of land)</German>
 		<Italian>Peaks (% of land)</Italian>
@@ -1090,7 +1090,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_PEAKS_3</Tag>
-		<English>Flat (3%)</English>
+		<English>&#x5e73;&#x5766;&#xff08;3%&#xff09;</English>
 		<French>Flat (3%)</French>
 		<German>Flat (3%)</German>
 		<Italian>Flat (3%)</Italian>
@@ -1098,7 +1098,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_PEAKS_6</Tag>
-		<English>Uneven (6%)</English>
+		<English>&#x8d77;&#x4f0f;&#xff08;6%&#xff09;</English>
 		<French>Uneven (6%)</French>
 		<German>Uneven (6%)</German>
 		<Italian>Uneven (6%)</Italian>
@@ -1106,7 +1106,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_PEAKS_10</Tag>
-		<English>Scenic (10%)</English>
+		<English>&#x666f;&#x81f4;&#xff08;10%&#xff09;</English>
 		<French>Scenic (10%)</French>
 		<German>Scenic (10%)</German>
 		<Italian>Scenic (10%)</Italian>
@@ -1114,7 +1114,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_PEAKS_15</Tag>
-		<English>Hilly (15%)</English>
+		<English>&#x4e18;&#x9675;&#xff08;15%&#xff09;</English>
 		<French>Hilly (15%)</French>
 		<German>Hilly (15%)</German>
 		<Italian>Hilly (15%)</Italian>
@@ -1122,7 +1122,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_PEAKS_20</Tag>
-		<English>Peaky (20%)</English>
+		<English>&#x591a;&#x5cf0;&#xff08;20%&#xff09;</English>
 		<French>Peaky (20%)</French>
 		<German>Peaky (20%)</German>
 		<Italian>Peaky (20%)</Italian>
@@ -1130,7 +1130,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_PEAKS_25</Tag>
-		<English>Mountainous (25%)</English>
+		<English>&#x591a;&#x5c71;&#xff08;25%&#xff09;</English>
 		<French>Mountainous (25%)</French>
 		<German>Mountainous (25%)</German>
 		<Italian>Mountainous (25%)</Italian>
@@ -1138,7 +1138,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN</Tag>
-		<English>Terrain (Desert, Plains)</English>
+		<English>&#x5730;&#x5f62;&#xff08;&#x6c99;&#x6f20;&#x3001;&#x5e73;&#x539f;&#xff09;</English>
 		<French>Terrain (Desert, Plains)</French>
 		<German>Terrain (Desert, Plains)</German>
 		<Italian>Terrain (Desert, Plains)</Italian>
@@ -1146,7 +1146,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_WET</Tag>
-		<English>Wet (10%, 30%)</English>
+		<English>&#x6e7f;&#x6da6;&#xff08;10%&#x3001;30%&#xff09;</English>
 		<French>Wet (10%, 30%)</French>
 		<German>Wet (10%, 30%)</German>
 		<Italian>Wet (10%, 30%)</Italian>
@@ -1154,7 +1154,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_DAMP</Tag>
-		<English>Damp (20%, 25%)</English>
+		<English>&#x6f6e;&#x6e7f;&#xff08;20%&#x3001;25%&#xff09;</English>
 		<French>Damp (20%, 25%)</French>
 		<German>Damp (20%, 25%)</German>
 		<Italian>Damp (20%, 25%)</Italian>
@@ -1162,7 +1162,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_EARTHLIKE</Tag>
-		<English>Earthlike (30%, 20%)</English>
+		<English>&#x7c7b;&#x5730;&#x7403;&#xff08;30%&#x3001;20%&#xff09;</English>
 		<French>Earthlike (30%, 20%)</French>
 		<German>Earthlike (30%, 20%)</German>
 		<Italian>Earthlike (30%, 20%)</Italian>
@@ -1170,7 +1170,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_DRY</Tag>
-		<English>Dry (35%, 25%)</English>
+		<English>&#x5e72;&#x71e5;&#xff08;35%&#x3001;25%&#xff09;</English>
 		<French>Dry (35%, 25%)</French>
 		<German>Dry (35%, 25%)</German>
 		<Italian>Dry (35%, 25%)</Italian>
@@ -1178,7 +1178,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_PARCHED</Tag>
-		<English>Parched (40%, 30%)</English>
+		<English>&#x7126;&#x5e72;&#xff08;40%&#x3001;30%&#xff09;</English>
 		<French>Parched (40%, 30%)</French>
 		<German>Parched (40%, 30%)</German>
 		<Italian>Parched (40%, 30%)</Italian>
@@ -1186,7 +1186,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_MARSH</Tag>
-		<English>Terrain (Des, Plns, Mrsh)</English>
+		<English>&#x5730;&#x5f62;&#xff08;&#x6c99;&#x6f20;&#x3001;&#x5e73;&#x539f;&#x3001;&#x6cbc;&#x6cfd;&#xff09;</English>
 		<French>Terrain (Des, Plns, Mrsh)</French>
 		<German>Terrain (Des, Plns, Mrsh)</German>
 		<Italian>Terrain (Des, Plns, Mrsh)</Italian>
@@ -1194,7 +1194,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_MARSH_WET</Tag>
-		<English>Wet (10%, 25%, 9%)</English>
+		<English>&#x6e7f;&#x6da6;&#xff08;10%&#x3001;25%&#x3001;9%&#xff09;</English>
 		<French>Wet (10%, 25%, 9%)</French>
 		<German>Wet (10%, 25%, 9%)</German>
 		<Italian>Wet (10%, 25%, 9%)</Italian>
@@ -1202,7 +1202,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_MARSH_DAMP</Tag>
-		<English>Damp (20%, 22%, 6%)</English>
+		<English>&#x6f6e;&#x6e7f;&#xff08;20%&#x3001;22%&#x3001;6%&#xff09;</English>
 		<French>Damp (20%, 22%, 6%)</French>
 		<German>Damp (20%, 22%, 6%)</German>
 		<Italian>Damp (20%, 22%, 6%)</Italian>
@@ -1210,7 +1210,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_MARSH_EARTHLIKE</Tag>
-		<English>Earthlike (30%, 20%, 4%)</English>
+		<English>&#x7c7b;&#x5730;&#x7403;&#xff08;30%&#x3001;20%&#x3001;4%&#xff09;</English>
 		<French>Earthlike (30%, 20%, 4%)</French>
 		<German>Earthlike (30%, 20%, 4%)</German>
 		<Italian>Earthlike (30%, 20%, 4%)</Italian>
@@ -1218,7 +1218,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_MARSH_DRY</Tag>
-		<English>Dry (35%, 25%, 3%)</English>
+		<English>&#x5e72;&#x71e5;&#xff08;35%&#x3001;25%&#x3001;3%&#xff09;</English>
 		<French>Dry (35%, 25%, 3%)</French>
 		<German>Dry (35%, 25%, 3%)</German>
 		<Italian>Dry (35%, 25%, 3%)</Italian>
@@ -1226,7 +1226,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_MARSH_PARCHED</Tag>
-		<English>Parched (40%, 30%, 2%)</English>
+		<English>&#x7126;&#x5e72;&#xff08;40%&#x3001;30%&#x3001;2%&#xff09;</English>
 		<French>Parched (40%, 30%, 2%)</French>
 		<German>Parched (40%, 30%, 2%)</German>
 		<Italian>Parched (40%, 30%, 2%)</Italian>
@@ -1234,7 +1234,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE</Tag>
-		<English>World Age</English>
+		<English>&#x4e16;&#x754c;&#x5e74;&#x9f84;</English>
 		<French>World Age</French>
 		<German>World Age</German>
 		<Italian>World Age</Italian>
@@ -1242,7 +1242,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_CREATION</Tag>
-		<English>Creation</English>
+		<English>&#x521b;&#x4e16;</English>
 		<French>Creation</French>
 		<German>Creation</German>
 		<Italian>Creation</Italian>
@@ -1250,7 +1250,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_3</Tag>
-		<English>3 eons</English>
+		<English>3 &#x7eaa;&#x5143;</English>
 		<French>3 eons</French>
 		<German>3 eons</German>
 		<Italian>3 eons</Italian>
@@ -1258,7 +1258,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_6</Tag>
-		<English>6 eons</English>
+		<English>6 &#x7eaa;&#x5143;</English>
 		<French>6 eons</French>
 		<German>6 eons</German>
 		<Italian>6 eons</Italian>
@@ -1266,7 +1266,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_12</Tag>
-		<English>12 eons</English>
+		<English>12 &#x7eaa;&#x5143;</English>
 		<French>12 eons</French>
 		<German>12 eons</German>
 		<Italian>12 eons</Italian>
@@ -1274,7 +1274,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_18</Tag>
-		<English>18 eons</English>
+		<English>18 &#x7eaa;&#x5143;</English>
 		<French>18 eons</French>
 		<German>18 eons</German>
 		<Italian>18 eons</Italian>
@@ -1282,7 +1282,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_24</Tag>
-		<English>24 eons</English>
+		<English>24 &#x7eaa;&#x5143;</English>
 		<French>24 eons</French>
 		<German>24 eons</German>
 		<Italian>24 eons</Italian>
@@ -1290,7 +1290,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_36</Tag>
-		<English>36 eons</English>
+		<English>36 &#x7eaa;&#x5143;</English>
 		<French>36 eons</French>
 		<German>36 eons</German>
 		<Italian>36 eons</Italian>
@@ -1298,7 +1298,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_48</Tag>
-		<English>48 eons</English>
+		<English>48 &#x7eaa;&#x5143;</English>
 		<French>48 eons</French>
 		<German>48 eons</German>
 		<Italian>48 eons</Italian>
@@ -1306,7 +1306,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_72</Tag>
-		<English>72 eons</English>
+		<English>72 &#x7eaa;&#x5143;</English>
 		<French>72 eons</French>
 		<German>72 eons</German>
 		<Italian>72 eons</Italian>
@@ -1314,7 +1314,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_96</Tag>
-		<English>96 eons</English>
+		<English>96 &#x7eaa;&#x5143;</English>
 		<French>96 eons</French>
 		<German>96 eons</German>
 		<Italian>96 eons</Italian>
@@ -1323,7 +1323,7 @@
 <!-- Medium and Small options. -->
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_CONTINENTS_SIZE</Tag>
-		<English>Continents Size</English>
+		<English>&#x5927;&#x9646;&#x5c3a;&#x5bf8;</English>
 		<French>Taille des continents</French>
 		<German>Kontinentgr&#246;&#223;e</German>
 		<Italian>Dimensione dei continenti</Italian>
@@ -1331,7 +1331,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_NORMAL_CONTINENTS</Tag>
-		<English>Normal Continents</English>
+		<English>&#x666e;&#x901a;&#x5927;&#x9646;</English>
 		<French>Continents normaux</French>
 		<German>Normale Kontinente</German>
 		<Italian>Continenti normali</Italian>
@@ -1339,7 +1339,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_UNPREDICTABLE</Tag>
-		<English>Unpredictable</English>
+		<English>&#x96be;&#x4ee5;&#x9884;&#x6d4b;</English>
 		<French>Impr&#233;visible</French>
 		<German>Unvorhersehbar</German>
 		<Italian>Imprevedibile</Italian>
@@ -1347,7 +1347,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_SNAKY_CONTINENTS</Tag>
-		<English>Snaky Continents</English>
+		<English>&#x873f;&#x8712;&#x5927;&#x9646;</English>
 		<French>Continents sinueux</French>
 		<German>Gewundene Kontinente</German>
 		<Italian>Continenti tortuosi</Italian>
@@ -1355,7 +1355,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_ISLANDS</Tag><!-- Dupe! It is also used as an option for TXT_KEY_MAP_SCRIPT_ISLANDS_SIZE. It is also used in Tectonics. -->
-		<English>Islands</English>
+		<English>&#x5c9b;&#x5c7f;</English>
 		<French>Iles</French>
 		<German>Inseln</German>
 		<Italian>Isole</Italian>
@@ -1363,7 +1363,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_ISLANDS_SIZE</Tag>
-		<English>Islands Size</English>
+		<English>&#x5c9b;&#x5c7f;&#x5c3a;&#x5bf8;</English>
 		<French>Taille des &#238;les</French>
 		<German>Inselgr&#246;&#223;e</German>
 		<Italian>Dimensione delle isole</Italian>
@@ -1371,7 +1371,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_TINY_ISLANDS</Tag>
-		<English>Tiny Islands</English>
+		<English>&#x5fae;&#x578b;&#x5c9b;&#x5c7f;</English>
 		<French>Ilots</French>
 		<German>Winzige Inseln</German>
 		<Italian>Isole minuscole</Italian>
@@ -1379,7 +1379,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_ISLAND_OVERLAP</Tag>
-		<English>Island Overlap</English>
+		<English>&#x5c9b;&#x5c7f;&#x91cd;&#x53e0;</English>
 		<French>Superposition des &#238;les</French>
 		<German>Insel&#252;berlagerung</German>
 		<Italian>Sovrapposizione isole</Italian>
@@ -1387,7 +1387,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_ISLAND_REGION_SEPARATE</Tag>
-		<English>Island Region Separate</English>
+		<English>&#x5c9b;&#x5c7f;&#x533a;&#x57df;&#x5206;&#x9694;</English>
 		<French>S&#233;paration des r&#233;gions insulaires</French>
 		<German>Separate Inselregionen</German>
 		<Italian>Separa regioni isolane</Italian>
@@ -1395,7 +1395,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_ISLANDS_MIXED_IN</Tag>
-		<English>Islands Mixed In</English>
+		<English>&#x5c9b;&#x5c7f;&#x6df7;&#x5408;&#x5206;&#x5e03;</English>
 		<French>M&#233;lange des &#238;les</French>
 		<German>Gemischte Inseln</German>
 		<Italian>Isole mischiate</Italian>
@@ -1404,7 +1404,7 @@
 <!-- Pangaea options. -->
 	<TEXT>
 		<Tag>TXT_KEY_MAP_PANGAEA_SHORELINE</Tag>
-		<English>Shoreline</English>
+		<English>&#x6d77;&#x5cb8;&#x7ebf;</English>
 		<French>C&#244;te</French>
 		<German>K&#252;ste</German>
 		<Italian>Riva</Italian>
@@ -1412,7 +1412,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_PANGAEA_RANDOM</Tag>
-		<English>Random</English>
+		<English>&#x968f;&#x673a;</English>
 		<French>Al&#233;atoire</French>
 		<German>Zuf&#228;llig</German>
 		<Italian>Casuale</Italian>
@@ -1420,7 +1420,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_PANGAEA_NATURAL</Tag>
-		<English>Natural</English>
+		<English>&#x81ea;&#x7136;</English>
 		<French>Naturel</French>
 		<German>Nat&#252;rlich</German>
 		<Italian>Naturale</Italian>
@@ -1428,7 +1428,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_PANGAEA_PRESSED</Tag>
-		<English>Pressed</English>
+		<English>&#x7d27;&#x51d1;</English>
 		<French>Serr&#233;</French>
 		<German>Gedr&#228;ngt</German>
 		<Italian>Pressato</Italian>
@@ -1436,7 +1436,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_PANGAEA_SOLID</Tag>
-		<English>Solid</English>
+		<English>&#x5bc6;&#x5b9e;</English>
 		<French>Solide</French>
 		<German>Solide</German>
 		<Italian>Solido</Italian>
@@ -1445,7 +1445,7 @@
 <!-- PerfectWorld options. -->
 	<TEXT>
 		<Tag>TXT_KEY_MAP_PERFECTWORLD_NEW_WORLD_RULES</Tag>
-		<English>New World Rules</English>
+		<English>&#x65b0;&#x4e16;&#x754c;&#x89c4;&#x5219;</English>
 		<French>New World Rules</French>
 		<German>New World Rules</German>
 		<Italian>New World Rules</Italian>
@@ -1453,7 +1453,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_PERFECTWORLD_NEW_WORLD_ANYWHERE</Tag>
-		<English>Start Anywhere</English>
+		<English>&#x4efb;&#x610f;&#x8d77;&#x59cb;</English>
 		<French>Start Anywhere</French>
 		<German>Start Anywhere</German>
 		<Italian>Start Anywhere</Italian>
@@ -1461,7 +1461,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_PERFECTWORLD_NEW_WORLD_OLD_WORLD</Tag>
-		<English>Start in Old World</English>
+		<English>&#x65e7;&#x4e16;&#x754c;&#x8d77;&#x59cb;</English>
 		<French>Start in Old World</French>
 		<German>Start in Old World</German>
 		<Italian>Start in Old World</Italian>
@@ -1469,7 +1469,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_PERFECTWORLD_PANGAEA_RULES</Tag>
-		<English>Pangaea Rules</English>
+		<English>&#x6cdb;&#x5927;&#x9646;&#x89c4;&#x5219;</English>
 		<French>Pangaea Rules</French>
 		<German>Pangaea Rules</German>
 		<Italian>Pangaea Rules</Italian>
@@ -1477,7 +1477,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_PERFECTWORLD_PANGAEA_BREAK</Tag>
-		<English>Break Pangaeas</English>
+		<English>&#x6253;&#x7834;&#x6cdb;&#x5927;&#x9646;</English>
 		<French>Break Pangaeas</French>
 		<German>Break Pangaeas</German>
 		<Italian>Break Pangaeas</Italian>
@@ -1485,7 +1485,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_PERFECTWORLD_PANGAEA_ALLOW</Tag>
-		<English>Allow Pangaeas</English>
+		<English>&#x5141;&#x8bb8;&#x6cdb;&#x5927;&#x9646;</English>
 		<French>Allow Pangaeas</French>
 		<German>Allow Pangaeas</German>
 		<Italian>Allow Pangaeas</Italian>
@@ -1494,7 +1494,7 @@
 <!-- RandomMap options. -->
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_RANDOM_ARCHIPELAGO</Tag>
-		<English>Archipelago</English>
+		<English>&#x7fa4;&#x5c9b;</English>
 		<French>Archipel</French>
 		<German>Archipel</German>
 		<Italian>Arcipelago</Italian>
@@ -1510,7 +1510,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_RANDOM_EREBUS</Tag>
-		<English>Erebus</English>
+		<English>&#x57c3;&#x96f7;&#x5e03;&#x65af;</English>
 		<French>Erebus</French>
 		<German>Erebus</German>
 		<Italian>Erebus</Italian>
@@ -1518,7 +1518,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_RANDOM_FRACTURED_WORLD</Tag>
-		<English>Fractured World</English>
+		<English>&#x7834;&#x788e;&#x4e16;&#x754c;</English>
 		<French>Fractured World</French>
 		<German>Fractured World</German>
 		<Italian>Fractured World</Italian>
@@ -1526,7 +1526,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_RANDOM_INLAND_SEA</Tag>
-		<English>Inland Sea</English>
+		<English>&#x5185;&#x6d77;</English>
 		<French>Inland Sea</French>
 		<German>Inland Sea</German>
 		<Italian>Inland Sea</Italian>
@@ -1534,7 +1534,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_RANDOM_MEDIUM_AND_SMALL</Tag>
-		<English>Medium and Small</English>
+		<English>&#x4e2d;&#x5c0f;&#x578b;</English>
 		<French>Medium and Small</French>
 		<German>Medium and Small</German>
 		<Italian>Medium and Small</Italian>
@@ -1542,7 +1542,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_RANDOM_PANGAEA</Tag>
-		<English>Pangaea</English>
+		<English>&#x6cdb;&#x5927;&#x9646;</English>
 		<French>Pangée</French>
 		<German>Pangäa</German>
 		<Italian>Pangea</Italian>
@@ -1550,7 +1550,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_RANDOM_PLANETFALL</Tag>
-		<English>Planetfall</English>
+		<English>&#x884c;&#x661f;&#x9668;&#x843d;</English>
 		<French>Planetfall</French>
 		<German>Planetfall</German>
 		<Italian>Planetfall</Italian>
@@ -1558,7 +1558,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_RANDOM_SEA_HIGHLANDS</Tag>
-		<English>Sea Highlands</English>
+		<English>&#x6d77;&#x4e0a;&#x9ad8;&#x5730;</English>
 		<French>Sea Highlands</French>
 		<German>Sea Highlands</German>
 		<Italian>Sea Highlands</Italian>
@@ -1566,7 +1566,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_RANDOM_TECTONICS</Tag>
-		<English>Tectonics</English>
+		<English>&#x677f;&#x5757;&#x6784;&#x9020;</English>
 		<French>Tectonics</French>
 		<German>Tectonics</German>
 		<Italian>Tectonics</Italian>
@@ -1574,7 +1574,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_RANDOM_YES</Tag>
-		<English>Yes</English>
+		<English>&#x662f;</English>
 		<French>Yes</French>
 		<German>Yes</German>
 		<Italian>Yes</Italian>
@@ -1582,7 +1582,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_RANDOM_NO</Tag>
-		<English>No</English>
+		<English>&#x5426;</English>
 		<French>No</French>
 		<German>No</German>
 		<Italian>No</Italian>
@@ -1591,7 +1591,7 @@
 <!-- Ringworld options. -->
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RINGWORLD_REGION_STRENGTH</Tag>
-		<English>Region Strength</English>
+		<English>&#x533a;&#x57df;&#x5f3a;&#x5ea6;</English>
 		<French>Region Strength</French>
 		<German>Region Strength</German>
 		<Italian>Region Strength</Italian>
@@ -1599,7 +1599,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RINGWORLD_REGION_STRENGTH_NONE</Tag>
-		<English>None</English>
+		<English>&#x65e0;</English>
 		<French>None</French>
 		<German>None</German>
 		<Italian>None</Italian>
@@ -1607,7 +1607,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RINGWORLD_REGION_STRENGTH_WEAK</Tag>
-		<English>Weak</English>
+		<English>&#x5f31;</English>
 		<French>Weak</French>
 		<German>Weak</German>
 		<Italian>Weak</Italian>
@@ -1615,7 +1615,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RINGWORLD_REGION_STRENGTH_MODERATE</Tag>
-		<English>Moderate</English>
+		<English>&#x4e2d;&#x7b49;</English>
 		<French>Moderate</French>
 		<German>Moderate</German>
 		<Italian>Moderate</Italian>
@@ -1623,7 +1623,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RINGWORLD_REGION_STRENGTH_STRONG</Tag>
-		<English>Strong</English>
+		<English>&#x5f3a;</English>
 		<French>Strong</French>
 		<German>Strong</German>
 		<Italian>Strong</Italian>
@@ -1631,7 +1631,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RINGWORLD_POLE_POSITION</Tag>
-		<English>Pole Position</English>
+		<English>&#x6781;&#x70b9;&#x4f4d;&#x7f6e;</English>
 		<French>Pole Position</French>
 		<German>Pole Position</German>
 		<Italian>Pole Position</Italian>
@@ -1639,7 +1639,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RINGWORLD_POLE_POSITION_NORTH_SOUTH</Tag>
-		<English>North to south</English>
+		<English>&#x7531;&#x5317;&#x81f3;&#x5357;</English>
 		<French>North to south</French>
 		<German>North to south</German>
 		<Italian>North to south</Italian>
@@ -1647,7 +1647,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RINGWORLD_POLE_POSITION_EQUATOR_SOUTH</Tag>
-		<English>Equator to south</English>
+		<English>&#x7531;&#x8d64;&#x9053;&#x81f3;&#x5357;</English>
 		<French>Equator to south</French>
 		<German>Equator to south</German>
 		<Italian>Equator to south</Italian>
@@ -1655,7 +1655,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RINGWORLD_POLE_POSITION_NORTH_EQUATOR</Tag>
-		<English>North to equator</English>
+		<English>&#x7531;&#x5317;&#x81f3;&#x8d64;&#x9053;</English>
 		<French>North to equator</French>
 		<German>North to equator</German>
 		<Italian>North to equator</Italian>
@@ -1663,7 +1663,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RINGWORLD_POLE_POSITION_NO_POLES</Tag>
-		<English>No poles</English>
+		<English>&#x65e0;&#x6781;&#x70b9;</English>
 		<French>No poles</French>
 		<German>No poles</German>
 		<Italian>No poles</Italian>
@@ -1671,7 +1671,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RINGWORLD_SHAPE</Tag>
-		<English>Shape</English>
+		<English>&#x5f62;&#x72b6;</English>
 		<French>Shape</French>
 		<German>Shape</German>
 		<Italian>Shape</Italian>
@@ -1679,7 +1679,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RINGWORLD_SHAPE_SOLID</Tag>
-		<English>Solid ring</English>
+		<English>&#x5b9e;&#x5fc3;&#x73af;</English>
 		<French>Solid ring</French>
 		<German>Solid ring</German>
 		<Italian>Solid ring</Italian>
@@ -1687,7 +1687,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RINGWORLD_SHAPE_CONTINENTS</Tag>
-		<English>Continents</English>
+		<English>&#x5927;&#x9646;</English>
 		<French>Continents</French>
 		<German>Continents</German>
 		<Italian>Continents</Italian>
@@ -1695,7 +1695,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_RINGWORLD_SHAPE_ISLANDS</Tag>
-		<English>Islands</English>
+		<English>&#x5c9b;&#x5c7f;</English>
 		<French>Islands</French>
 		<German>Islands</German>
 		<Italian>Islands</Italian>
@@ -1704,7 +1704,7 @@
 <!-- Sea Highlands options. -->
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_MOUNTAIN_PATTERN</Tag>
-		<English>Mountain Pattern</English>
+		<English>&#x5c71;&#x8109;&#x56fe;&#x6848;</English>
 		<French>Forme montagnes</French>
 		<German>Bergmuster</German>
 		<Italian>Struttura montuosa</Italian>
@@ -1712,7 +1712,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_SCATTERED</Tag>
-		<English>Scattered</English>
+		<English>&#x6563;&#x5e03;</English>
 		<French>Dispers&#233;es</French>
 		<German>Vereinzelt</German>
 		<Italian>Sparsa</Italian>
@@ -1720,7 +1720,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_RIDGELINES</Tag>
-		<English>Ridgelines</English>
+		<English>&#x5c71;&#x810a;&#x7ebf;</English>
 		<French>Lignes de cr&#234;tes</French>
 		<German>Gebirgsketten</German>
 		<Italian>Catene</Italian>
@@ -1728,7 +1728,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_CLUSTERED</Tag>
-		<English>Clustered</English>
+		<English>&#x805a;&#x96c6;</English>
 		<French>Regroup&#233;es</French>
 		<German>Geb&#252;ndelt</German>
 		<Italian>Gruppi</Italian>
@@ -1736,7 +1736,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_MOUNTAIN_DENSITY</Tag>
-		<English>Mountain Density</English>
+		<English>&#x5c71;&#x8109;&#x5bc6;&#x5ea6;</English>
 		<French>Densit&#233; montagnes</French>
 		<German>Bergdichte</German>
 		<Italian>Densit&#224; montuosa</Italian>
@@ -1744,7 +1744,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_DENSE_PEAKS</Tag>
-		<English>Dense Peaks</English>
+		<English>&#x5bc6;&#x96c6;&#x5c71;&#x5cf0;</English>
 		<French>Sommets denses</French>
 		<German>Hohe Gipfeldichte</German>
 		<Italian>Montagne numerose</Italian>
@@ -1752,7 +1752,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_NORMAL_PEAKS</Tag>
-		<English>Normal Peaks</English>
+		<English>&#x666e;&#x901a;&#x5c71;&#x5cf0;</English>
 		<French>Sommets normaux</French>
 		<German>Normale Gipfeldichte</German>
 		<Italian>Montagne normali</Italian>
@@ -1760,7 +1760,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_THIN_PEAKS</Tag>
-		<English>Thin Peaks</English>
+		<English>&#x7a00;&#x758f;&#x5c71;&#x5cf0;</English>
 		<French>Sommets rares</French>
 		<German>Geringe Gipfeldichte</German>
 		<Italian>Montagne diradate</Italian>
@@ -1768,7 +1768,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_WATER_SETTING</Tag>
-		<English>Water Setting</English>
+		<English>&#x6c34;&#x4f53;&#x8bbe;&#x7f6e;</English>
 		<French>Param&#232;tres eau</French>
 		<German>Wassereinstellung</German>
 		<Italian>Impostazione acqua</Italian>
@@ -1776,7 +1776,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_SMALL_LAKES</Tag>
-		<English>Small Lakes</English>
+		<English>&#x5c0f;&#x578b;&#x6e56;&#x6cca;</English>
 		<French>Petits lacs</French>
 		<German>Kleine Seen</German>
 		<Italian>Laghi piccoli</Italian>
@@ -1784,7 +1784,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_LARGE_LAKES</Tag>
-		<English>Large Lakes</English>
+		<English>&#x5927;&#x578b;&#x6e56;&#x6cca;</English>
 		<French>Grands lacs</French>
 		<German>Gro&#223;e Seen</German>
 		<Italian>Laghi grandi</Italian>
@@ -1792,7 +1792,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_SEAS</Tag>
-		<English>Seas</English>
+		<English>&#x6d77;&#x6d0b;</English>
 		<French>Mers</French>
 		<German>Ozeane</German>
 		<Italian>Mari</Italian>
@@ -1800,7 +1800,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_LARGE_SEAS</Tag>
-		<English>Large Seas</English>
+		<English>&#x5927;&#x578b;&#x6d77;&#x6d0b;</English>
 		<French>Large Seas</French>
 		<German>Large Seas</German>
 		<Italian>Large Seas</Italian>
@@ -1809,7 +1809,7 @@
 <!-- Tectonics options. -->
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_LANDMASS_TYPE</Tag>
-		<English>Landmass Type</English>
+		<English>&#x9646;&#x5757;&#x7c7b;&#x578b;</English>
 		<French>Type continents</French>
 		<German>Landmassentyp</German>
 		<Italian>Tipo massa terra</Italian>
@@ -1817,7 +1817,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_EARTH_70</Tag>
-		<English>Earthlike (70%% water)</English>
+		<English>&#x7c7b;&#x5730;&#x7403;&#xff08;70%% &#x6c34;&#x57df;&#xff09;</English>
 		<French>Semblable à la Terre (70% d'eau)</French>
 		<German>Erdähnlich (70%% Wasser)</German>
 		<Italian>Simile alla Terra (70%% acqua)</Italian>
@@ -1825,7 +1825,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_EARTH_60</Tag>
-		<English>60%% water</English>
+		<English>60%% &#x6c34;&#x57df;</English>
 		<French>60% d'eau</French>
 		<German>60%% Wasser</German>
 		<Italian>60%% acqua</Italian>
@@ -1833,7 +1833,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_PANGAEA</Tag>
-		<English>Pangaea</English>
+		<English>&#x6cdb;&#x5927;&#x9646;</English>
 		<French>Pangée</French>
 		<German>Pangäa</German>
 		<Italian>Pangea</Italian>
@@ -1841,7 +1841,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_LAKES</Tag>
-		<English>Lakes (30%% water)</English>
+		<English>&#x6e56;&#x6cca;&#xff08;30%% &#x6c34;&#x57df;&#xff09;</English>
 		<French>Lacs (30% d'eau)</French>
 		<German>Seen (30%% Wasser)</German>
 		<Italian>Laghi (30%% acqua)</Italian>
@@ -1849,7 +1849,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_MEDITERRANEAN</Tag>
-		<English>Mediterranean</English>
+		<English>&#x5730;&#x4e2d;&#x6d77;&#x5f0f;</English>
 		<French>Méditerranéen</French>
 		<German>Mediterran</German>
 		<Italian>Mediterraneo</Italian>
@@ -1857,7 +1857,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_TERRA</Tag>
-		<English>Randomized Actual Earth</English>
+		<English>&#x968f;&#x673a;&#x771f;&#x5b9e;&#x5730;&#x7403;</English>
 		<French>Randomisation de la Terre actuelle</French>
 		<German>Zufällige Anordnung der Erde</German>
 		<Italian>Terra odierna casuale</Italian>
@@ -1865,7 +1865,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_TERRA_OLD_WORLD_START</Tag>
-		<English>Randomized Actual Earth (Old World Start)</English>
+		<English>&#x968f;&#x673a;&#x771f;&#x5b9e;&#x5730;&#x7403;&#xff08;&#x65e7;&#x4e16;&#x754c;&#x8d77;&#x59cb;&#xff09;</English>
 		<French>Randomisation de la Terre actuelle (départ : Antiquité)</French>
 		<German>Zufällige Anordnung der Erde (Start Alte Welt)</German>
 		<Italian>Terra odierna casuale (partenza Vecchio Mondo)</Italian>
@@ -1873,7 +1873,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_TECTONICS_ARITITY</Tag>
-		<English>Aridity Level</English>
+		<English>&#x5e72;&#x65f1;&#x7a0b;&#x5ea6;</English>
 		<French>Taux d'aridité</French>
 		<German>Dürrestufe</German>
 		<Italian>Livello aridità</Italian>
@@ -1881,7 +1881,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_TECTONICS_ARITITY_ARID</Tag>
-		<English>Arid</English>
+		<English>&#x5e72;&#x65f1;</English>
 		<French>Aride</French>
 		<German>Trocken</German>
 		<Italian>Arido</Italian>
@@ -1889,7 +1889,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_TECTONICS_ARITITY_NORMAL</Tag>
-		<English>Normal</English>
+		<English>&#x666e;&#x901a;</English>
 		<French>
 			<Text>Normale</Text>
 			<Gender>Male</Gender>
@@ -1913,7 +1913,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_TECTONICS_ARITITY_WET</Tag>
-		<English>Wet</English>
+		<English>&#x6e7f;&#x6da6;</English>
 		<French>Humide</French>
 		<German>Feucht</German>
 		<Italian>Umido</Italian>
@@ -1921,7 +1921,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_TECTONICS_ARITITY_NO_ICE</Tag>
-		<English>No ice</English>
+		<English>&#x65e0;&#x51b0;</English>
 		<French>Pas de glace</French>
 		<German>Kein Eis</German>
 		<Italian>No ghiaccio</Italian>
@@ -1929,7 +1929,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_TECTONICS_LANDSCAPE</Tag>
-		<English>Landscape</English>
+		<English>&#x5730;&#x8c8c;</English>
 		<French>Landscape</French>
 		<German>Landscape</German>
 		<Italian>Landscape</Italian>
@@ -1937,7 +1937,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_TECTONICS_LANDSCAPE_PLANETFALL</Tag>
-		<English>Planetfall Highlands</English>
+		<English>&#x884c;&#x661f;&#x9668;&#x843d;&#x9ad8;&#x5730;</English>
 		<French>Planetfall Highlands</French>
 		<German>Planetfall Highlands</German>
 		<Italian>Planetfall Highlands</Italian>
@@ -1945,7 +1945,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_TECTONICS_LANDSCAPE_DEFAULT</Tag>
-		<English>Tectonics Highlands</English>
+		<English>&#x677f;&#x5757;&#x6784;&#x9020;&#x9ad8;&#x5730;</English>
 		<French>Tectonics HighlandsTectonics Highlands</French>
 		<German>Tectonics Highlands</German>
 		<Italian>Tectonics Highlands</Italian>

@@ -2,7 +2,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_HYBOREMS_WHISPER_SELECT</Tag>
-		<English>[ICON_BULLET]Select City of %s1</English>
+		<English>[ICON_BULLET]&#x9009;&#x62e9;%s1&#x7684;&#x57ce;&#x5e02;</English>
 		<Spanish>[ICON_BULLET]Seleccionar ciudad de %s1</Spanish>
 	</TEXT>
 </Civ4GameText>

@@ -17,7 +17,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__LEADERHEADHIDDENATTITUDE_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x9690;&#x85cf;&#x7684;&#x6001;&#x5ea6;&#x4fee;&#x6b63;&#xff08;&#x53ef;&#x80fd;&#x5267;&#x900f;&#xff09;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x9690;&#x85cf;&#x7684;&#x6001;&#x5ea6;&#x52a0;&#x6210;&#xff08;&#x53ef;&#x80fd;&#x5267;&#x900f;&#xff09;&#x3002;</English>
 		<German>Zeigt die verborgenen Beziehungsmodifikatoren anderer Oberh&#228;upter an (m&#246;glicher Spoiler)</German>
 		<Spanish>Cuando se activa, muestra los modificadores de las actitud oculta (posible spoiler).</Spanish>
 	</TEXT>
@@ -30,7 +30,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__LEADERHEADWORSTENEMY_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x6bcf;&#x4e2a; AI &#x5bf9;&#x624b;&#x56fe;&#x6807;&#x7684;&#x60ac;&#x505c;&#x6587;&#x672c;&#x4e2d;&#x663e;&#x793a;&#x5176;&#x5934;&#x53f7;&#x654c;&#x4eba;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x6bcf;&#x4e2a; AI &#x5bf9;&#x624b;&#x56fe;&#x6807;&#x7684;&#x60ac;&#x6d6e;&#x63d0;&#x793a;&#x4e2d;&#x663e;&#x793a;&#x5176;&#x5934;&#x53f7;&#x654c;&#x4eba;&#x3002;</English>
 		<German>Zeigt den Erzfeind jedes Gegenspielers an, wenn der Mauszeiger &#252;ber desssen Symbol bewegt wird</German>
 		<Spanish>Cuando se activa, el peor enemigo de cada IA rival se muestra en el texto que aparece cuando se sit&#250;a el rat&#243;n encima de su icono.</Spanish>
 	</TEXT>
@@ -43,7 +43,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__LEADERHEADDEFENSIVEPACTS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x6bcf;&#x4e2a;&#x5bf9;&#x624b;&#x56fe;&#x6807;&#x7684;&#x60ac;&#x505c;&#x6587;&#x672c;&#x4e2d;&#x663e;&#x793a;&#x5176;&#x9632;&#x5fa1;&#x534f;&#x5b9a;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x6bcf;&#x4e2a;&#x5bf9;&#x624b;&#x56fe;&#x6807;&#x7684;&#x60ac;&#x6d6e;&#x63d0;&#x793a;&#x4e2d;&#x663e;&#x793a;&#x5176;&#x9632;&#x5fa1;&#x534f;&#x5b9a;&#x3002;</English>
 		<German>Zeigt die Verteidigungsb&#252;ndnisse jedes Gegenspielers an, wenn der Mauszeiger &#252;ber desssen Symbol bewegt wird</German>
 		<Spanish>Cuando se activa, los Acuerdos de protecci&#243;n de cada IA rival se muestra en el texto que aparece cuando se sit&#250;a el rat&#243;n encima de su icono.</Spanish>
 	</TEXT>
@@ -52,48 +52,48 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__LATLONGCOORDS_TEXT</Tag>
-		<English>&#x7ecf;&#x5ea6; / &#x7eac;&#x5ea6;</English>
+		<English>&#x7ecf;&#x5ea6;&#xff0f;&#x7eac;&#x5ea6;</English>
 		<German>L&#228;ngengrad / Breitengrad</German>
 		<Italian>Longitudine / Latitudine</Italian>
 		<Spanish>Longitud / Latitud</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__LATLONGCOORDS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x4f60;&#x5c06;&#x5730;&#x56fe;&#x5c45;&#x4e2d;&#x4e4b;&#x540e;&#xff0c;&#x60ac;&#x505c;&#x4e8e;&#x5730;&#x5757;&#x65f6;&#x663e;&#x793a;&#x5176;&#x7ecf;&#x5ea6;&#x4e0e;&#x7eac;&#x5ea6;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x4f60;&#x5c06;&#x5730;&#x56fe;&#x5c45;&#x4e2d;&#x540e;&#xff0c;&#x60ac;&#x6d6e;&#x4e8e;&#x5730;&#x5757;&#x4e0a;&#x65f6;&#x663e;&#x793a;&#x5176;&#x7ecf;&#x5ea6;&#x4e0e;&#x7eac;&#x5ea6;&#x3002;</English>
 		<German>Zeigt bei zentrierter Karte den L&#228;ngen- und Breitengrad eines Gel&#228;ndefeldes an, wenn der Mauszeiger dar&#252;ber bewegt wird</German>
 		<Italian>Quando &#232; selezionato, vengono mostrate longitudine e latitudine posizionando il cursore su una casella, dopo aver centrato la mappa.</Italian>
 		<Spanish>Cuando se activa, la longitud y la latitud de una casilla se muestra en el texto que aparece cuando se sit&#250;a el rat&#243;n encima de la casilla.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__PLOTWORKINGCITY_TEXT</Tag>
-		<English>&#x5f00;&#x53d1;&#x57ce;&#x5e02;</English>
+		<English>&#x8015;&#x4f5c;&#x57ce;&#x5e02;</English>
 		<German>Bearbeitende Stadt</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__PLOTWORKINGCITY_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x60ac;&#x505c;&#x4e8e;&#x4f60;&#x56e2;&#x961f;&#x6240;&#x6709;&#x7684;&#x5730;&#x5757;&#x65f6;&#xff0c;&#x663e;&#x793a;&#x7531;&#x54ea;&#x5ea7;&#x57ce;&#x5e02;&#x63a7;&#x5236;&#x5b83;&#xff1b;&#x82e5;&#x6b63;&#x88ab;&#x5f00;&#x53d1;&#x5219;&#x4ee5;&#x9752;&#x8272;&#x663e;&#x793a;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x60ac;&#x6d6e;&#x4e8e;&#x4f60;&#x6240;&#x5c5e;&#x56e2;&#x961f;&#x62e5;&#x6709;&#x7684;&#x5730;&#x5757;&#x4e0a;&#x65f6;&#xff0c;&#x663e;&#x793a;&#x54ea;&#x5ea7;&#x57ce;&#x5e02;&#x63a7;&#x5236;&#x5b83;&#xff0c;&#x82e5;&#x6b63;&#x88ab;&#x8015;&#x4f5c;&#x5219;&#x4ee5;&#x9752;&#x8272;&#x663e;&#x793a;&#x3002;</English>
 		<German>Zeigt, wenn der Mauszeiger &#252;ber ein Gel&#228;ndefeld im Bereich mehrerer St&#228;dte bewegt wird, an, welche Stadt es kontrolliert (erscheint in Cyan, falls es auch bearbeitet wird)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__PLOTRECOMMENDEDBUILD_TEXT</Tag>
-		<English>&#x63a8;&#x8350;&#x4fee;&#x5efa;</English>
+		<English>&#x63a8;&#x8350;&#x5efa;&#x9020;</English>
 		<German>Empfohlene Bauten</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__PLOTRECOMMENDEDBUILD_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x60ac;&#x505c;&#x4e8e;&#x4f60;&#x6240;&#x6709;&#x7684;&#x5730;&#x5757;&#x65f6;&#xff0c;&#x663e;&#x793a;&#x81ea;&#x52a8;&#x5316;&#x5de5;&#x4eba;&#x5c06;&#x4fee;&#x5efa;&#x7684;&#x8bbe;&#x65bd;&#x6216;&#x9053;&#x8def;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x60ac;&#x6d6e;&#x4e8e;&#x4f60;&#x62e5;&#x6709;&#x7684;&#x5730;&#x5757;&#x4e0a;&#x65f6;&#xff0c;&#x663e;&#x793a;&#x81ea;&#x52a8;&#x5316;&#x5de5;&#x4eba;&#x5c06;&#x4f1a;&#x5efa;&#x9020;&#x7684;&#x8bbe;&#x65bd;&#x6216;&#x9053;&#x8def;&#x3002;</English>
 		<German>Zeigt, wenn der Mauszeiger &#252;ber ein eigenes Gel&#228;ndefeld bewegt wird, die Modernisierungen oder Stra&#223;en an, die ein automatisierter Bautrupp errichten w&#252;rde</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__PARTIALBUILDS_TEXT</Tag>
-		<English>&#x90e8;&#x5206;&#x5b8c;&#x6210;&#x7684;&#x4fee;&#x5efa;</English>
+		<English>&#x672a;&#x5b8c;&#x5de5;&#x5efa;&#x9020;</English>
 		<German>Unvollst&#228;ndige Bauten</German>
 		<Italian>Costruzione parziale</Italian>
 		<Spanish>Mejoras Parciales</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__PARTIALBUILDS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x60ac;&#x505c;&#x4e8e;&#x5b58;&#x5728;&#x90e8;&#x5206;&#x5b8c;&#x6210;&#x4fee;&#x5efa;&#xff08;&#x8bbe;&#x65bd;&#x3001;&#x9053;&#x8def;&#x4e0e;&#x780d;&#x4f10;&#xff09;&#x7684;&#x5730;&#x5757;&#x65f6;&#xff0c;&#x53ea;&#x8981;&#x4f60;&#x7684;&#x5de5;&#x4eba;&#x786e;&#x5b9e;&#x80fd;&#x591f;&#x5b8c;&#x6210;&#xff0c;&#x5c31;&#x663e;&#x793a;&#x5b8c;&#x6210;&#x5b83;&#x4eec;&#x6240;&#x9700;&#x7684;&#x5de5;&#x4eba;&#x56de;&#x5408;&#x6570;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x60ac;&#x6d6e;&#x4e8e;&#x542b;&#x6709;&#x672a;&#x5b8c;&#x5de5;&#x5efa;&#x9020;&#xff08;&#x8bbe;&#x65bd;&#x3001;&#x9053;&#x8def;&#x4e0e;&#x780d;&#x4f10;&#xff09;&#x7684;&#x5730;&#x5757;&#x4e0a;&#x65f6;&#xff0c;&#x53ea;&#x8981;&#x4f60;&#x7684;&#x5de5;&#x4eba;&#x786e;&#x5b9e;&#x80fd;&#x591f;&#x5b8c;&#x6210;&#xff0c;&#x5c31;&#x4f1a;&#x663e;&#x793a;&#x5b8c;&#x6210;&#x5b83;&#x4eec;&#x6240;&#x9700;&#x7684;&#x5de5;&#x4eba;&#x56de;&#x5408;&#x6570;&#x3002;</English>
 		<German>Zeigt, wenn der Mauszeiger &#252;ber ein Gel&#228;ndefeld mit teilweise fertig gestellten Bauten (Modernisierungen, Stra&#223;en und Waldrodungen) bewegt wird, an, wie viele Runden ein Bautrupp noch ben&#246;tigt, um sie fertig zu stellen, wenn der Bautrupp diese Aktionen beherrscht</German>
 		<Italian>Quando &#232; selezionato, posizionare il cursore su una casella che contiene costruzioni (miglioramenti, strade, eccetera) parzialmente completate mostrer&#224; quanti turni di lavoro sono necessari per completare l'opera.</Italian>
 	</TEXT>
@@ -102,14 +102,14 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__UPDATEUNITNAMEONUPGRADE_TEXT</Tag>
-		<English>&#x5347;&#x7ea7;&#x66f4;&#x540d;</English>
+		<English>&#x5347;&#x7ea7;&#x540d;&#x79f0;</English>
 		<German>Modernisierung ber&#252;cksichtigen</German>
 		<Italian>Aggiornamento del nome</Italian>
 		<Spanish>Nombre Actualizado</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__UPDATEUNITNAMEONUPGRADE_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x82e5;&#x5355;&#x4f4d;&#x540d;&#x79f0;&#x4e2d;&#x542b;&#x6709;&#x5176;&#x7c7b;&#x578b;&#xff08;&#x4f8b;&#x5982;&#x201c;&#x4f26;&#x6566;&#x7684;&#x5251;&#x58eb; 5 &#x53f7;&#x201d;&#xff09;&#xff0c;&#x5219;&#x5347;&#x7ea7;&#x65f6;&#x4f1a;&#x66ff;&#x6362;&#x4e3a;&#x65b0;&#x7c7b;&#x578b;&#xff08;&#x4f8b;&#x5982;&#x201c;&#x4f26;&#x6566;&#x7684;&#x9524;&#x5175; 5 &#x53f7;&#x201d;&#xff09;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x82e5;&#x5355;&#x4f4d;&#x540d;&#x79f0;&#x4e2d;&#x542b;&#x6709;&#x5176;&#x7c7b;&#x578b;&#xff08;&#x5982;"&#x4f26;&#x6566;&#x7684;&#x5251;&#x58eb;5&#x53f7;"&#xff09;&#xff0c;&#x5347;&#x7ea7;&#x65f6;&#x5c06;&#x66ff;&#x6362;&#x4e3a;&#x65b0;&#x7c7b;&#x578b;&#xff08;&#x5982;"&#x4f26;&#x6566;&#x7684;&#x9524;&#x5175;5&#x53f7;"&#xff09;&#x3002;</English>
 		<German>Falls der Einheitentyp im Namen einer Einheit vorkommt, wird dieser bei einer Modernisierung mit der neuen Bezeichnung ersetzt (beispielsweise wird aus "Schwertk&#228;mpfer 5 aus London" dann "Axtk&#228;mpfer 5 aus London")</German>
 		<Italian>Quando &#232; selezionato, se il nome di una Unit&#224; contiene il suo tipo (p. es. "Arciere I di Roma"), questo viene rimpiazzato dal nuovo tipo quando l'Unit&#224; viene aggiornata (p. es. "Balestriere I di Roma").</Italian>
 		<Spanish>Cuando se activa, si el nombre de una unidad contiene su tipo (e.g. "Arquero 5 de Londres"), se reemplaza por el nuevo tipo cuando se actualiza (e.g. "Ballestero 5 de Londres").</Spanish>
@@ -122,17 +122,17 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__UNITEXPERIENCE_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x8bad;&#x7ec3;&#x5355;&#x4f4d;&#x6309;&#x94ae;&#x7684;&#x60ac;&#x505c;&#x6587;&#x672c;&#x4e2d;&#x663e;&#x793a;&#x65b0;&#x5355;&#x4f4d;&#x5c06;&#x83b7;&#x5f97;&#x7684;&#x7ecf;&#x9a8c;&#x503c;&#x4e0e;&#x53ef;&#x7528;&#x664b;&#x5347;&#x6570;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x8bad;&#x7ec3;&#x5355;&#x4f4d;&#x6309;&#x94ae;&#x7684;&#x60ac;&#x6d6e;&#x63d0;&#x793a;&#x4e2d;&#x663e;&#x793a;&#x65b0;&#x5355;&#x4f4d;&#x5c06;&#x83b7;&#x5f97;&#x7684;&#x7ecf;&#x9a8c;&#x503c;&#x4e0e;&#x53ef;&#x7528;&#x664b;&#x5347;&#x6570;&#x3002;</English>
 		<German>Zeigt die Erfahrungspunkte und die Anzahl m&#246;glicher Bef&#246;rderungen, die eine neue Einheit erhalten wird, im Tooltip des Schalters "Einheit ausbilden" an.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__UNITEXPERIENCEMODIFIERS_TEXT</Tag>
-		<English>&#x521d;&#x59cb;&#x7ecf;&#x9a8c;&#x4fee;&#x6b63;</English>
+		<English>&#x521d;&#x59cb;&#x7ecf;&#x9a8c;&#x52a0;&#x6210;</English>
 		<German>Anf&#228;ngliche Modifikatoren f&#252;r Erfahrung</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__UNITEXPERIENCEMODIFIERS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x8bad;&#x7ec3;&#x5355;&#x4f4d;&#x6309;&#x94ae;&#x7684;&#x60ac;&#x505c;&#x6587;&#x672c;&#x4e2d;&#x663e;&#x793a;&#x7ecf;&#x9a8c;&#x503c;&#x4fee;&#x6b63;&#xff08;&#x5efa;&#x7b51;&#x3001;&#x519b;&#x4e8b;&#x6559;&#x5b98;&#x3001;&#x653f;&#x7b56;&#x4e0e;&#x5947;&#x89c2;&#xff09;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x8bad;&#x7ec3;&#x5355;&#x4f4d;&#x6309;&#x94ae;&#x7684;&#x60ac;&#x6d6e;&#x63d0;&#x793a;&#x4e2d;&#x663e;&#x793a;&#x7ecf;&#x9a8c;&#x503c;&#x52a0;&#x6210;&#xff08;&#x5efa;&#x7b51;&#x3001;&#x519b;&#x4e8b;&#x6559;&#x5b98;&#x3001;&#x5236;&#x5ea6;&#x4e0e;&#x5947;&#x89c2;&#xff09;&#x3002;</English>
 		<German>Zeigt die Modifikatoren f&#252;r Erfahrungspunkte (Geb&#228;ude, Milit&#228;rausbilder, Staatsformen und Wunder) im Tooltip des Schalters "Einheit ausbilden" an.</German>
 	</TEXT>
 
@@ -147,7 +147,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGACTUALEFFECTS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x5efa;&#x7b51;&#x60ac;&#x505c;&#x6587;&#x672c;&#x4e2d;&#x663e;&#x793a;&#x8be5;&#x5efa;&#x7b51;&#x5c06;&#x4e3a;&#x57ce;&#x5e02;&#x4ea7;&#x51fa;&#x7684; [ICON_COMMERCE]&#x3001;[ICON_HAPPY]&#x3001;[ICON_HEALTHY]&#x3001;[ICON_GREATPEOPLE] &#x4e0e; [ICON_DEFENSE] &#x7684;&#x5b9e;&#x9645;&#x4ea7;&#x91cf;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x5efa;&#x7b51;&#x7684;&#x60ac;&#x6d6e;&#x63d0;&#x793a;&#x4e2d;&#x663e;&#x793a;&#x8be5;&#x5efa;&#x7b51;&#x5c06;&#x4e3a;&#x57ce;&#x5e02;&#x4ea7;&#x751f;&#x7684; [ICON_COMMERCE]&#x3001;[ICON_HAPPY]&#x3001;[ICON_HEALTHY]&#x3001;[ICON_GREATPEOPLE] &#x4e0e; [ICON_DEFENSE] &#x7684;&#x5b9e;&#x9645;&#x4ea7;&#x51fa;&#x3002;</English>
 		<German>Zeigt die tats&#228;chlichen Ertr&#228;ge von [ICON_COMMERCE], [ICON_HAPPY], [ICON_HEALTHY], ICON_GREATPEOPLE] und [ICON_DEFENSE] an, die ein Geb&#228;ude f&#252;r eine Stadt erzeugt, wenn der Mauszeiger &#252;ber ein Geb&#228;udesymbol bewegt wird</German>
 		<Italian>Quando &#232; selezionato, nel testo a comparsa degli Edifici della Citt&#224; viene mostrata la resa effettiva in [ICON_COMMERCE], [ICON_HAPPY], [ICON_HEALTHY], [ICON_GREATPEOPLE] e [ICON_DEFENSE] prodotta dagli edifici stessi.</Italian>
 		<Spanish>Cuando se activa, el aporte de [ICON_COMMERCE], [ICON_HAPPY], [ICON_HEALTHY], [ICON_GREATPEOPLE], y [ICON_DEFENSE] que el edificio otorgara a la ciudad se muestra en el texto que aparece al pasar el rat&#243;n sobre el edificio.</Spanish>
@@ -164,7 +164,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__SPEDUPTECHS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x83b7;&#x5f97;&#x4f60;&#x60ac;&#x505c;&#x7684;&#x79d1;&#x6280;&#x540e;&#x5c06;&#x88ab;&#x52a0;&#x901f;&#x7684;&#x79d1;&#x6280;&#xff08;&#x4f8b;&#x5982;&#xff0c;&#x4e00;&#x65e6;&#x4f60;&#x62e5;&#x6709;&#x201c;&#x72e9;&#x730e;&#x201d;&#xff0c;&#x5c06;&#x201c;&#x755c;&#x7267;&#x201d;&#x663e;&#x793a;&#x5728;&#x201c;&#x519c;&#x4e1a;&#x201d;&#x4e0b;&#xff09;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x83b7;&#x5f97;&#x4f60;&#x6b63;&#x60ac;&#x6d6e;&#x7684;&#x79d1;&#x6280;&#x540e;&#x5c06;&#x88ab;&#x52a0;&#x901f;&#x7814;&#x53d1;&#x7684;&#x79d1;&#x6280;&#xff08;&#x4f8b;&#x5982;&#xff0c;&#x4e00;&#x65e6;&#x4f60;&#x5df2;&#x83b7;&#x5f97;&#x72e9;&#x730e;&#xff0c;&#x5c06;&#x519c;&#x4e1a;&#x60ac;&#x6d6e;&#x65f6;&#x4f1a;&#x663e;&#x793a;&#x755c;&#x7267;&#x4e1a;&#xff09;&#x3002;</English>
 		<German>Zeigt Technologien an, die durch das Vorhandensein der Technologie beschleunigt w&#252;rden, &#252;ber der sich der Mauszeiger befindet (beispielsweise w&#252;rde "Tierzucht" bei "Landwirtschaft" erscheinen, wenn bereits "Jagd" erforscht w&#228;re)</German>
 		<Italian>Quando &#232; selezionato, nel testo a comparsa di una Tecnologia vengono mostrate le Tecnologie che risultano accelerate dall'acquisizione della Tecnologia in questione (p. es. una volta acquisita la tecnologia 'Caccia', se posizionerete il cursore sulla tecnologia 'Agricoltura' vi verr&#224; ricordato che questa accelerer&#224; la tecnologia 'Allevamento di animali').</Italian>
 		<Spanish>Cuando se activa, muestra las tecnolog&#237;as que se desbloquearan adquiriendo la tecnolog&#237;a sobra la que estas pasando el rat&#243;n (e.g. Ganader&#237;a se mostrara para Agricultura una vez ya tengas Caza).</Spanish>
@@ -178,7 +178,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__TECHTRADEDENIAL_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x60ac;&#x505c;&#x4e8e;&#x5916;&#x4ea4;&#x987e;&#x95ee;&#x201c;&#x79d1;&#x6280;&#x201d;&#x9875;&#x201c;&#x4e0d;&#x613f;&#x4ea4;&#x6613;&#x201d;&#x4e00;&#x680f;&#x4e2d;&#x7684;&#x67d0;&#x9879;&#x79d1;&#x6280;&#x65f6;&#xff0c;&#x4f1a;&#x663e;&#x793a; AI &#x62d2;&#x7edd;&#x8be5;&#x4ea4;&#x6613;&#x7684;&#x7406;&#x7531;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5c06;&#x5916;&#x4ea4;&#x987e;&#x95ee;&#x79d1;&#x6280;&#x9875;"&#x4e0d;&#x613f;&#x4ea4;&#x6613;"&#x680f;&#x4e2d;&#x7684;&#x67d0;&#x9879;&#x79d1;&#x6280;&#x60ac;&#x6d6e;&#x65f6;&#xff0c;&#x4f1a;&#x663e;&#x793a; AI &#x62d2;&#x7edd;&#x8be5;&#x4ea4;&#x6613;&#x7684;&#x7406;&#x7531;&#x3002;</English>
 		<German>Zeigt die Gr&#252;nde f&#252;r die Verweigerung eines Handels an, wenn der Mauszeiger &#252;ber eine Technologie in der Spalte "Unverhandelbar" auf der Seite "Technologien" des Auslandsberaters bewegt wird</German>
 		<Italian>Quando &#232; selezionato, posizionando il cursore su una Tecnologia nella colonna 'Non commercia' della pagina delle Tecnologie del Consigliere Estero verr&#224; visualizzata la ragione per cui l'AI rifiuta di commerciare tale Tecnologia.</Italian>
 		<Spanish>Cuando se activa, pasando el rat&#243;n por encima de una tecnolog&#237;a en la columna de "No Comercia" en la P&#225;gina de Tecnolog&#237;a en el Consejero de Exteriores te mostrar la raz&#243;n por la IA no comercia esa tecnolog&#237;a.</Spanish>
@@ -195,7 +195,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__BONUSTRADEDENIAL_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x60ac;&#x505c;&#x4e8e;&#x5916;&#x4ea4;&#x987e;&#x95ee;&#x201c;&#x8d44;&#x6e90;&#x201d;&#x9875;&#x201c;&#x4e0d;&#x613f;&#x4ea4;&#x6613;&#x201d;&#x4e00;&#x680f;&#x4e2d;&#x7684;&#x67d0;&#x9879;&#x8d44;&#x6e90;&#x65f6;&#xff0c;&#x4f1a;&#x663e;&#x793a; AI &#x62d2;&#x7edd;&#x8be5;&#x4ea4;&#x6613;&#x7684;&#x7406;&#x7531;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5c06;&#x5916;&#x4ea4;&#x987e;&#x95ee;&#x8d44;&#x6e90;&#x9875;"&#x4e0d;&#x613f;&#x4ea4;&#x6613;"&#x680f;&#x4e2d;&#x7684;&#x67d0;&#x9879;&#x8d44;&#x6e90;&#x60ac;&#x6d6e;&#x65f6;&#xff0c;&#x4f1a;&#x663e;&#x793a; AI &#x62d2;&#x7edd;&#x8be5;&#x4ea4;&#x6613;&#x7684;&#x7406;&#x7531;&#x3002;</English>
 		<German>Zeigt die Gr&#252;nde f&#252;r die Verweigerung eines Handels an, wenn der Mauszeiger &#252;ber eine Ressource in der Spalte "Unverhandelbar" auf der Seite "Ressourcen" des Auslandsberaters bewegt wird</German>
 		<Italian>Quando &#232; selezionato, posizionando il cursore su una Risorsa nella colonna 'Non commercia' della pagina delle Risorse del Consigliere Estero verr&#224; visualizzata la ragione per cui l'AI rifiuta di commerciare tale Risorsa.</Italian>
 		<Spanish>Cuando se activa, pasando el rat&#243;n por encima de un recurso en la columna de "No Comercia" en la P&#225;gina de Recursos en el Consejero de Exteriores te mostrar la raz&#243;n por la IA no comercia ese recurso.</Spanish>
@@ -213,7 +213,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__BASECOMMERCE_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x5fc5;&#x8981;&#x65f6;&#x4e8e;&#x6bcf;&#x79cd;&#x5546;&#x4e1a;&#x7c7b;&#x578b;&#x7684;&#x60ac;&#x505c;&#x6587;&#x672c;&#x4e2d;&#x663e;&#x793a;&#x5176;&#x5c0f;&#x8ba1;&#xff08;&#x4fee;&#x6b63;&#x524d;&#x7684;&#x603b;&#x989d;&#xff09;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x6bcf;&#x79cd;&#x5546;&#x4e1a;&#x7c7b;&#x578b;&#x7684;&#x60ac;&#x6d6e;&#x63d0;&#x793a;&#x4e2d;&#xff0c;&#x4e8e;&#x5fc5;&#x8981;&#x65f6;&#x663e;&#x793a;&#x5c0f;&#x8ba1;&#xff08;&#x52a0;&#x6210;&#x524d;&#x7684;&#x603b;&#x989d;&#xff09;&#x3002;</English>
 		<German>Zeigt im Tooltip jeder Einkommensart eine Zwischensumme (Gesamtertrag vor Modifikatoren) an, falls dies erforderlich ist</German>
 		<Italian>Quando &#232; selezionato, nel testo a comparsa di ogni tipo di Commercio viene mostrato (quando necessario) il relativo subtotale (il totale prima dei modificatori).</Italian>
 		<Spanish>Cuando se activa, se muestra el subtotal (total antes de los modificadores) para cada tipo de comercio cuando se pasa el rat&#243;n por encima de ellos.</Spanish>
@@ -227,7 +227,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__GREATPEOPLERATEBREAKDOWN_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x60ac;&#x505c;&#x6587;&#x672c;&#x4e2d;&#x663e;&#x793a;&#x6bcf;&#x79cd;&#x7c7b;&#x578b;&#x6bcf;&#x56de;&#x5408;&#x5404;&#x81ea;&#x7684; [ICON_GREATPEOPLE] &#x901f;&#x7387;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x60ac;&#x6d6e;&#x63d0;&#x793a;&#x4e2d;&#x663e;&#x793a;&#x5404;&#x7c7b;&#x578b;&#x6bcf;&#x56de;&#x5408;&#x7684;&#x5355;&#x72ec; [ICON_GREATPEOPLE] &#x901f;&#x7387;&#x3002;</English>
 		<German>Zeigt im Tooltip die [ICON_GREATPEOPLE]/Runde f&#252;r jede einzelne Art Gro&#223;e Pers&#246;nlichkeit an</German>
 		<Italian>Quando &#232; selezionato, nel testo a comparsa di ogni tipo di Grande Personaggio viene mostrato il tasso individuale di [ICON_GREATPEOPLE] per turno.</Italian>
 		<Spanish>Cuando se activa, muestra el incremento por turno de [ICON_GREATPEOPLE] para cada tipo cuando se pasa el rat&#243;n por encima de ellos.</Spanish>
@@ -235,14 +235,14 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGSAVEDMAINTENANCE_TEXT</Tag>
-		<English>&#x7ef4;&#x62a4;</English>
+		<English>&#x7ef4;&#x62a4;&#x8d39;</English>
 		<German>Unterhaltskosten</German>
 		<Italian>Mantenimento</Italian>
 		<Spanish>Mantenimiento</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGSAVEDMAINTENANCE_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x5c06;&#x5f71;&#x54cd;&#x7ef4;&#x62a4;&#x6210;&#x672c;&#xff08;[ICON_GOLD]&#xff09;&#x7684;&#x5efa;&#x7b51;&#x53ca;&#x5176;&#x5f71;&#x54cd;&#x5e45;&#x5ea6;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x5c06;&#x5f71;&#x54cd;&#x7ef4;&#x62a4;&#x8d39;&#x6210;&#x672c;&#xff08;[ICON_GOLD]&#xff09;&#x7684;&#x5efa;&#x7b51;&#x53ca;&#x5176;&#x5f71;&#x54cd;&#x5e45;&#x5ea6;&#x3002;</English>
 		<German>Zeigt die Geb&#228;ude an, die Einfluss auf die Unterhaltskosten ([ICON_GOLD]) haben und welchen genau</German>
 		<Italian>Quando &#232; selezionato, vengono visualizzati gli edifici che influenzano il mantenimento ([ICON_GOLD]) e l'ammontare con cui lo fanno.</Italian>
 		<Spanish>Cuando se activa, muestra los edificios que afectan a los costes de mantenimiento ([ICON_GOLD]) y por cuanto.</Spanish>
@@ -263,7 +263,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALPRODUCTION_TEXT</Tag>
-		<English>&#x751f;&#x4ea7;</English>
+		<English>&#x4ea7;&#x80fd;</English>
 		<German>Produktion</German>
 		<Italian>Produzione</Italian>
 		<Spanish>Producci&#243;n</Spanish>
@@ -305,7 +305,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALHAPPINESS_TEXT</Tag>
-		<English>&#x5e78;&#x798f;</English>
+		<English>&#x5feb;&#x4e50;</English>
 		<German>Zufriedenheit</German>
 		<Italian>Felicit&#224;</Italian>
 		<Spanish>Felicidad</Spanish>
@@ -340,7 +340,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALDEFENSE_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x5c06;&#x5f71;&#x54cd;&#x57ce;&#x5e02; [ICON_DEFENSE] &#x53ca;&#x62b5;&#x5fa1;&#x8f70;&#x70b8;&#x7684;&#x5efa;&#x7b51;&#x53ca;&#x5176;&#x5f71;&#x54cd;&#x5e45;&#x5ea6;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x5c06;&#x5f71;&#x54cd;&#x57ce;&#x5e02; [ICON_DEFENSE] &#x53ca;&#x6297;&#x8f70;&#x51fb;&#x80fd;&#x529b;&#x7684;&#x5efa;&#x7b51;&#x53ca;&#x5176;&#x5f71;&#x54cd;&#x5e45;&#x5ea6;&#x3002;</English>
 		<German>Zeigt die Geb&#228;ude an, die Einfluss auf [ICON_DEFENSE] einer Stadt und ihren Schutz gegen Bomabardierungen haben und welchen genau</German>
 		<Italian>Quando &#232; selezionato, vengono visualizzati gli edifici che influenzano la natalit&#224; dei Grandi Personaggi ([ICON_DEFENSE]) e l'ammontare con cui lo fanno.</Italian>
 		<Spanish>Cuando se activa, muestra los edificios que afectan a [ICON_DEFENSE] de la ciudad y de bombardeo y por cuanto.</Spanish>
@@ -351,22 +351,22 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__CONSCRIPTUNIT_TEXT</Tag>
-		<English>&#x5f81;&#x5175;&#x5355;&#x4f4d;&#x8be6;&#x60c5;</English>
+		<English>&#x5f81;&#x53ec;&#x5355;&#x4f4d;&#x8be6;&#x60c5;</English>
 		<German>Zwangsrekrutierung (Info)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__CONSCRIPTUNIT_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x5f81;&#x5175;&#x6309;&#x94ae;&#x7684;&#x60ac;&#x505c;&#x6587;&#x672c;&#x4e2d;&#x663e;&#x793a;&#x5c06;&#x88ab;&#x5f81;&#x53ec;&#x5355;&#x4f4d;&#x7684;&#x5b8c;&#x6574;&#x8be6;&#x60c5;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x5f81;&#x53ec;&#x6309;&#x94ae;&#x7684;&#x60ac;&#x6d6e;&#x63d0;&#x793a;&#x4e2d;&#x663e;&#x793a;&#x5c06;&#x88ab;&#x5f81;&#x53ec;&#x5355;&#x4f4d;&#x7684;&#x5b8c;&#x6574;&#x8be6;&#x60c5;&#x3002;</English>
 		<German>Zeigt alle Informationen &#252;ber die Einheit an, die in einer Stadt rekrutiert werden kann, wenn der Mauszeiger &#252;ber die entsprechende Schaltfl&#228;che im Stadt-Bildschirm bewegt wird</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__CONSCRIPTLIMIT_TEXT</Tag>
-		<English>&#x5f81;&#x5175;&#x4e0a;&#x9650;</English>
+		<English>&#x5f81;&#x53ec;&#x4e0a;&#x9650;</English>
 		<German>Zwangsrekrutierung (Obergrenze)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__CONSCRIPTLIMIT_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x5f81;&#x5175;&#x6309;&#x94ae;&#x7684;&#x60ac;&#x505c;&#x6587;&#x672c;&#x4e2d;&#x663e;&#x793a;&#x672c;&#x56de;&#x5408;&#x4f60;&#x53ef;&#x5f81;&#x53ec;&#x7684;&#x5355;&#x4f4d;&#x6570;&#x4ee5;&#x53ca;&#x8be5;&#x57ce;&#x5e02;&#x662f;&#x5426;&#x5df2;&#x7ecf;&#x5f81;&#x8fc7;&#x5175;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x5f81;&#x53ec;&#x6309;&#x94ae;&#x7684;&#x60ac;&#x6d6e;&#x63d0;&#x793a;&#x4e2d;&#x663e;&#x793a;&#x672c;&#x56de;&#x5408;&#x4f60;&#x53ef;&#x5f81;&#x53ec;&#x7684;&#x5355;&#x4f4d;&#x6570;&#xff0c;&#x4ee5;&#x53ca;&#x8be5;&#x57ce;&#x5e02;&#x662f;&#x5426;&#x5df2;&#x5f81;&#x53ec;&#x8fc7;&#x3002;</English>
 		<German>Zeigt die Anzahl der Einheiten an, die in dieser Runde rekrutiert werden k&#246;nnen, und ob eine Stadt bereits rekrutiert hat, wenn der Mauszeiger &#252;ber die entsprechende Schaltfl&#228;che im Stadt-Bildschirm bewegt wird</German>
 	</TEXT>
 
@@ -379,21 +379,21 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__HURRYOVERFLOW_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x97ad;&#x7b56;&#x6309;&#x94ae;&#x7684;&#x60ac;&#x505c;&#x6587;&#x672c;&#x4e2d;&#x5305;&#x542b;&#x65bd;&#x884c;&#x97ad;&#x7b56;&#x6240;&#x4ea7;&#x751f;&#x7684;&#x6ea2;&#x51fa;&#xff08;[ICON_PRODUCTION] &#x4e0e; [ICON_GOLD]&#xff09;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x97ad;&#x7b56;&#x6309;&#x94ae;&#x7684;&#x60ac;&#x6d6e;&#x63d0;&#x793a;&#x4f1a;&#x5305;&#x542b;&#x65bd;&#x884c;&#x97ad;&#x7b56;&#x6240;&#x4ea7;&#x751f;&#x7684;&#x6ea2;&#x51fa;&#xff08;[ICON_PRODUCTION] &#x4e0e; [ICON_GOLD]&#xff09;&#x3002;</English>
 		<German>Zeigt im Tooltip der Schaltfl&#228;che f&#252;r den Einsatz von Zwangsarbeit zur Produktionsbeschleunigung den &#220;berschuss an ([ICON_PRODUCTION] und [ICON_GOLD]), der durch deren Einsatz erzeugt wird</German>
 		<Italian>Quando &#232; selezionato, il testo a comparsa del Bottone dei Sacrifici mostra il surplus ([ICON_PRODUCTION] e [ICON_GOLD]) generato dall'accelerazione mediante sacrifici.</Italian>
 		<Spanish>Cuando se activa, el texto que se muestra cuando se pasa el rat&#243;n por encima del bot&#243;n de sacrificio incluye el exceso de ([ICON_PRODUCTION] y [ICON_GOLD]) que se crea cuando se sacrifica poblaci&#243;n.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__HURRYOVERFLOWINCLUDECURRENT_TEXT</Tag>
-		<English>&#x8ba1;&#x5165;&#x5f53;&#x524d;&#x56de;&#x5408;</English>
+		<English>&#x8ba1;&#x5165;&#x5f53;&#x524d;</English>
 		<German>Aktuelle Runde einbeziehen</German>
 		<Italian>Includi corrente</Italian>
 		<Spanish>Incluir Actual</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__HURRYOVERFLOWINCLUDECURRENT_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x97ad;&#x7b56;&#x6ea2;&#x51fa;&#x7684;&#x8ba1;&#x7b97;&#x4f1a;&#x8ba1;&#x5165;&#x5f53;&#x524d;&#x7684; [ICON_PRODUCTION] &#x901f;&#x7387;&#x3002;&#x7531;&#x4e8e;&#x65bd;&#x884c;&#x97ad;&#x7b56;&#x901a;&#x5e38;&#x4f1a;&#x5f71;&#x54cd;&#x901f;&#x7387;&#xff0c;&#x5b9e;&#x9645;&#x6ea2;&#x51fa;&#x53ef;&#x80fd;&#x6709;&#x6240;&#x4e0d;&#x540c;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x97ad;&#x7b56;&#x6ea2;&#x51fa;&#x7684;&#x8ba1;&#x7b97;&#x4f1a;&#x8ba1;&#x5165;&#x5f53;&#x524d; [ICON_PRODUCTION] &#x901f;&#x7387;&#x3002;&#x7531;&#x4e8e;&#x65bd;&#x884c;&#x97ad;&#x7b56;&#x901a;&#x5e38;&#x4f1a;&#x5f71;&#x54cd;&#x8be5;&#x901f;&#x7387;&#xff0c;&#x5b9e;&#x9645;&#x6ea2;&#x51fa;&#x53ef;&#x80fd;&#x6709;&#x6240;&#x4e0d;&#x540c;&#x3002;</English>
 		<German>Bezieht [ICON_PRODUCTION]/Runde einer Stadt aus der aktuellen Runde in die Berechnung des Produktions&#252;berschusses ein, da der Einsatz von Zwangsarbeit normalerweise die Rate beeinflusst und damit auch den tats&#228;chlichen &#220;berschuss ver&#228;ndern kann</German>
 		<Italian>Quando &#232; selezionato, il calcolo del surplus da sacrifici include il tasso di produzione ([ICON_PRODUCTION]) corrente. Poich&#232; l'accelerazione solitamente influenza tale tasso, il surplus effettivo pu&#242; differire da quello mostrato.</Italian>
 		<Spanish>Cuando se activa, el exceso de producci&#243;n al sacrificar poblaci&#243;n incluye la [ICON_PRODUCTION] actual. Dado que sacrificar poblaci&#243;n normalmente afecta al ratio de producci&#243;n, el exceso real puede ser diferente.</Spanish>
@@ -408,7 +408,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__REMOVESPECIALIST_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x79fb;&#x9664;&#x4e13;&#x5bb6;&#x6309;&#x94ae;&#x7684;&#x60ac;&#x505c;&#x6587;&#x672c;&#x4e2d;&#x5305;&#x542b;&#x4e0e;&#x6dfb;&#x52a0;&#x4e13;&#x5bb6;&#x6309;&#x94ae;&#x4e0a;&#x76f8;&#x540c;&#x7684;&#x4e13;&#x5bb6;&#x4fe1;&#x606f;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x79fb;&#x9664;&#x4e13;&#x5bb6;&#x6309;&#x94ae;&#x7684;&#x60ac;&#x6d6e;&#x63d0;&#x793a;&#x4f1a;&#x5305;&#x542b;&#x4e0e;&#x6dfb;&#x52a0;&#x4e13;&#x5bb6;&#x6309;&#x94ae;&#x76f8;&#x540c;&#x7684;&#x4e13;&#x5bb6;&#x4fe1;&#x606f;&#x3002;</English>
 		<German>Zeigt im Tooltip der Schaltfl&#228;che "Spezialist entfernen" dieselben Informationen &#252;ber einen Spezialisten an wie bei der Schaltfl&#228;che "Spezialist hinzuf&#252;gen"</German>
 		<Italian>Quando &#232; selezionato, il testo a comparsa del Bottone di rimozione degli Specialisti include le stesse informazioni mostrate da quello del Bottone di aggiunta degli Specialisti.</Italian>
 		<Spanish>Cuando se activa, el texto que se muestra cuando se pasa el rat&#243;n por encima del bot&#243;n de quitar especialista incluye la misma informaci&#243;n que en el bot&#243;n de a&#241;adir especialista.</Spanish>
@@ -422,7 +422,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__CDAZOOMCITYDETAILS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x7f29;&#x653e;&#x81f3;&#x57ce;&#x5e02;&#x6309;&#x94ae;&#x5305;&#x542b;&#x5173;&#x4e8e;&#x8be5;&#x57ce;&#x5e02;&#x7684;&#x8be6;&#x7ec6;&#x4fe1;&#x606f;&#xff0c;&#x5982;&#x540c;&#x60ac;&#x505c;&#x4e8e;&#x5730;&#x56fe;&#x4e0a;&#x7684;&#x57ce;&#x5e02;&#x680f;&#x65f6;&#x4e00;&#x822c;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x7f29;&#x653e;&#x81f3;&#x57ce;&#x5e02;&#x6309;&#x94ae;&#x4f1a;&#x5305;&#x542b;&#x5173;&#x4e8e;&#x8be5;&#x57ce;&#x5e02;&#x7684;&#x8be6;&#x7ec6;&#x4fe1;&#x606f;&#xff0c;&#x5982;&#x540c;&#x5728;&#x5730;&#x56fe;&#x4e0a;&#x60ac;&#x6d6e;&#x4e8e;&#x57ce;&#x5e02;&#x680f;&#x65f6;&#x4e00;&#x822c;&#x3002;</English>
 		<German>Zeigt im Tooltip der Schaltfl&#228;che "Zur Stadt zoomen" dieselben ausf&#252;hrlichen Informationen an, wie wenn der Mauszeiger &#252;ber einen Stadtbalken auf der Karte bewegt w&#252;rde</German>
 		<Italian>Quando &#232; selezionato, il testo a comparsa del Bottone di Zoom Cittadino nella schermata del 'Consigliere Interno' include informazioni dettagliate sulla Citt&#224;, come quelle visualizzate quando si posiziona il cursore sulla Barra Cittadina sulla mappa.</Italian>
 		<Spanish>Cuando se activa, el bot&#243;n de Zoom a la Ciudad incluye informaci&#243;n detallada sobre la ciudad igual que cuando se pasa el rat&#243;n por encima de la barra de ciudad en el mapa.</Spanish>
@@ -435,7 +435,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__REMOVEFEATUREHEALTHEFFECTS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x4efb;&#x4f55;&#x5c06;&#x79fb;&#x9664;&#x5e26;&#x5065;&#x5eb7;&#x5f71;&#x54cd;&#x5730;&#x8c8c;&#xff08;&#x4f8b;&#x5982;&#x68ee;&#x6797;&#x6216;&#x4e1b;&#x6797;&#xff09;&#x7684;&#x5de5;&#x4eba;&#x884c;&#x52a8;&#xff0c;&#x5176;&#x60ac;&#x505c;&#x6587;&#x672c;&#x4f1a;&#x5217;&#x51fa;&#x5bf9;&#x6bcf;&#x5ea7;&#x90bb;&#x8fd1;&#x57ce;&#x5e02;&#x7684;&#x5f71;&#x54cd;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x4efb;&#x4f55;&#x5c06;&#x6e05;&#x9664;&#x5177;&#x6709;&#x5065;&#x5eb7;&#x5f71;&#x54cd;&#x4e4b;&#x5730;&#x8c8c;&#xff08;&#x5982;&#x68ee;&#x6797;&#x6216;&#x4e1b;&#x6797;&#xff09;&#x7684;&#x5de5;&#x4eba;&#x884c;&#x52a8;&#xff0c;&#x5176;&#x60ac;&#x6d6e;&#x63d0;&#x793a;&#x4f1a;&#x5217;&#x51fa;&#x5bf9;&#x9644;&#x8fd1;&#x6bcf;&#x5ea7;&#x57ce;&#x5e02;&#x7684;&#x5f71;&#x54cd;&#x3002;</English>
 		<German>Zeigt im Tooltip jeder Aktion eines Bautrupps, die eine Gel&#228;ndeeigenschaft mit Einfluss auf die Gesundheit von St&#228;dten entfernen w&#252;rde (beispielsweise Wald oder Dschungel), die entsprechenden Auswirkungen auf nahegelegene St&#228;dte</German>
 	</TEXT>
 	<TEXT>
@@ -445,7 +445,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MISCHOVER__REMOVEFEATUREHEALTHEFFECTSCOUNTOTHERTILES_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x79fb;&#x9664;&#x5730;&#x8c8c;&#x5bf9;&#x6bcf;&#x5ea7;&#x90bb;&#x8fd1;&#x57ce;&#x5e02;&#x7684;&#x5f71;&#x54cd;&#x4f1a;&#x5c06;&#x6b63;&#x5728;&#x5176;&#x4ed6;&#x5730;&#x5757;&#x4e0a;&#x6267;&#x884c;&#x79fb;&#x9664;&#x5730;&#x8c8c;&#x64cd;&#x4f5c;&#x7684;&#x5de5;&#x4eba;&#x7eb3;&#x5165;&#x8003;&#x8651;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x6e05;&#x9664;&#x67d0;&#x5730;&#x8c8c;&#x5bf9;&#x9644;&#x8fd1;&#x6bcf;&#x5ea7;&#x57ce;&#x5e02;&#x7684;&#x5f71;&#x54cd;&#xff0c;&#x4f1a;&#x5c06;&#x6b63;&#x5728;&#x5176;&#x4ed6;&#x5730;&#x5757;&#x4e0a;&#x6267;&#x884c;&#x6e05;&#x9664;&#x5730;&#x8c8c;&#x884c;&#x52a8;&#x7684;&#x5de5;&#x4eba;&#x4e00;&#x5e76;&#x7eb3;&#x5165;&#x8003;&#x91cf;&#x3002;</English>
 		<German>Bezieht in die Anzeige der Gesundheitseffekte die Aktionen anderer Bautrupps ein, die ebenfalls Gel&#228;ndeeigenschaften entfernen</German>
 	</TEXT>
 

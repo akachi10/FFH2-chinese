@@ -9,7 +9,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_REQUIRES_NUM_SPECIAL_BUILDINGS</Tag>
 		<!-- %s1_Name = Can be Buildings, Units, etc -->
-		<English>[COLOR_WARNING_TEXT]Requires [LINK=literal]%s1_Name[\LINK] (%d2_NumCurr/%d3_NumTotal Total)[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x9700;&#x8981;[LINK=literal]%s1_Name[\LINK]&#xff08;&#x5171;%d2_NumCurr/%d3_NumTotal&#xff09;[COLOR_REVERT]</English>
 		<French>[COLOR_WARNING_TEXT]Requiert [LINK=literal]%s1_Name[\LINK] (%d2_NumCurr/%d3_NumTotal au total)[COLOR_REVERT]</French>
 		<German>[COLOR_WARNING_TEXT]Erfordert [LINK=literal]%s1_Name[\LINK] (%d2_NumCurr/%d3_NumTotal insgesamt)[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Richiede [LINK=literal]%s1_Name[\LINK] (%d2_NumCurr/%d3_NumTotal totali)[COLOR_REVERT]</Italian>
@@ -18,7 +18,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_REQUIRES_NUM_SPECIAL_BUILDINGS_NO_CITY</Tag>
 		<!-- %s1_Name = Can be Buildings, Units, etc -->
-		<English>[COLOR_WARNING_TEXT]Requires [LINK=literal]%s1_Name[\LINK] (%d2_NumTotal Total)[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x9700;&#x8981;[LINK=literal]%s1_Name[\LINK]&#xff08;&#x5171;%d2_NumTotal&#xff09;[COLOR_REVERT]</English>
 		<French>[COLOR_WARNING_TEXT]Requiert [LINK=literal]%s1_Name[\LINK] (%d2_NumTotal au total)[COLOR_REVERT]</French>
 		<German>[COLOR_WARNING_TEXT]Erfordert [LINK=literal]%s1_Name[\LINK] (%d2_NumTotal insgesamt)[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Richiede [LINK=literal]%s1_Name[\LINK] (%d2_NumTotal totali)[COLOR_REVERT]</Italian>
@@ -29,7 +29,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_TERRAIN_TURN_DAMAGE</Tag>
-		<English>[NEWLINE][ICON_BULLET]%D1%% damage/turn</English>
+		<English>[NEWLINE][ICON_BULLET]&#x6bcf;&#x56de;&#x5408;%D1%%&#x4f24;&#x5bb3;</English>
 		<French>[NEWLINE][ICON_BULLET]%D1%% dommage/tour</French>
 		<German>[NEWLINE][ICON_BULLET]%D1%% Schaden/Runde</German>
 		<Italian>[NEWLINE][ICON_BULLET]%D1%% danni/turno</Italian>
@@ -37,7 +37,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TERRAIN_TURN_HEALING</Tag>
-		<English>[NEWLINE][ICON_BULLET]%D1%% healing/turn</English>
+		<English>[NEWLINE][ICON_BULLET]&#x6bcf;&#x56de;&#x5408;%D1%%&#x6cbb;&#x7597;</English>
 		<French>[NEWLINE][ICON_BULLET]%D1%% gu&#233;rison/tour</French>
 		<German>[NEWLINE][ICON_BULLET]%D1%% Heilung/Runde</German>
 		<Italian>[NEWLINE][ICON_BULLET]%D1%% guarigione/turno</Italian>

@@ -27,7 +27,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_CREATED_BY_HEADER</Tag>
-		<English>&#x7531; The BUG Mod &#x5236;&#x4f5c;&#x3002;</English>
+		<English>&#x7531; BUG Mod &#x5236;&#x4f5c;&#x3002;</English>
 		<German>Erstellt durch die BUG Mod.</German>
 		<Italian>Creato dal BUG Mod.</Italian>
 		<Spanish>Creado Por The BUG Mod.</Spanish>
@@ -72,7 +72,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HELP_MISSING_BODY</Tag>
-		<English>Could not find the file "%s1" in the search paths. See the System tab on the BUG Options screen [ALT + CTRL + O] for details.</English>
+		<English>&#x5728;&#x641c;&#x7d22;&#x8def;&#x5f84;&#x4e2d;&#x627e;&#x4e0d;&#x5230;&#x6587;&#x4ef6; "%s1"&#x3002;&#x8be6;&#x60c5;&#x8bf7;&#x67e5;&#x770b; BUG &#x9009;&#x9879;&#x754c;&#x9762; [ALT + CTRL + O] &#x7684;&#x7cfb;&#x7edf;&#x6807;&#x7b7e;&#x9875;&#x3002;</English>
 		<French>Impossible de trouver le fichier "%s1" dans les chemins recherch&#233;s. Voir l'onglet System dans l'&#233;cran d'options du BUG Mod [ALT + CTRL + O] pour les d&#233;tails.</French>
 		<German>Die Datei "%s1" konnte innerhalb der erkannten Pfade nicht gefunden werden. Details finden Sie im Reiter "System" im Optionsbildschirm der BuG Mod (Tastenkombination [STRG + ALT + O]).</German>
 		<Italian>Impossibile trovare il file "%s1" nei percorsi di ricerca. Vedi la tabella 'System' nella Schermata di Opzioni del BUG Mod [ALT + CTRL + O] per maggiori dettagli.</Italian>
@@ -141,7 +141,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_NEG_WARNING_GOLD_PER_TURN</Tag>
-		<English>[SPACE][COLOR_YELLOW]&#xff08;%D1_Change/&#x56de;&#x5408;&#xff09;[COLOR_REVERT]</English>
+		<English>[SPACE][COLOR_YELLOW](%D1_Change/&#x56de;&#x5408;)[COLOR_REVERT]</English>
 		<French>[SPACE][COLOR_YELLOW](%D1_Change/tour)[COLOR_REVERT]</French>
 		<German>[SPACE][COLOR_YELLOW](%D1_Change/Runde)[COLOR_REVERT]</German>
 		<Italian>[SPACE][COLOR_YELLOW](%D1_Change/Turno)[COLOR_REVERT]</Italian>
@@ -150,7 +150,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_POS_WARNING_GOLD_PER_TURN</Tag>
-		<English>[SPACE][COLOR_YELLOW]&#xff08;%D1_Change/&#x56de;&#x5408;&#xff09;[COLOR_REVERT]</English>
+		<English>[SPACE][COLOR_YELLOW](%D1_Change/&#x56de;&#x5408;)[COLOR_REVERT]</English>
 		<French>[SPACE][COLOR_YELLOW](%D1_Change/tour)[COLOR_REVERT]</French>
 		<German>[SPACE][COLOR_YELLOW](%D1_Change/Runde)[COLOR_REVERT]</German>
 		<Italian>[SPACE][COLOR_YELLOW](%D1_Change/Turno)[COLOR_REVERT]</Italian>
@@ -212,7 +212,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_WORKED_TILES</Tag>
-		<English>&#x5df2;&#x5f00;&#x53d1;&#x5730;&#x5757;&#xff08;%d1&#xff09;</English>
+		<English>&#x5de5;&#x4f5c;&#x5730;&#x5757; (%d1)</English>
 		<French>Cases Travaill&#233;es (%d1)</French>
 		<German>Gel&#228;ndefelder: %d1</German>
 		<Italian>Caselle lavorate (%d1)</Italian>
@@ -220,21 +220,21 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_CITY_TILES</Tag>
-		<English>&#x57ce;&#x5e02;&#x5730;&#x5757;&#xff08;%d1&#xff09;</English>
+		<English>&#x57ce;&#x5e02;&#x5730;&#x5757; (%d1)</English>
 		<German>Gel&#228;ndefelder: %d1</German>
 		<Italian>Caselle della Citt&#224; (%d1)</Italian>
 		<Spanish>C. de la ciudad (%d1)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_OWNED_TILES</Tag>
-		<English>&#x6240;&#x5c5e;&#x5730;&#x5757;&#xff08;%d1&#xff09;</English>
+		<English>&#x62e5;&#x6709;&#x5730;&#x5757; (%d1)</English>
 		<German>Gel&#228;ndefelder: %d1</German>
 		<Italian>Caselle possedute (%d1)</Italian>
 		<Spanish>C. propias (%d1)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_ALL_TILES</Tag>
-		<English>&#x5168;&#x90e8;&#x5730;&#x5757;&#xff08;%d1&#xff09;</English>
+		<English>&#x5168;&#x90e8;&#x5730;&#x5757; (%d1)</English>
 		<German>Gel&#228;ndefelder: %d1</German>
 		<Italian>Tutte le caselle (%d1)</Italian>
 		<Spanish>Todas las C. (%d1)</Spanish>
@@ -242,7 +242,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_BASE_MODIFIER</Tag>
 		<!-- Bureaucracy, Forge, Factory, Power, Ironworks -->
-		<English>&#x4fee;&#x6b63;&#xff08;%D1%%&#xff09;</English>
+		<English>&#x4fee;&#x6b63; (%D1%%)</English>
 		<German>Modifikatoren: %D1%%</German>
 		<Italian>Modificatori (%D1%%)</Italian>
 		<Spanish>Modificadores (%D1%%)</Spanish>
@@ -261,13 +261,13 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_TOTAL</Tag>
-		<English>&#x603b;&#x8ba1;</English>
+		<English>&#x5408;&#x8ba1;</English>
 		<German>Summe</German>
 		<Italian>Totale</Italian>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RAW_YIELD_VIEW_TRADE</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]&#x67e5;&#x770b;&#x8d38;&#x6613;&#x8def;&#x7ebf;[COLOR_REVERT][NEWLINE]&#x663e;&#x793a;&#x6b64;&#x57ce;&#x5e02;&#x7684;&#x8d38;&#x6613;&#x8def;&#x7ebf;&#x3002;</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x67e5;&#x770b;&#x8d38;&#x6613;&#x8def;&#x7ebf;[COLOR_REVERT][NEWLINE]&#x663e;&#x793a;&#x8be5;&#x57ce;&#x5e02;&#x7684;&#x8d38;&#x6613;&#x8def;&#x7ebf;&#x3002;</English>
 		<German>[COLOR_HIGHLIGHT_TEXT]Handelsverbindungen[COLOR_REVERT][NEWLINE]Anzeige der Handelsverbindungen dieser Stadt</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Rotte Commericali[COLOR_REVERT][NEWLINE]Visualizza le Rotte Commericali pr questa Citt&#224;.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Rutas comerciales[COLOR_REVERT][NEWLINE]Visualizar las rutas comerciales de esta ciudad.</Spanish>
@@ -281,42 +281,42 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RAW_YIELD_VIEW_PRODUCTION</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]&#x67e5;&#x770b;&#x539f;&#x59cb;&#x751f;&#x4ea7;[COLOR_REVERT][NEWLINE]&#x663e;&#x793a;&#x6240;&#x6709; [ICON_PRODUCTION] &#x6765;&#x6e90;&#x4e0e;&#x4fee;&#x6b63;&#x7684;&#x660e;&#x7ec6;&#x3002;</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x67e5;&#x770b;&#x539f;&#x59cb;&#x751f;&#x4ea7;[COLOR_REVERT][NEWLINE]&#x663e;&#x793a;&#x6240;&#x6709; [ICON_PRODUCTION] &#x6765;&#x6e90;&#x53ca;&#x4fee;&#x6b63;&#x7684;&#x660e;&#x7ec6;&#x3002;</English>
 		<German>[COLOR_HIGHLIGHT_TEXT]Rohertr&#228;ge aus Produktion[COLOR_REVERT][NEWLINE]Aufschl&#252;sselung aller [ICON_PRODUCTION]-Ertr&#228;ge mit deren Modifikatoren</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Fonti di Produzione[COLOR_REVERT][NEWLINE]Visualizza un riassunto di tutte le fonti di [ICON_PRODUCTION] ed i modificatori relativi.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Fuente de producci&#243;n[COLOR_REVERT][NEWLINE]Visualizar una lista de todas las fuentes y modificadores relativos a la [ICON_PRODUCTION].</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RAW_YIELD_VIEW_COMMERCE</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]&#x67e5;&#x770b;&#x539f;&#x59cb;&#x5546;&#x4e1a;[COLOR_REVERT][NEWLINE]&#x663e;&#x793a;&#x6240;&#x6709; [ICON_COMMERCE] &#x6765;&#x6e90;&#x4e0e;&#x4fee;&#x6b63;&#x7684;&#x660e;&#x7ec6;&#x3002;</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x67e5;&#x770b;&#x539f;&#x59cb;&#x5546;&#x4e1a;[COLOR_REVERT][NEWLINE]&#x663e;&#x793a;&#x6240;&#x6709; [ICON_COMMERCE] &#x6765;&#x6e90;&#x53ca;&#x4fee;&#x6b63;&#x7684;&#x660e;&#x7ec6;&#x3002;</English>
 		<German>[COLOR_HIGHLIGHT_TEXT]Rohertr&#228;ge aus Wirtschaft[COLOR_REVERT][NEWLINE]Aufschl&#252;sselung aller [ICON_COMMERCE]-Ertr&#228;ge mit deren Modifikatoren</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Fonti di Commercio[COLOR_REVERT][NEWLINE]Visualizza un riassunto di tutte le fonti di [ICON_COMMERCE] ed i modificatori relativi.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Fuentes de comercio[COLOR_REVERT][NEWLINE]Visualizar una lista de todas las fuentes y modificadores relativos al [ICON_COMMERCE].</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RAW_YIELD_TILES_WORKED</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]&#x7edf;&#x8ba1;&#x5df2;&#x5f00;&#x53d1;&#x5730;&#x5757;[COLOR_REVERT][NEWLINE]&#x7edf;&#x8ba1;&#x57ce;&#x5e02;&#x5f53;&#x524d;&#x6b63;&#x5728;&#x5f00;&#x53d1;&#x7684;&#x5730;&#x5757;&#x3002;</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x7edf;&#x8ba1;&#x5de5;&#x4f5c;&#x5730;&#x5757;[COLOR_REVERT][NEWLINE]&#x7edf;&#x8ba1;&#x57ce;&#x5e02;&#x5f53;&#x524d;&#x6b63;&#x5728;&#x5de5;&#x4f5c;&#x7684;&#x5730;&#x5757;&#x3002;</English>
 		<German>[COLOR_HIGHLIGHT_TEXT]Nur bearbeitete Gel&#228;ndefelder[COLOR_REVERT][NEWLINE]Zur Berechnung der Rohertr&#228;ge werden alle Gel&#228;ndefelder, die von der Stadt derzeit bearbeitet werden, herangezogen</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Caselle lavorate[COLOR_REVERT][NEWLINE]Considera solo le caselle della Citt&#224; attualmente lavorate.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Casillas trabajadas[COLOR_REVERT][NEWLINE]Mostrar las casillas que la ciudad est&#225; trabajando.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RAW_YIELD_TILES_CITY</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]&#x7edf;&#x8ba1;&#x57ce;&#x5e02;&#x5730;&#x5757;[COLOR_REVERT][NEWLINE]&#x7edf;&#x8ba1;&#x57ce;&#x5e02;&#x6240;&#x63a7;&#x5236;&#x7684;&#x5730;&#x5757;&#x3002;</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x7edf;&#x8ba1;&#x57ce;&#x5e02;&#x5730;&#x5757;[COLOR_REVERT][NEWLINE]&#x7edf;&#x8ba1;&#x57ce;&#x5e02;&#x63a7;&#x5236;&#x7684;&#x5730;&#x5757;&#x3002;</English>
 		<German>[COLOR_HIGHLIGHT_TEXT]Nur Stadtgel&#228;ndefelder[COLOR_REVERT][NEWLINE]Zur Berechnung der Rohertr&#228;ge werden alle Gel&#228;ndefelder, die von der Stadt derzeit kontrolliert werden, herangezogen</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Caselle della Citt&#224;[COLOR_REVERT][NEWLINE]Considera le caselle attualmente controllate dalla Citt&#224;.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Casillas de la ciudad[COLOR_REVERT][NEWLINE]Mostrar las casillas que la ciudad controla.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RAW_YIELD_TILES_OWNED</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]&#x7edf;&#x8ba1;&#x6240;&#x5c5e;&#x5730;&#x5757;[COLOR_REVERT][NEWLINE]&#x7edf;&#x8ba1;&#x57ce;&#x5e02;&#x8303;&#x56f4;&#x5185;&#x5f52;&#x4f60;&#x7684;&#x6587;&#x660e;&#x6240;&#x6709;&#x7684;&#x5730;&#x5757;&#x3002;</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x7edf;&#x8ba1;&#x62e5;&#x6709;&#x5730;&#x5757;[COLOR_REVERT][NEWLINE]&#x7edf;&#x8ba1;&#x57ce;&#x5e02;&#x8303;&#x56f4;&#x5185;&#x5f52;&#x4f60;&#x7684;&#x6587;&#x660e;&#x6240;&#x6709;&#x7684;&#x5730;&#x5757;&#x3002;</English>
 		<German>[COLOR_HIGHLIGHT_TEXT]Nur Gel&#228;ndefelder in Besitz[COLOR_REVERT][NEWLINE]Zur Berechnung der Rohertr&#228;ge werden alle Gel&#228;ndefelder, die sich im Einzugsgebiet der Stadt befinden und zur eigenen Zivilisation geh&#246;ren, herangezogen</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Caselle possedute[COLOR_REVERT][NEWLINE]Considera le caselle nel raggio cittadino attualmente possedute dalla Civilt&#224;.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Casillas propias[COLOR_REVERT][NEWLINE]Mostrar las casillas en el radio de la ciudad controladas por tu civilizaci&#243;n.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RAW_YIELD_TILES_ALL</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]&#x7edf;&#x8ba1;&#x5168;&#x90e8;&#x5730;&#x5757;[COLOR_REVERT][NEWLINE]&#x7edf;&#x8ba1;&#x57ce;&#x5e02;&#x8303;&#x56f4;&#x5185;&#x7684;&#x5168;&#x90e8;&#x5730;&#x5757;&#xff0c;&#x65e0;&#x8bba;&#x5f52;&#x8c01;&#x6240;&#x6709;&#x3002;</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x7edf;&#x8ba1;&#x5168;&#x90e8;&#x5730;&#x5757;[COLOR_REVERT][NEWLINE]&#x7edf;&#x8ba1;&#x57ce;&#x5e02;&#x8303;&#x56f4;&#x5185;&#x7684;&#x6240;&#x6709;&#x5730;&#x5757;&#xff0c;&#x4e0d;&#x8bba;&#x5f52;&#x5c5e;&#x3002;</English>
 		<German>[COLOR_HIGHLIGHT_TEXT]Alle Gel&#228;ndefelder[COLOR_REVERT][NEWLINE]Zur Berechnung der Rohertr&#228;ge werden alle Gel&#228;ndefelder, die sich im Einzugsgebiet der Stadt befinden, unabh&#228;ngig davon, welcher Zivilisation sie geh&#246;ren, herangezogen</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Tutte le caselle[COLOR_REVERT][NEWLINE]Considera tutte le caselle nel raggio cittadino indipendentemente dal proprietario.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Todas las casillas[COLOR_REVERT][NEWLINE]Mostrar todas las casillas de la ciudad, independientemente de su propietario.</Spanish>
@@ -326,7 +326,7 @@
 	
 	<TEXT>
 		<Tag>INTERFACE_CITY_GROWTH</Tag>
-		<English>&#x589e;&#x957f;&#xff01;</English>
+		<English>&#x4eba;&#x53e3;&#x589e;&#x957f;&#xff01;</English>
 		<French>Croissance!</French>
 		<German>Wachstum!</German>
 		<Italian>Crescita!</Italian>
@@ -334,7 +334,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>INTERFACE_CITY_SHRINKING</Tag>
-		<English>[COLOR_YELLOW]&#x840e;&#x7f29;&#x4e2d;&#xff08;%d1 [NUM1:&#x56de;&#x5408;:&#x56de;&#x5408;]&#xff09;[COLOR_REVERT]</English>
+		<English>[COLOR_YELLOW]&#x4eba;&#x53e3;&#x7f29;&#x51cf; (%d1 [NUM1:&#x56de;&#x5408;:&#x56de;&#x5408;])[COLOR_REVERT]</English>
 		<French>[COLOR_YELLOW]R&#233;tr&#233;cissement (%d1 [NUM1:tour:tours])[COLOR_REVERT]</French>
 		<German>[COLOR_YELLOW]Schrumpfen (%d1 [NUM1:Runde:Runden])[COLOR_REVERT]</German>
 		<Italian>[COLOR_YELLOW]Riduzione (%d1 [NUM1:Turno:Turni])[COLOR_REVERT]</Italian>
@@ -431,7 +431,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_LEVEL_GROUP</Tag>
-		<English>%s1 &#x7ea7;</English>
+		<English>&#x7b49;&#x7ea7; %s1</English>
 		<French>Niveau %s1</French>
 		<German>Stufe %s1</German>
 		<Italian>Livello %s1</Italian>
@@ -477,14 +477,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_TEAM_CITY</Tag>
-		<English>&#x56e2;&#x961f;&#x57ce;&#x5e02;</English>
+		<English>&#x961f;&#x53cb;&#x57ce;&#x5e02;</English>
 		<German>Verb&#252;ndete Stadt</German>
 		<Italian>Citt&#224; alleata</Italian>
 		<Spanish>Ciudad Aliada</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_TEAM_TERRITORY</Tag>
-		<English>&#x56e2;&#x961f;&#x9886;&#x571f;</English>
+		<English>&#x961f;&#x53cb;&#x9886;&#x571f;</English>
 		<German>Verb&#252;ndetes Gebiet</German>
 		<Italian>Territorio alleato</Italian>
 		<Spanish>Territorio Aliado</Spanish>
@@ -564,7 +564,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_FORTIFY</Tag>
-		<English>&#x9a7b;&#x9632;</English>
+		<English>&#x9a7b;&#x5b88;</English>
 		<German>Verschanzen</German>
 		<Italian>Fortificarsi</Italian>
 		<Spanish>Fortificarse</Spanish>
@@ -605,7 +605,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_BUILD</Tag>
-		<English>&#x4fee;&#x5efa;&#x8bbe;&#x65bd;</English>
+		<English>&#x5efa;&#x9020;&#x8bbe;&#x65bd;</English>
 		<German>Modernisierung errichten</German>
 		<Italian>Costruire miglioramenti</Italian>
 		<Spanish>Construir Mejora</Spanish>
@@ -633,21 +633,21 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AUTO_BUILD</Tag>
-		<English>&#x81ea;&#x52a8;&#x4fee;&#x5efa;&#x8bbe;&#x65bd;</English>
+		<English>&#x81ea;&#x52a8;&#x5efa;&#x9020;&#x8bbe;&#x65bd;</English>
 		<German>Modernisierungen errichten (automatisch)</German>
 		<Italian>Miglioramenti automatici</Italian>
 		<Spanish>Construir Mejoras Automatizado</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AUTO_NETWORK</Tag>
-		<English>&#x81ea;&#x52a8;&#x8d38;&#x6613;&#x7f51;&#x7edc;</English>
+		<English>&#x81ea;&#x52a8;&#x5efa;&#x8d38;&#x6613;&#x7f51;&#x7edc;</English>
 		<German>Handelsnetz errichten (automatisch)</German>
 		<Italian>Rete stradale automatica</Italian>
 		<Spanish>Construir Red Comercio Automatizado</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AUTO_CITY</Tag>
-		<English>&#x81ea;&#x52a8;&#x6539;&#x5584;&#x57ce;&#x5e02;</English>
+		<English>&#x81ea;&#x52a8;&#x6539;&#x826f;&#x57ce;&#x5e02;</English>
 		<German>N&#228;chste Stadt modernisieren (automatisch)</German>
 		<Italian>Miglioramenti cittadini automatici</Italian>
 		<Spanish>Construir Mejoras en la Ciudad Automatizado</Spanish>
@@ -670,7 +670,7 @@
 	</TEXT>		
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_DEFENSESETTINGS</Tag>
-		<English>&#x81ea;&#x52a8;&#x57ce;&#x5e02;&#x9632;&#x5fa1;</English>
+		<English>&#x81ea;&#x52a8;&#x57ce;&#x9632;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_PATROLSETTINGS</Tag>
@@ -727,7 +727,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_SITUATION_REPORT</Tag>
-		<English>&#x6218;&#x51b5;&#x62a5;&#x544a;</English>
+		<English>&#x6218;&#x51b5;&#x7b80;&#x62a5;</English>
 		<French>Rapport</French>
 		<German>Lagebericht</German>
 		<Italian>Rapporti</Italian>
@@ -744,7 +744,7 @@
 	<!-- Situation Report Tab -->
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_SITREP_WORST</Tag>
-		<English>&#x6700;&#x5dee;</English>
+		<English>&#x6700;&#x52a3;</English>
 		<German>Schlimmste</German>
 		<Italian>Peggior</Italian>
 		<Spanish>Lo peor</Spanish>
@@ -752,7 +752,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_SITREP_ENEMY</Tag>
-		<English>&#x654c;&#x65b9;</English>
+		<English>&#x654c;&#x4eba;</English>
 		<German>Erzfeind</German>
 		<Italian>Nemico</Italian>
 		<Spanish>Enemigo</Spanish>
@@ -852,7 +852,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_THREAT_INDEX_ELEVATED</Tag>
-		<English>&#x4e0a;&#x5347;</English>
+		<English>&#x504f;&#x9ad8;</English>
 		<French>Elev&#233;</French>
 		<German>Angespannt</German>
 		<Italian>Rischio Notevole</Italian>
@@ -951,7 +951,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REMINDER_PROMPT</Tag>
-		<English>&#x8f93;&#x5165;&#x63d0;&#x9192;&#x89e6;&#x53d1;&#x524d;&#x7684;&#x56de;&#x5408;&#x6570;&#x4ee5;&#x53ca;&#x8981;&#x663e;&#x793a;&#x7684;&#x6d88;&#x606f;&#x3002;</English>
+		<English>&#x8f93;&#x5165;&#x8ddd;&#x63d0;&#x9192;&#x89e6;&#x53d1;&#x7684;&#x56de;&#x5408;&#x6570;&#xff0c;&#x4ee5;&#x53ca;&#x8981;&#x663e;&#x793a;&#x7684;&#x6d88;&#x606f;&#x3002;</English>
 		<French>Entrez le nombre de tours jusqu'&#224; l'apparition du rappel et le message &#224; montrer.</French>
 		<German>Geben Sie die Anzahl der Runden an, bis die Erinnerung angezeigt werden soll.</German>
 		<Italian>Inserisci il numero di turni che devono passare prima che il promemoria scada ed il messaggio venga visualizzato.</Italian>
@@ -1008,7 +1008,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_POWER</Tag>
-		<English>&#x56fd;&#x529b;</English>
+		<English>&#x5b9e;&#x529b;</English>
 		<French>Puissance</French>
 		<German>Macht</German>
 		<Italian>Energia</Italian>
@@ -1036,14 +1036,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LOGSCALE</Tag>
-		<English>&#x5bf9;&#x6570;&#x523b;&#x5ea6;</English>
+		<English>&#x5bf9;&#x6570;&#x5750;&#x6807;</English>
 		<German>Log-Skala</German>
 		<Italian>Scala logaritmica</Italian>
 		<Spanish>Escala Logar&#237;tmica</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_CHART_HELP</Tag>
-		<English>&#x70b9;&#x51fb;&#x56fe;&#x8868;&#x4e3b;&#x4f53;&#x53ef;&#x7f29;&#x653e;&#x653e;&#x5927;&#x6216;&#x7f29;&#x5c0f;</English>
+		<English>&#x70b9;&#x51fb;&#x56fe;&#x8868;&#x4e3b;&#x4f53;&#x533a;&#x57df;&#x53ef;&#x653e;&#x5927;&#x6216;&#x7f29;&#x5c0f;</English>
 		<German>Mit einem Mausklick auf ein Diagramm kann zwischen der verkleinerten Ansicht und der Gro&#223;ansicht umgeschalten werden</German>
 		<Italian>Alterna i livelli di zoom cliccando sul grafico</Italian>
 		<Spanish>Zoom adelante y atr&#225;s pinchando en el cuerpo de la tabla</Spanish>
@@ -1132,7 +1132,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_TOGGLE_VOTES</Tag>
-		<English>&#x5207;&#x6362;&#x7968;&#x6570;&#x663e;&#x793a;</English>
+		<English>&#x5207;&#x6362;&#x7968;&#x6570;</English>
 		<French>Alterner Voix</French>
 		<German>Wahlen umschalten</German>
 		<Italian>Alterna Voti</Italian>
@@ -1140,7 +1140,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_VASSALED</Tag>
-		<English>%d1 &#x5df2;&#x9644;&#x5eb8;</English>
+		<English>%d1 &#x9644;&#x5eb8;</English>
 		<German>Vasallen: %d1</German>
 		<Italian>%d1 vassallo</Italian>
 		<Spanish>%d1 vasallo</Spanish>
@@ -1162,20 +1162,20 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_VOTES_TOTAL</Tag>
-		<English>&#x603b;&#x8ba1;</English>
+		<English>&#x5408;&#x8ba1;</English>
 		<German>Summe</German>
 		<Italian>Totale</Italian>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_VOTES_REQUIRED</Tag>
-		<English>[SPACE]&#xff08;&#x9700;&#x8981; %s1 &#x7968;&#xff09;</English>
+		<English>[SPACE](&#x9700; %s1 &#x7968;)</English>
 		<German>[SPACE](%s1 Stimmen ben&#246;tigt)</German>
 		<Italian>[SPACE](%s1 voti richiesti)</Italian>
 		<Spanish>[SPACE](%s1 votos requerido)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_BUG_POLL_RESULT</Tag>
-		<English>%s1&#xff08;%s2&#xff09;&#x9886;&#x5148; %s3&#x3002;</English>
+		<English>%s1 (%s2) &#x9886;&#x5148; %s3&#x3002;</English>
 		<French>%s1 (%s2) conduit par %s3.</French>
 		<German>%s1 (%s2) f&#252;hrt mit %s3 Vorsprung.</German>
 		<Italian>%s1 (%s2) in testa di %s3.</Italian>
@@ -1183,7 +1183,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_BUG_POLL_ERROR</Tag>
-		<English>&#x6765;&#x6e90;&#xff1a;&#x8fd1;&#x671f; BUG &#x6c11;&#x8c03;&#xff0c;&#x7edf;&#x8ba1;&#x8bef;&#x5dee;&#x8303;&#x56f4; %s1&#x3002;</English>
+		<English>&#x6765;&#x6e90;&#xff1a;&#x6700;&#x65b0; BUG &#x6c11;&#x8c03;&#xff0c;&#x7edf;&#x8ba1;&#x8bef;&#x5dee;&#x8303;&#x56f4; %s1&#x3002;</English>
 		<French>Source: Sondage BUG r&#233;cents, marge d'erreur %s1.</French>
 		<German>Quelle: Neueste BUG-Umfrage (statistische Fehlerquote: %s1)</German>
 		<Italian>Fonte: recente sondaggio BUG, margine di errore statistico %s1.</Italian>
@@ -1202,21 +1202,21 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_MAZE_LAND_PLUS1</Tag>
-		<English>&#x989d;&#x5916;&#x9646;&#x5730;&#x6761;&#x5e26;</English>
+		<English>&#x989d;&#x5916;&#x9646;&#x5730;&#x5e26;</English>
 		<German>Zus&#228;tzlicher Landstrich</German>
 		<Italian>Terreno aggiuntivo</Italian>
 		<Spanish>Franja de Tierra A&#241;adida</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRUE</Tag>
-		<English>&#x771f;</English>
+		<English>&#x662f;</English>
 		<German>Ja</German>
 		<Italian>Vero</Italian>
 		<Spanish>Verdad</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FALSE</Tag>
-		<English>&#x5047;</English>
+		<English>&#x5426;</English>
 		<German>Nein</German>
 		<Italian>Falso</Italian>
 		<Spanish>Falso</Spanish>
@@ -1247,7 +1247,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ESPIONAGE_SPYVSPY_TAB</Tag>
-		<English>&#x8c0d;&#x5bf9;&#x8c0d;</English>
+		<English>&#x8c0d;&#x6218;&#x5bf9;&#x6297;</English>
 		<German>Gegenspionage</German>
 		<Spanish>Esp&#237;a v Esp&#237;a</Spanish>
 	</TEXT>
@@ -1289,7 +1289,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_RELIGIOUS_SHRINES</Tag>
-		<English>&#x5b97;&#x6559;&#x5723;&#x575b;</English>
+		<English>&#x5b97;&#x6559;&#x5723;&#x7960;</English>
 		<French>Lieux Saints</French>
 		<German>Schreine</German>
 		<Italian>Santuari</Italian>
@@ -1428,14 +1428,14 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BULL_REQUIRED</Tag>
-		<English>[COLOR_WARNING_TEXT]&#x6b64;&#x529f;&#x80fd;&#x9700;&#x8981; BUG DLL&#xff08;BULL&#xff09;&#x3002;[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x6b64;&#x529f;&#x80fd;&#x9700;&#x8981; BUG DLL (BULL)&#x3002;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]F&#252;r dieses Feature wird die BUG-DLL (BULL) ben&#246;tigt.[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Questa caratteristica richiede la libreria DLL del BUG Mod ('BULL').[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]Esta caracter&#237;stica requiere laBUG DLL (BULL).[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BULL_REQUIRED_NEWER</Tag>
-		<English>[COLOR_WARNING_TEXT]&#x6b64;&#x529f;&#x80fd;&#x9700;&#x8981;&#x66f4;&#x65b0;&#x7248;&#x672c;&#x7684; BUG DLL&#xff08;BULL&#xff09;&#x3002;[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x6b64;&#x529f;&#x80fd;&#x9700;&#x8981;&#x66f4;&#x65b0;&#x7248;&#x672c;&#x7684; BUG DLL (BULL)&#x3002;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]F&#252;r dieses Feature wird eine neuere Version der BUG-DLL (BULL) ben&#246;tigt.[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Questa caratteristica richiede una nuova versione della libreria DLL del BUG Mod ('BULL').[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXTEsta caracter&#237;stica requiere una nueva versi&#243;n de BUG DLL (BULL).[COLOR_REVERT]</Spanish>

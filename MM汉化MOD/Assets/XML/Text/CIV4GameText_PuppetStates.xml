@@ -3,17 +3,17 @@
 <!-- Start Puppet States -->
 	<TEXT>
 		<Tag>TXT_KEY_GAME_OPTION_PUPPET_STATES</Tag>
-		<English>Puppet States</English>
+		<English>&#x5080;&#x5121;&#x56fd;</English>
 		<Spanish>Estados Marioneta</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAME_OPTION_PUPPET_STATES_HELP</Tag>
-		<English>Allows the creation of Puppet States</English>
+		<English>&#x5141;&#x8bb8;&#x5efa;&#x7acb;&#x5080;&#x5121;&#x56fd;</English>
 		<Spanish>Permite la creación de Estados Marioneta</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_PUPPET_STATES</Tag>
-		<English>Puppet States</English>
+		<English>&#x5080;&#x5121;&#x56fd;</English>
 		<French>Sorts Mondiaux</French>
 		<German>Weltzauber</German>
 		<Italian>World Spells</Italian>
@@ -21,27 +21,27 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_PUPPET_STATES_PEDIA</Tag>
-		<English>[H1]Puppet States[\H1][PARAGRAPH:2]Puppet States can be formed when a civilization with knowledge of how to form Vassal States conquers a city. Puppet States are created as a Vassal of the conquering player, and are the same civilization type as the previous city owner. Puppet States are a special type of vassal in that they don't get a Palace and are permanently a Vassal unless they achieve Legitimacy. A Puppet State achieves Legitimacy when it is the last remaining civ of it's civilization type. At that point it becomes a regular Vassal rather than a Puppet State.</English>
+		<English>[H1]&#x5080;&#x5121;&#x56fd;[\H1][PARAGRAPH:2]&#x5f53;&#x4e00;&#x4e2a;&#x5df2;&#x638c;&#x63e1;&#x5982;&#x4f55;&#x5efa;&#x7acb;&#x9644;&#x5eb8;&#x56fd;&#x4e4b;&#x77e5;&#x8bc6;&#x7684;&#x6587;&#x660e;&#x5f81;&#x670d;&#x4e00;&#x5ea7;&#x57ce;&#x5e02;&#x65f6;&#xff0c;&#x4fbf;&#x53ef;&#x7ec4;&#x5efa;&#x5080;&#x5121;&#x56fd;&#x3002;&#x5080;&#x5121;&#x56fd;&#x4f5c;&#x4e3a;&#x5f81;&#x670d;&#x65b9;&#x73a9;&#x5bb6;&#x7684;&#x9644;&#x5eb8;&#x800c;&#x4ea7;&#x751f;&#xff0c;&#x5176;&#x6587;&#x660e;&#x7c7b;&#x578b;&#x4e0e;&#x8be5;&#x57ce;&#x5e02;&#x7684;&#x524d;&#x4efb;&#x6240;&#x6709;&#x8005;&#x76f8;&#x540c;&#x3002;&#x5080;&#x5121;&#x56fd;&#x662f;&#x4e00;&#x79cd;&#x7279;&#x6b8a;&#x7684;&#x9644;&#x5eb8;&#xff1a;&#x5b83;&#x4eec;&#x4e0d;&#x4f1a;&#x83b7;&#x5f97;&#x5bab;&#x6bbf;&#xff0c;&#x5e76;&#x4e14;&#x4f1a;&#x6c38;&#x4e45;&#x4f5c;&#x4e3a;&#x9644;&#x5eb8;&#xff0c;&#x9664;&#x975e;&#x5b83;&#x4eec;&#x53d6;&#x5f97;&#x201c;&#x6b63;&#x7edf;&#x5730;&#x4f4d;&#x201d;&#x3002;&#x5f53;&#x4e00;&#x4e2a;&#x5080;&#x5121;&#x56fd;&#x6210;&#x4e3a;&#x5176;&#x6587;&#x660e;&#x7c7b;&#x578b;&#x4e2d;&#x6700;&#x540e;&#x6b8b;&#x5b58;&#x7684;&#x6587;&#x660e;&#x65f6;&#xff0c;&#x4fbf;&#x53d6;&#x5f97;&#x6b63;&#x7edf;&#x5730;&#x4f4d;&#x3002;&#x5230;&#x90a3;&#x65f6;&#x5b83;&#x5c31;&#x4ece;&#x5080;&#x5121;&#x56fd;&#x53d8;&#x4e3a;&#x666e;&#x901a;&#x9644;&#x5eb8;&#x3002;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_ENABLES_PUPPET_STATES</Tag>
-		<English>[ICON_BULLET]Enables Puppet States</English>
+		<English>[ICON_BULLET]&#x542f;&#x7528;&#x5080;&#x5121;&#x56fd;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_CREATE_PUPPET_STATE</Tag>
-		<English>Form a pro-%s1 State in %s2_City</English>
+		<English>&#x5728;%s2_City&#x5efa;&#x7acb;&#x4e00;&#x4e2a;&#x4eb2;%s1&#x7684;&#x653f;&#x6743;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MEMORY_MADE_PUPPET</Tag>
-		<English>&quot;We owe our power to you.&quot;</English>
+		<English>&quot;&#x6211;&#x4eec;&#x7684;&#x6743;&#x529b;&#x5168;&#x8d56;&#x4e8e;&#x4f60;&#x3002;&quot;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_MAKE_PUPPET</Tag>
-		<English>%s1_CivAdj forces in %s2_City have named %s3_Leader as leader of the new %s4_Civ government!</English>
+		<English>%s2_City&#x4e2d;&#x7684;%s1_CivAdj&#x52bf;&#x529b;&#x5df2;&#x63a8;&#x4e3e;%s3_Leader&#x4e3a;&#x65b0;%s4_Civ&#x653f;&#x6743;&#x7684;&#x9886;&#x8896;&#xff01;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_RETURN_PUPPET_CITY</Tag>
-		<English>No, hand control over to our %s1_CivName allies</English>
+		<English>&#x4e0d;&#xff0c;&#x628a;&#x63a7;&#x5236;&#x6743;&#x79fb;&#x4ea4;&#x7ed9;&#x6211;&#x4eec;&#x7684;%s1_CivName&#x76df;&#x53cb;</English>
 		<French>Non, rendez-la aux %s1_CivName.</French>
 		<German>Nein, &#252;bergebt sie wieder an das %s1:2_CivName</German>
 		<Italian>No, restituisci il controllo all'%s1_CivName</Italian>

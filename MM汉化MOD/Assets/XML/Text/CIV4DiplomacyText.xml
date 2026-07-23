@@ -7,7 +7,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>AI_DIPLO_DECLARE_WAR_1</Tag>
-		<English>&#x8fd9;&#x4e16;&#x754c;&#x5bb9;&#x4e0d;&#x4e0b;&#x6211;&#x4eec;&#x4e24;&#x4e2a;&#xff01;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
+		<English>&#x8fd9;&#x4e2a;&#x4e16;&#x754c;&#x5bb9;&#x4e0d;&#x4e0b;&#x6211;&#x4eec;&#x4e24;&#x4e2a;&#xff01;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
 		<French>Ce monde n'est pas assez grand pour nous deux ! ([OUR_NAME] vous d&#233;clare la guerre !)</French>
 		<German>Diese Welt ist nicht gro&#223; genug f&#252;r uns beide! ([OUR_NAME] erkl&#228;rt Euch den Krieg!)</German>
 		<Italian>Questo mondo non &#232; grande abbastanza per tutti e due! ([OUR_NAME] dichiara guerra!)</Italian>
@@ -16,7 +16,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_DECLARE_WAR_2</Tag>
-		<English>&#x4f60;&#x7684;&#x50b2;&#x6162;&#x6211;&#x4eec;&#x5df2;&#x7ecf;&#x5fcd;&#x591f;&#x4e86;&#xff01;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
+		<English>&#x4f60;&#x7684;&#x50b2;&#x6162;&#xff0c;&#x6211;&#x4eec;&#x5df2;&#x7ecf;&#x53d7;&#x591f;&#x4e86;&#xff01;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
 		<French>Nous n'avons support&#233; que trop longtemps votre insolence ! ([OUR_NAME] vous d&#233;clare la guerre !)</French>
 		<German>Wir haben Eure Anma&#223;ungen lange genug ertragen! ([OUR_NAME] erkl&#228;rt Euch den Krieg!)</German>
 		<Italian>Abbiamo subito le tue insolenze troppo a lungo! ([OUR_NAME] dichiara guerra!)</Italian>
@@ -34,7 +34,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_DECLARE_WAR_4</Tag>
-		<English>&#x73b0;&#x5728;&#x4f60;&#x8981;&#x4e3a;&#x4f60;&#x5bf9; [OUR_EMPIRE] &#x7684;&#x8bf8;&#x591a;&#x4fae;&#x8fb1;&#x4ed8;&#x51fa;&#x4ee3;&#x4ef7;&#xff01;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
+		<English>&#x73b0;&#x5728;&#xff0c;&#x4f60;&#x8981;&#x4e3a;&#x5bf9; [OUR_EMPIRE] &#x7684;&#x79cd;&#x79cd;&#x4fae;&#x8fb1;&#x4ed8;&#x51fa;&#x4ee3;&#x4ef7;&#xff01;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
 		<French>Vous allez payer vos innombrables insultes envers l'[OUR_EMPIRE] ! ([OUR_NAME] vous d&#233;clare la guerre !)</French>
 		<German>Jetzt werdet Ihr f&#252;r Eure Respektlosigkeit gegen&#252;ber dem [OUR_EMPIRE:3] b&#252;&#223;en! ([OUR_NAME] erkl&#228;rt Euch den Krieg!)</German>
 		<Italian>Ora pagherai per aver insultato l'[OUR_EMPIRE]! ([OUR_NAME] dichiara guerra!)</Italian>
@@ -43,7 +43,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_DECLARE_WAR_5</Tag>
-		<English>&#x8c08;&#x5224;&#x7684;&#x65f6;&#x5019;&#x8fc7;&#x53bb;&#x4e86;&#xff0c;[CT_NAME]&#xff01;&#x6211;&#x4eec;&#x5c06;&#x5728;&#x6218;&#x573a;&#x4e0a;&#x4e86;&#x7ed3;&#x6b64;&#x4e8b;&#xff01;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
+		<English>&#x8c08;&#x5224;&#x5230;&#x6b64;&#x4e3a;&#x6b62;&#xff0c;[CT_NAME]&#xff01;&#x8ba9;&#x6211;&#x4eec;&#x5728;&#x6218;&#x573a;&#x4e0a;&#x505a;&#x4e2a;&#x4e86;&#x65ad;&#xff01;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
 		<French>L'heure n'est plus aux pourparlers, [CT_NAME] ! Nous r&#233;glerons ceci sur le champ de bataille ! ([OUR_NAME] vous d&#233;clare la guerre !)</French>
 		<German>Die Zeit der Verhandlungen ist vorbei, [CT_NAME]! Regeln wir die Sache auf dem Schlachtfeld! ([OUR_NAME] erkl&#228;rt Euch den Krieg!)</German>
 		<Italian>&#200; finito il tempo delle chiacchiere, [CT_NAME]! Risolveremo la questione sul campo di battaglia! ([OUR_NAME] dichiara guerra!)</Italian>
@@ -52,7 +52,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_DECLARE_WAR_6</Tag>
-		<English>&#x4e0d;&#x4e45;&#x6211;&#x90a3;&#x65e0;&#x6570;&#x7684;&#x722a;&#x7259;&#x5c06;&#x628a;&#x4f60;&#x4eec;&#x7edf;&#x7edf;&#x6bc1;&#x706d;&#xff01;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
+		<English>&#x4e0d;&#x4e45;&#xff0c;&#x6211;&#x6570;&#x4e4b;&#x4e0d;&#x5c3d;&#x7684;&#x722a;&#x7259;&#x5c06;&#x628a;&#x4f60;&#x4eec;&#x7edf;&#x7edf;&#x6bc1;&#x706d;&#xff01;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
 		<French>Bient&#244;t, mes innombrables guerriers vous extermineront jusqu'au dernier ! ([OUR_NAME] vous d&#233;clare la guerre !)</French>
 		<German>Meine zahllosen Untertanen werden Euch vernichten! ([OUR_NAME] erkl&#228;rt Euch den Krieg!)</German>
 		<Italian>I miei innumerevoli seguaci vi stermineranno rapidamente! ([OUR_NAME] dichiara guerra!)</Italian>
@@ -61,7 +61,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_DECLARE_WAR_7</Tag>
-		<English>&#x53d7;&#x6b7b;&#x5427;&#xff0c;[CT_NAME]&#x3002;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
+		<English>&#x662f;&#x65f6;&#x5019;&#x53d7;&#x6b7b;&#x4e86;&#xff0c;[CT_NAME]&#x3002;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
 		<French>L'heure de votre mort a sonn&#233;, [CT_NAME]. ([OUR_NAME] vous d&#233;clare la guerre !)</French>
 		<German>Zeit zu sterben, [CT_NAME]! ([OUR_NAME] erkl&#228;rt Euch den Krieg!)</German>
 		<Italian>&#200; tempo di morire, [CT_NAME]. ([OUR_NAME] dichiara guerra!)</Italian>
@@ -70,7 +70,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_DECLARE_WAR_8</Tag>
-		<English>&#x8822;&#x8d27;&#xff01;&#x73b0;&#x5728;&#x6211;&#x4eec;&#x8981;&#x6bc1;&#x706d;&#x4f60;&#xff01;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
+		<English>&#x8822;&#x8d27;&#xff01;&#x73b0;&#x5728;&#x6211;&#x4eec;&#x8981;&#x5c06;&#x4f60;&#x6bc1;&#x706d;&#xff01;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
 		<French>Imb&#233;cile ! Maintenant, nous allons vous d&#233;truire ! ([OUR_NAME] vous d&#233;clare la guerre !)</French>
 		<German>Dummkopf! Wir werden Euch vernichten! ([OUR_NAME] erkl&#228;rt Euch den Krieg!)</German>
 		<Italian>Folle! Ti distruggeremo! ([OUR_NAME] dichiara guerra!)</Italian>
@@ -88,7 +88,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_DECLARE_WAR_10</Tag>
-		<English>&#x5f3a;&#x5927;&#x7684; [OUR_EMPIRE] &#x5df2;&#x7ecf;&#x53d7;&#x591f;&#x4e86;&#x4f60;&#x7684;&#x80cc;&#x4fe1;&#x4e0e;&#x6b3a;&#x8bc8;&#xff01;&#x73b0;&#x5728;&#x4f60;&#x5fc5;&#x987b;&#x4ed8;&#x51fa;&#x4ee3;&#x4ef7;&#xff01;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
+		<English>&#x5f3a;&#x5927;&#x7684; [OUR_EMPIRE] &#x5df2;&#x53d7;&#x591f;&#x4e86;&#x4f60;&#x7684;&#x80cc;&#x53db;&#x4e0e;&#x6b3a;&#x8bc8;&#xff01;&#x73b0;&#x5728;&#x4f60;&#x5fc5;&#x987b;&#x4ed8;&#x51fa;&#x4ee3;&#x4ef7;&#xff01;&#xff08;[OUR_NAME] &#x5ba3;&#x6218;&#xff01;&#xff09;</English>
 		<French>Le puissant [OUR_EMPIRE] ne peut plus supporter vos trahisons et vos tromperies ! Maintenant, il faut payer ! ([OUR_NAME] vous d&#233;clare la guerre !)</French>
 		<German>Das m&#228;chtige [OUR_EMPIRE:2] hat genug von Euren betr&#252;gerischen Machenschaften! Jetzt werdet Ihr daf&#252;r bezahlen! ([OUR_NAME] erkl&#228;rt Euch den Krieg!)</German>
 		<Italian>L'[OUR_EMPIRE] ne ha abbastanza della tua perfidia e dei tuoi tradimenti! Ora pagherai! ([OUR_NAME] dichiara guerra!)</Italian>
@@ -97,7 +97,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_FRANKLIN_ROOSEVELT_1</Tag>
-		<English>&#x4f60;&#x597d;&#xff01;&#x6211;&#x662f; [OUR_EMPIRE] &#x7684; [OUR_NAME]&#x3002;&#x6211;&#x5e0c;&#x671b;&#x6211;&#x4eec;&#x4e24;&#x4e2a;&#x4f1f;&#x5927;&#x7684;&#x6c11;&#x65cf;&#x80fd;&#x548c;&#x5e73;&#x5171;&#x5904;&#x3002;</English>
+		<English>&#x60a8;&#x597d;&#xff01;&#x6211;&#x662f; [OUR_EMPIRE] &#x7684; [OUR_NAME]&#x3002;&#x6211;&#x5e0c;&#x671b;&#x6211;&#x4eec;&#x4e24;&#x4e2a;&#x4f1f;&#x5927;&#x7684;&#x6c11;&#x65cf;&#x80fd;&#x591f;&#x548c;&#x5e73;&#x5171;&#x5904;&#x3002;</English>
 		<French>Salutations ! Je suis [OUR_NAME], je r&#232;gne sur l'[OUR_EMPIRE]. Je souhaite que nos deux grands peuples puissent vivre en paix.</French>
 		<German>Seid gegr&#252;&#223;t! Ich bin [OUR_NAME], Staatsoberhaupt des [OUR_EMPIRE:3]es. Ich hoffe, unsere gro&#223;artigen V&#246;lker werden in Frieden zusammenleben.</German>
 		<Italian>Saluti! Io sono [OUR_NAME] dell'[OUR_EMPIRE]. Spero che i nostri due grandi popoli possano vivere in pace.</Italian>
@@ -106,7 +106,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_WASHINGTON_1</Tag>
-		<English>&#x6b22;&#x8fce;&#xff0c;[CT_NAME]&#xff01;&#x6211;&#x4e0d;&#x4f1a;&#x8bf4;&#x8c0e;&#xff1a;&#x89c1;&#x5230;&#x4f60;&#x6211;&#x771f;&#x662f;&#x9ad8;&#x5174;&#x5f97;&#x5f88;&#xff01;</English>
+		<English>&#x6b22;&#x8fce;&#xff0c;[CT_NAME]&#xff01;&#x6211;&#x4e0d;&#x4f1a;&#x8bf4;&#x8c0e;&#xff1a;&#x89c1;&#x5230;&#x4f60;&#x6211;&#x771f;&#x662f;&#x9ad8;&#x5174;&#x5f97;&#x4e0d;&#x5f97;&#x4e86;&#xff01;</English>
 		<French>Bienvenue, [CT_NAME] ! Je ne peux pas mentir : &#231;a me fait plaisir de vous rencontrer !</French>
 		<German>Willkommen, [CT_NAME]! Ich kann es nicht leugnen: Ich bin mehr als erfreut, Euch kennen zu lernen!</German>
 		<Italian>Ti do il benvenuto, [CT_NAME]! Non mentir&#242;, sono incredibilmente contento di vederti!</Italian>
@@ -115,7 +115,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_SALADIN_1</Tag>
-		<English>&#x4f60;&#x597d;&#xff0c;[CT_NAME]&#xff01;&#x5f88;&#x8363;&#x5e78;&#x89c1;&#x5230;&#x4f60;&#xff01;&#x613f;&#x4e0a;&#x82cd;&#x8d50;&#x4e88;&#x4f60;&#x4e00;&#x4e2a;&#x4ec5;&#x7565;&#x900a;&#x4e8e;&#x6211;&#x7684;&#x8f89;&#x714c;&#x5e1d;&#x56fd;&#xff01;</English>
+		<English>&#x60a8;&#x597d;&#xff0c;[CT_NAME]&#xff01;&#x80fd;&#x4e0e;&#x4f60;&#x76f8;&#x89c1;&#x771f;&#x662f;&#x8363;&#x5e78;&#xff01;&#x613f;&#x4e0a;&#x82cd;&#x8d50;&#x4e88;&#x4f60;&#x4e00;&#x4e2a;&#x5e1d;&#x56fd;&#x2014;&#x2014;&#x53ea;&#x6bd4;&#x6211;&#x7684;&#x7a0d;&#x900a;&#x4e00;&#x7b79;&#x4fbf;&#x597d;&#xff01;</English>
 		<French>Mes hommages, [CT_NAME] ! C'est un honneur de vous rencontrer ! Puisse le ciel vous accorder un empire l&#233;g&#232;rement moins glorieux que le mien !</French>
 		<German>Seid gegr&#252;&#223;t, [CT_NAME]! Es ist mir eine Ehre, Eure Bekanntschaft zu machen! M&#246;gen die G&#246;tter Euch mit einem Reich segnen, das dem Ruhm und der Pracht des meinen nacheifert!</German>
 		<Italian>Saluti [CT_NAME]! &#200; un onore incontrarti! Possa il cielo donarti un impero appena inferiore al mio!</Italian>
@@ -124,7 +124,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MONTEZUMA_1</Tag>
-		<English>&#x5f88;&#x9ad8;&#x5174;&#x89c1;&#x5230;&#x4f60;&#xff0c;[CT_NAME]&#xff01;&#x8ba9;&#x6211;&#x4eec;&#x5404;&#x81ea;&#x5c60;&#x622e;&#x4e94;&#x4e07;&#x5974;&#x96b6;&#xff0c;&#x4ee5;&#x5e86;&#x795d;&#x8fd9;&#x4e00;&#x5409;&#x65f6;&#x826f;&#x8fb0;&#x3002;</English>
+		<English>&#x5f88;&#x9ad8;&#x5174;&#x89c1;&#x5230;&#x4f60;&#xff0c;[CT_NAME]&#xff01;&#x8ba9;&#x6211;&#x4eec;&#x5404;&#x81ea;&#x5bb0;&#x6740;&#x4e94;&#x4e07;&#x540d;&#x5974;&#x96b6;&#xff0c;&#x6765;&#x5e86;&#x795d;&#x8fd9;&#x4e2a;&#x5409;&#x7965;&#x7684;&#x65f6;&#x523b;&#x5427;&#x3002;</English>
 		<French>C'est un plaisir de faire votre connaissance, [CT_NAME] ! Sacrifions tous deux cinq mille esclaves pour c&#233;l&#233;brer cette rencontre de bon augure.</French>
 		<German>Ich freue mich, Euch kennen zu lernen, [CT_NAME]! Lasst uns zur Feier dieses denkw&#252;rdigen Augenblicks je f&#252;nfzigtausend Sklaven opfern!</German>
 		<Italian>Piacere di incontrarti, [CT_NAME]! Per festeggiare questo momento propizio, dovremmo massacrare cinquantamila schiavi ciascuno.</Italian>
@@ -133,7 +133,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_QIN_SHI_HUANG_1</Tag>
-		<English>&#x4f60;&#x597d;&#xff0c;&#x5c0a;&#x8d35;&#x7684; [CT_NAME]&#x3002;&#x4f46;&#x613f; [OUR_EMPIRE] &#x4e0e; [CT_CIV_SHORT] &#x4e4b;&#x95f4;&#x6c38;&#x4eab;&#x548c;&#x5e73;&#x4e0e;&#x53cb;&#x8c0a;&#x2014;&#x2014;&#x56e0;&#x4e3a;&#x8fd9;&#x662f;&#x6a2a;&#x4e98;&#x5728;&#x4f60;&#x4e0e;&#x5373;&#x523b;&#x7684;&#x706d;&#x4ea1;&#x4e4b;&#x95f4;&#x552f;&#x4e00;&#x7684;&#x5c4f;&#x969c;&#x3002; </English>
+		<English>&#x60a8;&#x597d;&#xff0c;&#x5c0a;&#x656c;&#x7684; [CT_NAME]&#x3002;&#x4f46;&#x613f; [OUR_EMPIRE] &#x4e0e; [CT_CIV_SHORT] &#x4e4b;&#x95f4;&#x6c38;&#x4eab;&#x548c;&#x5e73;&#x4e0e;&#x53cb;&#x8c0a;&#x2014;&#x2014;&#x56e0;&#x4e3a;&#x552f;&#x6709;&#x5b83;&#xff0c;&#x624d;&#x9694;&#x5728;&#x4f60;&#x4e0e;&#x9877;&#x523b;&#x7684;&#x706d;&#x4ea1;&#x4e4b;&#x95f4;&#x3002;</English>
 		<French>Mes respects, honorable [CT_NAME]. Esp&#233;rons que la paix et l'amiti&#233; r&#233;gneront toujours entre l'[OUR_EMPIRE] et les [CT_CIV_SHORT]. Car c'est la seule chose qui peut emp&#234;cher votre extermination.</French>
 		<German>Seid gegr&#252;&#223;t, ehrw&#252;rdiges Staatsoberhaupt [CT_NAME]. Hoffen wir, dass f&#252;r alle Zeit Friede und Freundschaft zwischen dem [OUR_EMPIRE:3] und [CT_CIV_SHORT] herrschen wird - andernfalls steht Eure sofortige Vernichtung bevor!</German>
 		<Italian>Saluti, onorabile [CT_NAME]. Mi auguro che regni sempre la pace e l'armonia tra [CT_CIV_SHORT] e l'[OUR_EMPIRE]... In caso contrario, ti distruggeremo.</Italian>
@@ -142,7 +142,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_CHINESE_LEADER_1</Tag>
-		<English>&#x4f60;&#x597d;&#xff0c;[CT_NAME]&#x3002;&#x5f88;&#x8363;&#x5e78;&#x89c1;&#x5230;&#x4f60;&#x3002;&#x7ed9;&#xff1a;&#x62ff;&#x4e00;&#x672c;&#x6211;&#x7684;&#x7ea2;&#x5b9d;&#x4e66;&#x3002;&#x4f60;&#x6216;&#x8bb8;&#x80fd;&#x5b66;&#x5230;&#x70b9;&#x4e1c;&#x897f;&#x3002;</English>
+		<English>&#x60a8;&#x597d;&#xff0c;[CT_NAME]&#x3002;&#x5f88;&#x9ad8;&#x5174;&#x89c1;&#x5230;&#x4f60;&#x3002;&#x558f;&#xff1a;&#x62ff;&#x4e00;&#x672c;&#x6211;&#x7684;&#x7ea2;&#x5b9d;&#x4e66;&#x5427;&#x3002;&#x4f60;&#x6216;&#x8bb8;&#x80fd;&#x4ece;&#x4e2d;&#x5b66;&#x5230;&#x4e9b;&#x4e1c;&#x897f;&#x3002;</English>
 		<French>Bonjour, [CT_NAME]. C'est un plaisir de vous rencontrer. Tenez, je vous offre un exemplaire de mon petit livre rouge. Vous y apprendrez peut-&#234;tre quelque chose.</French>
 		<German>Seid gegr&#252;&#223;t, [CT_NAME]. Ich freue mich, Eure Bekanntschaft zu machen. Hier, nehmt diese Abschrift meines kleinen roten Leitfadens. Ihr k&#246;nntet noch etwas lernen!</German>
 		<Italian>Saluti, [CT_NAME]. &#200; un piacere incontrarti. Ecco una copia del mio piccolo libro rosso. Potresti imparare qualcosa.</Italian>
@@ -151,7 +151,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HATSHEPSUT_1</Tag>
-		<English>&#x4f17;&#x795e;&#x5fc5;&#x662f;&#x5bf9;&#x4f60;&#x9732;&#x51fa;&#x4e86;&#x5fae;&#x7b11;&#xff0c;[CT_NAME]&#x2014;&#x2014;&#x56e0;&#x4e3a;&#x4ed6;&#x4eec;&#x5f15;&#x4f60;&#x6765;&#x5230;&#x4e86;&#x6211;&#x9762;&#x524d;&#xff01;</English>
+		<English>&#x8bf8;&#x795e;&#x5fc5;&#x5b9a;&#x662f;&#x5728;&#x5411;&#x4f60;&#x5fae;&#x7b11;&#xff0c;[CT_NAME]&#x2014;&#x2014;&#x56e0;&#x4e3a;&#x4ed6;&#x4eec;&#x628a;&#x4f60;&#x5f15;&#x5230;&#x4e86;&#x6211;&#x7684;&#x9762;&#x524d;&#xff01;</English>
 		<French>Les dieux sont avec vous, [CT_NAME], car ils vous ont fait venir jusqu'&#224; moi !</French>
 		<German>Ganz offensichtlich sind die G&#246;tter Euch gewogen, [CT_NAME] - denn sie haben Euch den Weg zu mir gewiesen!</German>
 		<Italian>Di certo gli dei ti sorridono, [CT_NAME], perch&#233; ti hanno indicato la strada che porta a me!</Italian>
@@ -160,7 +160,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ELIZABETH_1</Tag>
-		<English>&#x6b22;&#x8fce;&#x6765;&#x5230;&#x6211;&#x7684;&#x5bab;&#x6bbf;&#xff0c;[CT_NAME]&#x3002;&#x6211;&#x662f; [OUR_NAME]&#xff0c;&#x5f3a;&#x5927;&#x7684; [OUR_CIV_SHORT] &#x90a3;&#x777f;&#x667a;&#x800c;&#x53c8;&#x76f8;&#x5f53;&#x7f8e;&#x4e3d;&#x7684;&#x9886;&#x8896;&#x3002;&#x613f;&#x6211;&#x4eec;&#x4e4b;&#x95f4;&#x548c;&#x5e73;&#x76f8;&#x5904;&#xff0c;&#x5426;&#x5219;&#x6211;&#x4eec;&#x5c31;&#x6740;&#x4e86;&#x4f60;&#x3002;</English>
+		<English>&#x6b22;&#x8fce;&#x6765;&#x5230;&#x6211;&#x7684;&#x5bab;&#x6bbf;&#xff0c;[CT_NAME]&#x3002;&#x6211;&#x662f; [OUR_NAME]&#xff0c;&#x5f3a;&#x5927;&#x7684; [OUR_CIV_SHORT] &#x90a3;&#x4f4d;&#x777f;&#x667a;&#x800c;&#x53c8;&#x76f8;&#x5f53;&#x7f8e;&#x4e3d;&#x7684;&#x541b;&#x4e3b;&#x3002;&#x613f;&#x6211;&#x4eec;&#x4e4b;&#x95f4;&#x548c;&#x5e73;&#x76f8;&#x5904;&#xff0c;&#x5426;&#x5219;&#x6211;&#x4eec;&#x5c31;&#x6740;&#x4e86;&#x4f60;&#x3002;</English>
 		<French>Bienvenue dans mon palais, [CT_NAME]. Je suis [OUR_NAME], sage et resplendissante reine des puissants [OUR_CIV_SHORT]. Que la paix r&#232;gne entre nous, sinon vous mourrez.</French>
 		<German>Willkommen in meinem Palast, [CT_NAME]. Ich bin [OUR_NAME], das nicht nur weise, sondern auch h&#246;chst begehrenswerte Staatsberhaupt des m&#228;chtigen Volkes von [OUR_CIV_SHORT]. Wahrt den Frieden, sonst werden wir Euch vernichten!</German>
 		<Italian>Ti do il benvenuto nel mio palazzo, [CT_NAME]. Io sono [OUR_NAME], la giusta e saggia guida [OUR_CIV_SHORT]. Che regni la pace tra noi, altrimenti ti uccideremo.</Italian>
@@ -169,7 +169,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_VICTORIA_1</Tag>
-		<English>&#x795d;&#x4f60;&#x65e5;&#x5b89;&#xff0c;[CT_NAME]&#x3002;&#x6211;&#x4eec;&#x662f; [OUR_NAME]&#xff0c;[OUR_CIV_SHORT] &#x7684;&#x7edf;&#x6cbb;&#x8005;&#x3002;&#x82e5;&#x4f60;&#x9700;&#x8981;&#x5e2e;&#x52a9;&#xff0c;&#x5c3d;&#x7ba1;&#x6765;&#x627e;&#x6211;&#x4eec;&#x2014;&#x2014;&#x4e0a;&#x5e1d;&#x547d;&#x6211;&#x4eec;&#x5411;&#x4e0d;&#x5982;&#x6211;&#x4eec;&#x7684;&#x4eba;&#x65bd;&#x4ee5;&#x63f4;&#x624b;&#x4e0e;&#x6170;&#x85c9;&#x2026;&#x2026;</English>
+		<English>&#x65e5;&#x5b89;&#xff0c;[CT_NAME]&#x3002;&#x6715;&#x4e43; [OUR_NAME]&#xff0c;[OUR_CIV_SHORT] &#x4e4b;&#x541b;&#x3002;&#x82e5;&#x4f60;&#x9700;&#x8981;&#x63f4;&#x52a9;&#xff0c;&#x5c3d;&#x7ba1;&#x6765;&#x6c42;&#x6211;&#x4eec;&#x2014;&#x2014;&#x4e0a;&#x5e1d;&#x4ee4;&#x6211;&#x4eec;&#x5411;&#x5351;&#x4e0b;&#x8005;&#x65bd;&#x4ee5;&#x63f4;&#x624b;&#x4e0e;&#x6170;&#x85c9;&#x2026;&#x2026;</English>
 		<French>Je vous salue, [CT_NAME]. Nous sommes [OUR_NAME], reine des [OUR_CIV_SHORT]. N'h&#233;sitez pas &#224; nous appeler si vous avez besoin d'aide... Dieu ne nous demande-t-il pas d'aider et de r&#233;conforter ceux qui nous sont inf&#233;rieurs ?</French>
 		<German>Ich gr&#252;&#223;e Euch, [CT_NAME]. Ich bin [OUR_NAME], Staatsoberhaupt von [OUR_CIV_SHORT]. Z&#246;gert nicht, uns bei Bedarf um Unterst&#252;tzung zu bitten - es ist Gottes Wille, dass wir Minderbemittelten Trost und Hilfe spenden ...</German>
 		<Italian>Buongiorno a te, [CT_NAME]. Io sono [OUR_NAME], sovrana [OUR_CIV_SHORT]. Non esitare a contattarci se dovessi avere bisogno di aiuto, Dio dice di aiutare e confortare gli esseri a noi inferiori...</Italian>
@@ -178,7 +178,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_LOUIS_XIV_1</Tag>
-		<English>&#x6b22;&#x8fce;&#xff01;&#x6211;&#x662f; [OUR_NAME]&#xff0c;&#x5f3a;&#x5927;&#x7684; [OUR_CIV_SHORT] &#x7684;&#x7edd;&#x5bf9;&#x541b;&#x4e3b;&#xff0c;&#x4e5f;&#x662f;&#x5b87;&#x5b99;&#x6709;&#x53f2;&#x4ee5;&#x6765;&#x65e0;&#x53ef;&#x4e89;&#x8bae;&#x7684;&#x6700;&#x82f1;&#x4fca;&#x3001;&#x6700;&#x8863;&#x51a0;&#x695a;&#x695a;&#x7684;&#x7edf;&#x6cbb;&#x8005;&#x3002;&#x4f60;&#x4e0d;&#x540c;&#x610f;&#x5417;&#xff1f;</English>
+		<English>&#x6b22;&#x8fce;&#xff01;&#x6211;&#x662f; [OUR_NAME]&#xff0c;&#x5f3a;&#x5927;&#x7684; [OUR_CIV_SHORT] &#x4e4b;&#x7edd;&#x5bf9;&#x541b;&#x4e3b;&#xff0c;&#x4e5f;&#x65e0;&#x53ef;&#x4e89;&#x8fa9;&#x5730;&#x662f;&#x5b87;&#x5b99;&#x6709;&#x53f2;&#x4ee5;&#x6765;&#x6700;&#x82f1;&#x4fca;&#x3001;&#x6700;&#x4f1a;&#x7a7f;&#x7740;&#x7684;&#x7edf;&#x6cbb;&#x8005;&#x3002;&#x4f60;&#x4e0d;&#x540c;&#x610f;&#x5417;&#xff1f;</English>
 		<French>Bienvenue ! Je suis [OUR_NAME], monarque absolu des puissants [OUR_CIV_SHORT] et assur&#233;ment le plus beau et le mieux v&#234;tu de l'histoire et de l'univers. N'&#234;tes-vous point d'accord ?</French>
 		<German>Willkommen! Ich bin [OUR_NAME], Staatsoberhaupt des m&#228;chtigen Volkes von [OUR_CIV_SHORT] und das attraktivste und bestangezogene Individuum des gesamten Universums. Seht Ihr das nicht auch so?</German>
 		<Italian>Ti do il benvenuto! Io sono [OUR_NAME], monarca assoluto [OUR_CIV_SHORT:3] e indiscutibilmente il pi&#249; bello e meglio vestito dell'intera storia dell'umanit&#224;. Non sei d'accordo?</Italian>
@@ -187,7 +187,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_NAPOLEON_1</Tag>
-		<English>&#x4f60;&#x597d;&#x3002;&#x6211;&#x662f; [OUR_NAME]&#xff0c;[OUR_CIV_SHORT] &#x7684;&#x7687;&#x5e1d;&#x3001;&#x5143;&#x5e05;&#x517c;&#x7b2c;&#x4e00;&#x516c;&#x6c11;&#x3002;&#x4f60;&#x53ef;&#x4ee5;&#x53eb;&#x6211;&#x201c;&#x5c0f;&#x4f0d;&#x957f;&#x201d;&#xff0c;&#x4e0d;&#x8fc7;&#x90a3;&#x6837;&#x6211;&#x5c31;&#x5f97;&#x6740;&#x4e86;&#x4f60;&#x3002;</English>
+		<English>&#x60a8;&#x597d;&#x3002;&#x6211;&#x662f; [OUR_NAME]&#xff0c;[OUR_CIV_SHORT] &#x7684;&#x7687;&#x5e1d;&#x3001;&#x5143;&#x5e05;&#x517c;&#x7b2c;&#x4e00;&#x516c;&#x6c11;&#x3002;&#x4f60;&#x53ef;&#x4ee5;&#x53eb;&#x6211;"&#x5c0f;&#x4f0d;&#x957f;"&#xff0c;&#x4e0d;&#x8fc7;&#x90a3;&#x6837;&#x6211;&#x5c31;&#x5f97;&#x6740;&#x4e86;&#x4f60;&#x3002;</English>
 		<French>Salutations. Je suis [OUR_NAME], empereur, mar&#233;chal et premier citoyen des [OUR_CIV_SHORT]. Vous pourriez m'appeler "le petit caporal", mais je vous tuerais sur-le-champ.</French>
 		<German>Seid gegr&#252;&#223;t. Ich bin [OUR_NAME], Staatsoberhaupt von [OUR_CIV_SHORT]. Ihr d&#252;rft mich auch den "kleinen General" nennen, allerdings muss ich Euch dann t&#246;ten!</German>
 		<Italian>Salve. Io sono [OUR_NAME], Imperatore, Maresciallo e Primo Cittadino [OUR_CIV_SHORT:4]. Puoi chiamarmi "piccolo caporale", ma poi dovr&#242; ucciderti.</Italian>
@@ -196,7 +196,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_BISMARCK_1</Tag>
-		<English>&#x4f1f;&#x5927;&#x7684; [OUR_CIV_SHORT] &#x53ca;&#x5176;&#x4f18;&#x8d8a;&#x7684;&#x4eba;&#x6c11;&#x5411;&#x4f60;&#x81f4;&#x610f;&#x3002;&#x6211;&#xff0c;[OUR_NAME]&#xff0c;&#x613f;&#x4e0e;&#x6240;&#x6709;&#x90bb;&#x90a6;&#x548c;&#x5e73;&#x76f8;&#x5904;&#x2014;&#x2014;&#x54ea;&#x6015;&#x662f;&#x4e0e;&#x4f60;&#x90a3;&#x5fae;&#x4e0d;&#x8db3;&#x9053;&#x7684;&#x6587;&#x5316;&#x3002;</English>
+		<English>&#x4f1f;&#x5927;&#x7684; [OUR_CIV_SHORT] &#x53ca;&#x5176;&#x4f18;&#x8d8a;&#x7684;&#x4eba;&#x6c11;&#x5411;&#x4f60;&#x81f4;&#x610f;&#x3002;&#x6211;&#xff0c;[OUR_NAME]&#xff0c;&#x613f;&#x4e0e;&#x6240;&#x6709;&#x90bb;&#x90a6;&#x548c;&#x5e73;&#x76f8;&#x5904;&#x2014;&#x2014;&#x54ea;&#x6015;&#x662f;&#x4f60;&#x90a3;&#x70b9;&#x5fae;&#x4e0d;&#x8db3;&#x9053;&#x7684;&#x6587;&#x5316;&#x3002;</English>
 		<French>Le peuple sup&#233;rieur des [OUR_CIV_SHORT] vous souhaite la bienvenue. Moi, [OUR_NAME], d&#233;sire faire la paix avec mes voisins... ce qui comprend votre pitoyable culture.</French>
 		<German>Das gro&#223;e, bedeutende Volk von [OUR_CIV_SHORT] gr&#252;&#223;t Euch. Ich, [OUR_NAME], w&#252;nsche, in Frieden mit unseren Nachbarn zu leben - selbst mit Eurer k&#252;mmerlichen Kultur.</German>
 		<Italian>La grande nazione [OUR_CIV_SHORT:4] e il suo popolo sprezzante ti danno il benvenuto. Io, [OUR_NAME], desidero la pace con tutti i miei vicini... anche quelli culturalmente inferiori, come te.</Italian>
@@ -205,7 +205,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ALEXANDER_1</Tag>
-		<English>&#x4f60;&#x597d;&#xff0c;[CT_NAME]&#xff01;&#x6211;&#x662f; [OUR_NAME]&#xff0c;&#x597d;&#x6218;&#x7684; [OUR_EMPIRE] &#x7684;&#x7edf;&#x6cbb;&#x8005;&#xff01;&#x8ba9;&#x6211;&#x4eec;&#x8054;&#x624b;&#xff0c;&#x628a;&#x5929;&#x4e0b;&#x7684;&#x519b;&#x961f;&#x8e29;&#x5728;&#x6211;&#x4eec;&#x7684;&#x51c9;&#x978b;&#x4e4b;&#x4e0b;&#xff01;&#x90a3;&#x53ef;&#x5c31;&#x592a;&#x9177;&#x4e86;&#xff01;</English>
+		<English>&#x60a8;&#x597d;&#xff0c;[CT_NAME]&#xff01;&#x6211;&#x662f; [OUR_NAME]&#xff0c;&#x597d;&#x6218;&#x7684; [OUR_EMPIRE] &#x4e4b;&#x7edf;&#x6cbb;&#x8005;&#xff01;&#x8ba9;&#x6211;&#x4eec;&#x8054;&#x624b;&#xff0c;&#x628a;&#x5929;&#x4e0b;&#x7684;&#x519b;&#x961f;&#x8e29;&#x5728;&#x6211;&#x4eec;&#x7684;&#x51c9;&#x978b;&#x4e4b;&#x4e0b;&#xff01;&#x90a3;&#x53ef;&#x592a;&#x9177;&#x4e86;&#xff01;</English>
 		<French>Mes hommages, [CT_NAME] ! Je suis [OUR_NAME], roi de l'[OUR_EMPIRE] belliqueux ! Unissons nos forces pour &#233;craser les arm&#233;es du monde sous nos sandales ! Ce serait extra, non ?</French>
 		<German>Seid gegr&#252;&#223;t, [CT_NAME]! Ich bin [OUR_NAME], Staatsoberhaupt des [OUR_EMPIRE:3]es! Lasst uns mit vereinten Kr&#228;ften die Armeen dieser Welt ausradieren! Glaubt mir, wir werden viel Spa&#223; haben!</German>
 		<Italian>Salve, [CT_NAME]! Io sono [OUR_NAME], dominatore del bellicoso [OUR_EMPIRE]! Uniamo le nostre forze e schiacciamo il mondo sotto i nostri sandali... Sar&#224; divertente!</Italian>
@@ -214,7 +214,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HUAYNA_CAPAC_1</Tag>
-		<English>[OUR_EMPIRE] &#x6b22;&#x8fce;&#x5149;&#x8363;&#x7684; [CT_CIV_ADJ] &#x4eba;&#x6c11;&#x53ca;&#x5176;&#x9886;&#x8896; [CT_NAME]&#x3002;&#x4f60;&#x548c;&#x6211;&#x4eec;&#x73a9;&#x796d;&#x7940;&#x7403;&#x8d5b;&#xff0c;&#x6211;&#x4eec;&#x5c31;&#x548c;&#x4f60;&#x73a9;&#x796d;&#x7940;&#x7403;&#x8d5b;&#x3002;</English>
+		<English>[OUR_EMPIRE] &#x6b22;&#x8fce;&#x5149;&#x8363;&#x7684; [CT_CIV_ADJ] &#x4eba;&#x6c11;&#x53ca;&#x5176;&#x9886;&#x8896; [CT_NAME]&#x3002;&#x4f60;&#x548c;&#x6211;&#x4eec;&#x73a9;&#x796d;&#x7940;&#x7403;&#x8d5b;&#xff0c;&#x6211;&#x4eec;&#x4e5f;&#x548c;&#x4f60;&#x73a9;&#x796d;&#x7940;&#x7403;&#x8d5b;&#x3002;</English>
 		<French>L'[OUR_EMPIRE] souhaite la bienvenue aux glorieux [CT_CIV_ADJ] et &#224; [CT_NAME]. Si vous jouez le jeu avec nous, nous jouerons le jeu avec vous.</French>
 		<German>Das [OUR_EMPIRE:2] hei&#223;t Euch, [CT_NAME], Staatsoberhaupt des ruhmreichen [CT_CIV_ADJ:2] Volkes, willkommen. Wenn Ihr uns die Ehre eines Ballspiels erweist, erweisen auch wir Euch die Ehre eines Ballspiels.</German>
 		<Italian>L'[OUR_EMPIRE] d&#224; il benvenuto alla popolazione [CT_CIV_ADJ] e alla loro guida, [CT_NAME]. Giochiamo insieme alla palla cerimoniale.</Italian>
@@ -223,7 +223,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ASOKA_1</Tag>
-		<English>&#x613f;&#x548c;&#x5e73;&#x4e0e;&#x5e78;&#x798f;&#x6c38;&#x8fdc;&#x4f34;&#x968f;&#x7740;&#x4f60;&#xff0c;[CT_NAME]&#x3002;&#x6211;&#x662f; [OUR_CIV_SHORT] &#x7684; [OUR_NAME]&#x3002; </English>
+		<English>&#x613f;&#x548c;&#x5e73;&#x4e0e;&#x5e78;&#x798f;&#x6c38;&#x8fdc;&#x4f34;&#x4f60;&#x5de6;&#x53f3;&#xff0c;[CT_NAME]&#x3002;&#x6211;&#x662f; [OUR_CIV_SHORT] &#x7684; [OUR_NAME]&#x3002;</English>
 		<French>Que la paix et la joie soient toujours avec vous, [CT_NAME]. Je suis [OUR_NAME] des [OUR_CIV_SHORT].</French>
 		<German>M&#246;get Ihr stets mit Frieden und Gl&#252;ck gesegnet sein, [CT_NAME]. Ich bin [OUR_NAME] von [OUR_CIV_SHORT].</German>
 		<Italian>Che la pace e la felicit&#224; siano sempre con te, [CT_NAME]. Io sono [OUR_NAME], leader [OUR_CIV_SHORT:3].</Italian>
@@ -232,7 +232,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_GANDHI_1</Tag>
-		<English>&#x6b22;&#x8fce;&#x6765;&#x5230;&#x5bd2;&#x820d;&#xff0c;[CT_NAME]&#x3002;[OUR_CIV_SHORT] &#x613f;&#x4e0e;&#x5979;&#x6240;&#x6709;&#x7684;&#x90bb;&#x90a6;&#x548c;&#x5e73;&#x76f8;&#x5904;&#x2014;&#x2014;&#x54ea;&#x6015;&#x662f;&#x50cf;&#x4f60;&#x4eec;&#x90a3;&#x6837;&#x771f;&#x6b63;&#x60f9;&#x4eba;&#x538c;&#x7684;&#x3002;</English>
+		<English>&#x6b22;&#x8fce;&#x6765;&#x5230;&#x6211;&#x7b80;&#x964b;&#x7684;&#x5bb6;&#xff0c;[CT_NAME]&#x3002;[OUR_CIV_SHORT] &#x613f;&#x4e0e;&#x6240;&#x6709;&#x90bb;&#x90a6;&#x548c;&#x5e73;&#x76f8;&#x5904;&#x2014;&#x2014;&#x54ea;&#x6015;&#x662f;&#x50cf;&#x4f60;&#x8fd9;&#x6837;&#x5341;&#x5206;&#x8ba8;&#x538c;&#x7684;&#x90bb;&#x5c45;&#x3002;</English>
 		<French>Bienvenue dans mon humble demeure, [CT_NAME]. Les [OUR_CIV_SHORT] souhaitent vivre en paix avec tous leurs voisins... m&#234;me les plus ennuyants comme vous.</French>
 		<German>Willkommen in meinem bescheidenen Heim, [CT_NAME]. [OUR_CIV_SHORT] m&#246;chte mit seinen Nachbarn in Frieden leben - sogar mit wirklich l&#228;stigen V&#246;lkern wie dem Euren.</German>
 		<Italian>Benvenuto nella mia umile dimora, [CT_NAME]. [OUR_CIV_SHORT:1] desidera la pace con tutti i confinanti, persino quelli fastidiosi come te.</Italian>
@@ -241,7 +241,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_TOKUGAWA_1</Tag>
-		<English>&#x6b22;&#x8fce;&#xff0c;[CT_NAME]&#xff01;&#x613f;&#x4f60;&#x7684;&#x5e1d;&#x56fd;&#x7e41;&#x8363;&#x58ee;&#x5927;&#xff0c;&#x53ea;&#x8981;&#x5b83;&#x5bf9;&#x6211;&#x4eec;&#x8fd8;&#x6709;&#x7528;&#x5904;&#xff01;&#x6211;&#x8fd9;&#x8bdd;&#x662f;&#x771f;&#x5fc3;&#x7684;&#x3002; </English>
+		<English>&#x6b22;&#x8fce;&#xff0c;[CT_NAME]&#xff01;&#x613f;&#x4f60;&#x7684;&#x5e1d;&#x56fd;&#x7e41;&#x8363;&#x58ee;&#x5927;&#xff0c;&#x53ea;&#x8981;&#x5b83;&#x5bf9;&#x6211;&#x4eec;&#x8fd8;&#x6709;&#x7528;&#x5904;&#xff01;&#x6211;&#x8fd9;&#x8bdd;&#x662f;&#x771f;&#x5fc3;&#x7684;&#x3002;</English>
 		<French>Bienvenue, [CT_NAME] ! Puisse votre empire prosp&#233;rer et grandir tant qu'il nous sera utile ! Je suis sinc&#232;re...</French>
 		<German>Willkommen, [CT_NAME]! M&#246;ge Euer Imperium wachsen und gedeihen, solange auch wir einen Nutzen davon haben! Glaubt mir, das meine ich ganz aufrichtig!</German>
 		<Italian>Ti do il benvenuto, [CT_NAME]! Possa il tuo impero fiorire finch&#233; ci torner&#224; utile... Lo dico sinceramente!</Italian>
@@ -250,7 +250,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MANSA_MUSA_1</Tag>
-		<English>&#x6b22;&#x8fce;&#xff0c;[CT_NAME]&#x3002;&#x6211;&#xff0c;[OUR_NAME]&#xff0c;[OUR_CIV_SHORT] &#x8c26;&#x5351;&#x7684;&#x7edf;&#x6cbb;&#x8005;&#xff0c;&#x5411;&#x4f60;&#x4f38;&#x51fa;&#x53cb;&#x8c0a;&#x4e4b;&#x624b;&#x3002; </English>
+		<English>&#x6b22;&#x8fce;&#xff0c;[CT_NAME]&#x3002;&#x6211;&#xff0c;[OUR_NAME]&#xff0c;[OUR_CIV_SHORT] &#x8c26;&#x5351;&#x7684;&#x7edf;&#x6cbb;&#x8005;&#xff0c;&#x5411;&#x4f60;&#x4f38;&#x51fa;&#x53cb;&#x8c0a;&#x4e4b;&#x624b;&#x3002;</English>
 		<French>Bienvenue, [CT_NAME]. Moi, [OUR_NAME], humble chef des [OUR_CIV_SHORT], je vous tends la main en signe d'amiti&#233;.</French>
 		<German>Willkommen, [CT_NAME]. Ich, [OUR_NAME], bescheidenes Staatsoberhaupt von [OUR_CIV_SHORT], reiche Euch die Hand in Freundschaft.</German>
 		<Italian>Ti do il benvenuto, [CT_NAME]. Io, [OUR_NAME], umile sovrano [OUR_CIV_SHORT:3], ti offro la mia amicizia.</Italian>
@@ -268,7 +268,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_KUBLAI_KHAN_1</Tag>
-		<English>&#x5f3a;&#x5927;&#x7684; [OUR_EMPIRE] &#x5411;&#x4f60;&#x81f4;&#x610f;&#x3002;&#x8ba9;&#x6211;&#x4eec;&#x643a;&#x624b;&#x5f7b;&#x5e95;&#x6467;&#x6bc1;&#x6211;&#x4eec;&#x7684;&#x654c;&#x4eba;&#xff0c;&#x7136;&#x540e;&#x2014;&#x2014;&#x4e5f;&#x53ea;&#x5728;&#x90a3;&#x4e4b;&#x540e;&#x2014;&#x2014;&#x518d;&#x50cf;&#x6211;&#x4eec;&#x672c;&#x6027;&#x4e2d;&#x90a3;&#x6837;&#x7684;&#x75af;&#x72d7;&#x4e00;&#x822c;&#x5f7c;&#x6b64;&#x80cc;&#x53db;&#x3001;&#x76f8;&#x4e92;&#x6495;&#x54ac;&#xff01;</English>
+		<English>&#x5f3a;&#x5927;&#x7684; [OUR_EMPIRE] &#x5411;&#x4f60;&#x81f4;&#x610f;&#x3002;&#x8ba9;&#x6211;&#x4eec;&#x643a;&#x624b;&#x5b9e;&#x73b0;&#x5bf9;&#x654c;&#x4eba;&#x7684;&#x5f7b;&#x5e95;&#x6bc1;&#x706d;&#xff0c;&#x7136;&#x540e;&#x2014;&#x2014;&#x4e5f;&#x552f;&#x6709;&#x5230;&#x90a3;&#x65f6;&#x2014;&#x2014;&#x518d;&#x50cf;&#x6211;&#x4eec;&#x672c;&#x6027;&#x4e2d;&#x90a3;&#x7fa4;&#x75af;&#x72d7;&#x4e00;&#x6837;&#x5f7c;&#x6b64;&#x80cc;&#x53db;&#x3001;&#x5f7c;&#x6b64;&#x6495;&#x54ac;&#xff01;</English>
 		<French>Le puissant [OUR_EMPIRE] vous salue. Unissons nos efforts pour exterminer nos ennemis jusqu'au dernier, ce n'est qu'ensuite que nous pourrons nous TRAHIR et nous d&#233;chirer comme les chiens galeux que nous sommes !</French>
 		<German>Das m&#228;chtige [OUR_EMPIRE:2] gr&#252;&#223;t Euch. Lasst uns gemeinsam die totale Vernichtung unserer Feinde herbeif&#252;hren und uns erst dann betr&#252;gen und zerfleischen wie die r&#228;udigen Hunde, die wir in Wirklichkeit sind!</German>
 		<Italian>Lo straordinario [OUR_EMPIRE] ti d&#224; il benvenuto. Dobbiamo lavorare insieme per distruggere i nostri nemici e solo DOPO potremo tradirci a vicenda come i cani rognosi che in realt&#224; siamo!</Italian>
@@ -277,7 +277,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_CYRUS_1</Tag>
-		<English>&#x4f60;&#x597d;&#xff0c;[CT_CIV_ADJ] &#x6c11;&#x65cf;&#x777f;&#x667a;&#x7684;&#x7edf;&#x6cbb;&#x8005;&#x554a;&#xff01;[OUR_CIV_SHORT] &#x5f88;&#x5f3a;&#x5927;&#x2014;&#x2014;&#x6211;&#x4eec;&#x8be5;&#x628a;&#x4f60;&#x7b97;&#x4f5c;&#x670b;&#x53cb;&#xff0c;&#x8fd8;&#x662f;&#x654c;&#x4eba;&#xff1f;</English>
+		<English>&#x60a8;&#x597d;&#xff0c;[CT_CIV_ADJ] &#x4eba;&#x6c11;&#x777f;&#x667a;&#x7684;&#x7edf;&#x6cbb;&#x8005;&#x554a;&#xff01;[OUR_CIV_SHORT] &#x5f88;&#x5f3a;&#x5927;&#x2014;&#x2014;&#x6211;&#x4eec;&#x8be5;&#x628a;&#x4f60;&#x7b97;&#x4f5c;&#x670b;&#x53cb;&#xff0c;&#x8fd8;&#x662f;&#x7b97;&#x4f5c;&#x654c;&#x4eba;&#xff1f;</English>
 		<French>Je vous salue, &#244; vous qui r&#233;gnez sagement sur les [CT_CIV_ADJ] ! Les [OUR_CIV_SHORT] sont forts... faut-il vous compter au nombre de nos amis ou de nos ennemis ?</French>
 		<German>Ich gr&#252;&#223;e Euch, oh weises Staatsoberhaupt des [CT_CIV_ADJ:2] Volkes! [OUR_CIV_SHORT] ist m&#228;chtig und stark - sollen wir Euch zu unseren Freunden z&#228;hlen oder als unsere Feinde betrachten?</German>
 		<Italian>Saluti, leader del saggio popolo [CT_CIV_ADJ:1]! [OUR_CIV_SHORT:1] &#232; una nazione potente: dobbiamo considerarvi amici o nemici?</Italian>

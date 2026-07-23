@@ -6,7 +6,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_CANCEL</Tag>
-		<English>Cancel</English>
+		<English>&#x53d6;&#x6d88;</English>
 		<French>Annulation</French>
 		<German>Abbrechen</German>
 		<Italian>Annulla</Italian>
@@ -15,7 +15,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_PICK_CIV</Tag>
-		<English>Pick a civ</English>
+		<English>&#x9009;&#x62e9;&#x4e00;&#x4e2a;&#x6587;&#x660e;</English>
 		<French>S&#233;lectionnez un civ</French>
 		<German>W&#228;hlen Sie eine Zivilisation aus</German>
 		<Italian>Seleziona una civilt&#224;</Italian>
@@ -24,7 +24,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_CIV_DIED</Tag>
-		<English>Your civ has died.[NEWLINE]Would you like to lead another civ?[NEWLINE]</English>
+		<English>&#x4f60;&#x7684;&#x6587;&#x660e;&#x5df2;&#x706d;&#x4ea1;&#x3002;[NEWLINE]&#x4f60;&#x60f3;&#x9886;&#x5bfc;&#x53e6;&#x4e00;&#x4e2a;&#x6587;&#x660e;&#x5417;&#xff1f;[NEWLINE]</English>
 		<French>Votre civ est mort.[NEWLINE]aimez-vous mener encore civ  [NEWLINE]</French>
 		<German>Ihr Zivilisation wurde ausgel&#246;scht.[NEWLINE]M&#246;chten Sie eine andere Zivilisation f&#252;hren?[NEWLINE]</German>
 		<Italian>La tua civilt&#224; &#232; scomparsa.[NEWLINE]Vuoi guidarne un'altra?[NEWLINE]</Italian>
@@ -33,7 +33,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_TAKE_CONTROL_CIV</Tag>
-		<English>Take control of this civ ...</English>
+		<English>&#x63a5;&#x7ba1;&#x8fd9;&#x4e2a;&#x6587;&#x660e;&#x2026;&#x2026;</English>
 		<French>Prenez la commande de ce civ ...</French>
 		<German>Diese Zivilisation f&#252;hren ...</German>
 		<Italian>Prendi il controllo di questa civilt&#224;...</Italian>
@@ -42,7 +42,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_OF_THE</Tag>
-		<English>%s of the %s</English>
+		<English>%s&#x7684;%s</English>
 		<French>%s du %s</French>
 		<German>%s von %s</German>
 		<Italian>%s / %s</Italian>
@@ -51,7 +51,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_NOW_CONTROL</Tag>
-		<English>You now control the %s</English>
+		<English>&#x4f60;&#x73b0;&#x5728;&#x63a7;&#x5236;&#x7740;%s</English>
 		<French>Vous commandez maintenant %s</French>
 		<German>Sie steuern jetzt %s</German>
 		<Italian>Ora controlli %s</Italian>
@@ -60,7 +60,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_NONE</Tag>
-		<English>None</English>
+		<English>&#x65e0;</English>
 		<French>Aucun</French>
 		<German>Kein</German>
 		<Italian>Nessuno</Italian>
@@ -69,7 +69,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_TURN_ON</Tag>
-		<English>Turn on AI Auto Control?</English>
+		<English>&#x5f00;&#x542f; AI &#x81ea;&#x52a8;&#x63a7;&#x5236;&#xff1f;</English>
 		<French>Allumez la commande d'automobile d'AI?</French>
 		<German>KI-Auto-Steuerung einschalten?</German>
 		<Italian>Attivare l'Automazione dell'IA?</Italian>
@@ -78,7 +78,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_AUTOMATION</Tag>
-		<English>Choose type of automation</English>
+		<English>&#x9009;&#x62e9;&#x81ea;&#x52a8;&#x5316;&#x7c7b;&#x578b;</English>
 		<French>Choisissez le type d'automation</French>
 		<German>W&#228;hlen Sie die Art der Automatisierung</German>
 		<Italian>Scegli il tipo di automazione</Italian>
@@ -87,7 +87,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_TURN_OFF</Tag>
-		<English>AI Auto Control Ended</English>
+		<English>AI &#x81ea;&#x52a8;&#x63a7;&#x5236;&#x5df2;&#x7ed3;&#x675f;</English>
 		<French>Commande automatique d'AI finie</French>
 		<German>KI-Auto-Steuerung beendet</German>
 		<Italian>L'automazione dell'IA &#232; finita</Italian>
@@ -96,7 +96,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_TURN_OFF_TEXT</Tag>
-		<English>Control returned.</English>
+		<English>&#x63a7;&#x5236;&#x6743;&#x5df2;&#x4ea4;&#x8fd8;&#x3002;</English>
 		<French>La commande est retourn&#233;e.</French>
 		<German>Steuerung wieder &#252;bernommen.</German>
 		<Italian>Sei tornato alla guida.</Italian>
@@ -105,7 +105,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_TURN_ABDICATE</Tag>
-		<English>Turn AI Auto Controled</English>
+		<English>&#x56de;&#x5408; AI &#x81ea;&#x52a8;&#x63a7;&#x5236;</English>
 		<French>Tournez l'automobile d'AI command&#233;e</French>
 		<German>Eine Runde KI-Autosteuerung</German>
 		<Italian>Turno dell'Automazione dell'IA</Italian>
@@ -114,7 +114,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_TURN_ABDICATE_TEXT</Tag>
-		<English>LEADER: %s1_Leader[NEWLINE]CIVILIZATION: %s2_CivilizationAdj[NEWLINE][NEWLINE]START TURN: %d3_StartTurn[NEWLINE]END TURN: %d4_EndTurn[NEWLINE]AUTO TURNS: %d5_AutoTurn[NEWLINE][NEWLINE]Game AI Auto Controled for a single Turn.</English>
+		<English>&#x9886;&#x8896;&#xff1a;%s1_Leader[NEWLINE]&#x6587;&#x660e;&#xff1a;%s2_CivilizationAdj[NEWLINE][NEWLINE]&#x8d77;&#x59cb;&#x56de;&#x5408;&#xff1a;%d3_StartTurn[NEWLINE]&#x7ed3;&#x675f;&#x56de;&#x5408;&#xff1a;%d4_EndTurn[NEWLINE]&#x81ea;&#x52a8;&#x56de;&#x5408;&#x6570;&#xff1a;%d5_AutoTurn[NEWLINE][NEWLINE]&#x6e38;&#x620f;&#x5df2; AI &#x81ea;&#x52a8;&#x63a7;&#x5236;&#x5355;&#x4e2a;&#x56de;&#x5408;&#x3002;</English>
 		<French>LEADER: %s1_Leader[NEWLINE]CIVILIZATION: %s2_CivilizationAdj[NEWLINE][NEWLINE]START TURN: %d3_StartTurn[NEWLINE]END TURN: %d4_EndTurn[NEWLINE]AUTO TURNS: %d5_AutoTurn[NEWLINE][NEWLINE]Command&#233; automatique du jeu AI pour un tour simple.</French>
 		<German>F&#252;hrer: %s1_Leader[NEWLINE]ZIVILIZATION: %s2_CivilizationAdj[NEWLINE][NEWLINE]Anfangsrunde: %d3_StartTurn[NEWLINE]Endrunde: %d4_EndTurn[NEWLINE]Automatische Runden: %d5_AutoTurn[NEWLINE][NEWLINE]Das Spiel wurde eine Runde automatisch gesteuert.</German>
 		<Italian>LEADER: %s1_Leader[NEWLINE]CIVILTA': %s2_CivilizationAdj[NEWLINE][NEWLINE]TURNO INIZIALE: %d3_StartTurn[NEWLINE]TURNO FINALE: %d4_EndTurn[NEWLINE]TURNI AUTO: %d5_AutoTurn[NEWLINE][NEWLINE]Controllo Automatico dell'IA per un solo turno.</Italian>
@@ -122,7 +122,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_MP_ANNOUNCE_ABDICATE</Tag>
-		<English>AI Auto Control On</English>
+		<English>AI &#x81ea;&#x52a8;&#x63a7;&#x5236;&#x5df2;&#x5f00;&#x542f;</English>
 		<French>Commande automatique d'AI dessus</French>
 		<German>KI-Autosteuerung an</German>
 		<Italian>Automazione dell'IA attivata</Italian>
@@ -131,7 +131,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_MP_ANNOUNCE_ABDICATE_TEXT</Tag>
-		<English>LEADER: %s1_Leader[NEWLINE]CIVILIZATION: %s2_CivilizationAdj[NEWLINE][NEWLINE]START TURN: %d3_StartTurn[NEWLINE]END TURN: %d4_EndTurn[NEWLINE]AUTO TURNS: %d5_AutoTurn[NEWLINE][NEWLINE]Game AI Auto Control is Now Active.</English>
+		<English>&#x9886;&#x8896;&#xff1a;%s1_Leader[NEWLINE]&#x6587;&#x660e;&#xff1a;%s2_CivilizationAdj[NEWLINE][NEWLINE]&#x8d77;&#x59cb;&#x56de;&#x5408;&#xff1a;%d3_StartTurn[NEWLINE]&#x7ed3;&#x675f;&#x56de;&#x5408;&#xff1a;%d4_EndTurn[NEWLINE]&#x81ea;&#x52a8;&#x56de;&#x5408;&#x6570;&#xff1a;%d5_AutoTurn[NEWLINE][NEWLINE]&#x6e38;&#x620f; AI &#x81ea;&#x52a8;&#x63a7;&#x5236;&#x73b0;&#x5df2;&#x751f;&#x6548;&#x3002;</English>
 		<French>LEADER: %s1_Leader[NEWLINE]CIVILIZATION: %s2_CivilizationAdj[NEWLINE][NEWLINE]START TURN: %d3_StartTurn[NEWLINE]END TURN: %d4_EndTurn[NEWLINE]AUTO TURNS: %d5_AutoTurn[NEWLINE][NEWLINE]Spiel AI-Selbststeuerung ist jetzt Active.</French>
 		<German>F&#252;hrer: %s1_Leader[NEWLINE]ZIVILIZATION: %s2_CivilizationAdj[NEWLINE][NEWLINE]Anfangsrunde: %d3_StartTurn[NEWLINE]Endrunde: %d4_EndTurn[NEWLINE]Automatische Runden: %d5_AutoTurn[NEWLINE][NEWLINE]KI-Auto-Steuerung ist nun aktiviert..</German>
 		<Italian>LEADER: %s1_Leader[NEWLINE]CIVILTA': %s2_CivilizationAdj[NEWLINE][NEWLINE]TURNO INIZIALE: %d3_StartTurn[NEWLINE]TURNO FINALE: %d4_EndTurn[NEWLINE]TURNI AUTO: %d5_AutoTurn[NEWLINE][NEWLINE]Controllo Automatico dell'IA attivo.</Italian>
@@ -140,7 +140,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_TURNS</Tag>
-		<English>How many turns would you like the AI to control?</English>
+		<English>&#x4f60;&#x5e0c;&#x671b; AI &#x63a7;&#x5236;&#x591a;&#x5c11;&#x4e2a;&#x56de;&#x5408;&#xff1f;</English>
 		<French>Combien de tours vous aimez l'AI pour commander?</French>
 		<German>Wieviele Runden m&#246;chten Sie die KI kontrollieren lassen?</German>
 		<Italian>Per quanti turni vuoi lasciare il controllo all'IA?</Italian>
@@ -149,7 +149,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_NO</Tag>
-		<English>No automation</English>
+		<English>&#x4e0d;&#x81ea;&#x52a8;&#x5316;</English>
 		<French>Aucune automation</French>
 		<German>Keine Automatisierung</German>
 		<Italian>Nessuna automazione</Italian>
@@ -158,7 +158,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_LIMIT_DIPLO</Tag>
-		<English>Limit diplomacy changes</English>
+		<English>&#x9650;&#x5236;&#x5916;&#x4ea4;&#x53d8;&#x52a8;</English>
 		<French>Limiter des changements de diplomatie</French>
 		<German>Diplomatie&#228;nderungen begrenzen</German>
 		<Italian>Limita i cambiamenti diplomatici</Italian>
@@ -167,7 +167,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_FULLY</Tag>
-		<English>Fully Automate</English>
+		<English>&#x5b8c;&#x5168;&#x81ea;&#x52a8;&#x5316;</English>
 		<French>Automatisez enti&#232;rement</French>
 		<German>Vollst&#228;ndige Automatisierung</German>
 		<Italian>Automazione totale</Italian>
@@ -176,7 +176,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_UNIT</Tag>
-		<English>Automate unit moves only (not fully tested)</English>
+		<English>&#x4ec5;&#x81ea;&#x52a8;&#x5316;&#x5355;&#x4f4d;&#x79fb;&#x52a8;&#xff08;&#x672a;&#x5b8c;&#x5168;&#x6d4b;&#x8bd5;&#xff09;</English>
 		<French>Automatisez les mouvements d'unit&#233; seulement (pas enti&#232;rement examin&#233;)</French>
 		<German>Nur Einheitenz&#252;ge automatisieren (noch nicht vollst&#228;ndig getestet)</German>
 		<Italian>Solo controllo automatico dei movimenti (non completamente testato)</Italian>
@@ -185,7 +185,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_DEBUG</Tag>
-		<English>Debug Mode (will reveal entire world!!!)</English>
+		<English>&#x8c03;&#x8bd5;&#x6a21;&#x5f0f;&#xff08;&#x5c06;&#x63ed;&#x793a;&#x6574;&#x4e2a;&#x4e16;&#x754c;&#xff01;&#xff01;&#xff01;&#xff09;</English>
 		<French>Corrigez le mode (indiquera le monde entier !!!)</French>
 		<German>Fehlerpr&#252;fungsmodus (deckt ganze Welt auf!!!)</German>
 		<Italian>Modalit&#224; Debug (rivela il mondo intero!!!)</Italian>
@@ -194,7 +194,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_NEW_LEADER</Tag>
-		<English>There is a new leader!!!</English>
+		<English>&#x51fa;&#x73b0;&#x4e86;&#x4e00;&#x4f4d;&#x65b0;&#x9886;&#x8896;&#xff01;&#xff01;&#xff01;</English>
 		<French>Il y a un nouveau chef !!!</French>
 		<German>Es gibt einen neuen Anf&#252;hrer!!!</German>
 		<Italian>C'&#232; un nuovo leader!!!</Italian>
@@ -203,7 +203,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_ABDICATE</Tag>
-		<English>Old age has finally caught up with you and you decide to abdicate rule.</English>
+		<English>&#x5c81;&#x6708;&#x7ec8;&#x7a76;&#x4e0d;&#x9976;&#x4eba;&#xff0c;&#x4f60;&#x51b3;&#x5b9a;&#x9000;&#x4f4d;&#x8ba9;&#x8d24;&#x3002;</English>
 		<French>La vieillesse a finalement rattrap&#233; avec vous et vous d&#233;cidez &#224; la r&#232;gle abdiqu&#233;e.</French>
 		<German>Ihr Hohes Alter hat Sie schlie&#223;lich eingeholt und Sie entscheiden sich, die Herrschaft abzugeben.</German>
 		<Italian>La vecchiaia infine ti ha raggiunto e tu hai deciso di lasciare il potere.</Italian>
@@ -212,7 +212,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_USURPATOR</Tag>
-		<English>Terrible news:[NEWLINE][NEWLINE]Coniving rivals have overthrown you in a coup![NEWLINE]A little to much "Let them eat cake" perhaps?</English>
+		<English>&#x5669;&#x8017;&#xff1a;[NEWLINE][NEWLINE]&#x9634;&#x8c0b;&#x5bb6;&#x4eec;&#x53d1;&#x52a8;&#x653f;&#x53d8;&#x63a8;&#x7ffb;&#x4e86;&#x4f60;&#xff01;[NEWLINE]&#x4e5f;&#x8bb8;&#x662f;&#x201c;&#x4f55;&#x4e0d;&#x98df;&#x8089;&#x7cdc;&#x201d;&#x8bf4;&#x5f97;&#x592a;&#x591a;&#x4e86;&#xff1f;</English>
 		<French>Nouvelles terribles:[NEWLINE][NEWLINE]Les rivaux de Coniving vous ont renvers&#233; dans un coup![NEWLINE]&#192; beaucoup de &quot; Laissez-les manger le cake&quot; peut-&#234;tre ?</French>
 		<German>Schreckliche Neuigkeiten:[NEWLINE][NEWLINE]Hinterh&#228;ltige Rivalen haben Sie gest&#252;rzt![NEWLINE]Etwas zu viel "Sollen sie doch Kuchen essen" m&#246;glicherweise?</German>
 		<Italian>Notizie terribili:[NEWLINE][NEWLINE]Nemici occulti ti hanno rovesciato con un colpo di stato![NEWLINE]Hai forse esagerato con "Che mangino brioches"?</Italian>
@@ -221,7 +221,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AIAUTOPLAY_GOOD_NEWS</Tag>
-		<English>[NEWLINE][NEWLINE]However, there is good news![NEWLINE]Mystical advisors report that you will be reincarnated and return to power in %d turns.[NEWLINE][NEWLINE]In the meantime, you can only hope your successor proves worthy.</English>
+		<English>[NEWLINE][NEWLINE]&#x4e0d;&#x8fc7;&#x8fd8;&#x6709;&#x597d;&#x6d88;&#x606f;&#xff01;[NEWLINE]&#x795e;&#x79d8;&#x7684;&#x987e;&#x95ee;&#x9884;&#x8a00;&#xff0c;&#x4f60;&#x5c06;&#x4e8e;%d&#x56de;&#x5408;&#x540e;&#x8f6c;&#x4e16;&#x91cd;&#x751f;&#x3001;&#x91cd;&#x638c;&#x5927;&#x6743;&#x3002;[NEWLINE][NEWLINE]&#x5728;&#x6b64;&#x671f;&#x95f4;&#xff0c;&#x4f60;&#x53ea;&#x80fd;&#x5bc4;&#x671b;&#x4e8e;&#x7ee7;&#x4efb;&#x8005;&#x582a;&#x5f53;&#x6b64;&#x4efb;&#x3002;</English>
 		<French>[NEWLINE] [NEWLINE] cependant, il y a de bonnes nouvelles ! [NEWLINE] les conseillers mystiques rapportent que vous serez r&#233;incarn&#233; et de retour pour actionner aux tours de %d. [NEWLINE] [NEWLINE] en attendant, vous pouvez seulement esp&#233;rer que votre successeur prouve digne.</French>
 		<German>[NEWLINE] [NEWLINE] Es gibt allerdings auch gute Nachrichten! [NEWLINE] Geheimnisvolle Berater berichten, dass Sie wiedergeboren und in %d Runden wieder an die Macht gelangen werden. [NEWLINE] [NEWLINE] In der Zwischenzeit k&#246;nnen Sie nur hoffen, dass Ihr Nachfolger sich Ihrer w&#252;rdig erweist.</German>
 		<Italian>[NEWLINE] [NEWLINE] Tuttavia, ci sono buone notizie! [NEWLINE] I consiglieri religiosi prevedono che sarai reincarnato e tornerai al potere in %d turni. [NEWLINE] [NEWLINE] Nel frattempo, puoi soltanto sperare che il tuo successore si dimostri degno.</Italian>

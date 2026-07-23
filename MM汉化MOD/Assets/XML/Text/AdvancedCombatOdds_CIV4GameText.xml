@@ -12,7 +12,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_BarbFreeWinsLeft</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]Barbarian free wins left:[SPACE][COLOR_REVERT]</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x5269;&#x4f59;&#x86ee;&#x65cf;&#x514d;&#x8d39;&#x80dc;&#x5229;&#xff1a;[SPACE][COLOR_REVERT]</English>
 		<French>[COLOR_HIGHLIGHT_TEXT]Nombre de victoire garantie contre les barbares:[SPACE][COLOR_REVERT]</French>
 		<German>[COLOR_HIGHLIGHT_TEXT]&#220;brige sichere Siege gegen Barbaren:[SPACE][COLOR_REVERT]</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Vittorie barbariche garantite rimaste:[SPACE][COLOR_REVERT]</Italian>
@@ -20,7 +20,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_PressSHIFT</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]Press SHIFT for more detail[COLOR_REVERT]</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x6309; SHIFT &#x67e5;&#x770b;&#x66f4;&#x591a;&#x8be6;&#x60c5;[COLOR_REVERT]</English>
 		<French>[COLOR_HIGHLIGHT_TEXT]Pesez sur  MAJ pour plus de d&#233;tails[COLOR_REVERT]</French>
 		<German>[COLOR_HIGHLIGHT_TEXT]&lt;Umschalt&gt; dr&#252;cken f&#252;r mehr Einzelheiten[COLOR_REVERT]</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Tieni premuto SHIFT per maggiori dettagli[COLOR_REVERT]</Italian>
@@ -28,7 +28,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_SurvivalOdds</Tag>
-		<English>Survival odds:[SPACE]</English>
+		<English>&#x5b58;&#x6d3b;&#x51e0;&#x7387;&#xff1a;[SPACE]</English>
 		<French>Chances de survie:[SPACE]</French>
 		<German>&#220;berlebenschance:[SPACE]</German>
 		<Italian>Probabilit&#224; di sopravvivenza:[SPACE]</Italian>
@@ -36,7 +36,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_SurvivalGuaranteed</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]Survival Guaranteed![COLOR_REVERT]</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x5fc5;&#x5b9a;&#x5b58;&#x6d3b;&#xff01;[COLOR_REVERT]</English>
 		<French>[COLOR_HIGHLIGHT_TEXT]Survie Garantie![COLOR_REVERT]</French>
 		<German>[COLOR_HIGHLIGHT_TEXT]Sicheres &#220;berleben![COLOR_REVERT]</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Sopravvivenza certa![COLOR_REVERT]</Italian>
@@ -44,7 +44,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_Victory</Tag>
-		<English>[COLOR_POSITIVE_TEXT]Victory[COLOR_REVERT]</English>
+		<English>[COLOR_POSITIVE_TEXT]&#x80dc;&#x5229;[COLOR_REVERT]</English>
 		<French>[COLOR_POSITIVE_TEXT]Victoire[COLOR_REVERT]</French>
 		<German>[COLOR_POSITIVE_TEXT]Sieg[COLOR_REVERT]</German>
 		<Italian>[COLOR_POSITIVE_TEXT]Vittoria[COLOR_REVERT]</Italian>
@@ -52,7 +52,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_Defeat</Tag>
-		<English>[COLOR_NEGATIVE_TEXT]Defeat[COLOR_REVERT]</English>
+		<English>[COLOR_NEGATIVE_TEXT]&#x5931;&#x8d25;[COLOR_REVERT]</English>
 		<French>[COLOR_NEGATIVE_TEXT]D&#233;faite[COLOR_REVERT]</French>
 		<German>[COLOR_NEGATIVE_TEXT]Niederlage[COLOR_REVERT]</German>
 		<Italian>[COLOR_NEGATIVE_TEXT]Sconfitta[COLOR_REVERT]</Italian>
@@ -60,7 +60,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_Withdraw</Tag>
-		<English>[COLOR_POSITIVE_TEXT]Withdraw[COLOR_REVERT]</English>
+		<English>[COLOR_POSITIVE_TEXT]&#x64a4;&#x9000;[COLOR_REVERT]</English>
 		<French>[COLOR_POSITIVE_TEXT]Se retirer[COLOR_REVERT]</French>
 		<German>[COLOR_POSITIVE_TEXT]Flucht[COLOR_REVERT]</German>
 		<Italian>[COLOR_POSITIVE_TEXT]Fuga[COLOR_REVERT]</Italian>
@@ -68,7 +68,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_Retreat</Tag>
-		<English>[COLOR_UNIT_TEXT]Retreat[COLOR_REVERT]</English>
+		<English>[COLOR_UNIT_TEXT]&#x9000;&#x5374;[COLOR_REVERT]</English>
 		<French>[COLOR_UNIT_TEXT]Retraite[COLOR_REVERT]</French>
 		<German>[COLOR_UNIT_TEXT]R&#252;ckzug[COLOR_REVERT]</German>
 		<Italian>[COLOR_UNIT_TEXT]Ritirata[COLOR_REVERT]</Italian>
@@ -76,7 +76,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_AverageHP</Tag>
-		<English>[NEWLINE]Average HP:[SPACE]</English>
+		<English>[NEWLINE]&#x5e73;&#x5747;&#x751f;&#x547d;&#x503c;&#xff1a;[SPACE]</English>
 		<French>[NEWLINE]PV Moyen:[SPACE]</French>
 		<German>[NEWLINE]Mittlere TP:[SPACE]</German>
 		<Italian>[NEWLINE]PV medi:[SPACE]</Italian>
@@ -84,7 +84,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_Unharmed</Tag>
-		<English>[NEWLINE]Unharmed:[SPACE]</English>
+		<English>[NEWLINE]&#x65e0;&#x4f24;&#xff1a;[SPACE]</English>
 		<French>[NEWLINE]Indemne:[SPACE]</French>
 		<German>[NEWLINE]Unversehrt:[SPACE]</German>
 		<Italian>[NEWLINE]Disarmato:[SPACE]</Italian>
@@ -92,7 +92,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_UnroundedXP</Tag>
-		<English>[NEWLINE]Unrounded XP:[SPACE]</English>
+		<English>[NEWLINE]&#x672a;&#x53d6;&#x6574;&#x7ecf;&#x9a8c;&#x503c;&#xff1a;[SPACE]</English>
 		<French>[NEWLINE]EXP Non-arrondit:[SPACE]</French>
 		<German>[NEWLINE]Ungerundete EP:[SPACE]</German>
 		<Italian>[NEWLINE]XP non arrotondati:[SPACE]</Italian>
@@ -100,7 +100,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_TotalDefenseModifier</Tag>
-		<English>[NEWLINE]Total defense modifier:[SPACE]</English>
+		<English>[NEWLINE]&#x603b;&#x9632;&#x5fa1;&#x4fee;&#x6b63;&#xff1a;[SPACE]</English>
 		<French>[NEWLINE]Modificateur Total de defense:[SPACE]</French>
 		<German>[NEWLINE]Verteidigungsmodifikator absolut:[SPACE]</German>
 		<Italian>[NEWLINE]Modificatore difensivo totale:[SPACE]</Italian>
@@ -108,7 +108,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_AttackModifiers</Tag>
-		<English>[NEWLINE][COLOR_POSITIVE_TEXT]Attack modifiers:[COLOR_REVERT]</English>
+		<English>[NEWLINE][COLOR_POSITIVE_TEXT]&#x653b;&#x51fb;&#x4fee;&#x6b63;&#xff1a;[COLOR_REVERT]</English>
 		<French>[NEWLINE][COLOR_POSITIVE_TEXT]Modificateurs d'Attaque:[COLOR_REVERT]</French>
 		<German>[NEWLINE][COLOR_POSITIVE_TEXT]Angriffsmodifikatoren:[COLOR_REVERT]</German>
 		<Italian>[NEWLINE][COLOR_POSITIVE_TEXT]Modificatori offensivi:[COLOR_REVERT]</Italian>
@@ -116,7 +116,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_DefenseModifiers</Tag>
-		<English>[NEWLINE][COLOR_NEGATIVE_TEXT]Defense modifiers:[COLOR_REVERT]</English>
+		<English>[NEWLINE][COLOR_NEGATIVE_TEXT]&#x9632;&#x5fa1;&#x4fee;&#x6b63;&#xff1a;[COLOR_REVERT]</English>
 		<French>[NEWLINE][COLOR_NEGATIVE_TEXT]Modificateurs de D&#233;fense:[COLOR_REVERT]</French>
 		<German>[NEWLINE][COLOR_NEGATIVE_TEXT]Verteidigungsmodifikatoren:[COLOR_REVERT]</German>
 		<Italian>[NEWLINE][COLOR_NEGATIVE_TEXT]Modificatori difensivi:[COLOR_REVERT]</Italian>
@@ -124,7 +124,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_GuaranteedNoDefenderHit</Tag>
-		<English>[NEWLINE][COLOR_HIGHLIGHT_TEXT]Guaranteed! Defender cannot score a hit.[COLOR_REVERT]</English>
+		<English>[NEWLINE][COLOR_HIGHLIGHT_TEXT]&#x5fc5;&#x5b9a;&#xff01;&#x9632;&#x5fa1;&#x65b9;&#x65e0;&#x6cd5;&#x9020;&#x6210;&#x547d;&#x4e2d;&#x3002;[COLOR_REVERT]</English>
 		<French>[NEWLINE][COLOR_HIGHLIGHT_TEXT]C'est garantie! L'unit&#233; d&#233;fensive ne peut marquer de coup.[COLOR_REVERT]</French>
 		<German>[NEWLINE][COLOR_HIGHLIGHT_TEXT]Sicher! Der Verteidiger kann keinen Treffer landen.[COLOR_REVERT]</German>
 		<Italian>[NEWLINE][COLOR_HIGHLIGHT_TEXT]Certa! I difensori non possono colpire neppure una volta.[COLOR_REVERT]</Italian>
@@ -132,7 +132,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_HitsAt</Tag>
-		<English>hits at</English>
+		<English>&#x547d;&#x4e2d;&#x7387;</English>
 		<French>frappe &#224;</French>
 		<German>trifft</German>
 		<Italian>colpisce a</Italian>
@@ -140,7 +140,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_HP</Tag>
-		<English>HP</English>
+		<English>&#x751f;&#x547d;&#x503c;</English>
 		<French>PV</French>
 		<German>TP</German>
 		<Italian>PV</Italian>
@@ -156,7 +156,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_HP_NEUTRAL</Tag>
-		<English>[COLOR_UNIT_TEXT]HP[COLOR_REVERT]</English>
+		<English>[COLOR_UNIT_TEXT]&#x751f;&#x547d;&#x503c;[COLOR_REVERT]</English>
 		<French>[COLOR_UNIT_TEXT]PV[COLOR_REVERT]</French>
 		<German>[COLOR_UNIT_TEXT]TP[COLOR_REVERT]</German>
 		<Italian>[COLOR_UNIT_TEXT]PV[COLOR_REVERT]</Italian>
@@ -164,7 +164,7 @@
 	</TEXT>	
 	<TEXT>
 		<Tag>TXT_ACO_XP</Tag>
-		<English>XP</English>
+		<English>&#x7ecf;&#x9a8c;&#x503c;</English>
 		<French>EXP</French>
 		<German>EP</German>
 	</TEXT>

@@ -5,7 +5,7 @@
 	<!-- Civilopedia (Major Category) -->
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_WORLD_WONDERS</Tag>
-		<English>World Wonders</English>
+		<English>&#x4e16;&#x754c;&#x5947;&#x89c2;</English>
 		<French>Merveille mondiale</French>
 		<German>Weltwunder</German>
 		<Italian>Grande Meraviglia</Italian>
@@ -13,45 +13,45 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_EQUIPMENTS</Tag>
-		<English>Equipments</English>
+		<English>&#x88c5;&#x5907;</English>
 		<Spanish>Equipo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_SPELLS</Tag>
-		<English>Spells</English>
+		<English>&#x6cd5;&#x672f;</English>
 		<Spanish>Hechizos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_ABILITY</Tag>
-		<English>Special Abilities</English>
+		<English>&#x7279;&#x6b8a;&#x80fd;&#x529b;</English>
 		<Spanish>Habilidades Especiales</Spanish>
 	</TEXT>
 	<!-- Civilopedia (Resources) -->
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_PRODUCING_BUILDINGS</Tag>
-		<English>Producing Buildings</English>
+		<English>&#x53ef;&#x751f;&#x4ea7;&#x7684;&#x5efa;&#x7b51;</English>
 		<Spanish>Edificios Productores</Spanish>
 	</TEXT>
 	<!-- Civilopedia (Buildings) -->
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_REQ_STATE_RELIGION</Tag>
-		<English>State[ICON_RELIGION] is</English>
+		<English>&#x56fd;&#x6559;[ICON_RELIGION]&#x4e3a;</English>
 		<Spanish>[ICON_RELIGION]Estatal es</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_REQ_CITY_HAS</Tag>
-		<English>City Has</English>
+		<English>&#x57ce;&#x5e02;&#x62e5;&#x6709;</English>
 		<Spanish>La Ciudad Tiene</Spanish>
 	</TEXT>
 	<!-- Civilopedia (Improvements) -->
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_BASE_YIELDS</Tag>
-		<English>Base Yields</English>
+		<English>&#x57fa;&#x7840;&#x4ea7;&#x51fa;</English>
 		<Spanish>Beneficios Base</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_IMPROVEMENT_COST_TITLE</Tag>
-		<English>Build Cost:</English>
+		<English>&#x5efa;&#x9020;&#x6210;&#x672c;&#xff1a;</English>
 		<French>Coût de la Construction: %d1_worker_turns</French>
 		<German>Bauen Sie Kosten:</German>
 		<Italian>Costruisca Costo:</Italian>
@@ -59,7 +59,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_IMPROVEMENT_COST</Tag>
-		<English>[ICON_BULLET]%d1 [NUM1:Turn:Turns] by %s2_improvement</English>
+		<English>[ICON_BULLET]&#x7531; %s2_improvement &#x5efa;&#x9020;&#xff0c;&#x9700; %d1 [NUM1:Turn:Turns]</English>
 		<French>[ICON_BULLET]%d1 [NUM1:Turn:Turns] par %s2_improvement</French>
 		<German>[ICON_BULLET]%d1 [NUM1:Turn:Turns] von %s2_improvement</German>
 		<Italian>[ICON_BULLET]%d1 [NUM1:Turn:Turns] da %s2_improvement</Italian>
@@ -67,7 +67,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_IMPROVEMENT_COST_KILL</Tag>
-		<English>[ICON_BULLET]%s1_unit Unit</English>
+		<English>[ICON_BULLET]%s1_unit &#x5355;&#x4f4d;</English>
 		<French>[ICON_BULLET]%s1_unit Unit&#233;</French>
 		<German>[ICON_BULLET]%s1_unit Einheit</German>
 		<Italian>[ICON_BULLET]%s1_unit Unit&#224;</Italian>
@@ -75,7 +75,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_IMPROVEMENT_COST_KILL_MULTIPLE</Tag>
-		<English>[ICON_BULLET]%d1 [NUM1:Unit:Units] of %s2_unit</English>
+		<English>[ICON_BULLET]%d1 [NUM1:Unit:Units] %s2_unit</English>
 		<French>[ICON_BULLET]%d1 [NUM1:Unit&#233;:Unit&#233;s] d'%s2_unit</French>
 		<German>[ICON_BULLET]%d1 [NUM1:Einheit:Einheiten] von %s2_unit</German>
 		<Italian>[ICON_BULLET]%d1 Unit&#224; di %s2_unit</Italian>
@@ -83,7 +83,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_IMPROVEMENT_BONUS</Tag>
-		<English>[ICON_BULLET] Provides [LINK=literal]%s1_mana[\LINK]</English>
+		<English>[ICON_BULLET] &#x63d0;&#x4f9b; [LINK=literal]%s1_mana[\LINK]</English>
 		<French>[ICON_BULLET] Provides %s1_mana</French>
 		<German>[ICON_BULLET] Provides %s1_mana</German>
 		<Italian>[ICON_BULLET] Provides %s1_mana</Italian>
@@ -92,119 +92,119 @@
 	<!-- Civilopedia (Project) -->
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_DOUBLE_SPEED</Tag>
-		<English>Double Speed Production with</English>
+		<English>&#x53cc;&#x500d;&#x751f;&#x4ea7;&#x901f;&#x5ea6;&#xff0c;&#x51ed;&#x501f;</English>
 		<Spanish>Velocidad de Producción Duplicada con</Spanish>
 	</TEXT>
 	<!-- Civilopedia (Promotions) -->
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_PLAYER_PREREQ</Tag>
-		<English>Requires of Player</English>
+		<English>&#x9700;&#x8981;&#x73a9;&#x5bb6;&#x6ee1;&#x8db3;</English>
 		<Spanish>Requiere del Jugador</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_REQ_UNIT_RELIGION</Tag>
-		<English>Unit[ICON_RELIGION] is</English>
+		<English>&#x5355;&#x4f4d;[ICON_RELIGION]&#x4e3a;</English>
 	</TEXT>
 	<!-- Civilopedia (Religions) -->
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_FOUNDED_BY_FIRST</Tag>
-		<English>Founded by First to Discover</English>
+		<English>&#x7531;&#x9996;&#x4e2a;&#x53d1;&#x73b0;&#x8005;&#x521b;&#x7acb;</English>
 		<French>Fond&#233;e par le premier &#224; d&#233;couvrir</French>
 		<Italian>Fondato dalla prima civilit&#224; che scopre</Italian>
 		<Spanish>Fundado por el primero en descubrir</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_HEROES_OR_WONDERS_ENABLED</Tag>
-		<English>Heroes or Wonders Enabled</English>
+		<English>&#x542f;&#x7528;&#x82f1;&#x96c4;&#x6216;&#x5947;&#x89c2;</English>
 		<Spanish>Héroes o Maravillas Habilitadas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_ENABLED_WITHOUT_STATE</Tag>
-		<English>Enabled without State Religion</English>
+		<English>&#x65e0;&#x9700;&#x56fd;&#x6559;&#x5373;&#x53ef;&#x542f;&#x7528;</English>
 		<Spanish>Habilitado sin Religión Estatal</Spanish>
 	</TEXT>
 	<!-- Civilopedia (Spells) -->
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_GAIN</Tag>
-		<English>Gain: %d1_Num</English>
+		<English>&#x83b7;&#x5f97;&#xff1a;%d1_Num</English>
 		<Spanish>Gana: %d1_Num</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_DELAY</Tag>
-		<English>Delay: %d1_turns [NUM1:Turn:Turns]</English>
+		<English>&#x5ef6;&#x8fdf;&#xff1a;%d1_turns [NUM1:Turn:Turns]</English>
 		<Spanish>Retraso: %d1_turns [NUM1:Turno:Turnos]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CASTER_PREREQ</Tag>
-		<English>Requires of Caster</English>
+		<English>&#x9700;&#x8981;&#x65bd;&#x6cd5;&#x8005;&#x6ee1;&#x8db3;</English>
 		<Spanish>Requiere de Lanzador</Spanish>
 	</TEXT>
 	<!-- Civilopedia (Techs) -->
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_OTHERS_ENABLED</Tag>
-		<English>Others Enabled</English>
+		<English>&#x542f;&#x7528;&#x5176;&#x4ed6;</English>
 		<Spanish>Otros</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_UNRESEARCHABLE</Tag>
-		<English>Can not be Researched</English>
+		<English>&#x65e0;&#x6cd5;&#x7814;&#x7a76;</English>
 		<Spanish>No puede ser Investigada</Spanish>
 	</TEXT>
 	<!-- Civilopedia (Terrain) -->
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_TERRAIN_EARTHLY</Tag>
-		<English>Earthly Terrain</English>
+		<English>&#x5c18;&#x4e16;&#x5730;&#x5f62;</English>
 		<Spanish>Terreno Normal</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_TERRAIN_HELL</Tag>
-		<English>Hell Terrain</English>
+		<English>&#x5730;&#x72f1;&#x5730;&#x5f62;</English>
 		<Spanish>Terreno Infernal</Spanish>
 	</TEXT>
 	<!-- Resource Help -->
 	<TEXT>
 		<Tag>TXT_KEY_BONUS_TILE_MODIFIER</Tag>
-		<English>Tile Modifier:</English>
+		<English>&#x5730;&#x5757;&#x4fee;&#x6b63;&#xff1a;</English>
 		<Spanish>Modificador de Casilla:</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BONUS_FREE_PROMOTION_CHANCE</Tag>
-		<English>[ICON_BULLET]%D1_chance% chance free %s2_promotion for new units belonging to available category in the city</English>
+		<English>[ICON_BULLET]&#x57ce;&#x4e2d;&#x5c5e;&#x4e8e;&#x76f8;&#x5e94;&#x7c7b;&#x522b;&#x7684;&#x65b0;&#x5355;&#x4f4d;&#x6709; %D1_chance% &#x51e0;&#x7387;&#x514d;&#x8d39;&#x83b7;&#x5f97; %s2_promotion</English>
 		<Spanish>[ICON_BULLET]%D1_chance% de probabilidades de obtener %s2_promotion gratis para las nuevas unidades pertenecientes a la categoría disponible en la ciudad</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BONUS_FORBIDDEN_MANA_PENALTY</Tag>
-		<English>[ICON_BULLET]%D1_penalty Attitude Modifier (Each Leader evaluates this coefficient value)</English>
+		<English>[ICON_BULLET]%D1_penalty &#x6001;&#x5ea6;&#x4fee;&#x6b63;&#xff08;&#x6bcf;&#x4f4d;&#x9886;&#x8896;&#x5404;&#x81ea;&#x8bc4;&#x4f30;&#x6b64;&#x7cfb;&#x6570;&#x503c;&#xff09;</English>
 	</TEXT>
 	<!-- Building Help -->
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_FREE_PROMOTION_STAYED</Tag>
-		<English>[ICON_BULLET]Free %s1_Name Promotion for Units Stayed in this City</English>
+		<English>[ICON_BULLET]&#x4e3a;&#x9a7b;&#x7559;&#x672c;&#x57ce;&#x7684;&#x5355;&#x4f4d;&#x514d;&#x8d39;&#x63d0;&#x4f9b; %s1_Name &#x664b;&#x5347;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_IGNORE_REQUIREMENT</Tag>
-		<English>[SPACE](Ignoring Requirements)</English>
+		<English>[SPACE]&#xff08;&#x5ffd;&#x7565;&#x9700;&#x6c42;&#xff09;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_REQ_STATE_RELIGION</Tag>
-		<English>[COLOR_WARNING_TEXT]Requires %F1_RelIcon as State[ICON_RELIGION][COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x9700;&#x8981; %F1_RelIcon &#x4f5c;&#x4e3a;&#x56fd;&#x6559;[ICON_RELIGION][COLOR_REVERT]</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_REQ_CITY_HAS_RELIGION</Tag>
-		<English>[COLOR_WARNING_TEXT]Requires %F1_RelIcon in the City[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x9700;&#x8981;&#x57ce;&#x4e2d;&#x5b58;&#x5728; %F1_RelIcon[COLOR_REVERT]</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_REQ_CITY_HAS</Tag>
-		<English>[COLOR_WARNING_TEXT]Requires %s1_requirement in the City[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x9700;&#x8981;&#x57ce;&#x4e2d;&#x5b58;&#x5728; %s1_requirement[COLOR_REVERT]</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_DWARVEN_VAULT_HELP</Tag>
-		<English>[ICON_BULLET]Be upgraded automatically depending on the amount of Empire Treasury per City.[NEWLINE][SPACE][SPACE][ICON_BULLET]000-049 [ICON_GOLD] per City: +2 [ICON_UNHAPPY][NEWLINE][SPACE][SPACE][ICON_BULLET]050-099 [ICON_GOLD] per City: +1 [ICON_UNHAPPY][NEWLINE][SPACE][SPACE][ICON_BULLET]100-149 [ICON_GOLD] per City: None[NEWLINE][SPACE][SPACE][ICON_BULLET]150-199 [ICON_GOLD] per City: +1 [ICON_HAPPY][NEWLINE][SPACE][SPACE][ICON_BULLET]200-299 [ICON_GOLD] per City: +2 [ICON_HAPPY], +10% [ICON_PRODUCTION][NEWLINE][SPACE][SPACE][ICON_BULLET]300-499 [ICON_GOLD] per City: +2 [ICON_HAPPY], +25% [ICON_PRODUCTION][NEWLINE][SPACE][SPACE][ICON_BULLET]500over [ICON_GOLD] per City: +3 [ICON_HAPPY], +40% [ICON_PRODUCTION], +25% [ICON_GREATPEOPLE]</English>
+		<English>[ICON_BULLET]&#x6839;&#x636e;&#x6bcf;&#x5ea7;&#x57ce;&#x5e02;&#x7684;&#x5e1d;&#x56fd;&#x56fd;&#x5e93;&#x91d1;&#x989d;&#x81ea;&#x52a8;&#x5347;&#x7ea7;&#x3002;[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6bcf;&#x57ce; 000-049 [ICON_GOLD]&#xff1a;+2 [ICON_UNHAPPY][NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6bcf;&#x57ce; 050-099 [ICON_GOLD]&#xff1a;+1 [ICON_UNHAPPY][NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6bcf;&#x57ce; 100-149 [ICON_GOLD]&#xff1a;&#x65e0;[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6bcf;&#x57ce; 150-199 [ICON_GOLD]&#xff1a;+1 [ICON_HAPPY][NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6bcf;&#x57ce; 200-299 [ICON_GOLD]&#xff1a;+2 [ICON_HAPPY]&#xff0c;+10% [ICON_PRODUCTION][NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6bcf;&#x57ce; 300-499 [ICON_GOLD]&#xff1a;+2 [ICON_HAPPY]&#xff0c;+25% [ICON_PRODUCTION][NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6bcf;&#x57ce; 500 &#x4ee5;&#x4e0a; [ICON_GOLD]&#xff1a;+3 [ICON_HAPPY]&#xff0c;+40% [ICON_PRODUCTION]&#xff0c;+25% [ICON_GREATPEOPLE]</English>
 	</TEXT>
 	<!-- Civic Help -->
 	<TEXT>
 		<Tag>TXT_KEY_CIVIC_YIELD_FROM_IMPROVEMENT</Tag>
-		<English>[SPACE]from %s1_ImprovementName</English>
+		<English>[SPACE]&#x6765;&#x81ea; %s1_ImprovementName</English>
 		<French>[SPACE]: %s1_ImprovementName</French>
 		<German>[SPACE]durch die Modernisierung %s1_ImprovementName</German>
 		<Italian>[SPACE]da %s1_ImprovementName</Italian>
@@ -213,16 +213,16 @@
 	<!-- Feature Help -->
 	<TEXT>
 		<Tag>TXT_KEY_FEATURE_GROWING_TO_NEAR_TILE</Tag>
-		<English>[ICON_BULLET]1 in %d1_denominator% chance of growing per each %d2_num_directions adjacent tiles[NEWLINE][ICON_BULLET]1 in %d3_denominator% chance of growing per each tiles with any route</English>
+		<English>[ICON_BULLET]&#x6bcf;&#x76f8;&#x90bb; %d2_num_directions &#x4e2a;&#x5730;&#x5757;&#xff0c;&#x6709; %d1_denominator &#x5206;&#x4e4b;&#x4e00;&#x7684;&#x51e0;&#x7387;&#x8513;&#x5ef6;[NEWLINE][ICON_BULLET]&#x6bcf;&#x6709;&#x4e00;&#x4e2a;&#x5e26;&#x9053;&#x8def;&#x7684;&#x5730;&#x5757;&#xff0c;&#x6709; %d3_denominator &#x5206;&#x4e4b;&#x4e00;&#x7684;&#x51e0;&#x7387;&#x8513;&#x5ef6;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FEATURE_FLAMMABLE</Tag>
-		<English>[NEWLINE][ICON_BULLET]Can catch [LINK=IMPROVEMENT_SMOKE]Fire[\LINK]</English>
+		<English>[NEWLINE][ICON_BULLET]&#x53ef;&#x80fd;&#x7740; [LINK=IMPROVEMENT_SMOKE]&#x706b;[\LINK]</English>
 		<Spanish>[NEWLINE][ICON_BULLET]Puede prenderse [LINK=IMPROVEMENT_SMOKE]Fuego[\LINK]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_MANANODES</Tag>
-		<English>Mana</English>
+		<English>&#x80fd;&#x91cf;</English>
 		<Spanish>Maná</Spanish>
 	</TEXT>	
 </Civ4GameText>

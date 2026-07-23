@@ -2,62 +2,62 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_VOTE_TIE_SECRETARY_GENERAL_DECIDES</Tag>
-		<English>(Tie Vote: %s1 decides)</English>
+		<English>&#xff08;&#x5e73;&#x7968;&#xff1a;&#x7531; %s1 &#x88c1;&#x51b3;&#xff09;</English>
 		<German>(Wahl unentschieden: %s1 entscheidet)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_DIPLOMATIC_VOTING_SECRETARY_NOT_PASSED</Tag>
-		<English>(No %s1 chosen)</English>
+		<English>&#xff08;&#x672a;&#x9009;&#x51fa; %s1&#xff09;</English>
 		<German>(%s1 nicht gewählt)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_DIPLOMATIC_VOTING_VICTORY_NOT_PASSED</Tag>
-		<English>(Diplomatic Victory Failed)</English>
+		<English>&#xff08;&#x5916;&#x4ea4;&#x80dc;&#x5229;&#x5931;&#x8d25;&#xff09;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_CHOOSE_ELECTION_OVERCOUNCIL</Tag>
-		<English>As Head Councilor, you can choose a Resolution to put forward for a vote.</English>
+		<English>&#x4f5c;&#x4e3a;&#x8bae;&#x957f;&#xff0c;&#x4f60;&#x53ef;&#x4ee5;&#x9009;&#x62e9;&#x4e00;&#x9879;&#x51b3;&#x8bae;&#x4ed8;&#x8bf8;&#x8868;&#x51b3;&#x3002;</English>
 		<German>Als Ratsvorsitzender k&#246;nnen Sie eine Resolution f&#252;r eine Wahl vorschlagen.</German>
 		<Spanish>Como Gran Consejo, pod&#233;is escoger una resoluci&#243;n que presentar a votaci&#243;n.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_CHOOSE_ELECTION_UNDERCOUNCIL</Tag>
-		<English>As Dark Magistrate, you can choose a Resolution to put forward for a vote.</English>
+		<English>&#x4f5c;&#x4e3a;&#x6697;&#x5f71;&#x6267;&#x6cd5;&#x5b98;&#xff0c;&#x4f60;&#x53ef;&#x4ee5;&#x9009;&#x62e9;&#x4e00;&#x9879;&#x51b3;&#x8bae;&#x4ed8;&#x8bf8;&#x8868;&#x51b3;&#x3002;</English>
 		<German>Als Dunkler Magistrat k&#246;nnen Sie eine Resolution f&#252;r eine Wahl vorschlagen.</German>
 		<Spanish>Como Magistrado Oscuro, pod&#233;is escoger una resoluci&#243;n que presentar a votaci&#243;n.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_VICTORY_OVERCOUNCIL</Tag>
 		<!-- TODO: better text -->
-		<English>Overcouncil Election (Diplomatic Victory)</English>
+		<English>&#x81f3;&#x9ad8;&#x8bae;&#x4f1a;&#x9009;&#x4e3e;&#xff08;&#x5916;&#x4ea4;&#x80dc;&#x5229;&#xff09;</English>
 		<German>Wahl des Hohen Rates (Diplomatischer Sieg)</German>
 		<Spanish>Votaci&#243;n en el Gran Consejo (victoria diplom&#225;tica)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_VICTORY_UNDERCOUNCIL</Tag>
 		<!-- TODO: better text -->
-		<English>Undercouncil Election (Diplomatic Victory)</English>
+		<English>&#x6697;&#x5f71;&#x8bae;&#x4f1a;&#x9009;&#x4e3e;&#xff08;&#x5916;&#x4ea4;&#x80dc;&#x5229;&#xff09;</English>
 		<German>Wahl des Geheimen Rates (Diplomatischer Sieg)</German>
 		<Spanish>Votaci&#243;n en el Concilio Oculto (victoria diplom&#225;tica)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_VICTORY_SCREEN_ELECTION_POSSIBLE</Tag>
-		<English>Election possible</English>
+		<English>&#x53ef;&#x4ee5;&#x9009;&#x4e3e;</English>
 		<German>Wahl m&#246;glich</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_VICTORY_SCREEN_ELECTION_NOT_POSSIBLE</Tag>
-		<English>Election not possible</English>
+		<English>&#x65e0;&#x6cd5;&#x9009;&#x4e3e;</English>
 		<German>Wahl nicht m&#246;glich</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_RESULTS_VICTORY</Tag>
 		<!-- TODO: better text -->
-		<English>The %s1_institution has announced the Diplomatic Victory of %s2_player!</English>
+		<English>%s1_institution &#x5df2;&#x5ba3;&#x5e03; %s2_player &#x7684;&#x5916;&#x4ea4;&#x80dc;&#x5229;&#xff01;</English>
 	</TEXT>
 	<TEXT>
 		<!-- TODO: better text -->
 		<Tag>TXT_KEY_VOTE_RESULTS_SECRETARY</Tag>
-		<English>The %s1_institution has elected %s2_player to be the new %s3_title</English>
+		<English>%s1_institution &#x5df2;&#x9009;&#x4e3e; %s2_player &#x4e3a;&#x65b0;&#x4efb; %s3_title</English>
 	</TEXT>
 </Civ4GameText>

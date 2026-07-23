@@ -18,21 +18,21 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__AIRPORTICONS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x62e5;&#x6709;&#x673a;&#x573a;&#x7684;&#x57ce;&#x5e02;&#x7684;&#x57ce;&#x5e02;&#x680f;&#x4e0a;&#x65b9;&#x653e;&#x7f6e;&#x673a;&#x573a;&#x56fe;&#x6807;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x62e5;&#x6709;&#x673a;&#x573a;&#x7684;&#x57ce;&#x5e02;&#xff0c;&#x5176;&#x57ce;&#x5e02;&#x680f;&#x4e0a;&#x65b9;&#x4f1a;&#x663e;&#x793a;&#x673a;&#x573a;&#x56fe;&#x6807;&#x3002;</English>
 		<German>Zeigt ein Flughafen-Symbol neben St&#228;dten an, die &#252;ber einen Flughafen verf&#252;gen</German>
 		<Italian>Quando &#232; selezionato, aggiunge una icona aeroportuale alle citt&#224; che hanno un Aeroporto.</Italian>
 		<Spanish>Cuando se activa, coloca un icono de aeropuerto en las ciudades que tengan uno, encima de las barras de ciudad.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__STARVATIONTURNS_TEXT</Tag>
-		<English>&#x8ddd;&#x9965;&#x8352;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x8ddd;&#x9965;&#x8352;&#x56de;&#x5408;</English>
 		<German>Runden bis Hungersnot</German>
 		<Italian>Turni per la Carestia</Italian>
 		<Spanish>Turnos para to Hambruna</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__STARVATIONTURNS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x82e5;&#x57ce;&#x5e02;&#x6b63;&#x5728;&#x840e;&#x7f29;&#xff0c;&#x5219;&#x663e;&#x793a;&#x8ddd;&#x5176;&#x635f;&#x5931;&#x4eba;&#x53e3;&#x8fd8;&#x6709;&#x591a;&#x5c11;&#x56de;&#x5408;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x82e5;&#x57ce;&#x5e02;&#x6b63;&#x5728;&#x7f29;&#x51cf;&#xff0c;&#x663e;&#x793a;&#x8ddd;&#x79bb;&#x57ce;&#x5e02;&#x635f;&#x5931;&#x4eba;&#x53e3;&#x8fd8;&#x6709;&#x591a;&#x5c11;&#x56de;&#x5408;&#x3002;</English>
 		<German>Zeigt an, in wie vielen Runden eine Stadt einen B&#252;rger verliert, falls ihre Bev&#246;lkerung schrumpft</German>
 		<Italian>Quando &#232; selezionato, mostra quanti turni mancano perch&#233; una citt&#224; perda popolazione se sta diminuendo.</Italian>
 		<Spanish>Cuando se activa, muestra cuantos turnos restan para que la ciudad pierda poblaci&#243;n debido a la carest&#237;a de alimentos.</Spanish>
@@ -49,21 +49,21 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__HEALTH_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x57ce;&#x5e02;&#x7684;&#x51c0;&#x5065;&#x5eb7;&#x5ea6;&#xff08;[ICON_HEALTHY] &#x6216; [ICON_UNHEALTHY]&#xff09;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x57ce;&#x5e02;&#x7684;&#x51c0;&#x5065;&#x5eb7;&#x503c;&#xff08;[ICON_HEALTHY] &#x6216; [ICON_UNHEALTHY]&#xff09;&#x3002;</English>
 		<German>Zeigt die derzeitige Gesundheit ([ICON_HEALTHY] oder [ICON_UNHEALTHY]) einer Stadt an</German>
 		<Italian>Quando &#232; selezionato, mostra la salute risultante([ICON_HEALTHY] o [ICON_UNHEALTHY]) per la citt&#224;.</Italian>
 		<Spanish>Cuando se activa, muestra la salud total ([ICON_HEALTHY] o [ICON_UNHEALTHY]) de la ciudad.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__HAPPINESS_TEXT</Tag>
-		<English>&#x5e78;&#x798f;</English>
+		<English>&#x5feb;&#x4e50;</English>
 		<German>Zufriedenheit</German>
 		<Italian>Felicit&#224;</Italian>
 		<Spanish>Felicidad</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__HAPPINESS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x57ce;&#x5e02;&#x7684;&#x51c0;&#x5e78;&#x798f;&#x5ea6;&#xff08;[ICON_HAPPY] &#x6216; [ICON_UNHAPPY]&#xff09;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x57ce;&#x5e02;&#x7684;&#x51c0;&#x5feb;&#x4e50;&#x503c;&#xff08;[ICON_HAPPY] &#x6216; [ICON_UNHAPPY]&#xff09;&#x3002;</English>
 		<German>Zeigt die derzeitige Zufriedenheit ([ICON_HAPPY] oder [ICON_UNHAPPY]) einer Stadt an</German>
 		<Italian>Quando &#232; selezionato, mostra la felicit&#224; risultante ([ICON_HAPPY] o [ICON_UNHAPPY]) per la citt&#224;.</Italian>
 		<Spanish>Cuando se activa, muestra la felicidad total ([ICON_HAPPY] o [ICON_UNHAPPY]) de la ciudad.</Spanish>
@@ -71,28 +71,28 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__HURRYANGER_TEXT</Tag>
-		<English>&#x50ac;&#x5de5;&#x6124;&#x6012;</English>
+		<English>&#x50ac;&#x9020;&#x6012;&#x6c14;</English>
 		<German>Zwangsarbeit</German>
 		<Italian>Rabbia da sacrifici</Italian>
 		<Spanish>Malestar por Sacrificio</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__HURRYANGER_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x56e0;&#x97ad;&#x7b56;&#x800c;&#x6124;&#x6012;&#x7684;&#x4eba;&#x53e3;&#x6570;&#xff08;[ICON_ANGRYPOP]&#xff09;&#x4ee5;&#x53ca;&#x8ba1;&#x65f6;&#x5668;&#x5269;&#x4f59;&#x7684;&#x56de;&#x5408;&#x6570;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x56e0;&#x97ad;&#x7b56;&#x800c;&#x4ea7;&#x751f;&#x7684;&#x6124;&#x6012;&#x4eba;&#x53e3;&#x6570;&#xff08;[ICON_ANGRYPOP]&#xff09;&#xff0c;&#x4ee5;&#x53ca;&#x8ba1;&#x65f6;&#x5668;&#x5269;&#x4f59;&#x56de;&#x5408;&#x6570;&#x3002;</English>
 		<German>Zeigt die Anzahl der wegen Zwangsarbeit unzufriedenen B&#252;rger ([ICON_ANGRYPOP]) und die Anzahl der verbleibenden Runden an, bis diese sich wieder beruhigt haben</German>
 		<Italian>Quando &#232; selezionato, mostra il numero di cittadini adirati ([ICON_ANGRYPOP]) a causa dei sacrifici ed il numero di turni prima che si pacifichino.</Italian>
 		<Spanish>Cuando se activa, muestra el n&#250;mero de ciudadanos infelices ([ICON_ANGRYPOP]) debido a acelerar la producci&#243;n por el sacrificio y el n&#250;mero de turnos que quedan.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__DRAFTANGER_TEXT</Tag>
-		<English>&#x5f81;&#x5175;&#x6124;&#x6012;</English>
+		<English>&#x5f81;&#x53ec;&#x6012;&#x6c14;</English>
 		<German>Zwangsrekrutierung</German>
 		<Italian>Rabbia da coscrizione</Italian>
 		<Spanish>Malestar por Reclutamiento</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__DRAFTANGER_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x56e0;&#x5f81;&#x5175;&#x800c;&#x6124;&#x6012;&#x7684;&#x4eba;&#x53e3;&#x6570;&#xff08;[ICON_ANGRYPOP]&#xff09;&#x4ee5;&#x53ca;&#x8ba1;&#x65f6;&#x5668;&#x5269;&#x4f59;&#x7684;&#x56de;&#x5408;&#x6570;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x56e0;&#x5f81;&#x53ec;&#x800c;&#x4ea7;&#x751f;&#x7684;&#x6124;&#x6012;&#x4eba;&#x53e3;&#x6570;&#xff08;[ICON_ANGRYPOP]&#xff09;&#xff0c;&#x4ee5;&#x53ca;&#x8ba1;&#x65f6;&#x5668;&#x5269;&#x4f59;&#x56de;&#x5408;&#x6570;&#x3002;</English>
 		<German>Zeigt die Anzahl der wegen Zwangsrekrutierung unzufriedenen B&#252;rger ([ICON_ANGRYPOP]) und die Anzahl der verbleibenden Runden an, bis diese sich wieder beruhigt haben</German>
 		<Italian>Quando &#232; selezionato, mostra il numero di cittadini adirati ([ICON_ANGRYPOP]) a causa della coscrizione ed il numero di turni prima che si pacifichino.</Italian>
 		<Spanish>Cuando se activa, muestra el n&#250;mero de ciudadanos infelices ([ICON_ANGRYPOP]) debido al reclutamiento forzoso y el n&#250;mero de turnos que quedan.</Spanish>
@@ -100,42 +100,42 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__FOODASSIST_TEXT</Tag>
-		<English>&#x589e;&#x957f;&#x660e;&#x7ec6;</English>
+		<English>&#x6210;&#x957f;&#x8be6;&#x60c5;</English>
 		<German>Wachstum</German>
 		<Italian>Crescita dettagliata</Italian>
 		<Spanish>Detalle Crecimiento</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__FOODASSIST_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x5173;&#x4e8e;&#x589e;&#x957f;&#xff08;&#x589e;&#x957f;&#x3001;&#x840e;&#x7f29;&#x3001;&#x9965;&#x8352;&#x3001;&#x505c;&#x6ede;&#xff09;&#x7684;&#x66f4;&#x8be6;&#x7ec6;&#x4fe1;&#x606f;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x66f4;&#x8be6;&#x7ec6;&#x7684;&#x6210;&#x957f;&#x4fe1;&#x606f;&#xff08;&#x6210;&#x957f;&#x3001;&#x7f29;&#x51cf;&#x3001;&#x9965;&#x8352;&#x3001;&#x505c;&#x6ede;&#xff09;&#x3002;</English>
 		<German>Zeigt detailliertere Informationen &#252;ber das Wachstum einer Stadt an (Zunahme, Abnahme, Hungersnot, Stagnation).</German>
 		<Italian>Quando &#232; selezionato, mostra pi&#249; dettagli sulla crescita (crescita, decrescita, carestia, stagnazione).</Italian>
 		<Spanish>Cuando se activa, muestra informacion detallada sobre el crecimiento (Creciendo, Menguando, Hambruna, Estancada).</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__BASEVALUES_TEXT</Tag>
-		<English>&#x57fa;&#x7840;&#x6570;&#x503c;</English>
+		<English>&#x57fa;&#x7840;&#x503c;</English>
 		<German>Basiswerte</German>
 		<Italian>Valori base</Italian>
 		<Spanish>Valores Base</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__BASEVALUES_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x60ac;&#x505c;&#x65f6;&#x6309;&#x4f4f; CTRL &#x53ef;&#x663e;&#x793a;&#x5927;&#x591a;&#x6570;&#x9879;&#x76ee;&#x7684;&#x57fa;&#x7840;&#xff08;&#x4e0d;&#x542b;&#x4fee;&#x6b63;&#xff09;&#x6570;&#x503c;&#xff1a;&#x751f;&#x4ea7;&#x3001;&#x8d38;&#x6613;&#x3001;&#x5546;&#x4e1a;&#x3001;&#x7ef4;&#x62a4;&#x3001;&#x4f1f;&#x4eba;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x60ac;&#x6d6e;&#x65f6;&#x6309;&#x4f4f; CTRL &#x53ef;&#x663e;&#x793a;&#x5927;&#x591a;&#x6570;&#x9879;&#x76ee;&#x7684;&#x57fa;&#x7840;&#x503c;&#xff08;&#x4e0d;&#x542b;&#x52a0;&#x6210;&#xff09;&#xff1a;&#x4ea7;&#x80fd;&#x3001;&#x8d38;&#x6613;&#x3001;&#x5546;&#x4e1a;&#x3001;&#x7ef4;&#x62a4;&#x8d39;&#x3001;&#x4f1f;&#x4eba;&#x3002;</English>
 		<German>Zeigt, wenn der Mauszeiger bei gedr&#252;ckter [STRG]-Taste &#252;ber eine Stadt bewegt wird, die Basiswerte (ohne Modifikatoren) der folgenden G&#252;ter an: Produktion, Handel, Wirtschaft, Unterhalt, Gro&#223;e Pers&#246;nlichkeiten</German>
 		<Italian>Quando &#232; selezionato, tenendo premuto CTRL mentre si posiziona il cursore su un oggetto ne mostra i valori base (privi di modificatori) di produzione, oro, commercio, mantenimento, grandi personaggi.</Italian>
 		<Spanish>Cuando se activa, dejando presionado CTRL mientras se pasa el rat&#243;n muestra los valores base (sin modificadores) para los elementos: producci&#243;n, tesoro, comercio, mantenimiento, grandes personajes.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__BASEPRODUCTION_TEXT</Tag>
-		<English>&#x57fa;&#x7840;&#x751f;&#x4ea7;</English>
+		<English>&#x57fa;&#x7840;&#x4ea7;&#x80fd;</English>
 		<German>Grundproduktion</German>
 		<Italian>Produzione base</Italian>
 		<Spanish>Producci&#243;n Base</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__BASEPRODUCTION_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9664;&#x5f53;&#x524d;&#x56de;&#x5408;&#x7684;&#x751f;&#x4ea7;&#x5916;&#xff0c;&#x8fd8;&#x663e;&#x793a;&#x57fa;&#x7840;&#x751f;&#x4ea7;&#xff08;&#x4e0d;&#x542b;&#x6ea2;&#x51fa;&#x3001;&#x97ad;&#x7b56;&#x4e0e;&#x780d;&#x4f10;&#xff09;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9664;&#x5f53;&#x524d;&#x56de;&#x5408;&#x7684;&#x4ea7;&#x80fd;&#x5916;&#xff0c;&#x53e6;&#x663e;&#x793a;&#x57fa;&#x7840;&#x4ea7;&#x80fd;&#xff08;&#x4e0d;&#x542b;&#x6ea2;&#x51fa;&#x3001;&#x97ad;&#x7b56;&#x4e0e;&#x780d;&#x4f10;&#xff09;&#x3002;</English>
 		<German>Zeigt die Grundproduktion (ohne &#220;berschuss, Zwangsarbeit und Waldrodung) zus&#228;tzlich zur Produktion der derzeitigen Runde an</German>
 		<Italian>Quando &#232; selezionato, mostra la produzione base (escluse le quote da surplus, sacrifici e abbattimento alberi) come aggiunta alla produzione del turno corrente.</Italian>
 		<Spanish>Cuando se activa, muestra la producci&#243;n base (sin incluir exceso de previas construcciones, sacrificio o tala de bosques) adem&#225;s de la producci&#243;n del turno actual.</Spanish>
@@ -149,7 +149,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__BUILDINGACTUALEFFECTS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x57ce;&#x5e02;&#x6b63;&#x5728;&#x5efa;&#x9020;&#x5efa;&#x7b51;&#x65f6;&#xff0c;&#x663e;&#x793a;&#x5176;&#x5c06;&#x5b9e;&#x9645;&#x4ea7;&#x51fa;&#x7684; [ICON_COMMERCE]&#x3001;[ICON_HAPPY]&#x3001;[ICON_HEALTHY] &#x4e0e; [ICON_GREATPEOPLE] &#x4ea7;&#x91cf;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x57ce;&#x5e02;&#x6b63;&#x5728;&#x5efa;&#x9020;&#x67d0;&#x5efa;&#x7b51;&#x65f6;&#xff0c;&#x663e;&#x793a;&#x5b83;&#x5c06;&#x4ea7;&#x751f;&#x7684; [ICON_COMMERCE]&#x3001;[ICON_HAPPY]&#x3001;[ICON_HEALTHY] &#x4e0e; [ICON_GREATPEOPLE] &#x7684;&#x5b9e;&#x9645;&#x4ea7;&#x51fa;&#x3002;</English>
 		<German>Zeigt die effektiven Ertr&#228;ge von [ICON_COMMERCE], [ICON_HAPPY], [ICON_HEALTHY] und [ICON_GREATPEOPLE] eines Geb&#228;udes an, das gerade errichtet wird</German>
 		<Italian>Quando &#232; selezionato ed in una citt&#224; viene costruito un edificio, sar&#224; mostrata la produzione effettiva di [ICON_COMMERCE], [ICON_HAPPY], [ICON_HEALTHY], e [ICON_GREATPEOPLE].</Italian>
 		<Spanish>Cuando se activa y una ciudad esta construyendo un edificio, se muestra la producci&#243;n real de [ICON_COMMERCE], [ICON_HAPPY], [ICON_HEALTHY], y [ICON_GREATPEOPLE] que generara.</Spanish>
@@ -164,21 +164,21 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__HURRYASSIST_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x50ac;&#x5de5;&#xff08;&#x97ad;&#x7b56;&#x548c;/&#x6216;&#x8d2d;&#x4e70;&#xff09;&#x5f53;&#x524d;&#x6b63;&#x5728;&#x751f;&#x4ea7;&#x9879;&#x76ee;&#x7684;&#x6210;&#x672c;&#xff08;[ICON_CITIZEN] &#x6216; [ICON_GOLD]&#xff09;&#x4e0e;&#x6ea2;&#x51fa;&#xff08;[ICON_PRODUCTION] &#x4e0e; [ICON_GOLD]&#xff09;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x50ac;&#x9020;&#xff08;&#x97ad;&#x7b56;&#x4e0e;/&#x6216;&#x8d2d;&#x4e70;&#xff09;&#x5f53;&#x524d;&#x751f;&#x4ea7;&#x9879;&#x76ee;&#x7684;&#x6210;&#x672c;&#xff08;[ICON_CITIZEN] &#x6216; [ICON_GOLD]&#xff09;&#x4e0e;&#x6ea2;&#x51fa;&#xff08;[ICON_PRODUCTION] &#x4e0e; [ICON_GOLD]&#xff09;&#x3002;</English>
 		<German>Zeigt die Kosten ([ICON_CITIZEN] oder [ICON_GOLD]) und &#220;bersch&#252;sse ([ICON_PRODUCTION] und [ICON_GOLD]) einer Beschleunigung (Zwangsarbeit und/oder Kauf) der derzeitigen Produktion an</German>
 		<Italian>Quando &#232; selezionato, mostra il costo ([ICON_CITIZEN] o [ICON_GOLD]) ed il surplus ([ICON_PRODUCTION] e [ICON_GOLD]) per l'accelerazione (da sacrifici e/o pagamenti) per l'oggetto in produzione.</Italian>
 		<Spanish>Cuando se activa, muestra el coste de ([ICON_CITIZEN] o [ICON_GOLD]) y el exceso de ([ICON_PRODUCTION] y [ICON_GOLD]) acelerando la producci&#243;n (sacrifico/compra) del elemento en producci&#243;n.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__HURRYASSISTINCLUDECURRENT_TEXT</Tag>
-		<English>&#x8ba1;&#x5165;&#x5f53;&#x524d;&#x56de;&#x5408;</English>
+		<English>&#x8ba1;&#x5165;&#x5f53;&#x524d;</English>
 		<German>Aktuelle Runde einbeziehen</German>
 		<Italian>Includi corrente</Italian>
 		<Spanish>Incluir Actual</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__HURRYASSISTINCLUDECURRENT_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x8ba1;&#x7b97;&#x97ad;&#x7b56;&#x50ac;&#x5de5;&#x6240;&#x4ea7;&#x751f;&#x7684;&#x6ea2;&#x51fa;&#xff08;[ICON_PRODUCTION] &#x548c;/&#x6216; [ICON_GOLD]&#xff09;&#x65f6;&#x8ba1;&#x5165;&#x5f53;&#x524d;&#x56de;&#x5408;&#x7684;&#x751f;&#x4ea7;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x8ba1;&#x7b97;&#x97ad;&#x7b56;&#x50ac;&#x9020;&#x6240;&#x5f97;&#x7684;&#x6ea2;&#x51fa;&#xff08;[ICON_PRODUCTION] &#x4e0e;/&#x6216; [ICON_GOLD]&#xff09;&#x65f6;&#xff0c;&#x8ba1;&#x5165;&#x5f53;&#x524d;&#x56de;&#x5408;&#x7684;&#x4ea7;&#x80fd;&#x3002;</English>
 		<German>Bezieht [ICON_PRODUCTION] einer Stadt aus der aktuellen Runde in die Berechnung des Produktions&#252;berschusses ([ICON_PRODUCTION] und/oder [ICON_GOLD]) ein, der aus der Produktionsbeschleunigung durch Zwangsarbeit entsteht</German>
 		<Italian>Quando &#232; selezionato, include il turno corrente quando calcola il surplus ([ICON_PRODUCTION] e/o [ICON_GOLD]) per l'accelerazione da sacrifici.</Italian>
 		<Spanish>Cuando se activa, incluye la producci&#243;n actual cuando se calcula el exceso ([ICON_PRODUCTION] y/o [ICON_GOLD]) de acelerar la producci&#243;n mediante el sacrificio.</Spanish>
@@ -193,7 +193,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__TRADEDETAIL_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x8d38;&#x6613;&#x7684;&#x5206;&#x9879;&#xff1a;&#x603b;&#x8ba1;&#x3001;&#x5bf9;&#x5916;&#x4e0e;&#x6d77;&#x5916;&#x5bf9;&#x5916;&#x3002;&#x6bcf;&#x4e00;&#x9879;&#x90fd;&#x5305;&#x542b;&#x5176;&#x540e;&#x5404;&#x9879;&#xff1a;&#x5bf9;&#x5916;&#x5305;&#x542b;&#x6d77;&#x5916;&#x5bf9;&#x5916;&#xff0c;&#x603b;&#x8ba1;&#x5305;&#x542b;&#x5bf9;&#x5916;&#x4e0e;&#x6d77;&#x5916;&#x5bf9;&#x5916;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x8d38;&#x6613;&#x7684;&#x660e;&#x7ec6;&#xff1a;&#x603b;&#x989d;&#x3001;&#x5bf9;&#x5916;&#x3001;&#x5bf9;&#x5916;&#x6d77;&#x5916;&#x3002;&#x6bcf;&#x4e00;&#x9879;&#x90fd;&#x5305;&#x542b;&#x5176;&#x540e;&#x5404;&#x9879;&#xff1a;&#x5bf9;&#x5916;&#x542b;&#x5bf9;&#x5916;&#x6d77;&#x5916;&#xff0c;&#x603b;&#x989d;&#x542b;&#x5bf9;&#x5916;&#x4e0e;&#x5bf9;&#x5916;&#x6d77;&#x5916;&#x4e24;&#x8005;&#x3002;</English>
 		<German>Zeigt eine Aufschl&#252;sselung des Handels in "Gesamt", "Ausland" und "&#220;bersee" an, wobei der Wert f&#252;r "Ausland" jenen f&#252;r "&#220;bersee" einschlie&#223;t und "Gesamt" wiederum beide Werte in sich vereint</German>
 		<Italian>Quando &#232; selezionato, mostra dei subtotali per il commercio: totale, estero, ed oltremare. Quello estero include quello d'oltremare, e quello totale include entrambi.</Italian>
 		<Spanish>Cuando se activa, muestra el desglose del comercio: total, extranjero, y de ultramar. Cada uno incluye los siguientes detr&#225;s de &#233;l: extranjero incluye ultramar, y total incluye los dos anteriores.</Spanish>
@@ -207,7 +207,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__COMMERCE_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5546;&#x4e1a;&#x603b;&#x8ba1;&#xff08;[ICON_COMMERCE]&#xff09;&#x663e;&#x793a;&#x5728;&#x5404;&#x5177;&#x4f53;&#x5546;&#x4e1a;&#x7c7b;&#x578b;&#xff08;[ICON_GOLD]&#x3001;[ICON_RESEARCH]&#x3001;[ICON_CULTURE] &#x4e0e; [ICON_ESPIONAGE]&#xff09;&#x4e4b;&#x524d;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5728;&#x5404;&#x5546;&#x4e1a;&#x7c7b;&#x578b;&#xff08;[ICON_GOLD]&#x3001;[ICON_RESEARCH]&#x3001;[ICON_CULTURE] &#x4e0e; [ICON_ESPIONAGE]&#xff09;&#x4e4b;&#x524d;&#x5148;&#x663e;&#x793a;&#x5546;&#x4e1a;&#x603b;&#x989d;&#xff08;[ICON_COMMERCE]&#xff09;&#x3002;</English>
 		<German>Zeigt das gesamte Wirtschaftseinkommen ([ICON_COMMERCE]) vor den einzelnen Einkommensarten ([ICON_GOLD], [ICON_RESEARCH], [ICON_CULTURE] und [ICON_ESPIONAGE]) an</German>
 		<Italian>Quando &#232; selezionato, mostra l'oro totale ([ICON_COMMERCE]) prima dei singoli tipi ([ICON_GOLD], [ICON_RESEARCH], [ICON_CULTURE], e [ICON_ESPIONAGE]).</Italian>
 		<Spanish>Cuando se activa, los ingresos totales ([ICON_COMMERCE]) se muestran antes de cada parte desglosada ([ICON_GOLD], [ICON_RESEARCH], [ICON_CULTURE], y [ICON_ESPIONAGE]).</Spanish>
@@ -230,28 +230,28 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__CULTURETURNS_TEXT</Tag>
-		<English>&#x6587;&#x5316;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x6587;&#x5316;&#x56de;&#x5408;</English>
 		<German>Kultur</German>
 		<Italian>Turni culturali</Italian>
 		<Spanish>Turnos para Expansi&#243;n Cultural</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__CULTURETURNS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x8ddd;&#x57ce;&#x5e02;&#x56e0;&#x6587;&#x5316;&#xff08;[ICON_CULTURE]&#xff09;&#x800c;&#x8fb9;&#x5883;&#x6269;&#x5f20;&#x8fd8;&#x6709;&#x591a;&#x5c11;&#x56de;&#x5408;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x8ddd;&#x79bb;&#x57ce;&#x5e02;&#x56e0;&#x6587;&#x5316;&#xff08;[ICON_CULTURE]&#xff09;&#x800c;&#x6269;&#x5f20;&#x8fb9;&#x5883;&#x8fd8;&#x6709;&#x591a;&#x5c11;&#x56de;&#x5408;&#x3002;</English>
 		<German>Zeigt die Anzahl der Runden an, bis sich die Kulturgrenzen ([ICON_CULTURE]) einer Stadt erweitern</German>
 		<Italian>Quando &#232; selezionato, mostra il numero di turni mancanti per la successiva espansione culturale ([ICON_CULTURE]).</Italian>
 		<Spanish>Cuando se activa, muestra los turnos hasta que las fronteras culturales se expandan([ICON_CULTURE]).</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__GREATPERSONTURNS_TEXT</Tag>
-		<English>&#x4f1f;&#x4eba;&#x56de;&#x5408;&#x6570;</English>
+		<English>&#x4f1f;&#x4eba;&#x56de;&#x5408;</English>
 		<German>Gro&#223;e Pers&#246;nlichkeiten</German>
 		<Italian>Turni per Grandi Personaggi</Italian>
 		<Spanish>Turnos Gran Personaje</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__GREATPERSONTURNS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x8ddd;&#x57ce;&#x5e02;&#x8bde;&#x751f;&#x4e0b;&#x4e00;&#x4f4d;&#x4f1f;&#x4eba;&#xff08;[ICON_GREATPEOPLE]&#xff09;&#x8fd8;&#x6709;&#x591a;&#x5c11;&#x56de;&#x5408;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x8ddd;&#x79bb;&#x57ce;&#x5e02;&#x8bde;&#x751f;&#x4e0b;&#x4e00;&#x4f4d;&#x4f1f;&#x4eba;&#xff08;[ICON_GREATPEOPLE]&#xff09;&#x8fd8;&#x6709;&#x591a;&#x5c11;&#x56de;&#x5408;&#x3002;</English>
 		<German>Zeigt die Anzahl der Runden an, bis eine Stadt eine Gro&#223;e Pers&#246;nlichkeit ([ICON_GREATPEOPLE]) hervorbringt</German>
 		<Italian>Quando &#232; selezionato, mostra il numero di turni necessario perch&#233; la citt&#224; generi il successivo Grande Personaggio([ICON_GREATPEOPLE]).</Italian>
 		<Spanish>Cuando se activa, muestra los turnos hasta que la ciudad genere el siguiente Gran Personaje ([ICON_GREATPEOPLE]).</Spanish>
@@ -266,7 +266,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__SPECIALISTS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x57ce;&#x5e02;&#x4e13;&#x5bb6;&#xff08;&#x5305;&#x62ec;&#x5e02;&#x6c11;&#x4e0e;&#x5b9a;&#x5c45;&#x4f1f;&#x4eba;&#xff09;&#x7684;&#x56fe;&#x6807;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x663e;&#x793a;&#x57ce;&#x5e02;&#x4e13;&#x5bb6;&#x7684;&#x56fe;&#x6807;&#xff08;&#x5305;&#x62ec;&#x5e02;&#x6c11;&#x4e0e;&#x5b9a;&#x5c45;&#x4f1f;&#x4eba;&#xff09;&#x3002;</English>
 		<German>Zeigt Symbole f&#252;r die Spezialisten einer Stadt ab (sowohl f&#252;r B&#252;rger als auch f&#252;r niedergelassene Gro&#223;e Pers&#246;nlichkeiten)</German>
 		<Italian>Quando &#232; selezionato, mostra delle icone per gli Specialisti in citt&#224; (sia i Cittadini Specialisti che i Grandi Personaggi trasformati in Super-Specialisti).</Italian>
 		<Spanish>Cuando se activa, muestra iconos para los especialistas de las ciudades (tanto ciudadanos especialistas como Grandes Personajes instalados).</Spanish>
@@ -288,14 +288,14 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__HIDEINSTRUCTIONS_TEXT</Tag>
-		<English>&#x9690;&#x85cf;&#x8bf4;&#x660e;</English>
+		<English>&#x9690;&#x85cf;&#x64cd;&#x4f5c;&#x8bf4;&#x660e;</English>
 		<German>Hinweise verbergen</German>
 		<Italian>Nascondi Istruzioni</Italian>
 		<Spanish>Ocultar Instrucciones</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__HIDEINSTRUCTIONS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9690;&#x85cf;&#x5173;&#x4e8e;&#x9009;&#x62e9;&#x57ce;&#x5e02;&#x4e0e;&#x663e;&#x793a;&#x57fa;&#x7840;&#x6570;&#x503c;&#x7684;&#x8bf4;&#x660e;&#xff0c;&#x4ee5;&#x817e;&#x51fa;&#x7a7a;&#x95f4;&#x663e;&#x793a;&#x65b0;&#x4fe1;&#x606f;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9690;&#x85cf;&#x5173;&#x4e8e;&#x9009;&#x62e9;&#x57ce;&#x5e02;&#x4e0e;&#x663e;&#x793a;&#x57fa;&#x7840;&#x503c;&#x7684;&#x64cd;&#x4f5c;&#x8bf4;&#x660e;&#xff0c;&#x4ee5;&#x817e;&#x51fa;&#x7a7a;&#x95f4;&#x663e;&#x793a;&#x65b0;&#x4fe1;&#x606f;&#x3002;</English>
 		<German>Verbirgt die Hinweise zur Auswahl von St&#228;dten und zur Anzeige der Basiswerte, um Platz f&#252;r die neuen Informationen zu schaffen</German>
 		<Italian>Quando &#232; selezionato, nasconde le istruzioni per la selezione delle Citt&#224; e mostra i valori base per fare posto alle nuove informazioni.</Italian>
 		<Spanish>Cuando se activa, oculta las instrucciones para seleccionar ciudades y mostrar los valores bases, para hacer sitio para la nueva informaci&#243;n.</Spanish>
@@ -304,33 +304,33 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__CITYCONTROLLEDPLOTS_TEXT</Tag>
-		<English>&#x9ad8;&#x4eae;&#x53ef;&#x5f00;&#x53d1;&#x533a;&#x57df;</English>
+		<English>&#x9ad8;&#x4eae;&#x53ef;&#x8015;&#x4f5c;&#x533a;&#x57df;</English>
 		<German>Bearbeitbares Gebiet hervorheben</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__CITYCONTROLLEDPLOTS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x6240;&#x9009;&#x57ce;&#x5e02;&#x63a7;&#x5236;&#x7684;&#x5730;&#x5757;&#x533a;&#x57df;&#xff0c;&#x7c7b;&#x4f3c;&#x4e8e;&#x4f60;&#x9009;&#x62e9;&#x79fb;&#x6c11;&#x65f6;&#x7684;&#x6548;&#x679c;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x6240;&#x9009;&#x57ce;&#x5e02;&#x6240;&#x63a7;&#x5236;&#x7684;&#x5730;&#x5757;&#x533a;&#x57df;&#xff0c;&#x7c7b;&#x4f3c;&#x4e8e;&#x9009;&#x4e2d;&#x79fb;&#x6c11;&#x65f6;&#x7684;&#x6548;&#x679c;&#x3002;</English>
 		<German>Hebt die von der gew&#228;hlten Stadt bearbeitbaren Gel&#228;ndefelder hervor (&#228;hnlich wie bei Auswahl eines Siedlers)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__CITYPLOTSTATUS_TEXT</Tag>
-		<English>&#x9ad8;&#x4eae;&#x5730;&#x5757;&#x53ef;&#x6539;&#x5584;&#x5ea6;</English>
+		<English>&#x9ad8;&#x4eae;&#x5730;&#x5757;&#x53ef;&#x6539;&#x826f;&#x6027;</English>
 		<German>Modernisierbares Gebiet hervorheben</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__CITYPLOTSTATUS_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x6839;&#x636e;&#x5730;&#x5757;&#x662f;&#x5426;&#x6b63;&#x88ab;&#x5f00;&#x53d1;&#x4ee5;&#x53ca;&#x4f60;&#x6539;&#x5584;&#x5b83;&#x7684;&#x80fd;&#x529b;&#xff0c;&#x4ee5;&#x76f8;&#x5e94;&#x989c;&#x8272;&#x9ad8;&#x4eae;&#x6240;&#x9009;&#x57ce;&#x5e02;&#x63a7;&#x5236;&#x7684;&#x6bcf;&#x4e2a;&#x5730;&#x5757;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x6839;&#x636e;&#x5730;&#x5757;&#x662f;&#x5426;&#x6b63;&#x88ab;&#x8015;&#x4f5c;&#x4ee5;&#x53ca;&#x4f60;&#x6539;&#x826f;&#x5b83;&#x7684;&#x80fd;&#x529b;&#xff0c;&#x4ee5;&#x4e0d;&#x540c;&#x989c;&#x8272;&#x9ad8;&#x4eae;&#x6240;&#x9009;&#x57ce;&#x5e02;&#x63a7;&#x5236;&#x7684;&#x6bcf;&#x5757;&#x5730;&#x5757;&#x3002;</English>
 		<German>Hebt die von der gew&#228;hlten Stadt bearbeitbaren Gel&#228;ndefelder mit farbigen Markierungen hervor, abh&#228;ngig von der tats&#228;chlichen Bewirtschaftung und den M&#246;glichkeiten zur Modernisierung</German>
 	</TEXT>
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__WORKINGIMPROVEDPLOT_TEXT</Tag>
-		<English>&#x5df2;&#x6539;&#x5584;</English>
+		<English>&#x5df2;&#x6539;&#x826f;</English>
 		<German>Modernisiert</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__WORKINGIMPROVEDPLOT_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x6b63;&#x88ab;&#x5f00;&#x53d1;&#x4e14;&#x5df2;&#x7ecf;&#x6539;&#x5584;&#x7684;&#x5730;&#x5757;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x6b63;&#x88ab;&#x8015;&#x4f5c;&#x4e14;&#x5df2;&#x6539;&#x826f;&#x7684;&#x5730;&#x5757;&#x3002;</English>
 		<German>Hebt Gel&#228;ndefelder hervor, die bearbeitet werden und schon modernisiert wurden</German>
 		<Italian>When checked, highlights tiles being worked that have already been improved</Italian>
 		<Spanish>When checked, highlights tiles being worked that have already been improved</Spanish>
@@ -338,43 +338,43 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__WORKINGIMPROVABLEPLOT_TEXT</Tag>
-		<English>&#x53ef;&#x6539;&#x5584;</English>
+		<English>&#x53ef;&#x6539;&#x826f;</English>
 		<German>Modernisierbar</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__WORKINGIMPROVABLEPLOT_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x6b63;&#x88ab;&#x5f00;&#x53d1;&#x4e14;&#x53ef;&#x4ee5;&#x6539;&#x5584;&#x7684;&#x5730;&#x5757;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x6b63;&#x88ab;&#x8015;&#x4f5c;&#x4e14;&#x53ef;&#x6539;&#x826f;&#x7684;&#x5730;&#x5757;&#x3002;</English>
 		<German>Hebt Gel&#228;ndefelder hervor, die bearbeitet werden und noch modernisiert werden k&#246;nnen</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__WORKINGIMPROVABLEBONUSPLOT_TEXT</Tag>
-		<English>&#x53ef;&#x6539;&#x5584;&#xff08;&#x542b;&#x8d44;&#x6e90;&#xff09;</English>
+		<English>&#x53ef;&#x6539;&#x826f;&#xff08;&#x5e26;&#x8d44;&#x6e90;&#xff09;</English>
 		<German>Modernisierbar mit Bonus</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__WORKINGIMPROVABLEBONUSPLOT_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x6b63;&#x88ab;&#x5f00;&#x53d1;&#x4e14;&#x53ef;&#x6539;&#x5584;&#x4ee5;&#x63d0;&#x4f9b;&#x8d44;&#x6e90;&#x52a0;&#x6210;&#x7684;&#x5730;&#x5757;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x6b63;&#x88ab;&#x8015;&#x4f5c;&#x4e14;&#x53ef;&#x6539;&#x826f;&#x4ee5;&#x63d0;&#x4f9b;&#x8d44;&#x6e90;&#x7684;&#x5730;&#x5757;&#x3002;</English>
 		<German>Hebt Gel&#228;ndefelder hervor, die bearbeitet werden und modernisiert werden k&#246;nnen, um einen Bonus zu erhalten</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__WORKINGUNIMPROVABLEPLOT_TEXT</Tag>
-		<English>&#x4e0d;&#x53ef;&#x6539;&#x5584;</English>
+		<English>&#x4e0d;&#x53ef;&#x6539;&#x826f;</English>
 		<German>Nicht modernisierbar</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__WORKINGUNIMPROVABLEPLOT_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x6b63;&#x88ab;&#x5f00;&#x53d1;&#x4f46;&#x65e0;&#x6cd5;&#x6539;&#x5584;&#x7684;&#x5730;&#x5757;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x6b63;&#x88ab;&#x8015;&#x4f5c;&#x4e14;&#x65e0;&#x6cd5;&#x6539;&#x826f;&#x7684;&#x5730;&#x5757;&#x3002;</English>
 		<German>Hebt Gel&#228;ndefelder hervor, die bearbeitet werden und nicht modernisiert werden k&#246;nnen</German>
 	</TEXT>
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGIMPROVEDPLOT_TEXT</Tag>
-		<English>&#x5df2;&#x6539;&#x5584;</English>
+		<English>&#x5df2;&#x6539;&#x826f;</English>
 		<German>Modernisiert</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGIMPROVEDPLOT_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x672a;&#x88ab;&#x5f00;&#x53d1;&#x4f46;&#x5df2;&#x7ecf;&#x6539;&#x5584;&#x7684;&#x5730;&#x5757;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x672a;&#x88ab;&#x8015;&#x4f5c;&#x4f46;&#x5df2;&#x6539;&#x826f;&#x7684;&#x5730;&#x5757;&#x3002;</English>
 		<German>Hebt Gel&#228;ndefelder hervor, die nicht bearbeitet werden und schon modernisiert wurden</German>
 		<Italian>When checked, highlights tiles not being worked that have already been improved</Italian>
 		<Spanish>When checked, highlights tiles not being worked that have already been improved</Spanish>
@@ -382,32 +382,32 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGIMPROVABLEPLOT_TEXT</Tag>
-		<English>&#x53ef;&#x6539;&#x5584;</English>
+		<English>&#x53ef;&#x6539;&#x826f;</English>
 		<German>Modernisierbar</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGIMPROVABLEPLOT_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x672a;&#x88ab;&#x5f00;&#x53d1;&#x4f46;&#x53ef;&#x4ee5;&#x6539;&#x5584;&#x7684;&#x5730;&#x5757;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x672a;&#x88ab;&#x8015;&#x4f5c;&#x4f46;&#x53ef;&#x6539;&#x826f;&#x7684;&#x5730;&#x5757;&#x3002;</English>
 		<German>Hebt Gel&#228;ndefelder hervor, die nicht bearbeitet werden und noch modernisiert werden k&#246;nnen</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGIMPROVABLEBONUSPLOT_TEXT</Tag>
-		<English>&#x53ef;&#x6539;&#x5584;&#xff08;&#x542b;&#x8d44;&#x6e90;&#xff09;</English>
+		<English>&#x53ef;&#x6539;&#x826f;&#xff08;&#x5e26;&#x8d44;&#x6e90;&#xff09;</English>
 		<German>Modernisierbar mit Bonus</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGIMPROVABLEBONUSPLOT_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x672a;&#x88ab;&#x5f00;&#x53d1;&#x4f46;&#x53ef;&#x6539;&#x5584;&#x4ee5;&#x63d0;&#x4f9b;&#x8d44;&#x6e90;&#x52a0;&#x6210;&#x7684;&#x5730;&#x5757;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x672a;&#x88ab;&#x8015;&#x4f5c;&#x4f46;&#x53ef;&#x6539;&#x826f;&#x4ee5;&#x63d0;&#x4f9b;&#x8d44;&#x6e90;&#x7684;&#x5730;&#x5757;&#x3002;</English>
 		<German>Hebt Gel&#228;ndefelder hervor, die nicht bearbeitet werden und modernisiert werden k&#246;nnen, um einen Bonus zu erhalten</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGUNIMPROVABLEPLOT_TEXT</Tag>
-		<English>&#x4e0d;&#x53ef;&#x6539;&#x5584;</English>
+		<English>&#x4e0d;&#x53ef;&#x6539;&#x826f;</English>
 		<German>Nicht modernisierbar</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CITYBAR__NOTWORKINGUNIMPROVABLEPLOT_HOVER</Tag>
-		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x672a;&#x88ab;&#x5f00;&#x53d1;&#x4e14;&#x65e0;&#x6cd5;&#x6539;&#x5584;&#x7684;&#x5730;&#x5757;&#x3002;</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x9ad8;&#x4eae;&#x672a;&#x88ab;&#x8015;&#x4f5c;&#x4e14;&#x65e0;&#x6cd5;&#x6539;&#x826f;&#x7684;&#x5730;&#x5757;&#x3002;</English>
 		<German>Hebt Gel&#228;ndefelder hervor, die nicht bearbeitet werden und nicht modernisiert werden k&#246;nnen</German>
 	</TEXT>
 

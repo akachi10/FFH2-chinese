@@ -2,7 +2,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_MULTIPLE_PRODUCTION</Tag>
-		<English>Multiple Production</English>
+		<English>&#x591a;&#x91cd;&#x751f;&#x4ea7;</English>
 		<Spanish>
 			<Text>Producción Múltiple</Text>
 			<Gender>Male</Gender>
@@ -11,11 +11,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_MULTIPLE_PRODUCTION_PEDIA</Tag>
-		<English>[H1]Multiple Production[\H1][PARAGRAPH:2]This game option changes how production overflow is handled in cities. When production overflow floods from overflow capacity, it is used in the next queue item immediately, not converted into gold. When the production overflow in a city is high enough to finish the next item or items in the production queue, they will be finished in the same turn too.[PARAGRAPH:2]This rule is not applied to Rituals and Wonders, as it could allow to accumulate overflow in order to build them faster once that their requirements are met. Production overflow isn't carried from normal production to items produced using food or viceversa, as that would allow to prevent halting city growth by accumulating enough overflow. Production overflow is carried between items produced with food in the same way it happens for normal production.</English>
+		<English>[H1]&#x591a;&#x91cd;&#x751f;&#x4ea7;[\H1][PARAGRAPH:2]&#x8fd9;&#x4e2a;&#x6e38;&#x620f;&#x9009;&#x9879;&#x6539;&#x53d8;&#x4e86;&#x57ce;&#x5e02;&#x4e2d;&#x751f;&#x4ea7;&#x6ea2;&#x51fa;&#x7684;&#x5904;&#x7406;&#x65b9;&#x5f0f;&#x3002;&#x5f53;&#x751f;&#x4ea7;&#x6ea2;&#x51fa;&#x8d85;&#x8fc7;&#x6ea2;&#x51fa;&#x4e0a;&#x9650;&#x800c;&#x5916;&#x6cc4;&#x65f6;&#xff0c;&#x5b83;&#x4f1a;&#x7acb;&#x5373;&#x7528;&#x4e8e;&#x961f;&#x5217;&#x4e2d;&#x7684;&#x4e0b;&#x4e00;&#x4e2a;&#x9879;&#x76ee;&#xff0c;&#x800c;&#x4e0d;&#x662f;&#x8f6c;&#x5316;&#x4e3a;&#x91d1;&#x5e01;&#x3002;&#x5f53;&#x4e00;&#x5ea7;&#x57ce;&#x5e02;&#x7684;&#x751f;&#x4ea7;&#x6ea2;&#x51fa;&#x8db3;&#x591f;&#x5b8c;&#x6210;&#x751f;&#x4ea7;&#x961f;&#x5217;&#x4e2d;&#x7684;&#x4e0b;&#x4e00;&#x4e2a;&#x6216;&#x591a;&#x4e2a;&#x9879;&#x76ee;&#x65f6;&#xff0c;&#x5b83;&#x4eec;&#x4e5f;&#x4f1a;&#x5728;&#x540c;&#x4e00;&#x56de;&#x5408;&#x5185;&#x5b8c;&#x6210;&#x3002;[PARAGRAPH:2]&#x6b64;&#x89c4;&#x5219;&#x4e0d;&#x9002;&#x7528;&#x4e8e;&#x4eea;&#x5f0f;&#x548c;&#x5947;&#x89c2;&#xff0c;&#x56e0;&#x4e3a;&#x90a3;&#x6837;&#x5c31;&#x80fd;&#x901a;&#x8fc7;&#x79ef;&#x7d2f;&#x6ea2;&#x51fa;&#xff0c;&#x5728;&#x6ee1;&#x8db3;&#x8981;&#x6c42;&#x540e;&#x66f4;&#x5feb;&#x5730;&#x5efa;&#x9020;&#x5b83;&#x4eec;&#x3002;&#x751f;&#x4ea7;&#x6ea2;&#x51fa;&#x4e0d;&#x4f1a;&#x4ece;&#x5e38;&#x89c4;&#x751f;&#x4ea7;&#x8f6c;&#x5230;&#x7528;&#x98df;&#x7269;&#x751f;&#x4ea7;&#x7684;&#x9879;&#x76ee;&#x4e0a;&#xff0c;&#x53cd;&#x4e4b;&#x4ea6;&#x7136;&#xff0c;&#x5426;&#x5219;&#x5c31;&#x80fd;&#x9760;&#x79ef;&#x7d2f;&#x8db3;&#x591f;&#x7684;&#x6ea2;&#x51fa;&#x6765;&#x907f;&#x514d;&#x57ce;&#x5e02;&#x505c;&#x6b62;&#x589e;&#x957f;&#x3002;&#x7528;&#x98df;&#x7269;&#x751f;&#x4ea7;&#x7684;&#x5404;&#x9879;&#x76ee;&#x4e4b;&#x95f4;&#x4f1a;&#x50cf;&#x5e38;&#x89c4;&#x751f;&#x4ea7;&#x90a3;&#x6837;&#x76f8;&#x4e92;&#x7ed3;&#x8f6c;&#x751f;&#x4ea7;&#x6ea2;&#x51fa;&#x3002;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAME_OPTION_MULTIPLE_PRODUCTION</Tag>
-		<English>Multiple Production</English>
+		<English>&#x591a;&#x91cd;&#x751f;&#x4ea7;</English>
 		<French>Production Multiple</French>
 		<German>Mehrfache Produktion</German>
 		<Italian>Produzione Multipla</Italian>
@@ -23,11 +23,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GAME_OPTION_MULTIPLE_PRODUCTION_HELP</Tag>
-		<English>When a city production is enough to finish more than one item, it can produce multiple items per turn.</English>
+		<English>&#x5f53;&#x4e00;&#x5ea7;&#x57ce;&#x5e02;&#x7684;&#x4ea7;&#x80fd;&#x8db3;&#x4ee5;&#x5b8c;&#x6210;&#x4e0d;&#x6b62;&#x4e00;&#x4e2a;&#x9879;&#x76ee;&#x65f6;&#xff0c;&#x5b83;&#x6bcf;&#x56de;&#x5408;&#x53ef;&#x4ee5;&#x751f;&#x4ea7;&#x591a;&#x4e2a;&#x9879;&#x76ee;&#x3002;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_LOST_PROD_CONVERTED</Tag>
-		<English>%s1_CityName can't carry over [ICON_PRODUCTION] overflow any more. The lost %d2_NumProduction[ICON_PRODUCTION] is converted into %d3_NumGold[ICON_GOLD]!</English>
+		<English>%s1_CityName&#x518d;&#x4e5f;&#x65e0;&#x6cd5;&#x7ed3;&#x8f6c;[ICON_PRODUCTION]&#x6ea2;&#x51fa;&#x4e86;&#x3002;&#x635f;&#x5931;&#x7684;%d2_NumProduction[ICON_PRODUCTION]&#x8f6c;&#x5316;&#x4e3a;&#x4e86;%d3_NumGold[ICON_GOLD]&#xff01;</English>
 		<Spanish>%s1_CityName no puede continuar preservando [ICON_PRODUCTION] sobrante. Los %d2_NumProduction[ICON_PRODUCTION] perdidos se han convertido en %d3_NumGold[ICON_GOLD]!</Spanish>
 	</TEXT>
 </Civ4GameText>

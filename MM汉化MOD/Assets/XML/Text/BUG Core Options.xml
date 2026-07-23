@@ -11,56 +11,56 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__SCREENLOGLEVEL_TEXT</Tag>
-		<English>Screen Logging Level</English>
+		<English>&#x5c4f;&#x5e55;&#x65e5;&#x5fd7;&#x7ea7;&#x522b;</English>
 		<German>Protokollierungsstufe (Bildschirm)</German>
 		<Italian>Livello di log a video</Italian>
 		<Spanish>Trazas a Nivel de Pantalla</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__SCREENLOGLEVEL_HOVER</Tag>
-		<English>Selects which logging messages get printed to the screen. Each level includes messages of all levels below it.</English>
+		<English>&#x9009;&#x62e9;&#x54ea;&#x4e9b;&#x65e5;&#x5fd7;&#x6d88;&#x606f;&#x4f1a;&#x6253;&#x5370;&#x5230;&#x5c4f;&#x5e55;&#x3002;&#x6bcf;&#x4e2a;&#x7ea7;&#x522b;&#x90fd;&#x5305;&#x542b;&#x5176;&#x4e0b;&#x6240;&#x6709;&#x7ea7;&#x522b;&#x7684;&#x6d88;&#x606f;&#x3002;</English>
 		<German>Bestimmt, welche Protokoll-Meldungen im Hauptbildschirm angezeigt werden (jede Stufe schlie&#223;t die Meldungen der Stufe darunter mit ein)</German>
 		<Italian>Seleziona quali messaggi di log vengono mostrati sullo schermo. Ogni livello comprende ovviamente tutti i messaggi dei livelli inferiori.</Italian>
 		<Spanish>Escoge que mensaje de traza se muestran por pantalla. Cada nivel incluye los mensajes del nivel inferior.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__SCREENLOGLEVEL_LIST</Tag>
-		<English>Debug|Info|Warning|Error|None</English>
+		<English>&#x8c03;&#x8bd5;|&#x4fe1;&#x606f;|&#x8b66;&#x544a;|&#x9519;&#x8bef;|&#x65e0;</English>
 		<German>Debug|Info|Warnung|Fehler|Keine</German>
 		<Italian>Debug|Informazioni|Avvisi|Errori|Nessuno</Italian>
 		<Spanish>Debug|Info|Avisos|Error|Ninguno</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__FILELOGLEVEL_TEXT</Tag>
-		<English>File Logging Level</English>
+		<English>&#x6587;&#x4ef6;&#x65e5;&#x5fd7;&#x7ea7;&#x522b;</English>
 		<German>Protokollierungsstufe (Datei)</German>
 		<Italian>Livello di log su file</Italian>
 		<Spanish>Trazas a Nivel de Archivo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__FILELOGLEVEL_HOVER</Tag>
-		<English>Selects which logging messages get printed to the PythonDbg.log file. Each level includes messages of all levels below it.</English>
+		<English>&#x9009;&#x62e9;&#x54ea;&#x4e9b;&#x65e5;&#x5fd7;&#x6d88;&#x606f;&#x4f1a;&#x6253;&#x5370;&#x5230; PythonDbg.log &#x6587;&#x4ef6;&#x3002;&#x6bcf;&#x4e2a;&#x7ea7;&#x522b;&#x90fd;&#x5305;&#x542b;&#x5176;&#x4e0b;&#x6240;&#x6709;&#x7ea7;&#x522b;&#x7684;&#x6d88;&#x606f;&#x3002;</English>
 		<German>Bestimmt, welche Protokoll-Meldungen in der Datei "PythonDbg.log" gespeichert werden (jede Stufe schlie&#223;t die Meldungen der Stufe darunter mit ein)</German>
 		<Italian>Seleziona quali messaggi di log vengono scritti nel file PythonDbg.log. Ogni livello comprende ovviamente tutti i messaggi dei livelli inferiori.</Italian>
 		<Spanish>Escoge que mensaje de traza se muestran en el PythonDbg.log. Cada nivel incluye los mensajes del nivel inferior.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__FILELOGLEVEL_LIST</Tag>
-		<English>Debug|Info|Warning|Error|None</English>
+		<English>&#x8c03;&#x8bd5;|&#x4fe1;&#x606f;|&#x8b66;&#x544a;|&#x9519;&#x8bef;|&#x65e0;</English>
 		<German>Debug|Info|Warnung|Fehler|Keine</German>
 		<Italian>Debug|Informazioni|Avvisi|Errori|Nessuno</Italian>
 		<Spanish>Debug|Info|Avisos|Error|Ninguno</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__LOGTIME_TEXT</Tag>
-		<English>Include Time</English>
+		<English>&#x5305;&#x542b;&#x65f6;&#x95f4;</English>
 		<German>Zeit protokollieren</German>
 		<Italian>Includi ora</Italian>
 		<Spanish>Incluir Hora</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__LOGTIME_HOVER</Tag>
-		<English>When checked, each log file message includes the current time in HH:MM:SS format.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x6bcf;&#x6761;&#x65e5;&#x5fd7;&#x6587;&#x4ef6;&#x6d88;&#x606f;&#x90fd;&#x4ee5; HH:MM:SS &#x683c;&#x5f0f;&#x5305;&#x542b;&#x5f53;&#x524d;&#x65f6;&#x95f4;&#x3002;</English>
 		<German>F&#252;gt jeder ausgegebenen Protokoll-Meldung die aktuelle Uhrzeit im Format "HH:MM:SS" hinzu</German>
 		<Italian>Quando &#232; selezionato, ogni messaggio di log include l'ora corrente (nel formato HH:MM:SS).</Italian>
 		<Spanish>Cuando se activa, cada mensaje de traza en el fichero de log incluye la hora actual en formato HH:MM:SS.</Spanish>
@@ -70,70 +70,70 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__CHECKFORUPDATES_TEXT</Tag>
-		<English>Check for Updates</English>
+		<English>&#x68c0;&#x67e5;&#x66f4;&#x65b0;</English>
 		<German>Nach Updates suchen</German>
 		<Italian>Cerca aggiornamenti</Italian>
 		<Spanish>Comprobar Actualizaciones</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__CHECKFORUPDATES_HOVER</Tag>
-		<English>When checked, BUG will look for SVN updates and/or releases each time you launch Civilization and notify you when new ones are found.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x6bcf;&#x6b21;&#x542f;&#x52a8;&#x300a;&#x6587;&#x660e;&#x300b;&#x65f6;&#xff0c;BUG &#x90fd;&#x4f1a;&#x68c0;&#x67e5; SVN &#x66f4;&#x65b0;&#x548c;&#xff0f;&#x6216;&#x53d1;&#x5e03;&#x7248;&#x672c;&#xff0c;&#x5e76;&#x5728;&#x53d1;&#x73b0;&#x65b0;&#x7248;&#x672c;&#x65f6;&#x901a;&#x77e5;&#x4f60;&#x3002;</English>
 		<German>L&#228;sst die BUG Mod bei jedem Spielstart nach SVN-Updates und/oder neuen offiziellen Versionen suchen und eine Meldung ausgeben, wenn aktuellere Versionen gefunden wurden</German>
 		<Italian>Quando &#232; selezionato, il BUG Mod controller&#224; la disponibilit&#224; di aggiornamenti SVN e/o nuove versioni ogni volta che lancerai Civ4 e ti notificher&#224; ci&#242; che avr&#224; eventualmente trovato.</Italian>
 		<Spanish>Cuando se activa, BUG buscara actualizaciones SVN y/o nuevas versiones cada vez que lanza el juego y notificara cuando encuentre alguna nueva.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__LOCALROOT_TEXT</Tag>
-		<English>BUG Install Folder</English>
+		<English>BUG &#x5b89;&#x88c5;&#x6587;&#x4ef6;&#x5939;</English>
 		<German>Installationsverzeichnis der BUG Mod</German>
 		<Italian>Cartella di installazione del BUG Mod</Italian>
 		<Spanish>BUG Directorio de Instalaci&#243;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__LOCALROOT_HOVER</Tag>
-		<English>Location where BUG files are installed.</English>
+		<English>BUG &#x6587;&#x4ef6;&#x6240;&#x5728;&#x7684;&#x5b89;&#x88c5;&#x4f4d;&#x7f6e;&#x3002;</English>
 		<German>Verzeichnis, in dem sich die Dateien der BUG Mod befinden</German>
 		<Italian>Posizione in cui sono installati i file del BUG Mod.</Italian>
 		<Spanish>Carpeta donde los archivos de BUG est&#225;n instalados.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__LOCALVERSION_TEXT</Tag>
-		<English>Installed Revision</English>
+		<English>&#x5df2;&#x5b89;&#x88c5;&#x4fee;&#x8ba2;&#x7248;</English>
 		<German>Installierte Revision</German>
 		<Italian>Revisione installata</Italian>
 		<Spanish>Versi&#243;n Instalada</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__LOCALVERSION_HOVER</Tag>
-		<English>Revision number of the BUG installation.</English>
+		<English>BUG &#x5b89;&#x88c5;&#x7684;&#x4fee;&#x8ba2;&#x7248;&#x672c;&#x53f7;&#x3002;</English>
 		<German>Revisionsnummer der installierten BUG Mod</German>
 		<Italian>Numero di revisione del BUG Mod installato.</Italian>
 		<Spanish>N&#250;mero de versi&#243;n de la instalaci&#243;n BUG.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__REPOSITORYURL_TEXT</Tag>
-		<English>Repository URL</English>
+		<English>&#x4ed3;&#x5e93; URL</English>
 		<German>URL des Projektarchivs</German>
 		<Italian>URL del repository SVN</Italian>
 		<Spanish>URL del Repositorio </Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__REPOSITORYURL_HOVER</Tag>
-		<English>URL for the BUG repository.</English>
+		<English>BUG &#x4ed3;&#x5e93;&#x7684; URL&#x3002;</English>
 		<German>URL des Projektarchivs der BUG Mod</German>
 		<Italian>URL della directory SVN online dove si trovano i file del BUG Mod.</Italian>
 		<Spanish>URL donde se ubica el repositorio BUG.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__REPOSITORYVERSION_TEXT</Tag>
-		<English>Repository Revision</English>
+		<English>&#x4ed3;&#x5e93;&#x4fee;&#x8ba2;&#x7248;</English>
 		<German>Revision des Projektarchivs</German>
 		<Italian>Revisione del repository</Italian>
 		<Spanish>Revisi&#243;n del Repositorio</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_CORE__REPOSITORYVERSION_HOVER</Tag>
-		<English>Revision number of the BUG repository.</English>
+		<English>BUG &#x4ed3;&#x5e93;&#x7684;&#x4fee;&#x8ba2;&#x7248;&#x672c;&#x53f7;&#x3002;</English>
 		<German>Revisionsnummer des Projektarchivs der BUG Mod</German>
 		<Italian>Numero di revisione della versione SVN disponibile online del BUG Mod.</Italian>
 		<Spanish>N&#250;mero de revisi&#243;n del repositorio BUG.</Spanish>

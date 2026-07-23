@@ -4,7 +4,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_VASSAL_STRING</Tag>
-		<English>Vassal State</English>
+		<English>&#x9644;&#x5eb8;&#x56fd;</English>
 		<French>
 			<Text>Etat vassal</Text>
 			<Gender>Male</Gender>
