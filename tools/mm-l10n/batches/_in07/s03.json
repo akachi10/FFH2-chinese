@@ -1,0 +1,514 @@
+[
+{
+"key": "TXT_KEY_MAP_EREBUS_MOUNTAINS_50_PEAKS",
+"en": "50% less peaks"
+},
+{
+"key": "TXT_KEY_MAP_EREBUS_MOUNTAINS_60_PEAKS",
+"en": "60% less peaks"
+},
+{
+"key": "TXT_KEY_MAP_EREBUS_MOUNTAINS_70_PEAKS",
+"en": "70% less peaks"
+},
+{
+"key": "TXT_KEY_MAP_EREBUS_MOUNTAINS_80_PEAKS",
+"en": "80% less peaks"
+},
+{
+"key": "TXT_KEY_MAP_EREBUS_MOUNTAINS_90_PEAKS",
+"en": "90% less peaks"
+},
+{
+"key": "TXT_KEY_MAP_EREBUS_MOUNTAINS_NO_PEAKS",
+"en": "No peaks"
+},
+{
+"key": "TXT_KEY_MAP_EREBUS_STARTING_POSITIONS",
+"en": "Starting positions"
+},
+{
+"key": "TXT_KEY_MAP_EREBUS_STARTING_POSITIONS_EREBUS",
+"en": "Erebus"
+},
+{
+"key": "TXT_KEY_MAP_EREBUS_STARTING_POSITIONS_ORIGINAL",
+"en": "Default"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WATER",
+"en": "Water (% of plots)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_DESERT",
+"en": "Desert (% of plots)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WATER_85",
+"en": "Islandworld (85%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WATER_80",
+"en": "Waterworld (80%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WATER_75",
+"en": "Oceanworld (75%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WATER_70",
+"en": "Earthlike (70%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WATER_65",
+"en": "Continental (65%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WATER_60",
+"en": "Seaworld (60%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WATER_50",
+"en": "Spiderworld (50%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WATER_40",
+"en": "Pangaea (40%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WATER_30",
+"en": "Lakeworld (30%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WATER_20",
+"en": "Pondworld (20%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WATER_10",
+"en": "Desertworld (10%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_PEAKS",
+"en": "Peaks (% of land)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_PEAKS_3",
+"en": "Flat (3%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_PEAKS_6",
+"en": "Uneven (6%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_PEAKS_10",
+"en": "Scenic (10%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_PEAKS_15",
+"en": "Hilly (15%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_PEAKS_20",
+"en": "Peaky (20%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_PEAKS_25",
+"en": "Mountainous (25%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN",
+"en": "Terrain (Desert, Plains)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_WET",
+"en": "Wet (10%, 30%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_DAMP",
+"en": "Damp (20%, 25%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_EARTHLIKE",
+"en": "Earthlike (30%, 20%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_DRY",
+"en": "Dry (35%, 25%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_PARCHED",
+"en": "Parched (40%, 30%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_MARSH",
+"en": "Terrain (Des, Plns, Mrsh)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_MARSH_WET",
+"en": "Wet (10%, 25%, 9%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_MARSH_DAMP",
+"en": "Damp (20%, 22%, 6%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_MARSH_EARTHLIKE",
+"en": "Earthlike (30%, 20%, 4%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_MARSH_DRY",
+"en": "Dry (35%, 25%, 3%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_TERRAIN_MARSH_PARCHED",
+"en": "Parched (40%, 30%, 2%)"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE",
+"en": "World Age"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_CREATION",
+"en": "Creation"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_3",
+"en": "3 eons"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_6",
+"en": "6 eons"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_12",
+"en": "12 eons"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_18",
+"en": "18 eons"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_24",
+"en": "24 eons"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_36",
+"en": "36 eons"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_48",
+"en": "48 eons"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_72",
+"en": "72 eons"
+},
+{
+"key": "TXT_KEY_MAP_FRACTURED_WORLD_WORLD_AGE_96",
+"en": "96 eons"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_CONTINENTS_SIZE",
+"en": "Continents Size"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_NORMAL_CONTINENTS",
+"en": "Normal Continents"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_UNPREDICTABLE",
+"en": "Unpredictable"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_SNAKY_CONTINENTS",
+"en": "Snaky Continents"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_ISLANDS",
+"en": "Islands"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_ISLANDS_SIZE",
+"en": "Islands Size"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_TINY_ISLANDS",
+"en": "Tiny Islands"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_ISLAND_OVERLAP",
+"en": "Island Overlap"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_ISLAND_REGION_SEPARATE",
+"en": "Island Region Separate"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_ISLANDS_MIXED_IN",
+"en": "Islands Mixed In"
+},
+{
+"key": "TXT_KEY_MAP_PANGAEA_SHORELINE",
+"en": "Shoreline"
+},
+{
+"key": "TXT_KEY_MAP_PANGAEA_RANDOM",
+"en": "Random"
+},
+{
+"key": "TXT_KEY_MAP_PANGAEA_NATURAL",
+"en": "Natural"
+},
+{
+"key": "TXT_KEY_MAP_PANGAEA_PRESSED",
+"en": "Pressed"
+},
+{
+"key": "TXT_KEY_MAP_PANGAEA_SOLID",
+"en": "Solid"
+},
+{
+"key": "TXT_KEY_MAP_PERFECTWORLD_NEW_WORLD_RULES",
+"en": "New World Rules"
+},
+{
+"key": "TXT_KEY_MAP_PERFECTWORLD_NEW_WORLD_ANYWHERE",
+"en": "Start Anywhere"
+},
+{
+"key": "TXT_KEY_MAP_PERFECTWORLD_NEW_WORLD_OLD_WORLD",
+"en": "Start in Old World"
+},
+{
+"key": "TXT_KEY_MAP_PERFECTWORLD_PANGAEA_RULES",
+"en": "Pangaea Rules"
+},
+{
+"key": "TXT_KEY_MAP_PERFECTWORLD_PANGAEA_BREAK",
+"en": "Break Pangaeas"
+},
+{
+"key": "TXT_KEY_MAP_PERFECTWORLD_PANGAEA_ALLOW",
+"en": "Allow Pangaeas"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_RANDOM_ARCHIPELAGO",
+"en": "Archipelago"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_RANDOM_EARTH3",
+"en": "Earth3"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_RANDOM_EREBUS",
+"en": "Erebus"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_RANDOM_FRACTURED_WORLD",
+"en": "Fractured World"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_RANDOM_INLAND_SEA",
+"en": "Inland Sea"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_RANDOM_MEDIUM_AND_SMALL",
+"en": "Medium and Small"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_RANDOM_PANGAEA",
+"en": "Pangaea"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_RANDOM_PLANETFALL",
+"en": "Planetfall"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_RANDOM_SEA_HIGHLANDS",
+"en": "Sea Highlands"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_RANDOM_TECTONICS",
+"en": "Tectonics"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_RANDOM_YES",
+"en": "Yes"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_RANDOM_NO",
+"en": "No"
+},
+{
+"key": "TXT_KEY_MAP_RINGWORLD_REGION_STRENGTH",
+"en": "Region Strength"
+},
+{
+"key": "TXT_KEY_MAP_RINGWORLD_REGION_STRENGTH_NONE",
+"en": "None"
+},
+{
+"key": "TXT_KEY_MAP_RINGWORLD_REGION_STRENGTH_WEAK",
+"en": "Weak"
+},
+{
+"key": "TXT_KEY_MAP_RINGWORLD_REGION_STRENGTH_MODERATE",
+"en": "Moderate"
+},
+{
+"key": "TXT_KEY_MAP_RINGWORLD_REGION_STRENGTH_STRONG",
+"en": "Strong"
+},
+{
+"key": "TXT_KEY_MAP_RINGWORLD_POLE_POSITION",
+"en": "Pole Position"
+},
+{
+"key": "TXT_KEY_MAP_RINGWORLD_POLE_POSITION_NORTH_SOUTH",
+"en": "North to south"
+},
+{
+"key": "TXT_KEY_MAP_RINGWORLD_POLE_POSITION_EQUATOR_SOUTH",
+"en": "Equator to south"
+},
+{
+"key": "TXT_KEY_MAP_RINGWORLD_POLE_POSITION_NORTH_EQUATOR",
+"en": "North to equator"
+},
+{
+"key": "TXT_KEY_MAP_RINGWORLD_POLE_POSITION_NO_POLES",
+"en": "No poles"
+},
+{
+"key": "TXT_KEY_MAP_RINGWORLD_SHAPE",
+"en": "Shape"
+},
+{
+"key": "TXT_KEY_MAP_RINGWORLD_SHAPE_SOLID",
+"en": "Solid ring"
+},
+{
+"key": "TXT_KEY_MAP_RINGWORLD_SHAPE_CONTINENTS",
+"en": "Continents"
+},
+{
+"key": "TXT_KEY_MAP_RINGWORLD_SHAPE_ISLANDS",
+"en": "Islands"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_MOUNTAIN_PATTERN",
+"en": "Mountain Pattern"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_SCATTERED",
+"en": "Scattered"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_RIDGELINES",
+"en": "Ridgelines"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_CLUSTERED",
+"en": "Clustered"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_MOUNTAIN_DENSITY",
+"en": "Mountain Density"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_DENSE_PEAKS",
+"en": "Dense Peaks"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_NORMAL_PEAKS",
+"en": "Normal Peaks"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_THIN_PEAKS",
+"en": "Thin Peaks"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_WATER_SETTING",
+"en": "Water Setting"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_SMALL_LAKES",
+"en": "Small Lakes"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_LARGE_LAKES",
+"en": "Large Lakes"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_SEAS",
+"en": "Seas"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_LARGE_SEAS",
+"en": "Large Seas"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_LANDMASS_TYPE",
+"en": "Landmass Type"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_EARTH_70",
+"en": "Earthlike (70%% water)"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_EARTH_60",
+"en": "60%% water"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_PANGAEA",
+"en": "Pangaea"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_LAKES",
+"en": "Lakes (30%% water)"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_MEDITERRANEAN",
+"en": "Mediterranean"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_TERRA",
+"en": "Randomized Actual Earth"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_TERRA_OLD_WORLD_START",
+"en": "Randomized Actual Earth (Old World Start)"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_TECTONICS_ARITITY",
+"en": "Aridity Level"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_TECTONICS_ARITITY_ARID",
+"en": "Arid"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_TECTONICS_ARITITY_NORMAL",
+"en": "Normal"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_TECTONICS_ARITITY_WET",
+"en": "Wet"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_TECTONICS_ARITITY_NO_ICE",
+"en": "No ice"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_TECTONICS_LANDSCAPE",
+"en": "Landscape"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_TECTONICS_LANDSCAPE_PLANETFALL",
+"en": "Planetfall Highlands"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_TECTONICS_LANDSCAPE_DEFAULT",
+"en": "Tectonics Highlands"
+}
+]

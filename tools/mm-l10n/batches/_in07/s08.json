@@ -1,0 +1,114 @@
+[
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CIV4LERTS_HOVER",
+"en": "When checked, messages are displayed to alert you to various pending and existing conditions using Dr. Elmer Jiggle's Civ4lerts mod."
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYPENDINGGROWTH_TEXT",
+"en": "Pending"
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYPENDINGGROWTH_HOVER",
+"en": "When checked, displays an alert when a city's population will grow or shrink next turn."
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYGROWTH_TEXT",
+"en": "Growth"
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYGROWTH_HOVER",
+"en": "When checked, displays an alert when a city's population has grown or shrunk."
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYPENDINGHAPPINESS_TEXT",
+"en": "Pending"
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYPENDINGHAPPINESS_HOVER",
+"en": "When checked, displays an alert when a city will become happy or unhappy next turn."
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYHAPPINESS_TEXT",
+"en": "Happiness"
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYHAPPINESS_HOVER",
+"en": "When checked, displays an alert when a city has become happy or unhappy."
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYPENDINGHEALTHINESS_TEXT",
+"en": "Pending"
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYPENDINGHEALTHINESS_HOVER",
+"en": "When checked, displays an alert when a city will become healthy or unhealthy next turn."
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYHEALTHINESS_TEXT",
+"en": "Healthiness"
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYHEALTHINESS_HOVER",
+"en": "When checked, displays an alert when a city has become healthy or unhealthy."
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYPENDINGOCCUPATION_TEXT",
+"en": "Pending"
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYPENDINGOCCUPATION_HOVER",
+"en": "When checked, displays an alert when a city will be pacified next turn, ending occupation."
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYOCCUPATION_TEXT",
+"en": "Pacification"
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYOCCUPATION_HOVER",
+"en": "When checked, displays an alert when a city has been pacified, ending occupation."
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYCANHURRYPOP_TEXT",
+"en": "Can Hurry with Population"
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYCANHURRYPOP_HOVER",
+"en": "When checked, displays an alert once a city can hurry the item it's building with the whip."
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYCANHURRYGOLD_TEXT",
+"en": "Can Hurry with Gold"
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__CITYCANHURRYGOLD_HOVER",
+"en": "When checked, displays an alert once a city can hurry the item it's building with gold."
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__REFUSESTOTALK_TEXT",
+"en": "Refuses to Talk"
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__REFUSESTOTALK_HOVER",
+"en": "When checked, displays an alert when a civilization changes their willingness to negotiate."
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__WORSTENEMY_TEXT",
+"en": "Worst Enemy"
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__WORSTENEMY_HOVER",
+"en": "When checked, displays an alert when a civilization's worst enemy changes."
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__GOLDTRADE_TEXT",
+"en": "Gold"
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__GOLDTRADE_HOVER",
+"en": "When checked, displays an alert when a civilization can trade a specified amount of gold."
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__GOLDTRADETHRESH_TEXT",
+"en": "Threshold"
+}
+]

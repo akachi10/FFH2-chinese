@@ -10,7 +10,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTIONS_KEY_REMINDER</Tag>
-		<English>Press [BOLD]ALT + CTRL + O[\BOLD] to customize %s1</English>
+		<English>&#x6309; [BOLD]ALT + CTRL + O[\BOLD] &#x81ea;&#x5b9a;&#x4e49; %s1</English>
 		<French>Poussez sur [BOLD]ALT + CTRL + O[\BOLD] pour configurer %s1</French>
 		<German>[BOLD]&lt;STRG + ALT + O&gt;[\BOLD] dr&#252;cken, um %s1 anzupassen...</German>
 		<Italian>Premi [BOLD]CTRL+ALT+O[\BOLD] per personalizzare %s1</Italian>
@@ -18,7 +18,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTIONS_KEY_REMINDER_MAC</Tag>
-		<English>Press [BOLD]ALT + CMD + O[\BOLD] to customize %s1</English>
+		<English>&#x6309; [BOLD]ALT + CMD + O[\BOLD] &#x81ea;&#x5b9a;&#x4e49; %s1</English>
 		<French>Poussez sur [BOLD]ALT + CMD + O[\BOLD] pour configurer %s1</French>
 		<German>[BOLD]&lt;CMD + ALT + O&gt;[\BOLD] dr&#252;cken, um %s1 anzupassen...</German>
 		<Italian>Premi [BOLD]CMD+ALT+O[\BOLD] per personalizzare %s1</Italian>
@@ -27,7 +27,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_CREATED_BY_HEADER</Tag>
-		<English>Created by The BUG Mod.</English>
+		<English>&#x7531; The BUG Mod &#x5236;&#x4f5c;&#x3002;</English>
 		<German>Erstellt durch die BUG Mod.</German>
 		<Italian>Creato dal BUG Mod.</Italian>
 		<Spanish>Creado Por The BUG Mod.</Spanish>
@@ -35,7 +35,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_DEFAULT</Tag>
-		<English>Default</English>
+		<English>&#x9ed8;&#x8ba4;</English>
 		<German>Standard</German>
 		<Italian>Predefinito</Italian>
 		<Spanish>Predeterminado</Spanish>
@@ -46,7 +46,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HELP_OPENING</Tag>
-		<English>Opening the BUG Mod help file...</English>
+		<English>&#x6b63;&#x5728;&#x6253;&#x5f00; BUG Mod &#x5e2e;&#x52a9;&#x6587;&#x4ef6;&#x2026;&#x2026;</English>
 		<French>Ouverture du fichier d'aide du BUG Mod...</French>
 		<German>&#214;ffnen der Hilfe-Datei der BUG Mod...</German>
 		<Italian>Apertura della Guida del BUG Mod in corso...</Italian>
@@ -63,7 +63,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HELP_MISSING_TITLE</Tag>
-		<English>Help File Not Found</English>
+		<English>&#x672a;&#x627e;&#x5230;&#x5e2e;&#x52a9;&#x6587;&#x4ef6;</English>
 		<French>Fichier d'Aide Non Trouv&#233;</French>
 		<German>Hilfe-Datei nicht gefunden</German>
 		<Italian>Guida del BUG Mod non trovata</Italian>
@@ -84,7 +84,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MINOR_PEDIA</Tag>
-		<English>No description provided.</English>
+		<English>&#x672a;&#x63d0;&#x4f9b;&#x63cf;&#x8ff0;&#x3002;</English>
 		<French>Description non fournie.</French>
 		<German>Keine Informationen verf&#252;gbar.</German>
 		<Italian>Nessuna descrizione fornita.</Italian>
@@ -93,7 +93,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_BARBARIAN_PEDIA</Tag>
-		<English>No description provided.</English>
+		<English>&#x672a;&#x63d0;&#x4f9b;&#x63cf;&#x8ff0;&#x3002;</English>
 		<French>Description non fournie.</French>
 		<German>Keine Informationen verf&#252;gbar.</German>
 		<Italian>Nessuna descrizione fornita.</Italian>
@@ -102,28 +102,28 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_RELIGIOUS_CITY</Tag>
-		<English>Cities</English>
+		<English>&#x57ce;&#x5e02;</English>
 		<German>St&#228;dte</German>
 		<Italian>Citt&#224;</Italian>
 		<Spanish>Ciudades</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_RELIGIOUS_TEMPLE</Tag>
-		<English>Temples:</English>
+		<English>&#x795e;&#x6bbf;&#xff1a;</English>
 		<German>Tempel:</German>
 		<Italian>Templi:</Italian>
 		<Spanish>Templos:</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_RELIGIOUS_MONASTARY</Tag>
-		<English>Monastaries:</English>
+		<English>&#x4fee;&#x9053;&#x9662;&#xff1a;</English>
 		<German>Kl&#246;ster:</German>
 		<Italian>Monasteri:</Italian>
 		<Spanish>Monasterios:</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_RELIGIOUS_MISSIONARY</Tag>
-		<English>Missionaries:</English>
+		<English>&#x4f20;&#x6559;&#x58eb;&#xff1a;</English>
 		<German>Missionare:</German>
 		<Italian>Missionari:</Italian>
 		<Spanish>Misionarios:</Spanish>
@@ -141,7 +141,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_NEG_WARNING_GOLD_PER_TURN</Tag>
-		<English>[SPACE][COLOR_YELLOW](%D1_Change/Turn)[COLOR_REVERT]</English>
+		<English>[SPACE][COLOR_YELLOW]&#xff08;%D1_Change/&#x56de;&#x5408;&#xff09;[COLOR_REVERT]</English>
 		<French>[SPACE][COLOR_YELLOW](%D1_Change/tour)[COLOR_REVERT]</French>
 		<German>[SPACE][COLOR_YELLOW](%D1_Change/Runde)[COLOR_REVERT]</German>
 		<Italian>[SPACE][COLOR_YELLOW](%D1_Change/Turno)[COLOR_REVERT]</Italian>
@@ -150,7 +150,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_POS_WARNING_GOLD_PER_TURN</Tag>
-		<English>[SPACE][COLOR_YELLOW](%D1_Change/Turn)[COLOR_REVERT]</English>
+		<English>[SPACE][COLOR_YELLOW]&#xff08;%D1_Change/&#x56de;&#x5408;&#xff09;[COLOR_REVERT]</English>
 		<French>[SPACE][COLOR_YELLOW](%D1_Change/tour)[COLOR_REVERT]</French>
 		<German>[SPACE][COLOR_YELLOW](%D1_Change/Runde)[COLOR_REVERT]</German>
 		<Italian>[SPACE][COLOR_YELLOW](%D1_Change/Turno)[COLOR_REVERT]</Italian>
@@ -162,7 +162,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_ERA</Tag>
-		<English>%s1 Era</English>
+		<English>%s1 &#x65f6;&#x4ee3;</English>
 		<German>%s1</German>
 		<Italian>Era %s1</Italian>
 		<Finnish>%s1 ajanjakso</Finnish>
@@ -172,7 +172,7 @@
 	
 	<TEXT>
 		<Tag>INTERFACE_GREAT_PERSON_NONE</Tag>
-		<English>%s1: None</English>
+		<English>%s1&#xff1a;&#x65e0;</English>
 		<French>%s1: Aucun</French>
 		<German>%s1: Keine</German>
 		<Italian>%s1: Nessuno</Italian>
@@ -200,7 +200,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_DEAD_CIV</Tag>
-		<English>DEAD</English>
+		<English>&#x5df2;&#x706d;&#x4ea1;</English>
 		<French>MORT</French>
 		<German>TOT</German>
 		<Italian>SCOMPARSA</Italian>
@@ -212,7 +212,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_WORKED_TILES</Tag>
-		<English>Worked Tiles (%d1)</English>
+		<English>&#x5df2;&#x5f00;&#x53d1;&#x5730;&#x5757;&#xff08;%d1&#xff09;</English>
 		<French>Cases Travaill&#233;es (%d1)</French>
 		<German>Gel&#228;ndefelder: %d1</German>
 		<Italian>Caselle lavorate (%d1)</Italian>
@@ -220,21 +220,21 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_CITY_TILES</Tag>
-		<English>City's Tiles (%d1)</English>
+		<English>&#x57ce;&#x5e02;&#x5730;&#x5757;&#xff08;%d1&#xff09;</English>
 		<German>Gel&#228;ndefelder: %d1</German>
 		<Italian>Caselle della Citt&#224; (%d1)</Italian>
 		<Spanish>C. de la ciudad (%d1)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_OWNED_TILES</Tag>
-		<English>Owned Tiles (%d1)</English>
+		<English>&#x6240;&#x5c5e;&#x5730;&#x5757;&#xff08;%d1&#xff09;</English>
 		<German>Gel&#228;ndefelder: %d1</German>
 		<Italian>Caselle possedute (%d1)</Italian>
 		<Spanish>C. propias (%d1)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_ALL_TILES</Tag>
-		<English>All Tiles (%d1)</English>
+		<English>&#x5168;&#x90e8;&#x5730;&#x5757;&#xff08;%d1&#xff09;</English>
 		<German>Gel&#228;ndefelder: %d1</German>
 		<Italian>Tutte le caselle (%d1)</Italian>
 		<Spanish>Todas las C. (%d1)</Spanish>
@@ -242,7 +242,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_BASE_MODIFIER</Tag>
 		<!-- Bureaucracy, Forge, Factory, Power, Ironworks -->
-		<English>Modifiers (%D1%%)</English>
+		<English>&#x4fee;&#x6b63;&#xff08;%D1%%&#xff09;</English>
 		<German>Modifikatoren: %D1%%</German>
 		<Italian>Modificatori (%D1%%)</Italian>
 		<Spanish>Modificadores (%D1%%)</Spanish>
@@ -254,69 +254,69 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_SUBTOTAL</Tag>
-		<English>Subtotal</English>
+		<English>&#x5c0f;&#x8ba1;</English>
 		<French>Total Partiel</French>
 		<German>Zwischensumme</German>
 		<Italian>Totale Parziale</Italian>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_TOTAL</Tag>
-		<English>Total</English>
+		<English>&#x603b;&#x8ba1;</English>
 		<German>Summe</German>
 		<Italian>Totale</Italian>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RAW_YIELD_VIEW_TRADE</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]View Trade Routes[COLOR_REVERT][NEWLINE]Displays the Trade Routes for this city.</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x67e5;&#x770b;&#x8d38;&#x6613;&#x8def;&#x7ebf;[COLOR_REVERT][NEWLINE]&#x663e;&#x793a;&#x6b64;&#x57ce;&#x5e02;&#x7684;&#x8d38;&#x6613;&#x8def;&#x7ebf;&#x3002;</English>
 		<German>[COLOR_HIGHLIGHT_TEXT]Handelsverbindungen[COLOR_REVERT][NEWLINE]Anzeige der Handelsverbindungen dieser Stadt</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Rotte Commericali[COLOR_REVERT][NEWLINE]Visualizza le Rotte Commericali pr questa Citt&#224;.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Rutas comerciales[COLOR_REVERT][NEWLINE]Visualizar las rutas comerciales de esta ciudad.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RAW_YIELD_VIEW_FOOD</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]View Raw Food[COLOR_REVERT][NEWLINE]Displays a breakdown of all [ICON_FOOD] sources.</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x67e5;&#x770b;&#x539f;&#x59cb;&#x98df;&#x7269;[COLOR_REVERT][NEWLINE]&#x663e;&#x793a;&#x6240;&#x6709; [ICON_FOOD] &#x6765;&#x6e90;&#x7684;&#x660e;&#x7ec6;&#x3002;</English>
 		<German>[COLOR_HIGHLIGHT_TEXT]Rohertr&#228;ge aus Nahrung[COLOR_REVERT][NEWLINE]Aufschl&#252;sselung aller [ICON_FOOD]-Ertr&#228;ge</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Fonti di Cibo[COLOR_REVERT][NEWLINE]Visualizza un riassunto di tutte le fonti di [ICON_FOOD].</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Fuente de Alimentos[COLOR_REVERT][NEWLINE]Visualizar una lista de todas las fuentes de [ICON_FOOD].</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RAW_YIELD_VIEW_PRODUCTION</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]View Raw Production[COLOR_REVERT][NEWLINE]Displays a breakdown of all [ICON_PRODUCTION] sources and modifiers.</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x67e5;&#x770b;&#x539f;&#x59cb;&#x751f;&#x4ea7;[COLOR_REVERT][NEWLINE]&#x663e;&#x793a;&#x6240;&#x6709; [ICON_PRODUCTION] &#x6765;&#x6e90;&#x4e0e;&#x4fee;&#x6b63;&#x7684;&#x660e;&#x7ec6;&#x3002;</English>
 		<German>[COLOR_HIGHLIGHT_TEXT]Rohertr&#228;ge aus Produktion[COLOR_REVERT][NEWLINE]Aufschl&#252;sselung aller [ICON_PRODUCTION]-Ertr&#228;ge mit deren Modifikatoren</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Fonti di Produzione[COLOR_REVERT][NEWLINE]Visualizza un riassunto di tutte le fonti di [ICON_PRODUCTION] ed i modificatori relativi.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Fuente de producci&#243;n[COLOR_REVERT][NEWLINE]Visualizar una lista de todas las fuentes y modificadores relativos a la [ICON_PRODUCTION].</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RAW_YIELD_VIEW_COMMERCE</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]View Raw Commerce[COLOR_REVERT][NEWLINE]Displays a breakdown of all [ICON_COMMERCE] sources and modifiers.</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x67e5;&#x770b;&#x539f;&#x59cb;&#x5546;&#x4e1a;[COLOR_REVERT][NEWLINE]&#x663e;&#x793a;&#x6240;&#x6709; [ICON_COMMERCE] &#x6765;&#x6e90;&#x4e0e;&#x4fee;&#x6b63;&#x7684;&#x660e;&#x7ec6;&#x3002;</English>
 		<German>[COLOR_HIGHLIGHT_TEXT]Rohertr&#228;ge aus Wirtschaft[COLOR_REVERT][NEWLINE]Aufschl&#252;sselung aller [ICON_COMMERCE]-Ertr&#228;ge mit deren Modifikatoren</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Fonti di Commercio[COLOR_REVERT][NEWLINE]Visualizza un riassunto di tutte le fonti di [ICON_COMMERCE] ed i modificatori relativi.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Fuentes de comercio[COLOR_REVERT][NEWLINE]Visualizar una lista de todas las fuentes y modificadores relativos al [ICON_COMMERCE].</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RAW_YIELD_TILES_WORKED</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]Count Worked Tiles[COLOR_REVERT][NEWLINE]Counts the tiles the city is currently working.</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x7edf;&#x8ba1;&#x5df2;&#x5f00;&#x53d1;&#x5730;&#x5757;[COLOR_REVERT][NEWLINE]&#x7edf;&#x8ba1;&#x57ce;&#x5e02;&#x5f53;&#x524d;&#x6b63;&#x5728;&#x5f00;&#x53d1;&#x7684;&#x5730;&#x5757;&#x3002;</English>
 		<German>[COLOR_HIGHLIGHT_TEXT]Nur bearbeitete Gel&#228;ndefelder[COLOR_REVERT][NEWLINE]Zur Berechnung der Rohertr&#228;ge werden alle Gel&#228;ndefelder, die von der Stadt derzeit bearbeitet werden, herangezogen</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Caselle lavorate[COLOR_REVERT][NEWLINE]Considera solo le caselle della Citt&#224; attualmente lavorate.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Casillas trabajadas[COLOR_REVERT][NEWLINE]Mostrar las casillas que la ciudad est&#225; trabajando.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RAW_YIELD_TILES_CITY</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]Count City's Tiles[COLOR_REVERT][NEWLINE]Counts the tiles the city controls.</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x7edf;&#x8ba1;&#x57ce;&#x5e02;&#x5730;&#x5757;[COLOR_REVERT][NEWLINE]&#x7edf;&#x8ba1;&#x57ce;&#x5e02;&#x6240;&#x63a7;&#x5236;&#x7684;&#x5730;&#x5757;&#x3002;</English>
 		<German>[COLOR_HIGHLIGHT_TEXT]Nur Stadtgel&#228;ndefelder[COLOR_REVERT][NEWLINE]Zur Berechnung der Rohertr&#228;ge werden alle Gel&#228;ndefelder, die von der Stadt derzeit kontrolliert werden, herangezogen</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Caselle della Citt&#224;[COLOR_REVERT][NEWLINE]Considera le caselle attualmente controllate dalla Citt&#224;.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Casillas de la ciudad[COLOR_REVERT][NEWLINE]Mostrar las casillas que la ciudad controla.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RAW_YIELD_TILES_OWNED</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]Count Owned Tiles[COLOR_REVERT][NEWLINE]Counts the tiles in the city radius owned by your civilization.</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x7edf;&#x8ba1;&#x6240;&#x5c5e;&#x5730;&#x5757;[COLOR_REVERT][NEWLINE]&#x7edf;&#x8ba1;&#x57ce;&#x5e02;&#x8303;&#x56f4;&#x5185;&#x5f52;&#x4f60;&#x7684;&#x6587;&#x660e;&#x6240;&#x6709;&#x7684;&#x5730;&#x5757;&#x3002;</English>
 		<German>[COLOR_HIGHLIGHT_TEXT]Nur Gel&#228;ndefelder in Besitz[COLOR_REVERT][NEWLINE]Zur Berechnung der Rohertr&#228;ge werden alle Gel&#228;ndefelder, die sich im Einzugsgebiet der Stadt befinden und zur eigenen Zivilisation geh&#246;ren, herangezogen</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Caselle possedute[COLOR_REVERT][NEWLINE]Considera le caselle nel raggio cittadino attualmente possedute dalla Civilt&#224;.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Casillas propias[COLOR_REVERT][NEWLINE]Mostrar las casillas en el radio de la ciudad controladas por tu civilizaci&#243;n.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RAW_YIELD_TILES_ALL</Tag>
-		<English>[COLOR_HIGHLIGHT_TEXT]Count All Tiles[COLOR_REVERT][NEWLINE]Counts all tiles in the city radius regardless of owner.</English>
+		<English>[COLOR_HIGHLIGHT_TEXT]&#x7edf;&#x8ba1;&#x5168;&#x90e8;&#x5730;&#x5757;[COLOR_REVERT][NEWLINE]&#x7edf;&#x8ba1;&#x57ce;&#x5e02;&#x8303;&#x56f4;&#x5185;&#x7684;&#x5168;&#x90e8;&#x5730;&#x5757;&#xff0c;&#x65e0;&#x8bba;&#x5f52;&#x8c01;&#x6240;&#x6709;&#x3002;</English>
 		<German>[COLOR_HIGHLIGHT_TEXT]Alle Gel&#228;ndefelder[COLOR_REVERT][NEWLINE]Zur Berechnung der Rohertr&#228;ge werden alle Gel&#228;ndefelder, die sich im Einzugsgebiet der Stadt befinden, unabh&#228;ngig davon, welcher Zivilisation sie geh&#246;ren, herangezogen</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Tutte le caselle[COLOR_REVERT][NEWLINE]Considera tutte le caselle nel raggio cittadino indipendentemente dal proprietario.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Todas las casillas[COLOR_REVERT][NEWLINE]Mostrar todas las casillas de la ciudad, independientemente de su propietario.</Spanish>
@@ -326,7 +326,7 @@
 	
 	<TEXT>
 		<Tag>INTERFACE_CITY_GROWTH</Tag>
-		<English>Growth!</English>
+		<English>&#x589e;&#x957f;&#xff01;</English>
 		<French>Croissance!</French>
 		<German>Wachstum!</German>
 		<Italian>Crescita!</Italian>
@@ -334,7 +334,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>INTERFACE_CITY_SHRINKING</Tag>
-		<English>[COLOR_YELLOW]Shrinking (%d1 [NUM1:Turn:Turns])[COLOR_REVERT]</English>
+		<English>[COLOR_YELLOW]&#x840e;&#x7f29;&#x4e2d;&#xff08;%d1 [NUM1:&#x56de;&#x5408;:&#x56de;&#x5408;]&#xff09;[COLOR_REVERT]</English>
 		<French>[COLOR_YELLOW]R&#233;tr&#233;cissement (%d1 [NUM1:tour:tours])[COLOR_REVERT]</French>
 		<German>[COLOR_YELLOW]Schrumpfen (%d1 [NUM1:Runde:Runden])[COLOR_REVERT]</German>
 		<Italian>[COLOR_YELLOW]Riduzione (%d1 [NUM1:Turno:Turni])[COLOR_REVERT]</Italian>
@@ -399,7 +399,7 @@
 	<!-- Unit Groupings -->
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_TYPE_GROUPING</Tag>
-		<English>Unit Type</English>
+		<English>&#x5355;&#x4f4d;&#x7c7b;&#x578b;</English>
 		<German>Einheitentyp</German>
 		<Italian>Tipo Unit&#224;</Italian>
 		<Spanish>Tipo Unidad</Spanish>
@@ -407,14 +407,14 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_COMBAT_GROUPING</Tag>
-		<English>Combat Type</English>
+		<English>&#x6218;&#x6597;&#x7c7b;&#x578b;</English>
 		<German>Einheitenklasse</German>
 		<Italian>Tipo Combattimento</Italian>
 		<Spanish>Tipo Combate</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_COMBAT_GROUP_NONE</Tag>
-		<English>None</English>
+		<English>&#x65e0;</English>
 		<French>Rien</French>
 		<German>Keine</German>
 		<Italian>Nessuno</Italian>
@@ -423,7 +423,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_LEVEL_GROUPING</Tag>
-		<English>Level</English>
+		<English>&#x7b49;&#x7ea7;</English>
 		<French>Niveau</French>
 		<German>Stufe</German>
 		<Italian>Livello</Italian>
@@ -431,7 +431,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_LEVEL_GROUP</Tag>
-		<English>Level %s1</English>
+		<English>%s1 &#x7ea7;</English>
 		<French>Niveau %s1</French>
 		<German>Stufe %s1</German>
 		<Italian>Livello %s1</Italian>
@@ -440,14 +440,14 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_PROMOTION_GROUPING</Tag>
-		<English>Promotions</English>
+		<English>&#x664b;&#x5347;</English>
 		<German>Bef&#246;rderungen</German>
 		<Italian>Promozioni</Italian>
 		<Spanish>Ascensos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_PROMOTION_GROUP_NONE</Tag>
-		<English>None</English>
+		<English>&#x65e0;</English>
 		<French>Rien</French>
 		<German>Keine</German>
 		<Italian>Nessuno</Italian>
@@ -456,77 +456,77 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_LOCATION_GROUPING</Tag>
-		<English>Location</English>
+		<English>&#x4f4d;&#x7f6e;</English>
 		<German>Standort</German>
 		<Italian>Luogo</Italian>
 		<Spanish>Ubicaci&#243;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_DOMESTIC_CITY</Tag>
-		<English>Domestic City</English>
+		<English>&#x672c;&#x56fd;&#x57ce;&#x5e02;</English>
 		<German>Eigene Stadt</German>
 		<Italian>Citt&#224; propria</Italian>
 		<Spanish>Ciudad Propia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_DOMESTIC_TERRITORY</Tag>
-		<English>Domestic Territory</English>
+		<English>&#x672c;&#x56fd;&#x9886;&#x571f;</English>
 		<German>Eigenes Gebiet</German>
 		<Italian>Territorio proprio</Italian>
 		<Spanish>Territorio proprio</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_TEAM_CITY</Tag>
-		<English>Team City</English>
+		<English>&#x56e2;&#x961f;&#x57ce;&#x5e02;</English>
 		<German>Verb&#252;ndete Stadt</German>
 		<Italian>Citt&#224; alleata</Italian>
 		<Spanish>Ciudad Aliada</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_TEAM_TERRITORY</Tag>
-		<English>Team Territory</English>
+		<English>&#x56e2;&#x961f;&#x9886;&#x571f;</English>
 		<German>Verb&#252;ndetes Gebiet</German>
 		<Italian>Territorio alleato</Italian>
 		<Spanish>Territorio Aliado</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_FRIENDLY_CITY</Tag>
-		<English>Friendly City</English>
+		<English>&#x53cb;&#x65b9;&#x57ce;&#x5e02;</English>
 		<German>Befreundete Stadt</German>
 		<Italian>Citt&#224; amica</Italian>
 		<Spanish>Ciudad Amiga</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_FRIENDLY_TERRITORY</Tag>
-		<English>Friendly Territory</English>
+		<English>&#x53cb;&#x65b9;&#x9886;&#x571f;</English>
 		<German>Befreundetes Gebiet</German>
 		<Italian>Territorio amico</Italian>
 		<Spanish>Territorio Amigo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_NEUTRAL_TERRITORY</Tag>
-		<English>Neutral Territory</English>
+		<English>&#x4e2d;&#x7acb;&#x9886;&#x571f;</English>
 		<German>Neutrales Gebiet</German>
 		<Italian>Territorio neutrale</Italian>
 		<Spanish>Territorio Neutral</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_ENEMY_TERRITORY</Tag>
-		<English>Enemy Territory</English>
+		<English>&#x654c;&#x65b9;&#x9886;&#x571f;</English>
 		<German>Feindliches Gebiet</German>
 		<Italian>Territorio nemico</Italian>
 		<Spanish>Territory Enemigo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_LOCATION_GROUP_BARBARIAN_TERRITORY</Tag>
-		<English>Barbarian Territory</English>
+		<English>&#x86ee;&#x65cf;&#x9886;&#x571f;</English>
 		<German>Barbarisches Gebiet</German>
 		<Italian>Territorio barbaro</Italian>
 		<Spanish>Territorio B&#225;rbaro</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUPING</Tag>
-		<English>Orders</English>
+		<English>&#x547d;&#x4ee4;</English>
 		<German>Befehle</German>
 		<Italian>Ordini</Italian>
 		<Spanish>&#210;rdenes</Spanish>
@@ -534,127 +534,127 @@
 <!-- RevDCM AUA Unit Groupings -->
 		<TEXT>
 				<Tag>TXT_KEY_UNIT_GROUPER_AUTO_UPGRADE_GROUPING</Tag>
-				<English>Auto Upgrading</English>
+				<English>&#x81ea;&#x52a8;&#x5347;&#x7ea7;</English>
 		</TEXT>
 		<TEXT>
 				<Tag>TXT_KEY_UNIT_GROUPER_AUTO_PROMOTION_GROUPING</Tag>
-				<English>Auto Promoting</English>
+				<English>&#x81ea;&#x52a8;&#x664b;&#x5347;</English>
 		</TEXT>
 <!-- RevDCM AUA end -->
 		<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_NONE</Tag>
-		<English>None</English>
+		<English>&#x65e0;</English>
 		<German>Keine</German>
 		<Italian>Nessuno</Italian>
 		<Spanish>Ninguno</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_SKIP</Tag>
-		<English>Skip</English>
+		<English>&#x8df3;&#x8fc7;</English>
 		<German>Runde &#252;berspringen</German>
 		<Italian>Passa</Italian>
 		<Spanish>Pasar</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_SLEEP</Tag>
-		<English>Sleep</English>
+		<English>&#x4f11;&#x7720;</English>
 		<German>Ausruhen</German>
 		<Italian>A riposo</Italian>
 		<Spanish>Reposo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_FORTIFY</Tag>
-		<English>Fortify</English>
+		<English>&#x9a7b;&#x9632;</English>
 		<German>Verschanzen</German>
 		<Italian>Fortificarsi</Italian>
 		<Spanish>Fortificarse</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_HEAL</Tag>
-		<English>Heal</English>
+		<English>&#x6cbb;&#x7597;</English>
 		<German>Heilen</German>
 		<Italian>Curarsi</Italian>
 		<Spanish>Curar</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_SENTRY</Tag>
-		<English>Sentry</English>
+		<English>&#x8b66;&#x6212;</English>
 		<German>Wache</German>
 		<Italian>Sentinella</Italian>
 		<Spanish>Vigilar</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_INTERCEPT</Tag>
-		<English>Intercept</English>
+		<English>&#x62e6;&#x622a;</English>
 		<German>Abfangen</German>
 		<Italian>Intercettare</Italian>
 		<Spanish>Interceptar</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_PATROL</Tag>
-		<English>Patrol</English>
+		<English>&#x5de1;&#x903b;</English>
 		<German>Patrouille</German>
 		<Italian>Pattugliare</Italian>
 		<Spanish>Patrullar</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_PLUNDER</Tag>
-		<English>Blockade</English>
+		<English>&#x5c01;&#x9501;</English>
 		<Italian>Embargo</Italian>
 		<Spanish>Bloqueo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_BUILD</Tag>
-		<English>Build Improvement</English>
+		<English>&#x4fee;&#x5efa;&#x8bbe;&#x65bd;</English>
 		<German>Modernisierung errichten</German>
 		<Italian>Costruire miglioramenti</Italian>
 		<Spanish>Construir Mejora</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_CONSTRUCT</Tag>
-		<English>Construct Building</English>
+		<English>&#x5efa;&#x9020;&#x5efa;&#x7b51;</English>
 		<German>Geb&#228;ude errichten</German>
 		<Italian>Edificare</Italian>
 		<Spanish>Construir Edificio</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_GOTO</Tag>
-		<English>Go To</English>
+		<English>&#x524d;&#x5f80;</English>
 		<German>Gehe zu</German>
 		<Italian>Andare</Italian>
 		<Spanish>Ir a</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_EXPLORE</Tag>
-		<English>Explore</English>
+		<English>&#x63a2;&#x7d22;</English>
 		<German>Erkunden</German>
 		<Italian>Esplorare</Italian>
 		<Spanish>Explorar</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AUTO_BUILD</Tag>
-		<English>Auto Build Improvements</English>
+		<English>&#x81ea;&#x52a8;&#x4fee;&#x5efa;&#x8bbe;&#x65bd;</English>
 		<German>Modernisierungen errichten (automatisch)</German>
 		<Italian>Miglioramenti automatici</Italian>
 		<Spanish>Construir Mejoras Automatizado</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AUTO_NETWORK</Tag>
-		<English>Auto Trade Network</English>
+		<English>&#x81ea;&#x52a8;&#x8d38;&#x6613;&#x7f51;&#x7edc;</English>
 		<German>Handelsnetz errichten (automatisch)</German>
 		<Italian>Rete stradale automatica</Italian>
 		<Spanish>Construir Red Comercio Automatizado</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AUTO_CITY</Tag>
-		<English>Auto Improve City</English>
+		<English>&#x81ea;&#x52a8;&#x6539;&#x5584;&#x57ce;&#x5e02;</English>
 		<German>N&#228;chste Stadt modernisieren (automatisch)</German>
 		<Italian>Miglioramenti cittadini automatici</Italian>
 		<Spanish>Construir Mejoras en la Ciudad Automatizado</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AUTO_RELIGION</Tag>
-		<English>Spread Religion/Corporation</English>
+		<English>&#x4f20;&#x64ad;&#x5b97;&#x6559;/&#x4f01;&#x4e1a;</English>
 		<German>Religion/Kapitalgesellschaft verbreiten</German>
 		<Italian>Diffondere religioni/corporazioni</Italian>
 		<Spanish>Propagar Religi&#243;n/Corporaci&#243;n</Spanish>
@@ -662,55 +662,55 @@
 	<!-- RevDCM AUA Unit Groupings -->
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_PILLAGESETTINGS</Tag>
-		<English>Auto Pillage</English>
+		<English>&#x81ea;&#x52a8;&#x52ab;&#x63a0;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_HUNTSETTINGS</Tag>
-		<English>Auto Hunt</English>
+		<English>&#x81ea;&#x52a8;&#x72e9;&#x730e;</English>
 	</TEXT>		
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_DEFENSESETTINGS</Tag>
-		<English>Auto City Defense</English>
+		<English>&#x81ea;&#x52a8;&#x57ce;&#x5e02;&#x9632;&#x5fa1;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_PATROLSETTINGS</Tag>
-		<English>Auto Patrol</English>
+		<English>&#x81ea;&#x52a8;&#x5de1;&#x903b;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_PIRATESETTINGS</Tag>
-		<English>Auto Pirate</English>
+		<English>&#x81ea;&#x52a8;&#x52ab;&#x63a0;&#x6d77;&#x8def;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AIRSTRIKESETTINGS</Tag>
-		<English>Auto Air Strike</English>
+		<English>&#x81ea;&#x52a8;&#x7a7a;&#x88ad;</English>
 	</TEXT>		
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AIRBOMBSETTINGS</Tag>
-		<English>Auto Air Bomb</English>
+		<English>&#x81ea;&#x52a8;&#x7a7a;&#x4e2d;&#x8f70;&#x70b8;</English>
 	</TEXT>				
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_AIRUNITCANDEFEND_TEXT</Tag>
-		<English>Auto Air Patrol</English>
+		<English>&#x81ea;&#x52a8;&#x7a7a;&#x4e2d;&#x5de1;&#x903b;</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_UPGRADINGSETTINGS</Tag>
-		<English>Auto Upgrade</English>
+		<English>&#x81ea;&#x52a8;&#x5347;&#x7ea7;</English>
 	</TEXT>		
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_PROMOTESETTINGS</Tag>
-		<English>Auto Promote</English>
+		<English>&#x81ea;&#x52a8;&#x664b;&#x5347;</English>
 	</TEXT>				
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_PROTECTSETTINGS</Tag>
-		<English>Auto Protect</English>
+		<English>&#x81ea;&#x52a8;&#x4fdd;&#x62a4;</English>
 	</TEXT>
 		<TEXT>
 				<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_ESPIONAGESETTINGS</Tag>
-				<English>Auto Espionage</English>
+				<English>&#x81ea;&#x52a8;&#x8c0d;&#x62a5;</English>
 		</TEXT>		
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GROUPER_ORDER_GROUP_OTHER</Tag>
-		<English>Other</English>
+		<English>&#x5176;&#x4ed6;</English>
 		<German>Andere</German>
 		<Italian>Altri</Italian>
 		<Spanish>Otro</Spanish>
@@ -719,7 +719,7 @@
 	<!-- General Screen -->
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_UNIT_LOCATION</Tag>
-		<English>Deployment</English>
+		<English>&#x90e8;&#x7f72;</English>
 		<French>Deploiement</French>
 		<German>Aufstellung</German>
 		<Italian>Dispiegamento</Italian>
@@ -727,7 +727,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_SITUATION_REPORT</Tag>
-		<English>Sit-Rep</English>
+		<English>&#x6218;&#x51b5;&#x62a5;&#x544a;</English>
 		<French>Rapport</French>
 		<German>Lagebericht</German>
 		<Italian>Rapporti</Italian>
@@ -735,7 +735,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_STRATEGIC_ADVANTAGES</Tag>
-		<English>Strategic Advantages</English>
+		<English>&#x6218;&#x7565;&#x4f18;&#x52bf;</English>
 		<German>Strategische Vorteile</German>
 		<Italian>Vantaggi Strategici</Italian>
 		<Spanish>Ventajas Estrat&#233;gicas</Spanish>
@@ -744,7 +744,7 @@
 	<!-- Situation Report Tab -->
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_SITREP_WORST</Tag>
-		<English>Worst</English>
+		<English>&#x6700;&#x5dee;</English>
 		<German>Schlimmste</German>
 		<Italian>Peggior</Italian>
 		<Spanish>Lo peor</Spanish>
@@ -752,7 +752,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_SITREP_ENEMY</Tag>
-		<English>Enemy</English>
+		<English>&#x654c;&#x65b9;</English>
 		<German>Erzfeind</German>
 		<Italian>Nemico</Italian>
 		<Spanish>Enemigo</Spanish>
@@ -760,7 +760,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_SITREP_THREAT_INDEX</Tag>
-		<English>Threat Index</English>
+		<English>&#x5a01;&#x80c1;&#x6307;&#x6570;</English>
 		<French>Index de Menace</French>
 		<German>Bedrohungslage</German>
 		<Italian>Rischio</Italian>
@@ -769,7 +769,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_SITREP_WARS</Tag>
-		<English>Wars</English>
+		<English>&#x6218;&#x4e89;</English>
 		<French>Guerres</French>
 		<German>Kriege</German>
 		<Italian>Guerre</Italian>
@@ -777,7 +777,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_SITREP_WARS_ACTIVE</Tag>
-		<English>Active</English>
+		<English>&#x8fdb;&#x884c;&#x4e2d;</English>
 		<French>Actives</French>
 		<German>Im Gange</German>
 		<Italian>In corso</Italian>
@@ -786,7 +786,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_SITREP_WARS_OPTIONAL</Tag>
-		<English>Possible</English>
+		<English>&#x53ef;&#x80fd;</English>
 		<German>M&#246;glich</German>
 		<Italian>Potenziali</Italian>
 		<Spanish>Opcional</Spanish>
@@ -794,7 +794,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_SITREP_POSSIBLE_EMBARGOS_1</Tag>
-		<English>Possible</English>
+		<English>&#x53ef;&#x80fd;&#x7684;</English>
 		<German>M&#246;gliche</German>
 		<Italian>Potenziali</Italian>
 		<Spanish>Posible</Spanish>
@@ -802,13 +802,13 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_SITREP_POSSIBLE_EMBARGOS_2</Tag>
-		<English>Embargos</English>
+		<English>&#x7981;&#x8fd0;</English>
 		<Italian>Embarghi</Italian>
 		<Finnish>Kauppasaarrot</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_SITREP_VASSALS</Tag>
-		<English>Vassals</English>
+		<English>&#x9644;&#x5eb8;</English>
 		<French>Vassaux</French>
 		<German>Vasallen</German>
 		<Italian>Vassalli</Italian>
@@ -817,7 +817,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_SITREP_VASSAL</Tag>
-		<English>Vassal</English>
+		<English>&#x9644;&#x5eb8;</English>
 		<German>Vasall</German>
 		<Italian>Vassallo</Italian>
 		<Spanish>Vasallo</Spanish>
@@ -825,7 +825,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_SITREP_DEFPACTS</Tag>
-		<English>Def Pacts</English>
+		<English>&#x9632;&#x5fa1;&#x534f;&#x5b9a;</English>
 		<French>Pactes D&#233;fensifs</French>
 		<German>Vert.b&#252;nd.</German>
 		<Italian>Patti Difensivi</Italian>
@@ -834,7 +834,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_THREAT_INDEX_LOW</Tag>
-		<English>Low</English>
+		<English>&#x4f4e;</English>
 		<French>Bas</French>
 		<German>Gering</German>
 		<Italian>Rischio Basso</Italian>
@@ -843,7 +843,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_THREAT_INDEX_GUARDED</Tag>
-		<English>Guarded</English>
+		<English>&#x6212;&#x5907;</English>
 		<French>En garde</French>
 		<German>Erh&#246;ht</German>
 		<Italian>Prudenza</Italian>
@@ -852,7 +852,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_THREAT_INDEX_ELEVATED</Tag>
-		<English>Elevated</English>
+		<English>&#x4e0a;&#x5347;</English>
 		<French>Elev&#233;</French>
 		<German>Angespannt</German>
 		<Italian>Rischio Notevole</Italian>
@@ -861,7 +861,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_THREAT_INDEX_HIGH</Tag>
-		<English>High</English>
+		<English>&#x9ad8;</English>
 		<French>Haut</French>
 		<German>Alarmierend</German>
 		<Italian>Allarme</Italian>
@@ -870,7 +870,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_THREAT_INDEX_SEVERE</Tag>
-		<English>Severe</English>
+		<English>&#x4e25;&#x91cd;</English>
 		<French>S&#233;v&#232;re</French>
 		<German>Akut</German>
 		<Italian>Grave allarme</Italian>
@@ -881,7 +881,7 @@
 	<!-- Strategic Advantages Tab -->
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_STRATADV_RESOURCES</Tag>
-		<English>Resources</English>
+		<English>&#x8d44;&#x6e90;</English>
 		<French>Ressources</French>
 		<German>Ressourcen</German>
 		<Italian>Risorse</Italian>
@@ -890,7 +890,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_STRATADV_OURS</Tag>
-		<English>Ours</English>
+		<English>&#x6211;&#x65b9;</English>
 		<French>Nous</French>
 		<German>Eigene</German>
 		<Italian>Propri</Italian>
@@ -899,7 +899,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_STRATADV_THEIRS</Tag>
-		<English>Theirs</English>
+		<English>&#x5bf9;&#x65b9;</English>
 		<French>Eux</French>
 		<German>Gegnerische</German>
 		<Italian>Altrui</Italian>
@@ -908,7 +908,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_STRATADV_OUR_UNITS</Tag>
-		<English>Our Units</English>
+		<English>&#x6211;&#x65b9;&#x5355;&#x4f4d;</English>
 		<German>Eigene Einheiten</German>
 		<Italian>Nostre Unit&#224;</Italian>
 		<Spanish>Nuestras Unidades</Spanish>
@@ -916,7 +916,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_STRATADV_THEIR_UNITS</Tag>
-		<English>Their Units</English>
+		<English>&#x5bf9;&#x65b9;&#x5355;&#x4f4d;</English>
 		<German>Gegnerische Einheiten</German>
 		<Italian>Unit&#224; Altrui</Italian>
 		<Spanish>Sus Unidades</Spanish>
@@ -924,7 +924,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_STRATADV_KNOWN</Tag>
-		<English>Known</English>
+		<English>&#x5df2;&#x77e5;</English>
 		<German>Bekannt</German>
 		<Italian>Noti</Italian>
 		<Spanish>Conocido</Spanish>
@@ -932,7 +932,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MILITARY_STRATADV_POSSIBLE</Tag>
-		<English>Possible</English>
+		<English>&#x53ef;&#x80fd;</English>
 		<German>M&#246;glich</German>
 		<Italian>Possibili</Italian>
 		<Spanish>Posible</Spanish>
@@ -943,7 +943,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_REMINDER_HEADER</Tag>
-		<English>Create Reminder</English>
+		<English>&#x521b;&#x5efa;&#x63d0;&#x9192;</English>
 		<French>Cr&#233;ez un Rappel</French>
 		<German>Erinnerung schreiben</German>
 		<Italian>Crea un Promemoria</Italian>
@@ -951,7 +951,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REMINDER_PROMPT</Tag>
-		<English>Enter the number of turns until the reminder goes off and the message to display.</English>
+		<English>&#x8f93;&#x5165;&#x63d0;&#x9192;&#x89e6;&#x53d1;&#x524d;&#x7684;&#x56de;&#x5408;&#x6570;&#x4ee5;&#x53ca;&#x8981;&#x663e;&#x793a;&#x7684;&#x6d88;&#x606f;&#x3002;</English>
 		<French>Entrez le nombre de tours jusqu'&#224; l'apparition du rappel et le message &#224; montrer.</French>
 		<German>Geben Sie die Anzahl der Runden an, bis die Erinnerung angezeigt werden soll.</German>
 		<Italian>Inserisci il numero di turni che devono passare prima che il promemoria scada ed il messaggio venga visualizzato.</Italian>
@@ -959,7 +959,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REMIND_END_TURN_PROMPT</Tag>
-		<English>Show reminder again at the end of this turn?</English>
+		<English>&#x5728;&#x672c;&#x56de;&#x5408;&#x7ed3;&#x675f;&#x65f6;&#x518d;&#x6b21;&#x663e;&#x793a;&#x63d0;&#x9192;&#xff1f;</English>
 		<French>Remontrer le rappel &#224; la fin de ce tour?</French>
 		<German>Erinnerung am Ende dieser Runde erneut anzeigen?</German>
 		<Italian>Mostrare nuovamente il promemoria alla fine del turno?</Italian>
@@ -967,7 +967,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REMIND_NEXT_TURN_PROMPT</Tag>
-		<English>Show reminder again next turn?</English>
+		<English>&#x4e0b;&#x56de;&#x5408;&#x518d;&#x6b21;&#x663e;&#x793a;&#x63d0;&#x9192;&#xff1f;</English>
 		<French>Remontrer le rappel au prochain tour?</French>
 		<German>Erinnerung n&#228;chste Runde erneut anzeigen?</German>
 		<Italian>Mostrare nuovamente il promemoria il prossimo turno?</Italian>
@@ -978,19 +978,19 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_BUG_TECH_PREFS_ALL</Tag>
-		<English>Research Preference Order</English>
+		<English>&#x7814;&#x7a76;&#x4f18;&#x5148;&#x987a;&#x5e8f;</English>
 		<German>Forschungspriorit&#228;ten</German>
 		<Spanish>Orden Preferencias Investigaci&#243;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_TECH_PREFS_CURRENT</Tag>
-		<English>Current Technologies</English>
+		<English>&#x5f53;&#x524d;&#x79d1;&#x6280;</English>
 		<German>Derzeitige Technologien</German>
 		<Spanish>Tecnolog&#237;as Actuales</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_TECH_PREFS_FUTURE</Tag>
-		<English>Future Technologies</English>
+		<English>&#x672a;&#x6765;&#x79d1;&#x6280;</English>
 		<German>Zuk&#252;nftige Technologien</German>
 		<Spanish>Tecnolog&#237;as Futuras</Spanish>
 	</TEXT>
@@ -999,7 +999,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_FOREIGN_ADVISOR_INFO</Tag>
-		<English>Info</English>
+		<English>&#x4fe1;&#x606f;</English>
 		<French>Infos</French>
 		<Spanish>Info.</Spanish>
 	</TEXT>
@@ -1008,7 +1008,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_POWER</Tag>
-		<English>Power</English>
+		<English>&#x56fd;&#x529b;</English>
 		<French>Puissance</French>
 		<German>Macht</German>
 		<Italian>Energia</Italian>
@@ -1020,7 +1020,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_SHOW_ALL</Tag>
-		<English>Show All</English>
+		<English>&#x5168;&#x90e8;&#x663e;&#x793a;</English>
 		<German>Alle anzeigen</German>
 		<Italian>Mostra tutti</Italian>
 		<Spanish>Mostrar Todo</Spanish>
@@ -1028,7 +1028,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SHOW_NONE</Tag>
-		<English>Show None</English>
+		<English>&#x5168;&#x90e8;&#x9690;&#x85cf;</English>
 		<German>Keine anzeigen</German>
 		<Italian>Cancella tutti</Italian>
 		<Spanish>Mostrar Nadad</Spanish>
@@ -1036,14 +1036,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LOGSCALE</Tag>
-		<English>Log Scale</English>
+		<English>&#x5bf9;&#x6570;&#x523b;&#x5ea6;</English>
 		<German>Log-Skala</German>
 		<Italian>Scala logaritmica</Italian>
 		<Spanish>Escala Logar&#237;tmica</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_CHART_HELP</Tag>
-		<English>Zoom in and out by clicking on the body of the chart</English>
+		<English>&#x70b9;&#x51fb;&#x56fe;&#x8868;&#x4e3b;&#x4f53;&#x53ef;&#x7f29;&#x653e;&#x653e;&#x5927;&#x6216;&#x7f29;&#x5c0f;</English>
 		<German>Mit einem Mausklick auf ein Diagramm kann zwischen der verkleinerten Ansicht und der Gro&#223;ansicht umgeschalten werden</German>
 		<Italian>Alterna i livelli di zoom cliccando sul grafico</Italian>
 		<Spanish>Zoom adelante y atr&#225;s pinchando en el cuerpo de la tabla</Spanish>
@@ -1054,13 +1054,13 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_WONDER_NAME</Tag>
-		<English>Name</English>
+		<English>&#x540d;&#x79f0;</English>
 		<Italian>Nome</Italian>
 		<Spanish>Nombre</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WONDER_DATE</Tag>
-		<English>Turn</English>
+		<English>&#x56de;&#x5408;</English>
 		<French>Tour</French>
 		<German>Runde</German>
 		<Italian>Turno</Italian>
@@ -1069,14 +1069,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WONDER_OWNER</Tag>
-		<English>Owner</English>
+		<English>&#x62e5;&#x6709;&#x8005;</English>
 		<German>Besitzer</German>
 		<Italian>Proprietario</Italian>
 		<Spanish>Propietario</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WONDER_CITY</Tag>
-		<English>City</English>
+		<English>&#x57ce;&#x5e02;</English>
 		<German>Stadt</German>
 		<Italian>Citt&#224;</Italian>
 		<Spanish>Ciudad</Spanish>
@@ -1086,7 +1086,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_PROJECT_APOLLO_PROGRAM</Tag>
-		<English>Apollo Program</English>
+		<English>&#x963f;&#x6ce2;&#x7f57;&#x8ba1;&#x5212;</English>
 		<French>
 			<Text>Programme Apollo</Text>
 			<Gender>Male</Gender>
@@ -1110,21 +1110,21 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_TURNS_NEXT_VOTE</Tag>
-		<English>Turns until next Vote: %d1</English>
+		<English>&#x8ddd;&#x4e0b;&#x6b21;&#x6295;&#x7968;&#x7684;&#x56de;&#x5408;&#x6570;&#xff1a;%d1</English>
 		<German>N&#228;chste Abstimmung in %d1 [NUM1:Runde:Runden]</German>
 		<Italian>Turni alla prossima Votazione: %d1</Italian>
 		<Spanish>Turnos hasta la pr&#243;xima votaci&#243;n: %d1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_VOTES_NEXT_ELECTION</Tag>
-		<English>Votes until next Election: %d1</English>
+		<English>&#x8ddd;&#x4e0b;&#x6b21;&#x9009;&#x4e3e;&#x7684;&#x7968;&#x6570;&#xff1a;%d1</English>
 		<German>N&#228;chsten Wahl in %d1 [NUM1:Runde:Runden]</German>
 		<Italian>Voti alla prossima Elezione: %d1</Italian>
 		<Spanish>Turnos hasta la pr&#243;xima Elecci&#243;n: %d1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTESOURCE_NON_VOTING_MEMBER</Tag>
-		<English>Non Member</English>
+		<English>&#x975e;&#x6210;&#x5458;</English>
 		<French>Non Membres</French>
 		<German>Nichtmitglied</German>
 		<Italian>Non Membri</Italian>
@@ -1132,7 +1132,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_TOGGLE_VOTES</Tag>
-		<English>Toggle Votes</English>
+		<English>&#x5207;&#x6362;&#x7968;&#x6570;&#x663e;&#x793a;</English>
 		<French>Alterner Voix</French>
 		<German>Wahlen umschalten</German>
 		<Italian>Alterna Voti</Italian>
@@ -1140,21 +1140,21 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_VASSALED</Tag>
-		<English>%d1 vassaled</English>
+		<English>%d1 &#x5df2;&#x9644;&#x5eb8;</English>
 		<German>Vasallen: %d1</German>
 		<Italian>%d1 vassallo</Italian>
 		<Spanish>%d1 vasallo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_UNKNOWN</Tag>
-		<English>%d1 unknown</English>
+		<English>%d1 &#x672a;&#x77e5;</English>
 		<German>unbekannt: %d1</German>
 		<Italian>%d1 sconosciuto</Italian>
 		<Spanish>%d1 desconocido</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_DIPLOMATIC</Tag>
-		<English>Diplomatic Victory</English>
+		<English>&#x5916;&#x4ea4;&#x80dc;&#x5229;</English>
 		<French>Victoire diplomatique</French>
 		<German>Diplomatischer Sieg</German>
 		<Italian>Vittoria Diplomatica</Italian>
@@ -1162,20 +1162,20 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_VOTES_TOTAL</Tag>
-		<English>Total</English>
+		<English>&#x603b;&#x8ba1;</English>
 		<German>Summe</German>
 		<Italian>Totale</Italian>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_VOTES_REQUIRED</Tag>
-		<English>[SPACE](%s1 votes required)</English>
+		<English>[SPACE]&#xff08;&#x9700;&#x8981; %s1 &#x7968;&#xff09;</English>
 		<German>[SPACE](%s1 Stimmen ben&#246;tigt)</German>
 		<Italian>[SPACE](%s1 voti richiesti)</Italian>
 		<Spanish>[SPACE](%s1 votos requerido)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_BUG_POLL_RESULT</Tag>
-		<English>%s1 (%s2) leads by %s3.</English>
+		<English>%s1&#xff08;%s2&#xff09;&#x9886;&#x5148; %s3&#x3002;</English>
 		<French>%s1 (%s2) conduit par %s3.</French>
 		<German>%s1 (%s2) f&#252;hrt mit %s3 Vorsprung.</German>
 		<Italian>%s1 (%s2) in testa di %s3.</Italian>
@@ -1183,7 +1183,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_VICTORY_BUG_POLL_ERROR</Tag>
-		<English>Source: Recent BUG Poll, statistical margin of error %s1.</English>
+		<English>&#x6765;&#x6e90;&#xff1a;&#x8fd1;&#x671f; BUG &#x6c11;&#x8c03;&#xff0c;&#x7edf;&#x8ba1;&#x8bef;&#x5dee;&#x8303;&#x56f4; %s1&#x3002;</English>
 		<French>Source: Sondage BUG r&#233;cents, marge d'erreur %s1.</French>
 		<German>Quelle: Neueste BUG-Umfrage (statistische Fehlerquote: %s1)</German>
 		<Italian>Fonte: recente sondaggio BUG, margine di errore statistico %s1.</Italian>
@@ -1192,7 +1192,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_GRAPH_SMOOTHING</Tag>
-		<English>Smooth Factor %d1_Num</English>
+		<English>&#x5e73;&#x6ed1;&#x7cfb;&#x6570; %d1_Num</English>
 		<German>Gl&#228;ttungsstufe %d1_Num</German>
 		<Italian>Fattore di smoothing %d1_Num</Italian>
 		<Spanish>Suavizar Factor %d1_Num</Spanish>
@@ -1202,21 +1202,21 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_MAZE_LAND_PLUS1</Tag>
-		<English>Extra Land Strip</English>
+		<English>&#x989d;&#x5916;&#x9646;&#x5730;&#x6761;&#x5e26;</English>
 		<German>Zus&#228;tzlicher Landstrich</German>
 		<Italian>Terreno aggiuntivo</Italian>
 		<Spanish>Franja de Tierra A&#241;adida</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRUE</Tag>
-		<English>True</English>
+		<English>&#x771f;</English>
 		<German>Ja</German>
 		<Italian>Vero</Italian>
 		<Spanish>Verdad</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FALSE</Tag>
-		<English>False</English>
+		<English>&#x5047;</English>
 		<German>Nein</German>
 		<Italian>Falso</Italian>
 		<Spanish>Falso</Spanish>
@@ -1226,13 +1226,13 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_HOF_WINLOSS_WIN</Tag>
-		<English>W-</English>
+		<English>&#x80dc;-</English>
 		<German>S-</German>
 		<Finnish>V-</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HOF_WINLOSS_LOSS</Tag>
-		<English>L-</English>
+		<English>&#x8d1f;-</English>
 		<German>N-</German>
 		<Finnish>T-</Finnish>
 	</TEXT>
@@ -1241,19 +1241,19 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_ESPIONAGE_MISSIONS_TAB</Tag>
-		<English>Missions</English>
+		<English>&#x4efb;&#x52a1;</English>
 		<German>Missionen</German>
 		<Spanish>Misiones</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ESPIONAGE_SPYVSPY_TAB</Tag>
-		<English>Spy v Spy</English>
+		<English>&#x8c0d;&#x5bf9;&#x8c0d;</English>
 		<German>Gegenspionage</German>
 		<Spanish>Esp&#237;a v Esp&#237;a</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ESPIONAGE_AI_SPENDING_TOGGLE</Tag>
-		<English>Show AI Espionage</English>
+		<English>&#x663e;&#x793a; AI &#x8c0d;&#x62a5;</English>
 		<German>KI-Spionage</German>
 		<Spanish>Mostrar Espionaje IA</Spanish>
 	</TEXT>
@@ -1262,7 +1262,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_DOMESTIC_TRADE</Tag>
-		<English>Domestic Trade</English>
+		<English>&#x56fd;&#x5185;&#x8d38;&#x6613;</English>
 		<French>Commerce Domestique</French>
 		<German>Binnenhandel</German>
 		<Italian>Commercio Interno</Italian>
@@ -1271,7 +1271,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_FOREIGN_TRADE</Tag>
-		<English>Foreign Trade</English>
+		<English>&#x5bf9;&#x5916;&#x8d38;&#x6613;</English>
 		<French>Commerce Ext&#233;rieur</French>
 		<German>Au&#223;enhandel</German>
 		<Italian>Commercio Estero</Italian>
@@ -1280,7 +1280,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_FOREIGN_OVERSEAS_TRADE</Tag>
-		<English>Overseas Trade</English>
+		<English>&#x6d77;&#x5916;&#x8d38;&#x6613;</English>
 		<French>Commerce d'outre-mer</French>
 		<German>&#220;berseehandel</German>
 		<Italian>Commercio d'oltreoceano</Italian>
@@ -1289,7 +1289,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_RELIGIOUS_SHRINES</Tag>
-		<English>Religious Shrines</English>
+		<English>&#x5b97;&#x6559;&#x5723;&#x575b;</English>
 		<French>Lieux Saints</French>
 		<German>Schreine</German>
 		<Italian>Santuari</Italian>
@@ -1298,7 +1298,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_FINANCIAL_ADVISOR_COMMERCE</Tag>
-		<English>Total Commerce</English>
+		<English>&#x5546;&#x4e1a;&#x603b;&#x8ba1;</English>
 		<French>Commerce total</French>
 		<German>Handel insgesamt</German>
 		<Italian>Commercio totale</Italian>
@@ -1323,7 +1323,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_FOREIGN_ADVISOR_ABBR_LEADER</Tag>
-		<English>Leader</English>
+		<English>&#x9886;&#x8896;</English>
 		<French>Chef</French>
 		<German>Oberhaupt</German>
 		<Spanish>L&#237;der</Spanish>
@@ -1331,7 +1331,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FOREIGN_ADVISOR_ABBR_ATTITUDE</Tag>
-		<English>Attitude</English>
+		<English>&#x6001;&#x5ea6;</English>
 		<German>Einstellung</German>
 		<Italian>Attitudine</Italian>
 		<Spanish>Actitud</Spanish>
@@ -1339,14 +1339,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FOREIGN_ADVISOR_POSSIBLE_FAV_CIVICS</Tag>
-		<English>Possible Favorite Civics</English>
+		<English>&#x53ef;&#x80fd;&#x7684;&#x504f;&#x597d;&#x653f;&#x7b56;</English>
 		<German>M&#246;gliche Vorlieben</German>
 		<Italian>Possibili Forme di Governo Favorite</Italian>
 		<Spanish>Posible Principio Favorito</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVICOPTION_ABBR_GOVERNMENT</Tag>
-		<English>Govt</English>
+		<English>&#x653f;&#x4f53;</English>
 		<German>Regierung</German>
 		<Italian>Governo</Italian>
 		<Spanish>Gobierno</Spanish>
@@ -1354,7 +1354,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVICOPTION_ABBR_LEGAL</Tag>
-		<English>Legal</English>
+		<English>&#x6cd5;&#x5f8b;</English>
 		<French>Justice</French>
 		<German>Recht</German>
 		<Italian>S. Legale</Italian>
@@ -1362,7 +1362,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVICOPTION_ABBR_LABOR</Tag>
-		<English>Labor</English>
+		<English>&#x52b3;&#x5de5;</English>
 		<French>Travail</French>
 		<German>Arbeit</German>
 		<Italian>Lavoro</Italian>
@@ -1371,7 +1371,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVICOPTION_ABBR_ECONOMY</Tag>
-		<English>Econ</English>
+		<English>&#x7ecf;&#x6d4e;</English>
 		<German>&#214;konomie</German>
 		<Italian>Economia</Italian>
 		<Spanish>Econom&#237;a</Spanish>
@@ -1379,21 +1379,21 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVICOPTION_ABBR_RELIGION</Tag>
-		<English>Religion</English>
+		<English>&#x5b97;&#x6559;</English>
 		<Italian>Religione</Italian>
 		<Spanish>Religi&#243;n</Spanish>
 		<Finnish>Uskonto</Finnish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVICOPTION_ABBR_CULTURAL_VALUES</Tag>
-		<English>Values</English>
+		<English>&#x4ef7;&#x503c;&#x89c2;</English>
 	</TEXT>
 	
 	<!-- Customizable Domestic Advisor -->
 	
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_SETTLED_SPECIALISTS</Tag>
-		<English>Settled Specialists</English>
+		<English>&#x5b9a;&#x5c45;&#x4e13;&#x5bb6;</English>
 		<French>
 			<Text>Sp&#233;cialistes</Text>
 			<Gender>Male</Gender>
@@ -1420,7 +1420,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_SELECT_EVENT</Tag>
-		<English>Choose an event which should be triggered.</English>
+		<English>&#x9009;&#x62e9;&#x5e94;&#x89e6;&#x53d1;&#x7684;&#x4e8b;&#x4ef6;&#x3002;</English>
 		<German>Event aussuchen, das gestartet werden soll.</German>
 	</TEXT>
 	
@@ -1428,14 +1428,14 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BULL_REQUIRED</Tag>
-		<English>[COLOR_WARNING_TEXT]This feature requires the BUG DLL (BULL).[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x6b64;&#x529f;&#x80fd;&#x9700;&#x8981; BUG DLL&#xff08;BULL&#xff09;&#x3002;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]F&#252;r dieses Feature wird die BUG-DLL (BULL) ben&#246;tigt.[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Questa caratteristica richiede la libreria DLL del BUG Mod ('BULL').[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]Esta caracter&#237;stica requiere laBUG DLL (BULL).[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BULL_REQUIRED_NEWER</Tag>
-		<English>[COLOR_WARNING_TEXT]This feature requires a newer version of the BUG DLL (BULL).[COLOR_REVERT]</English>
+		<English>[COLOR_WARNING_TEXT]&#x6b64;&#x529f;&#x80fd;&#x9700;&#x8981;&#x66f4;&#x65b0;&#x7248;&#x672c;&#x7684; BUG DLL&#xff08;BULL&#xff09;&#x3002;[COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]F&#252;r dieses Feature wird eine neuere Version der BUG-DLL (BULL) ben&#246;tigt.[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Questa caratteristica richiede una nuova versione della libreria DLL del BUG Mod ('BULL').[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXTEsta caracter&#237;stica requiere una nueva versi&#243;n de BUG DLL (BULL).[COLOR_REVERT]</Spanish>

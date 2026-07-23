@@ -1,0 +1,242 @@
+[
+{
+"key": "AI_DIPLO_MAKE_PEACE_WITH_1",
+"en": "We can no longer stand by and watch the carnage!  You must end your war with %s2!"
+},
+{
+"key": "AI_DIPLO_MAKE_PEACE_WITH_2",
+"en": "The war has gone on long enough!  Make peace with %s2."
+},
+{
+"key": "TXT_KEY_BONUS_EXPORTS_PLAYER",
+"en": "[SPACE](%s2_player is exporting %d1_num_bonus)[SPACE]"
+},
+{
+"key": "TXT_KEY_BONUS_IMPORTS_PLAYER",
+"en": "[SPACE](%s2_player is importing %d1_num_bonus)[SPACE]"
+},
+{
+"key": "TXT_KEY_CIVIC_ATTITUDE_CHANGE",
+"en": "[SPACE]Diplomacy with all players with[SPACE]"
+},
+{
+"key": "TXT_KEY_ESPIONAGE_EMBASSY_MOD",
+"en": "%d1%: For Having an Embassy in their Nation."
+},
+{
+"key": "TXT_KEY_FREE_TRADE_AGREEMENT_MOD",
+"en": "%d1%: From Free Trade Agreement"
+},
+{
+"key": "TXT_KEY_GAMEOPTION_ADVANCED_DIPLOMACY",
+"en": "Advanced Diplomacy"
+},
+{
+"key": "TXT_KEY_GAMEOPTION_ADVANCED_DIPLOMACY_HELP",
+"en": "Advanced Diplomacy adds new diplomatic trading options, from embassies to trading military and worker units. "
+},
+{
+"key": "TXT_KEY_CONCEPT_ADVANCED_DIPLOMACY",
+"en": "Advanced Diplomacy"
+},
+{
+"key": "TXT_KEY_CONCEPT_ADVANCED_DIPLOMACY_PEDIA",
+"en": "[H1]Advanced Diplomacy[\\\\H1][PARAGRAPH:2]Advanced Diplomacy (enabled via the Advanced tactics option) vastly changes the way diplomacy works from standard Civilization. Many new trading options are added, each with their own benefits, and potiential disadvantages. What follows is a list of the new options. (Warning: incomplete)[PARAGRAPH:2][BOLD]Embassies.[\\\\BOLD] Nations can now establish embassies in other nations. Embassies improve diplomatic relations between countries over time, but be warned; revoking a foreign embassies rights will have disastrous diplomatic repercussions with the other nation. Embassies are now required to unlock higher diplomatic functions with other nations, namely, [COLOR_HIGHLIGHT_TEXT]Open Borders Agreements[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Defensive Pacts[COLOR_REVERT], and some new options (see below). Requires [LINK=TECH_WRITING]Writing[\\\\LINK].[PARAGRAPH:2] [BOLD]Right of Passage.[\\\\BOLD] Similar to open borders, in that it allows foreign trade, but the agreement only allows for defensive units and scouts to pass through the nations. Other units will not be able to enter the territory. Requires [LINK=TECH_WRITING]Writing[\\\\LINK].[PARAGRAPH:2][BOLD]Free Trade Agreement.[\\\\BOLD] This agreement increases gold from trading missions and improves diplomatic relations over time. Requires [LINK=TECH_WRITING]Writing[\\\\LINK] and [COLOR_HIGHLIGHT_TEXT]Open borders[COLOR_REVERT].[PARAGRAPH:2] [BOLD]Non-Aggression Pact.[\\\\BOLD] The AI is somewhat less likely to attack a player with whom it has a non-agression pact. Also improves diplomatic relations over time. Requires [LINK=TECH_WRITING]Writing[\\\\LINK] and [COLOR_HIGHLIGHT_TEXT]Embassy[COLOR_REVERT].[PARAGRAPH:2][BOLD]Trading Military Units and Workers.[\\\\BOLD] Workers and certain Military units, like siege machines, can be traded. Each tradable unit will be marked in it's respective civilopedia entry with &quot;This unit is tradable.&quot; Requires [COLOR_HIGHLIGHT_TEXT]Embassy[COLOR_REVERT]."
+},
+{
+"key": "TXT_KEY_MEMORY_BACKSTAB",
+"en": "&quot;You betrayed us!&quot;"
+},
+{
+"key": "TXT_KEY_MEMORY_BACKSTAB_FRIEND",
+"en": "&quot;You are treacherous!&quot;"
+},
+{
+"key": "TXT_KEY_MEMORY_BROKEN_AGREEMENT",
+"en": "&quot;You cannot be trusted.&quot;"
+},
+{
+"key": "TXT_KEY_MEMORY_MADE_PEACE",
+"en": "&quot;You have proven to be committed to peace.&quot;"
+},
+{
+"key": "TXT_KEY_MEMORY_RECALLED_AMBASSADOR",
+"en": "&quot;You recalled your ambassador!&quot;"
+},
+{
+"key": "TXT_KEY_MEMORY_TRADED_POW",
+"en": "&quot;You returned our missing soldiers!&quot;"
+},
+{
+"key": "TXT_KEY_MEMORY_KEPT_POW",
+"en": "&quot;You unlawfully kept our captured soldiers!&quot;"
+},
+{
+"key": "TXT_KEY_MEMORY_CANCELLED_NON_AGGRESSION",
+"en": "&quot;You disolved our Non-Aggression Pact!&quot;"
+},
+{
+"key": "TXT_KEY_MEMORY_CANCELLED_FREE_TRADE_AGREEMENT",
+"en": "&quot;You raised our Trading Tariffs!&quot;"
+},
+{
+"key": "TXT_KEY_MEMORY_YOU_POLLUTE",
+"en": "&quot;We pay a lot for your environmental degradations!&quot;"
+},
+{
+"key": "TXT_KEY_MEMORY_WORKED_PLOT",
+"en": "&quot;You improved our lands!&quot;"
+},
+{
+"key": "TXT_KEY_MEMORY_KEPT_OUT_CITY",
+"en": "&quot;You kept our city!&quot;"
+},
+{
+"key": "TXT_KEY_MEMORY_WARMONGER",
+"en": "&quot;You are a Warmongerer!&quot;"
+},
+{
+"key": "TXT_KEY_MISC_ATTITUDE_NON_AGGRESSION",
+"en": "%D1: &quot;Our Non-Aggression Pact secures the peace.&quot;"
+},
+{
+"key": "TXT_KEY_MISC_ATTITUDE_FREE_TRADE_AGREEMENT",
+"en": "%D1: &quot;Our Free Trade Agreement propels our economies.&quot;"
+},
+{
+"key": "TXT_KEY_MISC_ATTITUDE_EMBASSY",
+"en": "%D1: &quot;You let our ambassadors in.&quot;"
+},
+{
+"key": "TXT_KEY_MISC_ATTITUDE_RIGHT_PASSAGE",
+"en": "%D1: &quot;You let our people pass through your lands.&quot;"
+},
+{
+"key": "TXT_KEY_MISC_CORPORATION_TRADE",
+"en": "%s2_Civ1 has sold %s1_Corp to %s3_Civ2"
+},
+{
+"key": "TXT_KEY_MISC_EMBASSY",
+"en": "Embassy"
+},
+{
+"key": "TXT_KEY_MISC_PREPARE_WAR",
+"en": "Prepare For War On"
+},
+{
+"key": "TXT_KEY_MISC_ENABLES_EMBASSIES",
+"en": "[ICON_BULLET]Enables Embassy Trading"
+},
+{
+"key": "TXT_KEY_MISC_ENABLES_LIMITED_BORDERS",
+"en": "[ICON_BULLET]Enables Right of Passage"
+},
+{
+"key": "TXT_KEY_MISC_FREE_TRADE_ZONE",
+"en": "Free Trade Agreement"
+},
+{
+"key": "TXT_KEY_MISC_ENABLES_FREE_TRADE_AGREEMENT",
+"en": "[ICON_BULLET]Enables Free Trade Agreement"
+},
+{
+"key": "TXT_KEY_MISC_ENABLES_NON_AGGRESSION",
+"en": "[ICON_BULLET]Enables Non Aggression Pact"
+},
+{
+"key": "TXT_KEY_MISC_ENABLES_POW_EXCHANGE",
+"en": "[ICON_BULLET]Enables POW Exchange"
+},
+{
+"key": "TXT_KEY_MISC_HIRED_WAR_ALLY",
+"en": "The dastardly %s1_CivAdj have convinced the treacherous %s2_CivAdj to declare war on us!"
+},
+{
+"key": "TXT_KEY_MISC_CANCELLED_NON_AGGRESSION",
+"en": "The %s1 Civilization has broken its Non-Aggression Pact with the %s2 Civilization!"
+},
+{
+"key": "TXT_KEY_MISC_POW_KEPT",
+"en": "The %s1 Civilization has broken its POW Agreement with the %s2 Civilization!"
+},
+{
+"key": "TXT_KEY_MISC_LIMITED_BORDERS",
+"en": "Right of Passage"
+},
+{
+"key": "TXT_KEY_MISC_NON_AGGRESSION",
+"en": "Non-Aggression Pact"
+},
+{
+"key": "TXT_KEY_MISC_POW",
+"en": "POW Exchange"
+},
+{
+"key": "TXT_KEY_MISC_NON_AGGRESSION_AGREEMENT",
+"en": "%s1 and %s2 signed a Non-Aggression Pact to guarantee peace between their civilizations."
+},
+{
+"key": "TXT_KEY_MISC_POW_AGREEMENT",
+"en": "%s1 and %s2 have agreed to exchange POW's from their conflict."
+},
+{
+"key": "TXT_KEY_MISC_POW_RETURN",
+"en": "The POW Exchange between the %s1 and %s2 has completed."
+},
+{
+"key": "TXT_KEY_MISC_NON_AGGRESSION_RETURN",
+"en": "The Non-Aggression Pact between the %s1 and %s2 civilizations has come to an end."
+},
+{
+"key": "TXT_KEY_MISC_PLAYERS_BREAK_DEFENSIVE_PACT",
+"en": "The alliance between %s1 and %s2 has been dissolved."
+},
+{
+"key": "TXT_KEY_MISC_TRADED_CONTACT_ANNOYED",
+"en": "Out of spite, the %s1 have introduced the ambassadors of the %s2 to us."
+},
+{
+"key": "TXT_KEY_MISC_TRADED_CONTACT_CAUTIOUS",
+"en": "For reasons of their own, the %s1 have introduced the ambassadors of the %s2 to us."
+},
+{
+"key": "TXT_KEY_MISC_TRADED_CONTACT_FRIENDLY",
+"en": "Our good friends, the %s1, have taken it upon themself to introduce the charming ambassadors from the %s2 to us."
+},
+{
+"key": "TXT_KEY_MISC_TRADED_CONTACT_FURIOUS",
+"en": "In some sinister plot, the %s1 have introduced some shady ambassadors who claim to hail from the %s2 to us."
+},
+{
+"key": "TXT_KEY_MISC_TRADED_CONTACT_PLEASED",
+"en": "Our friends, the %s1, have introduced the charming ambassadors from the %s2 to us."
+},
+{
+"key": "TXT_KEY_MISC_TRADED_UNIT_TO_YOU",
+"en": "%s1 has traded a %s2 to you."
+},
+{
+"key": "TXT_KEY_TRADABLE_UNIT",
+"en": "[ICON_BULLET]Unit can be Traded"
+},
+{
+"key": "TXT_KEY_TRADE_BUY",
+"en": "Sell"
+},
+{
+"key": "TXT_KEY_TRADE_BUY_CORPORATION",
+"en": "Trade Corporation"
+},
+{
+"key": "TXT_KEY_TRADE_CONTACT",
+"en": "%s1_CivName establishes contact with %s2_CivName"
+},
+{
+"key": "TXT_KEY_TRADE_CONTACT_WITH",
+"en": "Contact with "
+},
+{
+"key": "TXT_KEY_TRADE_EMBASSY",
+"en": "Embassies allow more advanced form of diplomacy.[NEWLINE][ICON_BULLET]Can Sign [COLOR_HIGHLIGHT_TEXT]Open Borders [COLOR_REVERT]Agreements.[NEWLINE][ICON_BULLET]Can Sign [COLOR_HIGHLIGHT_TEXT]Defensive Pacts.[COLOR_REVERT][NEWLINE][ICON_BULLET][COLOR_GREEN]Improves[COLOR_REVERT] Diplomatic Relations Between Countries.[NEWLINE][ICON_BULLET]Allows For the [COLOR_GREEN]Trade of Certain Military Units[COLOR_REVERT] Between Countries.[NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]If Recalled, Players Will Sour Diplomatic Relations Between Countries.[COLOR_REVERT]"
+}
+]

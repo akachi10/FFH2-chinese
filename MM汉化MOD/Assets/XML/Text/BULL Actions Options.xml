@@ -11,14 +11,14 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACTIONS__ASKDECLAREWARUNITS_TEXT</Tag>
-		<English>Offer to Declare War</English>
+		<English>&#x63d0;&#x793a;&#x5ba3;&#x6218;</English>
 		<German>Angebot der Kriegserkl&#228;rung</German>
 		<Italian>Mostra Dichiarazione di guerra</Italian>
 		<Spanish>Aviso de Declaraci&#243;n de Guerra</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACTIONS__ASKDECLAREWARUNITS_HOVER</Tag>
-		<English>When checked, gives you the option to declare war when moving into a tile containing a rival unit. Always gives the option when moving into rival territory without open borders.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x5f53;&#x4f60;&#x79fb;&#x52a8;&#x8fdb;&#x5165;&#x542b;&#x6709;&#x654c;&#x5bf9;&#x5355;&#x4f4d;&#x7684;&#x5730;&#x5757;&#x65f6;&#xff0c;&#x4f1a;&#x63d0;&#x4f9b;&#x5ba3;&#x6218;&#x7684;&#x9009;&#x9879;&#x3002;&#x5728;&#x672a;&#x7b7e;&#x8ba2;&#x5f00;&#x653e;&#x8fb9;&#x5883;&#x7684;&#x60c5;&#x51b5;&#x4e0b;&#x79fb;&#x52a8;&#x8fdb;&#x5165;&#x654c;&#x5bf9;&#x9886;&#x571f;&#x65f6;&#x59cb;&#x7ec8;&#x63d0;&#x4f9b;&#x8be5;&#x9009;&#x9879;&#x3002;</English>
 		<German>Gibt die M&#246;glichkeit einer Kriegserkl&#228;rung, wenn eine Einheit auf ein Feld besetzt mit einer gegnerischen Einheit gezogen wird. Diese Option erh&#228;lt man in jedem Falle, wenn die Einheit auf gegnerisches Territorium ohne offene Grenzen gezogen wird.</German>
 		<Italian>Quando &#232; selezionato, ti d&#224; la possibilit&#224; di dichiarare guerra se muovi in una casella contenente una unit&#224; di altro player, oppure se muovi in territorio di altro player senza un trattato per il 'Diritto di passaggio'.</Italian>
 		<Spanish>Cuando se activa, antes de mover a una casilla que contiene una unidad rival te da la opci&#243;n de declarar la guerra. Siempre dar&#225; la advertencia cuando se intente mover a territorio rival sin apertura de fronteras.</Spanish>
@@ -28,28 +28,28 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACTIONS__SENTRYHEALING_TEXT</Tag>
-		<English>Sentry While Healing</English>
+		<English>&#x6cbb;&#x7597;&#x65f6;&#x8b66;&#x6212;</English>
 		<German>Wache bei Heilung</German>
 		<Italian>Sentinella durante la guarigione</Italian>
 		<Spanish>Vigilar Mientras se Cura</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACTIONS__SENTRYHEALING_HOVER</Tag>
-		<English>When checked, units ordered to heal will awaken when they spot danger, acting like sentries.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x88ab;&#x547d;&#x4ee4;&#x6cbb;&#x7597;&#x7684;&#x5355;&#x4f4d;&#x5728;&#x53d1;&#x73b0;&#x5371;&#x9669;&#x65f6;&#x4f1a;&#x82cf;&#x9192;&#xff0c;&#x5982;&#x540c;&#x8b66;&#x6212;&#x5355;&#x4f4d;&#x4e00;&#x822c;&#x3002;</English>
 		<German>Veranlasst Einheiten, die sich gerade heilen, bei Gefahr aktiv zu werden</German>
 		<Italian>Quando &#232; selezionato, le Unit&#224; che hanno ricevuto l'ordine di curarsi si riattiveranno quando avvertono un pericolo, fungendo da sentinelle.</Italian>
 		<Spanish>Cuando se activa, las unidades con la orden de curar se despertaran si ven peligro, actuando como vig&#237;as.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACTIONS__SENTRYHEALINGONLYNEUTRAL_TEXT</Tag>
-		<English>Only Neutral Territory</English>
+		<English>&#x4ec5;&#x9650;&#x4e2d;&#x7acb;&#x9886;&#x571f;</English>
 		<German>Nur in neutralem Gebiet</German>
 		<Italian>Solo in territorio neutrale</Italian>
 		<Spanish>Solo Territorio Neutral</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACTIONS__SENTRYHEALINGONLYNEUTRAL_HOVER</Tag>
-		<English>When checked, if Sentry While Healing is enabled, units will awaken to danger only when in neutral territory. This stops your attacking force from waking up each turn outside an enemy city or your defenders inside friendly territory.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x82e5;&#x542f;&#x7528;&#x4e86;&#x201c;&#x6cbb;&#x7597;&#x65f6;&#x8b66;&#x6212;&#x201d;&#xff0c;&#x5355;&#x4f4d;&#x4ec5;&#x5728;&#x4e2d;&#x7acb;&#x9886;&#x571f;&#x5185;&#x9047;&#x5230;&#x5371;&#x9669;&#x65f6;&#x82cf;&#x9192;&#x3002;&#x8fd9;&#x53ef;&#x907f;&#x514d;&#x4f60;&#x7684;&#x8fdb;&#x653b;&#x90e8;&#x961f;&#x5728;&#x654c;&#x65b9;&#x57ce;&#x5e02;&#x5916;&#x6bcf;&#x56de;&#x5408;&#x82cf;&#x9192;&#xff0c;&#x6216;&#x4f60;&#x7684;&#x9632;&#x5fa1;&#x5355;&#x4f4d;&#x5728;&#x53cb;&#x65b9;&#x9886;&#x571f;&#x5185;&#x82cf;&#x9192;&#x3002;</English>
 		<German>Falls die Option "Wache bei Heilung" gew&#228;hlt wurde, werden Einheiten nur bei Gefahr aktiv, wenn sie sich in neutralem Gebiet befinden (verhindert beispielsweise, dass sich heilende Einheiten w&#228;hrend eines Angriffs auf eine feindliche Stadt oder verteidigende Einheiten in befreundetem Gebiet jede Runde wieder aktiv werden)</German>
 		<Italian>Quando &#232; selezionato, se &#232; stata abilitata l'opzione 'Sentinella durante la guarigione', le Unit&#224; che hanno ricevuto l'ordine di curarsi si riattiveranno quando avvertono un pericolo solamente se si trovano in territorio neutrale. Ci&#242; vi eviter&#224; alle vostre forze d'attacco di attivarsi ogni turno in prossimit&#224; di una Citt&#224; nemica ed alle vostre forze di difesa di riattivarsi in territorio nemico.</Italian>
 		<Spanish>Cuando se activa, si Vigilar Mientras se Cura, las unidades se despertaran ante la presencia de peligro solo si est&#225;n en territorio neutral. Esto previene que tu fuerza de combata despierte cada turno cuando estas asediando una ciudad enemiga o tus defensores dentro de territorio amigo.</Spanish>
@@ -59,13 +59,13 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACTIONS__IGNOREHARMLESSBARBARIANS_TEXT</Tag>
-		<English>Ignore Harmless Barbarians</English>
+		<English>&#x5ffd;&#x7565;&#x65e0;&#x5bb3;&#x86ee;&#x65cf;</English>
 		<German>Harmlose Barbaren ignorieren</German>
 		<Spanish>Ignorar Barbaros Inofensivos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACTIONS__IGNOREHARMLESSBARBARIANS_HOVER</Tag>
-		<English>When checked, barbarian units adjacent to your borders will not trigger a warning if they cannot enter.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x7d27;&#x90bb;&#x4f60;&#x8fb9;&#x5883;&#x7684;&#x86ee;&#x65cf;&#x5355;&#x4f4d;&#x82e5;&#x65e0;&#x6cd5;&#x8fdb;&#x5165;&#xff0c;&#x5219;&#x4e0d;&#x4f1a;&#x89e6;&#x53d1;&#x8b66;&#x544a;&#x3002;</English>
 		<German>L&#228;sst keine Warnung erscheinen, wenn sich Barbaren nahe der eigenen Grenzen befinden, diese aber nicht &#252;berqueren k&#246;nnen</German>
 		<Spanish>Cuando se activa, las unidades b&#225;rbaras pr&#243;ximas a las fronteras no provocaran un aviso si no pueden entrar dentro de ellos.</Spanish>
 		<Finnish>Ignore Harmless Barbarians</Finnish>
@@ -75,28 +75,28 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACTIONS__PRECHOPFORESTS_TEXT</Tag>
-		<English>PreChop Forests</English>
+		<English>&#x9884;&#x780d;&#x68ee;&#x6797;</English>
 		<German>Warten vor Abholzung</German>
 		<Italian>Disboscamento incompleto</Italian>
 		<Spanish>Pre-Tala de Bosques</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACTIONS__PRECHOPFORESTS_HOVER</Tag>
-		<English>When checked, Workers ordered to chop a forest will stop with 1 turn remaining. Issue the order again to finish the chop.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x88ab;&#x547d;&#x4ee4;&#x780d;&#x4f10;&#x68ee;&#x6797;&#x7684;&#x5de5;&#x4eba;&#x4f1a;&#x5728;&#x5269;&#x4f59; 1 &#x56de;&#x5408;&#x65f6;&#x505c;&#x4e0b;&#x3002;&#x518d;&#x6b21;&#x4e0b;&#x8fbe;&#x547d;&#x4ee4;&#x5373;&#x53ef;&#x5b8c;&#x6210;&#x780d;&#x4f10;&#x3002;</English>
 		<German>Stoppt Bautrupps, die die Aktion "Wald abholzen" ausf&#252;hren, 1 Runde, bevor die Aktion beendet wird, und l&#228;sst sie auf einen weiteren Befehl warten</German>
 		<Italian>Quando &#232; selezionato, i Lavoratori a cui &#232; stato ordinato di tagliare una Foresta si fermeranno quando mancher&#224; un turno al completamento dell'incarico. Per terminare il disboscamento &#232; necessario impartire nuovamente l'ordine.</Italian>
 		<Spanish>Cuando se activa, los trabajadores con orden de talar un bosque se detendr&#225;n a un turno de acabar. Da de nuevo la orden de tala para finalizar la tala.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACTIONS__PRECHOPIMPROVEMENTS_TEXT</Tag>
-		<English>PreChop Improvements</English>
+		<English>&#x9884;&#x780d;&#x8bbe;&#x65bd;</English>
 		<German>Warten vor Fertigstellung</German>
 		<Italian>Miglioramento con disboscamento incompleto</Italian>
 		<Spanish>Pre-Construcci&#243;n en Bosques</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACTIONS__PRECHOPIMPROVEMENTS_HOVER</Tag>
-		<English>When checked, Workers ordered to build an improvement that will remove a forest will stop with 1 turn remaining. Issue the order again to finish the improvement.</English>
+		<English>&#x52fe;&#x9009;&#x540e;&#xff0c;&#x88ab;&#x547d;&#x4ee4;&#x4fee;&#x5efa;&#x5c06;&#x79fb;&#x9664;&#x68ee;&#x6797;&#x7684;&#x8bbe;&#x65bd;&#x7684;&#x5de5;&#x4eba;&#x4f1a;&#x5728;&#x5269;&#x4f59; 1 &#x56de;&#x5408;&#x65f6;&#x505c;&#x4e0b;&#x3002;&#x518d;&#x6b21;&#x4e0b;&#x8fbe;&#x547d;&#x4ee4;&#x5373;&#x53ef;&#x5b8c;&#x6210;&#x8be5;&#x8bbe;&#x65bd;&#x3002;</English>
 		<German>Stoppt Bautrupps, die eine Modernisierung auf einem Wald-Gel&#228;ndefeld errichten und diesen damit entfernen w&#252;rden, 1 Runde, bevor die Aktion beendet wird, und l&#228;sst sie auf einen weiteren Befehl warten</German>
 		<Italian>Quando &#232; selezionato, i Lavoratori a cui &#232; stato ordinato di tagliare una Foresta e successivamente costruire un miglioramento si fermeranno quando mancher&#224; un turno al completamento dell'incarico. Per terminare la costruzione &#232; necessario impartire nuovamente l'ordine.</Italian>
 		<Spanish>Cuando se activa, los trabajadores con orden de construir una mejora en un bosque se detendr&#225;n a un turno de acabar. Da de nuevo la orden de construcci&#243;n  para finalizar la mejora.</Spanish>

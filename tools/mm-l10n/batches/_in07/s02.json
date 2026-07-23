@@ -1,0 +1,434 @@
+[
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_1_VOLCANO",
+"en": "Big Brothers' Doom"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_1_PEAK",
+"en": "The Big Brother"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_1_FLAT",
+"en": "Watchers' Retreat"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_1_WATER",
+"en": "Watchers' Pool"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_1_HILLS",
+"en": "Big Brother Range"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_2_VOLCANO",
+"en": "Hole of the World"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_2_PEAK",
+"en": "The Big Dent"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_2_FLAT",
+"en": "Hammers' Rest"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_2_WATER",
+"en": "Hole of the World"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_2_HILLS",
+"en": "Big Dent Highlands"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_3_VOLCANO",
+"en": "Roaring Spike"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_3_PEAK",
+"en": "The Great Spine"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_3_FLAT",
+"en": "Lost Valley"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_3_WATER",
+"en": "Forgotten Hollow"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_3_HILLS",
+"en": "Great Spinal Mountains"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_4_VOLCANO",
+"en": "Abyss Portal"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_4_PEAK",
+"en": "Celestial Throne"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_4_FLAT",
+"en": "Paradise Meadow"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_4_WATER",
+"en": "Divine Bath"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_4_HILLS",
+"en": "Celestial Belt"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_5_VOLCANO",
+"en": "Demon's Breath"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_5_PEAK",
+"en": "Roof of the World"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_5_FLAT",
+"en": "Banshee's Playground"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_5_WATER",
+"en": "Devil's Pool"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_5_HILLS",
+"en": "Howling Barrier"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_6_VOLCANO",
+"en": "Witches' Cauldron"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_6_PEAK",
+"en": "Warlock's Hat"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_6_FLAT",
+"en": "Fairies' Glen"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_6_WATER",
+"en": "Satyr's Lake"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_6_HILLS",
+"en": "Wizard's Mountains"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_PLANETFALL_VOLCANO",
+"en": "Smoker"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_PLANETFALL_PEAK",
+"en": "Highest Ridges"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_PLANETFALL_FLAT",
+"en": "Murphy's Folly"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_PLANETFALL_WATER",
+"en": "Alpha Pocket"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_PLANETFALL_HILLS",
+"en": "Sid's Highlands"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_MARSNOW_VOLCANO",
+"en": "Martian Glow"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_MARSNOW_PEAK",
+"en": "Olympus Mons"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_MARSNOW_FLAT",
+"en": "Collin's Folly"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_MARSNOW_WATER",
+"en": "Aldrin's Drink"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_DENT_MARSNOW_HILLS",
+"en": "Armstrong's Hurdle"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_1_LAKE",
+"en": "Big Bog Lake"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_1_LAND",
+"en": "The Big Bog"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_2_LAKE",
+"en": "Darkwater Basin"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_2_LAND",
+"en": "Darkwater Moor"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_3_LAKE",
+"en": "Dregmoor"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_3_LAND",
+"en": "Dregmarsh"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_4_LAKE",
+"en": "Lantern Lake"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_BIGBOG_4_LAND",
+"en": "Lanternmoor"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_DEFAULT_1",
+"en": "Niflheim"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_DEFAULT_2",
+"en": "Atlantis"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_DEFAULT_3",
+"en": "Numenor"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_DEFAULT_4",
+"en": "Minos"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_DEFAULT_5",
+"en": "Rillanon"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_DEFAULT_6",
+"en": "Ensligholm"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_PLANETFALL_1",
+"en": "Alien HQ"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_PLANETFALL_2",
+"en": "Command Center"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_PLANETFALL_3",
+"en": "City of Light"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_PLANETFALL_4",
+"en": "Atlantis Command"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_PLANETFALL_5",
+"en": "Isle of Delanira"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_PLANETFALL_6",
+"en": "Island of Dexamenus"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_MARSNOW_4",
+"en": "Forerunners' Station"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_MARSNOW_5",
+"en": "Ancients' Retreat"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_MARSNOW_6",
+"en": "Precursor's Dwellings"
+},
+{
+"key": "TXT_KEY_MAPSCRIPTTOOLS_LOSTISLE_MARSNOW_7",
+"en": "Old Martian Ruins"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_ARCHIPELAGO_DESCR",
+"en": "The ultimate water map for Civilization IV. Powerful navies not optional!"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_EARTH3_DESCR",
+"en": "Derivative map generator that simulates a randomized Earth."
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_EREBUS_DESCR",
+"en": "Random map that creates a region of a fantasy type world where much of the world is unknown and irrelevant. It allows terrain to be created on a smaller, more detailed scale than planetary maps."
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_FRACTURED_WORLD_DESCR",
+"en": "Evolving plate tectonics map. When the eons come and go, the world slowly changes as the continents drift and break apart, and new islands are created that may be driven into the continents."
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_INLAND_SEA_DESCR",
+"en": "A large sea inhabits the center, surrounded by a thick ring of land."
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_MEDIUM_AND_SMALL_DESCR",
+"en": "Realistic world with highly random landmasses medium and small. East and west hemispheres are divided by ocean, although rarely an island chain may connect them."
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_PANGAEA_DESCR",
+"en": "Pan-Gaia: \"One Earth,\" a massive single continent."
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_PERFECT_WORLD_DESCR",
+"en": "Random map that simulates earth-like plate tectonics, geostrophic and monsoon winds and rainfall."
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_RANDOM_DESCR",
+"en": "Map script which allows to randomly select a map script between Earth3, Erebus, Fractured World, Inland Sea, Medium and Small, PlanetFall, Sea Highlands and Tectonics."
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_RING_WORLD_DESCR",
+"en": "Random map based on Larry Niven's famous 'Ringworld' novel. It creates a thin (16 tiles wide) but long map with artificial landmasses and climate."
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_SEA_HIGHLANDS_DESCR",
+"en": "Highlands, valleys and mountain ranges with several bigger lakes."
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_TECTONICS_DESCR",
+"en": "Produces mountain ranges, and simulates plate tectonics, giving more realistic/earthlike terrain (mountain ranges, mountains near coasts like the Andes, or between subcontinents like the Himalaia)."
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_TERRA_DESCR",
+"en": "Terra generates random land masses similar to those of the planet Earth. All players begin in the Old World. These maps are extra large!"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_WORLD_WRAP",
+"en": "World Wrap"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_WORLD_WRAP_FLAT",
+"en": "Flat (No wrap)"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_WORLD_WRAP_CYLINDRICAL",
+"en": "Cylindrical (Horizontal wrap)"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_WORLD_WRAP_TUBULAR",
+"en": "Tubular (Vertical wrap)"
+},
+{
+"key": "TXT_KEY_MAP_SCRIPT_WORLD_WRAP_TOROIDAL",
+"en": "Toroidal (Complete wrap)"
+},
+{
+"key": "TXT_KEY_MAP_COASTS",
+"en": "Coasts"
+},
+{
+"key": "TXT_KEY_MAP_COASTS_STANDARD",
+"en": "Standard"
+},
+{
+"key": "TXT_KEY_MAP_COASTS_EXPANDED",
+"en": "Expanded"
+},
+{
+"key": "TXT_KEY_MAP_TEAM_START",
+"en": "Team Start"
+},
+{
+"key": "TXT_KEY_MAP_TEAM_START_NEIGHBORS",
+"en": "Neighbors"
+},
+{
+"key": "TXT_KEY_MAP_TEAM_START_SEPARATED",
+"en": "Separated"
+},
+{
+"key": "TXT_KEY_MAP_TEAM_START_RANDOM",
+"en": "Random"
+},
+{
+"key": "TXT_KEY_MAP_MARS_THEME",
+"en": "Mars Theme"
+},
+{
+"key": "TXT_KEY_MAP_MARS_THEME_SANDS_OF_MARS",
+"en": "Sands of Mars"
+},
+{
+"key": "TXT_KEY_MAP_MARS_THEME_TERRAFORMED_MARS",
+"en": "Terraformed Mars"
+},
+{
+"key": "TXT_KEY_MAP_RESOURCES",
+"en": "Resources"
+},
+{
+"key": "TXT_KEY_MAP_RESOURCES_STANDARD",
+"en": "Standard"
+},
+{
+"key": "TXT_KEY_MAP_RESOURCES_BALANCED",
+"en": "Balanced"
+},
+{
+"key": "TXT_KEY_MAP_ARCHIPELAGO_LANDMASS_TYPE",
+"en": "Landmass Type"
+},
+{
+"key": "TXT_KEY_MAP_ARCHIPELAGO_LANDMASS_SNAKY",
+"en": "Snaky Continents"
+},
+{
+"key": "TXT_KEY_MAP_ARCHIPELAGO_LANDMASS_ARCHIPELAGO",
+"en": "Archipelago"
+},
+{
+"key": "TXT_KEY_MAP_ARCHIPELAGO_LANDMASS_TINY_ISLANDS",
+"en": "Tiny Islands"
+},
+{
+"key": "TXT_KEY_MAP_EARTH3_REGIONS",
+"en": "Map regions"
+},
+{
+"key": "TXT_KEY_MAP_EARTH3_REGIONS_NORMAL",
+"en": "Normal Earth"
+},
+{
+"key": "TXT_KEY_MAP_EARTH3_REGIONS_SPECIAL",
+"en": "Special regions"
+},
+{
+"key": "TXT_KEY_MAP_EREBUS_MOUNTAINS",
+"en": "Mountains"
+},
+{
+"key": "TXT_KEY_MAP_EREBUS_MOUNTAINS_NO_SOFTENING",
+"en": "No softening"
+},
+{
+"key": "TXT_KEY_MAP_EREBUS_MOUNTAINS_10_PEAKS",
+"en": "10% less peaks"
+},
+{
+"key": "TXT_KEY_MAP_EREBUS_MOUNTAINS_20_PEAKS",
+"en": "20% less peaks"
+},
+{
+"key": "TXT_KEY_MAP_EREBUS_MOUNTAINS_30_PEAKS",
+"en": "30% less peaks"
+},
+{
+"key": "TXT_KEY_MAP_EREBUS_MOUNTAINS_40_PEAKS",
+"en": "40% less peaks"
+}
+]

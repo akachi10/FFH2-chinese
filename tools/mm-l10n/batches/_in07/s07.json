@@ -1,0 +1,278 @@
+[
+{
+"key": "TXT_KEY_TRADE_EMBASSY_STRING",
+"en": "Establish Embassy"
+},
+{
+"key": "TXT_KEY_TRADE_FREE_TRADE_ZONE",
+"en": "Free Trade Agreement:[NEWLINE][ICON_BULLET]Increases Trade Revenue[NEWLINE][ICON_BULLET]Increases Gold From Trade Missions[NEWLINE][ICON_BULLET]Lowers the cost of espionage in member nations[NEWLINE][ICON_BULLET]Increases the Spread of Corporations between member nations[NEWLINE][ICON_BULLET]May anger rivals"
+},
+{
+"key": "TXT_KEY_TRADE_LIMITED_BORDERS",
+"en": "A Right of Passage Agreement allows only non-aggressive units to pass through your civilizations, including trade. Useful for when players want to continue trade but stop enemy troop movements."
+},
+{
+"key": "TXT_KEY_TRADE_LIMITED_BORDERS_STRING",
+"en": "Right of Passage"
+},
+{
+"key": "TXT_KEY_TRADE_MAKE_CONTACT_WITH",
+"en": "Contact With "
+},
+{
+"key": "TXT_KEY_TRADE_MAKE_PREPARE_WAR",
+"en": "Will Cause %s1_CivName to Prepare For War on %s2_CivName."
+},
+{
+"key": "TXT_KEY_TRADE_MILITARY_UNIT",
+"en": "Military Units"
+},
+{
+"key": "TXT_KEY_TRADE_NON_AGGRESSION",
+"en": "Each Leader Promises to not Attack the Other. "
+},
+{
+"key": "TXT_KEY_TRADE_NON_AGGRESSION_STRING",
+"en": "Non-Aggression Pact"
+},
+{
+"key": "TXT_KEY_TRADE_POW",
+"en": "Exchange your Captured Soldiers for Their Captured Soldiers."
+},
+{
+"key": "TXT_KEY_TRADE_POW_STRING",
+"en": "POW Exchange"
+},
+{
+"key": "TXT_KEY_TRADE_PREPARE_WAR_ON",
+"en": "Prepare For War On"
+},
+{
+"key": "TXT_KEY_TRADE_PREPARE_WAR_WITH",
+"en": "Prepare For War On "
+},
+{
+"key": "TXT_KEY_TRADE_SECRETARY_GENERAL",
+"en": "%s1_CivName pledges to vote for %s2_CivName as Secretary General of %s3_VoteSource"
+},
+{
+"key": "TXT_KEY_TRADE_SECRETARY_GENERAL_VOTE",
+"en": "Secretary General"
+},
+{
+"key": "TXT_KEY_TRADE_SEC_GEN_VOTE",
+"en": "Vote for %s1 (%s2)"
+},
+{
+"key": "TXT_KEY_TRADE_WORKER",
+"en": "Workers"
+},
+{
+"key": "TXT_KEY_TRADE_WORKERS",
+"en": "Workers"
+},
+{
+"key": "USER_DIPLO_MAKE_PEACE_WITH_1",
+"en": "Yes!  Let's make peace."
+},
+{
+"key": "USER_DIPLO_MAKE_PEACE_WITH_2",
+"en": "Peace it is..."
+},
+{
+"key": "USER_DIPLO_NO_MAKE_PEACE_WITH_1",
+"en": "No!  They must be taught a lesson!"
+},
+{
+"key": "USER_DIPLO_NO_MAKE_PEACE_WITH_2",
+"en": "Some wars are worth fighting..."
+},
+{
+"key": "USER_DIPLO_NO_MAKE_PEACE_WITH_3",
+"en": "Not until their blood fills the streets of their capital city!"
+},
+{
+"key": "USER_DIPLO_NO_MAKE_PEACE_WITH_4",
+"en": "Never Give Up!  Never Surrender!"
+},
+{
+"key": "TXT_KEY_DENIAL_SENATE_VETO",
+"en": "&quot;Our Senate opposes the action.&quot;"
+},
+{
+"key": "TXT_KEY_CONCEPT_ACTIVE_SENATE",
+"en": "Active Senate"
+},
+{
+"key": "TXT_KEY_CONCEPT_ACTIVE_SENATE_PEDIA",
+"en": "[H1]Active Senate[\\\\H1][PARAGRAPH:2]Under some types of government ([LINK=CIVIC_REPRESENTATION]Representation[\\\\LINK], [LINK=CIVIC_UNIVERSAL_SUFFRAGE]Universal Suffrage[\\\\LINK]), the Senate can interfere with your military policy. Thus, it may invalidate your declarations of war and/or force you to sign a peace treaty with your enemies.[PARAGRAPH:2]The decisions of the Senate depend in particular on the scale of the conflict, either potential or actual, and its real interest. Thus, pursue a policy military under democratic regime becomes more difficult.[PARAGRAPH:2] However, when an opponent make unpleasant acts to your nation, by a embargo, a negative vote, an espionage mission, etc. ..., you have a sufficient pretext to go to war without Senate intervention. Any war pretext is valid for one turn and throughout the conflict in case of a declaration of war. Of course, malicious acts of enemies who are already at war against you are a pretext to circumvent the Senate.[NEWLINE][NEWLINE]"
+},
+{
+"key": "TXT_KEY_CIVIC_ACTIVE_SENATE",
+"en": "[ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Active Senate[COLOR_REVERT] can Override Military Actions"
+},
+{
+"key": "TXT_KEY_SENATE_CANCEL_WAR",
+"en": "The [COLOR_HIGHLIGHT_TEXT]Senate[COLOR_REVERT] has vetoed your declaration of war on %s1_TeamCiv"
+},
+{
+"key": "TXT_KEY_MISC_HELP_CURRENT_PRETEXT",
+"en": "Valid pretext for War"
+},
+{
+"key": "TXT_KEY_GAME_OPTION_ACTIVE_SENATE",
+"en": "Active Senate"
+},
+{
+"key": "TXT_KEY_POPUP_DOES_THIS_MEAN_WAR_PACIFIC",
+"en": "Your government reminds you that you signed the &quot;Voting Exclusion Penalty for Aggressive Wars&quot; of the %s1_VoteSourcename."
+},
+{
+"key": "TXT_KEY_VOTE_CONDEMN_UN_SLAVERY",
+"en": "Condemn Slavery Civic"
+},
+{
+"key": "TXT_KEY_MISC_CONDEMN_CIVIC",
+"en": "United Nations condemned %s1_Civic! The Civilizations which chose this civic lose the respect of the others."
+},
+{
+"key": "TXT_KEY_MISC_CONDEMN_CIVIC_END",
+"en": "United Nations no longer condemns %s1_Civic!"
+},
+{
+"key": "TXT_KEY_MISC_ATTITUDE_CONDEMNED_CIVIC",
+"en": "%D1: &quot;You are using Condemned Civics!&quot;"
+},
+{
+"key": "TXT_KEY_CONCEPT_CONDAMN_CIVIC_PEDIA",
+"en": "[H1]Condamned Civic[\\\\H1][PARAGRAPH:2]The United Nations can vote on resolution of condemnation of a civic. If and only if this civic is adopted by one of the voting players. Are condemnable by the United Nations, some of the most extremist civics. [PARAGRAPH:2]Choosing a condemned civic generate a diplomatic penalty from the voting members and exclude the civilization to the clan of members which can vote, which in itself is not always a bad thing (as you assess the risks and benefits of such a situation.)[PARAGRAPH:2]It is possible that a AI player proposes such a resolution and pass it, in which case it can influence the course of the game. But from a human point of view, the interest is more subtile. It allows to turn some civilizations against another. Indeed, if you want to attack an opponent who has a state religion shared by you and your allies, but he chose a different religious doctrine, you can try to condemn it to make it a pariat and attack without offending your brothers in faith, even with their assistance.[PARAGRAPH:2]From a historical point of view, the interest is basically to be able to condemn the reform among others.[NEWLINE][NEWLINE]"
+},
+{
+"key": "TXT_KEY_CONCEPT_CONDAMN_CIVIC",
+"en": "Condemned civic"
+},
+{
+"key": "TXT_KEY_POPUP_ELECTION_NUM_VOTERS_WITH_COND_CIVIC0",
+"en": "%d1 voting [NUM1:player:players] chose this civic."
+},
+{
+"key": "TXT_KEY_POPUP_ELECTION_NUM_VOTERS_WITH_COND_CIVIC",
+"en": " --- %d1 voting [NUM1:player:players] chose this civic."
+},
+{
+"key": "TXT_KEY_MISC_CIVIC_IS_COND_BY_ONU",
+"en": "[COLOR_NEGATIVE_TEXT]Civic condemned by the United Nations[COLOR_REVERT]"
+},
+{
+"key": "TXT_KEY_GAME_OPTION_NO_UN_OBSOLETE_BONUS",
+"en": "No prohibition resolution in the Overcouncil"
+},
+{
+"key": "TXT_KEY_GAME_OPTION_NO_UN_OBSOLETE_BONUS_HELP",
+"en": "UN won't be able to propose a resolution to make a resource disappeared/reappeared."
+},
+{
+"key": "TXT_KEY_VOTE_UN_OBSOLETE_COAL",
+"en": "Prohibition of Coal"
+},
+{
+"key": "TXT_KEY_VOTE_UN_OBSOLETE_COAL_HELP",
+"en": "Overcouncil Resolution: [BOLD]Prohibition of Coal[\\\\BOLD]"
+},
+{
+"key": "TXT_KEY_VOTE_UN_OBSOLETE_COAL_STRATEGY",
+"en": "[BOLD]Prohibition of Coal[\\\\BOLD][NEWLINE]Makes the Coal resource disappeared"
+},
+{
+"key": "TXT_KEY_VOTE_UN_OBSOLETE_FUR",
+"en": "Prohibition of Fur"
+},
+{
+"key": "TXT_KEY_VOTE_UN_OBSOLETE_FUR_HELP",
+"en": "Overcouncil Resolution: [BOLD]Prohibition of Fur[\\\\BOLD]"
+},
+{
+"key": "TXT_KEY_VOTE_UN_OBSOLETE_FUR_STRATEGY",
+"en": "[BOLD]Prohibition of Fur[\\\\BOLD][NEWLINE]Makes the Fur resource disappeared"
+},
+{
+"key": "TXT_KEY_VOTE_UN_OBSOLETE_IVORY",
+"en": "Prohibition of Ivory"
+},
+{
+"key": "TXT_KEY_VOTE_UN_OBSOLETE_IVORY_HELP",
+"en": "Overcouncil Resolution: [BOLD]Prohibition of Ivory[\\\\BOLD]"
+},
+{
+"key": "TXT_KEY_VOTE_UN_OBSOLETE_IVORY_STRATEGY",
+"en": "[BOLD]Prohibition of Ivory[\\\\BOLD][NEWLINE]Makes the Ivory resource disappeared"
+},
+{
+"key": "TXT_KEY_VOTE_UN_OBSOLETE_WHALE",
+"en": "Prohibition of Whale Fishing"
+},
+{
+"key": "TXT_KEY_VOTE_UN_OBSOLETE_WHALE_HELP",
+"en": "Overcouncil Resolution: [BOLD]Prohibition of Whale Fishing[\\\\BOLD]"
+},
+{
+"key": "TXT_KEY_VOTE_UN_OBSOLETE_WHALE_STRATEGY",
+"en": "[BOLD]Prohibition of Whale Fishing[\\\\BOLD][NEWLINE]Makes the Whale resource disappeared"
+},
+{
+"key": "TXT_KEY_MEMORY_BONUS_BAD_VOTE",
+"en": "[BOLD]Prohibition of Whale Fishing[\\\\BOLD][NEWLINE]Makes the Whale resource disappeared"
+},
+{
+"key": "TXT_KEY_MISC_BONUS_BECOME_OBSOLETE",
+"en": "A source of [COLOR_HIGHLIGHT_TEXT]%s1_BonusName[COLOR_REVERT] was abandoned near %s2_CityName."
+},
+{
+"key": "TXT_KEY_MISC_BONUS_BECOME_OBSOLETE2",
+"en": "A source of [COLOR_HIGHLIGHT_TEXT]%s1_BonusName[COLOR_REVERT] was reactivated near %s2_CityName."
+},
+{
+"key": "TXT_KEY_BONUS_IS_OBSO",
+"en": "[COLOR_WARNING_TEXT]Exploitation prohibited by United Nations[COLOR_REVERT]"
+},
+{
+"key": "TXT_KEY_CLOSEST_ALLY_OF",
+"en": "[ICON_BULLET][COLOR_POSITIVE_TEXT]Closest Ally of %s1_player[COLOR_REVERT]"
+},
+{
+"key": "TXT_KEY_MISC_ATTITUDE_SHARED_ENEMY",
+"en": "%D1: &quot;We share common rivals.&quot;"
+},
+{
+"key": "TXT_KEY_MISC_ATTITUDE_SHARED_FRIEND",
+"en": "%D1: &quot;We have friends in common.&quot;"
+},
+{
+"key": "TXT_KEY_TRADE_WAR_REPARATIONS_STRING",
+"en": "Pay War Reparations"
+},
+{
+"key": "TXT_KEY_TRADE_WAR_REPARATIONS",
+"en": "Paying war reparations reimburses for losses caused by wars. War reparations are an expensive means to repair relations between former enemies."
+},
+{
+"key": "TXT_KEY_MISC_WAR_REPARATIONS",
+"en": "War Reparations"
+},
+{
+"key": "TXT_KEY_TRADE_CEASE_RELATIONS",
+"en": "Will cause %s1_You to cease all diplomatic relations with %s2_Them for %d3 turns."
+},
+{
+"key": "TXT_KEY_TRADE_CEASE_RELATIONS_WITH",
+"en": "Cease Relations With"
+},
+{
+"key": "TXT_KEY_TRADE_CEASE_RELATIONS_GLOBAL_MSG",
+"en": "[COLOR_YELLOW]At the request of %s1 the %s2 have ceased all diplomatic relations with %s3.[COLOR_REVERT]"
+},
+{
+"key": "TXT_KEY_BUG_OPT_CIV4LERTS__ENABLED_TEXT",
+"en": "Enable Civ4lerts"
+}
+]

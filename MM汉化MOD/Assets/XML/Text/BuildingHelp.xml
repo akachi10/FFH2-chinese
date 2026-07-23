@@ -24,7 +24,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_EXPIRES_END_OF_TURN</Tag>
-		<English>[ICON_BULLET]Wears off at end of turn</English>
+		<English>[ICON_BULLET]&#x56de;&#x5408;&#x7ed3;&#x675f;&#x65f6;&#x5931;&#x6548;</English>
 		<German>[ICON_BULLET]Verschwindet am Ende des Zuges</German>
 	</TEXT>
 	<TEXT>
@@ -48,7 +48,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_HELP_INVISIBLE</Tag>
-		<English>[ICON_BULLET]Makes the unit invisible (except in cities)</English>
+		<English>[ICON_BULLET]&#x4f7f;&#x5355;&#x4f4d;&#x9690;&#x5f62;&#xff08;&#x57ce;&#x5e02;&#x5185;&#x9664;&#x5916;&#xff09;</English>
 		<French>[ICON_BULLET]Rend l'unit&#233; invisible (except in cities)</French> <!-- TODO -->
 		<German>[ICON_BULLET]Einheit wird unsichtbar (au&#223;er in St&#228;dten)</German>
 		<Spanish>[ICON_BULLET]La unidad no puede ser vista (except in cities)</Spanish> <!-- TODO -->
@@ -61,7 +61,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_MIN_LEVEL</Tag>
-		<English>[ICON_BULLET]Requires level %d1 or higher</English>
+		<English>[ICON_BULLET]&#x9700;&#x8981; %d1 &#x7ea7;&#x6216;&#x66f4;&#x9ad8;&#x7b49;&#x7ea7;</English>
 		<Spanish>[ICON_BULLET]Requiere nivel %d1 o superior</Spanish>
 	</TEXT>
 	<TEXT>
@@ -153,7 +153,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_UNHAPPY_PRODUCTION</Tag>
-		<English>[ICON_BULLET]Provides +1[ICON_PRODUCTION] per unhappy population</English>
+		<English>[ICON_BULLET]&#x6bcf;&#x6709;&#x4e00;&#x540d;&#x4e0d;&#x6ee1;&#x4eba;&#x53e3;&#x63d0;&#x4f9b; +1[ICON_PRODUCTION]</English>
 		<French>[ICON_BULLET]Fournit +1[ICON_PRODUCTION] par citoyen m&#233;content</French>
 		<German>[ICON_BULLET]Erzeugt +1[ICON_PRODUCTION] f&#252;r jeden unzufriedenen B&#252;rger</German>
 		<Italian>[ICON_BULLET]Provides +1[ICON_PRODUCTION] per Unhappy population</Italian>

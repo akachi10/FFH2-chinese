@@ -1,0 +1,290 @@
+[
+{
+"key": "TXT_KEY_PLE_UPGRADE_HELP",
+"en": "(CTRL: units on this plot.[NEWLINE]ALT: all units)"
+},
+{
+"key": "TXT_KEY_PLE_CURRENT_MODE",
+"en": "This is the current mode"
+},
+{
+"key": "TXT_KEY_PLE_VIEW_MODE",
+"en": "[COLOR_HIGHLIGHT_TEXT]Switch View Mode[COLOR_REVERT][NEWLINE]Choose how unit icons are displayed: single row, multiple rows, or stacked into separate rows or columns"
+},
+{
+"key": "TXT_KEY_PLE_MODE_STANDARD",
+"en": "View unit buttons in a single row"
+},
+{
+"key": "TXT_KEY_PLE_MODE_MULTILINE",
+"en": "View unit buttons in multiple rows"
+},
+{
+"key": "TXT_KEY_PLE_MODE_STACK_VERT",
+"en": "View unit buttons grouped into columns"
+},
+{
+"key": "TXT_KEY_PLE_MODE_STACK_HORIZ",
+"en": "View unit buttons grouped into rows"
+},
+{
+"key": "TXT_KEY_PLE_RESET_FILTERS",
+"en": "[COLOR_HIGHLIGHT_TEXT]Reset Filters[COLOR_REVERT][NEWLINE]Show all units"
+},
+{
+"key": "TXT_KEY_PLE_RESET_FILTERS_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Reset Filters[COLOR_REVERT][NEWLINE]Show all units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_CANMOVE",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Movement Filter[COLOR_REVERT][NEWLINE]Hide units that can move"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_CANMOVE_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Movement Filter[COLOR_REVERT][NEWLINE]Show units that can move"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_CANMOVE",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Movement Filter[COLOR_REVERT][NEWLINE]Show only units that can move"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_CANMOVE_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Movement Filter[COLOR_REVERT][NEWLINE]Show units that can and cannot move"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_CANTMOVE",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Movement Filter[COLOR_REVERT][NEWLINE]Hide units that cannot move"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_CANTMOVE_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Movement Filter[COLOR_REVERT][NEWLINE]Show units that cannot move"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_CANTMOVE",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Movement Filter[COLOR_REVERT][NEWLINE]Show only units that cannot move"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_CANTMOVE_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Movement Filter[COLOR_REVERT][NEWLINE]Show units that can and cannot move"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_WOUNDED",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Health Filter[COLOR_REVERT][NEWLINE]Hide wounded units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_WOUNDED_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Health Filter[COLOR_REVERT][NEWLINE]Show wounded units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_WOUNDED",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Health Filter[COLOR_REVERT][NEWLINE]Show only wounded units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_WOUNDED_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Health Filter[COLOR_REVERT][NEWLINE]Show wounded and healthy units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_HEALTHY",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Health Filter[COLOR_REVERT][NEWLINE]Hide healthy units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_HEALTHY_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Health Filter[COLOR_REVERT][NEWLINE]Show healthy units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_HEALTHY",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Health Filter[COLOR_REVERT][NEWLINE]Show only healthy units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_HEALTHY_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Health Filter[COLOR_REVERT][NEWLINE]Show wounded and healthy units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_AIR",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Domain Filter[COLOR_REVERT][NEWLINE]Hide air units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_AIR_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Domain Filter[COLOR_REVERT][NEWLINE]Show air units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_AIR",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Domain Filter[COLOR_REVERT][NEWLINE]Show only air units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_AIR_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Domain Filter[COLOR_REVERT][NEWLINE]Show land, naval and air units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_SEA",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Domain Filter[COLOR_REVERT][NEWLINE]Hide naval units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_SEA_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Domain Filter[COLOR_REVERT][NEWLINE]Show naval units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_SEA",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Domain Filter[COLOR_REVERT][NEWLINE]Show only naval units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_SEA_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Domain Filter[COLOR_REVERT][NEWLINE]Show land, naval and air units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_LAND",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Domain Filter[COLOR_REVERT][NEWLINE]Hide land units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_LAND_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Domain Filter[COLOR_REVERT][NEWLINE]Show land units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_LAND",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Domain Filter[COLOR_REVERT][NEWLINE]Show only land units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_LAND_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Domain Filter[COLOR_REVERT][NEWLINE]Show land, naval and air units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_DOM",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Military Filter[COLOR_REVERT][NEWLINE]Hide civilian units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_DOM_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Military Filter[COLOR_REVERT][NEWLINE]Show civilian units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_DOM",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Military Filter[COLOR_REVERT][NEWLINE]Show only civilian units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_DOM_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Military Filter[COLOR_REVERT][NEWLINE]Show civilian and military units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_MIL",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Military Filter[COLOR_REVERT][NEWLINE]Hide military units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_MIL_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Military Filter[COLOR_REVERT][NEWLINE]Show military units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_MIL",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Military Filter[COLOR_REVERT][NEWLINE]Show only military units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_MIL_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Military Filter[COLOR_REVERT][NEWLINE]Show civilian and military units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_OWN",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Nationality Filter[COLOR_REVERT][NEWLINE]Hide domestic units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_OWN_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Nationality Filter[COLOR_REVERT][NEWLINE]Show domestic units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_OWN",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Nationality Filter[COLOR_REVERT][NEWLINE]Show only domestic units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_OWN_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Nationality Filter[COLOR_REVERT][NEWLINE]Show foreign and domestic units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_FOREIGN",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Nationality Filter[COLOR_REVERT][NEWLINE]Hide foreign units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_FOREIGN_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Nationality Filter[COLOR_REVERT][NEWLINE]Show foreign units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_FOREIGN",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Nationality Filter[COLOR_REVERT][NEWLINE]Show only foreign units"
+},
+{
+"key": "TXT_KEY_PLE_FILTER_BUG_FOREIGN_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Toggle Nationality Filter[COLOR_REVERT][NEWLINE]Show foreign and domestic units"
+},
+{
+"key": "TXT_KEY_PLE_GRP_STANDARD",
+"en": "[COLOR_HIGHLIGHT_TEXT]Switch to Standard Mode[COLOR_REVERT][NEWLINE]View normal unit icons and issue orders"
+},
+{
+"key": "TXT_KEY_PLE_GRP_STANDARD_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Standard Mode[COLOR_REVERT][NEWLINE]Toggle how units are grouped: by unit type or selection group"
+},
+{
+"key": "TXT_KEY_PLE_GRP_UNITTYPE",
+"en": "Group units by unit type"
+},
+{
+"key": "TXT_KEY_PLE_GRP_GROUPS",
+"en": "Group units by selection group"
+},
+{
+"key": "TXT_KEY_PLE_GRP_PROMO",
+"en": "[COLOR_HIGHLIGHT_TEXT]Switch to Promotion Mode[COLOR_REVERT][NEWLINE]View units available for promotion along with the promotions they may receive"
+},
+{
+"key": "TXT_KEY_PLE_GRP_PROMO_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Promotion Mode[COLOR_REVERT][NEWLINE]Switch back to Standard Mode"
+},
+{
+"key": "TXT_KEY_PLE_GRP_UPGRADE",
+"en": "[COLOR_HIGHLIGHT_TEXT]Switch to Upgrade Mode[COLOR_REVERT][NEWLINE]View units available for upgrade along with the units they may become"
+},
+{
+"key": "TXT_KEY_PLE_GRP_UPGRADE_ON",
+"en": "[COLOR_HIGHLIGHT_TEXT]Upgrade Mode[COLOR_REVERT][NEWLINE]Switch back to Standard Mode"
+},
+{
+"key": "TXT_KEY_PLOT_FORTIFY_TO_UPGRADE",
+"en": "[SPACE](Must be garrisoned to become %s1_ImpName)"
+},
+{
+"key": "TXT_KEY_IMPROVEMENT_PLOT_CULTURE",
+"en": "[ICON_BULLET]%D1_Change[ICON_CULTURE] for owner in plot"
+},
+{
+"key": "TXT_KEY_IMPROVEMENT_CULTURE_RANGE",
+"en": "[ICON_BULLET]Influences plots within a distance of %d1_Num"
+},
+{
+"key": "TXT_KEY_IMPROVEMENT_BOMBARD",
+"en": "[ICON_BULLET]Can be bombarded"
+},
+{
+"key": "TXT_KEY_IMPROVEMENT_FORTIFY_TO_UPGRADE",
+"en": "[ICON_BULLET]May only upgrade while units guard it"
+},
+{
+"key": "TXT_KEY_IMPROVEMENT_VISIBILITY_RANGE",
+"en": "[ICON_BULLET]%D1_Change Visibility Range"
+},
+{
+"key": "TXT_KEY_IMPROVEMENT_SEE_FROM",
+"en": "[ICON_BULLET]%D1_Change Visibility Height"
+},
+{
+"key": "TXT_KEY_IMPROVEMENT_UNIQUE_RANGE",
+"en": "[ICON_BULLET]Cannot build another within a distance of %d1_Num"
+},
+{
+"key": "AI_DIPLO_MAKE_PEACE_DENIED_1",
+"en": "Your inhumanity will not be soon forgotten..."
+},
+{
+"key": "AI_DIPLO_MAKE_PEACE_DENIED_2",
+"en": "Loyalty with Honor, Courage with Valor, Warmongering with Wrath,  and Folly with Doom!"
+},
+{
+"key": "AI_DIPLO_MAKE_PEACE_DENIED_3",
+"en": "This will be the undoing of us all!"
+}
+]
