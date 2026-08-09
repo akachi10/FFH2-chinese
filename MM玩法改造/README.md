@@ -773,9 +773,9 @@ iArda += iArdaResist
 
 首版脚本用文本模式处理，副本试跑发现 **CRLF 被整篇转成 LF**（60341 → 0），已改为**全程 bytes 处理**重做。
 
-- **文件**：游戏 `<MM>\Assets\XML\Units\CIV4UnitInfos.xml`（2,024,345 → 2,024,600 字节）；仓库 `MM源码` 同步（同尺寸）。
+- **文件**：游戏 `<MM>\Assets\XML\Units\CIV4UnitInfos.xml`（2,024,345 → 2,024,600 → **2,024,525** 字节，末值为还原 5 个之后）；仓库 `MM源码` 同步（同尺寸）。
 - **备份**：`CIV4UnitInfos.xml.bak-mod-20260808-202434`（2,024,345 字节）。
-- **校验**：两份均 `ElementTree` 解析 PASS；CRLF 60,341 行、裸 LF **0**；`UnitInfo` 条目数 589 不变；逐条回读 —— 祭司用 Class 17 个、用 Building 1 个（莱兰）、两字段并存 **0** 个。
+- **校验**：两份均 `ElementTree` 解析 PASS；CRLF 60,341 行、裸 LF **0**；`UnitInfo` 条目数 589 不变；逐条回读 —— 祭司用 Class **12** 个（程序核验：其 Class 下**全部**确有 `_HOSTILE` 版）、用 Building 6 个、两字段并存 **0** 个。
 - **生效**：单位前提为运行时查表，**旧档即时生效**，无需新开局。
 - **回滚**：还原 `.bak-mod-20260808-202434`。
 
