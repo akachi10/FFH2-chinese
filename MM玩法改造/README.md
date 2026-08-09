@@ -729,6 +729,52 @@ iArda += iArdaResist
 - **校验**：两份均通过 `lib2to3` Python 2 语法解析；CRLF 39,649 行、裸 LF 0；`41 - iArda` 残留 0 处，衰减式各 2 处。
 - **生效**：旧档即时生效。**回滚**：覆盖 `.bak-mod-20260808-194006` 退回改造 24 的硬封顶。
 
+## 改造 26：敌对版神殿可生产祭司（对齐信徒的既有写法）
+
+- **日期**：2026-08-08 20:24（Asia/Shanghai）
+- **动机**：用户希望敌对教派的建筑也能为自己产出神职者，让被压制的教派可用（配合改造 25 的阿尔达衰减抗性）。
+
+### 机制调查（几轮纠错后的最终结论）
+
+**敌对版建筑与友好版共用同一个 `BuildingClass`，但 `Type` 不同**（例：`BUILDING_TEMPLE_OF_THE_ORDER` 与 `..._HOSTILE` 同属 `BUILDINGCLASS_TEMPLE_OF_THE_ORDER`）。两个前提字段的判定语义因此完全不同（`CvPlot.cpp:10406-10430`）：
+
+| 字段 | 判定 | 敌对版 |
+|---|---|---|
+| `PrereqBuilding` | `getNumBuilding(具体Type) == 0` 即拒绝 | **不认** |
+| `PrereqBuildingClass` | `isHasBuildingClass(类)` | **认** |
+
+**MM 的原始设计就是靠这两个字段分级**：信徒用 `PrereqBuildingClass`（所以敌对神殿一直就能出信徒），祭司用 `PrereqBuilding`（所以敌对神殿出不了祭司）。本次改动即把祭司对齐到信徒的写法。
+
+**升级路径同样受限（重要，曾误判）**：`CvUnit::canUpgrade` → `hasUpgrade` → `getUpgradeCity` → **`CvCity::canUpgrade`**（FfH 把原版 `canTrain` 函数体改名而来，含全部常规检查）→ `CvPlayer::canTrain`（查 `StateReligion`）+ `CvPlot::canTrain`（查 `PrereqReligion` / `PrereqBuilding`）。**故升级也要过建筑与国教这两关**，不存在"造不了但能升"的绕过。唯一只在建造侧拦截、升级侧放行的字段是 `iMinLevel`（`CvCity::canTrain` 开头），它正是"只能升不能造"机制的实现。
+
+### 改动清单（17 个祭司）
+
+口径：**信徒用 Class 的教派，祭司跟随**。逐个换成该教信徒所用的同一个 Class。
+
+秩序 / 天穹 / 守望者兄弟会 / 授环者 / 丰饶 / 卡拉莫夫符文 / 永恒结社 / 树叶 / 灰色议会 / 狐人 / 章鱼领主 / 埃苏斯议会 / 白手 / 不公管理者 / 混乱之子 / 灰烬帷幕 / 余烬军团
+
+**未动**：
+- **莱兰祭司** —— 其信徒要 `BUILDING_LIBRARY`、祭司要 `BUILDING_ARCHIVE`，两级本就是不同建筑（递进链），且 `BUILDINGCLASS_ARCHIVE` 下无敌对版。改了没收益，只会凭空让"召唤师之环也能出莱兰祭司"。
+- **主教全部 22 个** —— `StateReligion` 保留，敌对教派仍升不了主教（用户要求的「主教要友好」天然成立）。
+
+### 已知副作用（均为既有行为的延续，非新增）
+
+- **西罗娜祭司**：`BUILDINGCLASS_TEMPLE_BROTHERHOOD` 下除敌对版外还有 `BUILDING_TEMPLE_BLIND_BROTHERHOOD`（盲眼兄弟会神殿），改后该建筑也能出祭司。**其信徒本就如此**（信徒用的就是这个 Class），故不算新增 BUG。
+- 5 个教派（丰饶/永恒结社/树叶/灰议/狐人）的 Class 下只有一个 Type，改动对行为无影响，仅统一写法。
+- 改动对**所有文明含 AI** 生效；AI 城中常有敌对神殿，会开始生产这些祭司。
+
+### 工艺要点
+
+`PrereqBuilding`（schema 序列第 653 行）与 `PrereqBuildingClass`（第 **764** 行）位置相差 111 位，**不能原地改字段名**——Civ4 对元素顺序有强制校验，插错即启动崩溃（改造 4 的教训）。实现为：删除原 `PrereqBuilding` 行 → 按各条目实际元素顺序、以 `bCanMoveLimitedBorders` / `iTier` / `iCombatDefense` 等锚点定位 → 插入新行并沿用同缩进。
+
+首版脚本用文本模式处理，副本试跑发现 **CRLF 被整篇转成 LF**（60341 → 0），已改为**全程 bytes 处理**重做。
+
+- **文件**：游戏 `<MM>\Assets\XML\Units\CIV4UnitInfos.xml`（2,024,345 → 2,024,600 字节）；仓库 `MM源码` 同步（同尺寸）。
+- **备份**：`CIV4UnitInfos.xml.bak-mod-20260808-202434`（2,024,345 字节）。
+- **校验**：两份均 `ElementTree` 解析 PASS；CRLF 60,341 行、裸 LF **0**；`UnitInfo` 条目数 589 不变；逐条回读 —— 祭司用 Class 17 个、用 Building 1 个（莱兰）、两字段并存 **0** 个。
+- **生效**：单位前提为运行时查表，**旧档即时生效**，无需新开局。
+- **回滚**：还原 `.bak-mod-20260808-202434`。
+
 ## 历史参考（2019 年 FFH 时代的改造，见 `C:\wm4.back\安装顺序.txt`）
 
 - 地图尺寸：`CIV4WorldInfo.xml` + 地图脚本 `getGridSize`（Terra 大网格 / Pangaea 小一档）

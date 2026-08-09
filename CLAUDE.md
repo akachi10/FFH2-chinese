@@ -48,6 +48,8 @@
 
 | 改造 25 | 2026-08-08 | 阿尔达「阶+经验」加成改为**按基础值分段衰减**（取代改造 24 的硬封顶 41）：不含加成的 iArda `<40` 全额、`40s ×0.8`、`50s ×0.6`、`60s ×0.4`、`70s ×0.2`、`≥80` 归零；整数乘除（`*8/10`）不引回浮点。意图是让被压制的祭司（尤其敌对教派）拿满加成，处境好的不再白拿 | MM `CvSpellInterface.py`（+ 仓库同步） | `.bak-mod-20260808-194006` |
 
+| 改造 26 | 2026-08-08 | 敌对版神殿可造祭司：17 个祭司的 `PrereqBuilding`（认具体 Type，写死友好版）改为 `PrereqBuildingClass`（认 BuildingClass，友好/敌对同类通吃）——与**信徒既有写法对齐**（信徒本就用 Class，故敌对神殿一直能出信徒）。莱兰祭司未动（其信徒要图书馆、祭司要档案馆，两级本就不同建筑且无敌对版）。主教不动，`StateReligion` 仍要求国教对口，敌对教派升不了主教 | MM `CIV4UnitInfos.xml`（+ 仓库同步） | `.bak-mod-20260808-202434` |
+
 > 路径缩写：FFH2 = `C:\Civilization4\Beyond the Sword\Mods\Fall from Heaven 2\Assets\XML\...`；MM = `C:\Civilization4\Beyond the Sword\Mods\Magister Modmod for FfH2\Assets\XML\...`；BtS = `C:\Civilization4\Beyond the Sword\`。
 
 ## 游戏目录 git 仓库（改造版本管理）

@@ -17644,7 +17644,6 @@
 			<ReligionType>RELIGION_THE_EMPYREAN</ReligionType>
 			<StateReligion/>
 			<PrereqReligion>RELIGION_THE_EMPYREAN</PrereqReligion>
-			<PrereqBuilding>BUILDING_TEMPLE_OF_THE_EMPYREAN</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_HONOR</PrereqTech>
@@ -17708,6 +17707,7 @@
 			<bNeverObsolete>1</bNeverObsolete>
 			<iCombatDefense>3</iCombatDefense>
 			<iTier>3</iTier>
+			<PrereqBuildingClass>BUILDINGCLASS_TEMPLE_OF_THE_EMPYREAN</PrereqBuildingClass>
 			<DamageTypeCombats>
 				<DamageTypeCombat>
 					<DamageType>DAMAGE_HOLY</DamageType>
@@ -18369,7 +18369,6 @@
 			</UnitAIs>
 			<ReligionType>RELIGION_BROTHERHOOD_OF_WARDENS</ReligionType>
 			<PrereqReligion>RELIGION_BROTHERHOOD_OF_WARDENS</PrereqReligion>
-			<PrereqBuilding>BUILDING_TEMPLE_BROTHERHOOD</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_WAY_OF_THE_WISE</PrereqTech>
@@ -18443,6 +18442,7 @@
 			<bNeverObsolete>1</bNeverObsolete>
 			<iCombatDefense>4</iCombatDefense>
 			<iTier>3</iTier>
+			<PrereqBuildingClass>BUILDINGCLASS_TEMPLE_BROTHERHOOD</PrereqBuildingClass>
 			<UpgradeCiv>CIVILIZATION_ELOHIM</UpgradeCiv>
 			<DamageTypeCombats>
 				<DamageTypeCombat>
@@ -19115,7 +19115,6 @@
 			</Buildings>
 			<ReligionType>RELIGION_RINGGIVER</ReligionType>
 			<PrereqReligion>RELIGION_RINGGIVER</PrereqReligion>
-			<PrereqBuilding>BUILDING_ARTIFICERY</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_CRAFTING</PrereqTech>
@@ -19189,6 +19188,7 @@
 			<bNeverObsolete>1</bNeverObsolete>
 			<iCombatDefense>3</iCombatDefense>
 			<iTier>3</iTier>
+			<PrereqBuildingClass>BUILDINGCLASS_ARTIFICERY</PrereqBuildingClass>
 		</UnitInfo>
 		<UnitInfo>
 			<Class>UNITCLASS_DISCIPLE_RINGGIVER</Class>
@@ -20517,7 +20517,6 @@
 			</ReligionSpreads>
 			<ReligionType>RELIGION_HOUSE_OF_PLENTY</ReligionType>
 			<PrereqReligion>RELIGION_HOUSE_OF_PLENTY</PrereqReligion>
-			<PrereqBuilding>BUILDING_GALLERY</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_DRAMA</PrereqTech>
@@ -20583,6 +20582,7 @@
 			<iTier>3</iTier>
 			<PrereqAlignment>ALIGNMENT_GOOD</PrereqAlignment>
 			<bCanMoveLimitedBorders>1</bCanMoveLimitedBorders>
+			<PrereqBuildingClass>BUILDINGCLASS_GALLERY</PrereqBuildingClass>
 		</UnitInfo>
 		<UnitInfo>
 			<Class>UNITCLASS_DISCIPLE_PLENTY</Class>
@@ -21084,7 +21084,6 @@
 			<ReligionType>RELIGION_THE_ORDER</ReligionType>
 			<StateReligion/>
 			<PrereqReligion>RELIGION_THE_ORDER</PrereqReligion>
-			<PrereqBuilding>BUILDING_TEMPLE_OF_THE_ORDER</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_ORDERS_FROM_HEAVEN</PrereqTech>
@@ -21152,6 +21151,7 @@
 			<bNeverObsolete>1</bNeverObsolete>
 			<iCombatDefense>3</iCombatDefense>
 			<iTier>3</iTier>
+			<PrereqBuildingClass>BUILDINGCLASS_TEMPLE_OF_THE_ORDER</PrereqBuildingClass>
 			<DamageTypeCombats>
 				<DamageTypeCombat>
 					<DamageType>DAMAGE_HOLY</DamageType>
@@ -21570,7 +21570,6 @@
 			<ReligionType>RELIGION_RUNES_OF_KILMORPH</ReligionType>
 			<StateReligion/>
 			<PrereqReligion>RELIGION_RUNES_OF_KILMORPH</PrereqReligion>
-			<PrereqBuilding>BUILDING_TEMPLE_OF_KILMORPH</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_WAY_OF_THE_EARTHMOTHER</PrereqTech>
@@ -21634,6 +21633,7 @@
 			<bNeverObsolete>1</bNeverObsolete>
 			<iCombatDefense>4</iCombatDefense>
 			<iTier>3</iTier>
+			<PrereqBuildingClass>BUILDINGCLASS_TEMPLE_OF_KILMORPH</PrereqBuildingClass>
 		</UnitInfo>
 		<UnitInfo>
 			<Class>UNITCLASS_DISCIPLE_RUNES_OF_KILMORPH</Class>
@@ -22284,7 +22284,6 @@
 					<bUnitAI>1</bUnitAI>
 				</UnitAI>
 			</UnitAIs>
-			<PrereqBuilding>BUILDING_RELIQUARY</PrereqBuilding>
 			<ReligionType>RELIGION_ETERNAL_CABAL</ReligionType>
 			<PrereqReligion>RELIGION_ETERNAL_CABAL</PrereqReligion>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
@@ -22340,6 +22339,7 @@
 			<bNeverObsolete>1</bNeverObsolete>
 			<iCombatDefense>3</iCombatDefense>
 			<iTier>3</iTier>
+			<PrereqBuildingClass>BUILDINGCLASS_RELIQUARY</PrereqBuildingClass>
 			<DamageTypeCombats>
 				<DamageTypeCombat>
 					<DamageType>DAMAGE_HOLY</DamageType>
@@ -23318,7 +23318,6 @@
 			<ReligionType>RELIGION_FELLOWSHIP_OF_LEAVES</ReligionType>
 			<StateReligion/>
 			<PrereqReligion>RELIGION_FELLOWSHIP_OF_LEAVES</PrereqReligion>
-			<PrereqBuilding>BUILDING_TEMPLE_OF_LEAVES</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_WAY_OF_THE_FORESTS</PrereqTech>
@@ -23386,6 +23385,7 @@
 			<bNeverObsolete>1</bNeverObsolete>
 			<iCombatDefense>4</iCombatDefense>
 			<iTier>3</iTier>
+			<PrereqBuildingClass>BUILDINGCLASS_TEMPLE_OF_LEAVES</PrereqBuildingClass>
 			<DamageTypeCombats>
 				<DamageTypeCombat>
 					<DamageType>DAMAGE_POISON</DamageType>
@@ -23841,7 +23841,6 @@
 			</UnitAIs>
 			<ReligionType>RELIGION_GREY_COUNCIL</ReligionType>
 			<PrereqReligion>RELIGION_GREY_COUNCIL</PrereqReligion>
-			<PrereqBuilding>BUILDING_TEMPLE_GREY_COUNCIL</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_TRADE</PrereqTech>
@@ -23905,6 +23904,7 @@
 			<bNeverObsolete>1</bNeverObsolete>
 			<iCombatDefense>4</iCombatDefense>
 			<iTier>3</iTier>
+			<PrereqBuildingClass>BUILDINGCLASS_TEMPLE_GREY_COUNCIL</PrereqBuildingClass>
 			<DamageTypeCombats>
 			</DamageTypeCombats>
 		</UnitInfo>
@@ -24194,7 +24194,6 @@
 			<StateReligion></StateReligion>
 			<ReligionType>RELIGION_FOXMEN</ReligionType>
 			<PrereqReligion>RELIGION_FOXMEN</PrereqReligion>
-			<PrereqBuilding>BUILDING_TEMPLE_FOXMEN</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_CARTOGRAPHY</PrereqTech>
@@ -24266,6 +24265,7 @@
 			<iCombatDefense>2</iCombatDefense>
 			<iTier>2</iTier>
 			<bCanMoveLimitedBorders>1</bCanMoveLimitedBorders>
+			<PrereqBuildingClass>BUILDINGCLASS_TEMPLE_FOXMEN</PrereqBuildingClass>
 			<DamageTypeCombats>
 				<DamageTypeCombat>
 					<DamageType>DAMAGE_LIGHTNING</DamageType>
@@ -24643,7 +24643,6 @@
 			<ReligionType>RELIGION_OCTOPUS_OVERLORDS</ReligionType>
 			<StateReligion/>
 			<PrereqReligion>RELIGION_OCTOPUS_OVERLORDS</PrereqReligion>
-			<PrereqBuilding>BUILDING_TEMPLE_OF_THE_OVERLORDS</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_MESSAGE_FROM_THE_DEEP</PrereqTech>
@@ -24719,6 +24718,7 @@
 			<bNeverObsolete>1</bNeverObsolete>
 			<iCombatDefense>4</iCombatDefense>
 			<iTier>3</iTier>
+			<PrereqBuildingClass>BUILDINGCLASS_TEMPLE_OF_THE_OVERLORDS</PrereqBuildingClass>
 			<DamageTypeResists>
 				<DamageTypeResist>
 					<DamageType>DAMAGE_PSYCHIC</DamageType>
@@ -25541,7 +25541,6 @@
 			<ReligionType>RELIGION_COUNCIL_OF_ESUS</ReligionType>
 			<StateReligion/>
 			<PrereqReligion>RELIGION_COUNCIL_OF_ESUS</PrereqReligion>
-			<PrereqBuilding>BUILDING_APHOTIC_THRONE</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<ProductionTraits>
 				<ProductionTrait>
@@ -25611,6 +25610,7 @@
 			<bNeverObsolete>1</bNeverObsolete>
 			<iCombatDefense>3</iCombatDefense>
 			<iTier>3</iTier>
+			<PrereqBuildingClass>BUILDINGCLASS_APHOTIC_THRONE</PrereqBuildingClass>
 			<iWithdrawlProbDefensive>20</iWithdrawlProbDefensive>
 			<DamageTypeCombats>
 				<DamageTypeCombat>
@@ -26442,7 +26442,6 @@
 			<ReligionType>RELIGION_WHITE_HAND</ReligionType>
 			<StateReligion/>
 			<PrereqReligion>RELIGION_WHITE_HAND</PrereqReligion>
-			<PrereqBuilding>BUILDING_TEMPLE_OF_THE_HAND</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_ELEMENTALISM</PrereqTech>
@@ -26516,6 +26515,7 @@
 			<bNeverObsolete>1</bNeverObsolete>
 			<iCombatDefense>4</iCombatDefense>
 			<iTier>3</iTier>
+			<PrereqBuildingClass>BUILDINGCLASS_TEMPLE_OF_THE_HAND</PrereqBuildingClass>
 			<UpgradeCiv>CIVILIZATION_ILLIANS</UpgradeCiv>
 			<DamageTypeCombats>
 				<DamageTypeCombat>
@@ -26771,7 +26771,6 @@
 			</UnitClassUpgrades>
 			<ReligionType>RELIGION_STEWARDS_OF_INEQUITY</ReligionType>
 			<PrereqReligion>RELIGION_STEWARDS_OF_INEQUITY</PrereqReligion>
-			<PrereqBuilding>BUILDING_GAMBLING_HOUSE</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 			</TechTypes>
@@ -26825,6 +26824,7 @@
 			</FreePromotions>
 			<bFreeXP>1</bFreeXP>
 			<iCombatDefense>4</iCombatDefense>
+			<PrereqBuildingClass>BUILDINGCLASS_GAMBLING_HOUSE</PrereqBuildingClass>
 			<bNeverObsolete>1</bNeverObsolete>
 			<DamageTypeCombats>
 				<DamageTypeCombat>
@@ -27194,7 +27194,6 @@
 			</UnitAIs>
 			<ReligionType>RELIGION_SONS_OF_DISCORD</ReligionType>
 			<PrereqReligion>RELIGION_SONS_OF_DISCORD</PrereqReligion>
-			<PrereqBuilding>BUILDING_ARENA</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_WARFARE</PrereqTech>
@@ -27273,6 +27272,7 @@
 			<iCombatDefense>6</iCombatDefense>
 			<iEnslavementChance>20</iEnslavementChance>
 			<iTier>3</iTier>
+			<PrereqBuildingClass>BUILDINGCLASS_ARENA</PrereqBuildingClass>
 			<iWeaponTier>2</iWeaponTier>
 			<DamageTypeCombats>
 				<DamageTypeCombat>
@@ -28002,7 +28002,6 @@
 			<ReligionType>RELIGION_THE_ASHEN_VEIL</ReligionType>
 			<StateReligion/>
 			<PrereqReligion>RELIGION_THE_ASHEN_VEIL</PrereqReligion>
-			<PrereqBuilding>BUILDING_TEMPLE_OF_THE_VEIL</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_CORRUPTION_OF_SPIRIT</PrereqTech>
@@ -28076,6 +28075,7 @@
 			<iCombatDefense>3</iCombatDefense>
 			<iFreePromotionPick>1</iFreePromotionPick>
 			<iTier>3</iTier>
+			<PrereqBuildingClass>BUILDINGCLASS_TEMPLE_OF_THE_VEIL</PrereqBuildingClass>
 			<PrereqAlignment>ALIGNMENT_EVIL</PrereqAlignment>
 			<DamageTypeCombats>
 				<DamageTypeCombat>
@@ -28360,7 +28360,6 @@
 			</UnitAIs>
 			<ReligionType>RELIGION_EMBER_LEGION</ReligionType>
 			<PrereqReligion>RELIGION_EMBER_LEGION</PrereqReligion>
-			<PrereqBuilding>BUILDING_TOPHET</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_ELEMENTALISM</PrereqTech>
@@ -28430,6 +28429,7 @@
 			<iCombatDefense>4</iCombatDefense>
 			<iFreePromotionPick>1</iFreePromotionPick>
 			<iTier>3</iTier>
+			<PrereqBuildingClass>BUILDINGCLASS_TOPHET</PrereqBuildingClass>
 			<DamageTypeCombats>
 				<DamageTypeCombat>
 					<DamageType>DAMAGE_FIRE</DamageType>
