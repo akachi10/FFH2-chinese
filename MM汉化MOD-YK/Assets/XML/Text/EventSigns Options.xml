@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_EVENTSIGNS__ENABLED_TEXT</Tag>
+		<English>&#x4E8B;&#x4EF6;&#x6807;&#x724C;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E8B;&#x4EF6;&#x6807;&#x724C;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_EVENTSIGNS__ENABLED_HOVER</Tag>
+		<English>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x5728;&#x56E0;&#x968F;&#x673A;&#x4E8B;&#x4EF6;&#x800C;&#x4EA7;&#x51FA;&#x53D1;&#x751F;&#x53D8;&#x5316;&#x7684;&#x5730;&#x5757;&#x4E0A;&#x653E;&#x7F6E;&#x6807;&#x724C;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x5728;&#x56E0;&#x968F;&#x673A;&#x4E8B;&#x4EF6;&#x800C;&#x4EA7;&#x51FA;&#x53D1;&#x751F;&#x53D8;&#x5316;&#x7684;&#x5730;&#x5757;&#x4E0A;&#x653E;&#x7F6E;&#x6807;&#x724C;&#x3002;</Chinese>
+	</TEXT>
+</Civ4GameText>

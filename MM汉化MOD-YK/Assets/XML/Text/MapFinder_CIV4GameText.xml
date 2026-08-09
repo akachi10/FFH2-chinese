@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_REQUIRES_BULL</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]MapFinder &#x9700;&#x8981; BULL &#x624D;&#x80FD;&#x8FD0;&#x884C;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_NEGATIVE_TEXT]MapFinder &#x9700;&#x8981; BULL &#x624D;&#x80FD;&#x8FD0;&#x884C;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_CANNOT_REGENERATE</Tag>
+		<English>[COLOR_WARNING_TEXT]MapFinder &#x65E0;&#x6CD5;&#x91CD;&#x65B0;&#x751F;&#x6210;&#x5730;&#x56FE;[COLOR_REVERT][NEWLINE]&#x9000;&#x51FA;&#x5230;&#x4E3B;&#x83DC;&#x5355;&#xFF0C;&#x5F00;&#x59CB;&#x4E00;&#x5C40;&#x65B0;&#x6E38;&#x620F;&#xFF0C;&#x7136;&#x540E;&#x91CD;&#x8BD5;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]MapFinder &#x65E0;&#x6CD5;&#x91CD;&#x65B0;&#x751F;&#x6210;&#x5730;&#x56FE;[COLOR_REVERT][NEWLINE]&#x9000;&#x51FA;&#x5230;&#x4E3B;&#x83DC;&#x5355;&#xFF0C;&#x5F00;&#x59CB;&#x4E00;&#x5C40;&#x65B0;&#x6E38;&#x620F;&#xFF0C;&#x7136;&#x540E;&#x91CD;&#x8BD5;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_REGENERATE_FAILED</Tag>
+		<English>[COLOR_WARNING_TEXT]MapFinder &#x672A;&#x80FD;&#x91CD;&#x65B0;&#x751F;&#x6210;&#x5730;&#x56FE;[COLOR_REVERT][NEWLINE]&#x9000;&#x51FA;&#x5230;&#x4E3B;&#x83DC;&#x5355;&#xFF0C;&#x5F00;&#x59CB;&#x4E00;&#x5C40;&#x65B0;&#x6E38;&#x620F;&#xFF0C;&#x7136;&#x540E;&#x91CD;&#x8BD5;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]MapFinder &#x672A;&#x80FD;&#x91CD;&#x65B0;&#x751F;&#x6210;&#x5730;&#x56FE;[COLOR_REVERT][NEWLINE]&#x9000;&#x51FA;&#x5230;&#x4E3B;&#x83DC;&#x5355;&#xFF0C;&#x5F00;&#x59CB;&#x4E00;&#x5C40;&#x65B0;&#x6E38;&#x620F;&#xFF0C;&#x7136;&#x540E;&#x91CD;&#x8BD5;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_INVALID_PATH</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]MapFinder &#x8DEF;&#x5F84;&#x65E0;&#x6548;&#xFF1A;%s1[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_NEGATIVE_TEXT]MapFinder &#x8DEF;&#x5F84;&#x65E0;&#x6548;&#xFF1A;%s1[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_INVALID_SYSTEM_FILE</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]&#x672A;&#x627E;&#x5230; MapFinder &#x7CFB;&#x7EDF;&#x6587;&#x4EF6;&#xFF1A;%s1[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_NEGATIVE_TEXT]&#x672A;&#x627E;&#x5230; MapFinder &#x7CFB;&#x7EDF;&#x6587;&#x4EF6;&#xFF1A;%s1[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_INVALID_RULE_FILE</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]&#x672A;&#x627E;&#x5230; MapFinder &#x89C4;&#x5219;&#x6587;&#x4EF6;&#xFF1A;%s1[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_NEGATIVE_TEXT]&#x672A;&#x627E;&#x5230; MapFinder &#x89C4;&#x5219;&#x6587;&#x4EF6;&#xFF1A;%s1[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_INVALID_SAVE_PATH</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]MapFinder &#x4FDD;&#x5B58;&#x6587;&#x4EF6;&#x8DEF;&#x5F84;&#x65E0;&#x6548;&#xFF1A;%s1[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_NEGATIVE_TEXT]MapFinder &#x4FDD;&#x5B58;&#x6587;&#x4EF6;&#x8DEF;&#x5F84;&#x65E0;&#x6548;&#xFF1A;%s1[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_SCREEN_TITLE</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]MapFinder[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_HIGHLIGHT_TEXT]MapFinder[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_TOTAL_MAPS</Tag>
+		<English>&#x5730;&#x56FE;&#x6570;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5730;&#x56FE;&#x6570;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_TOTAL_SAVES</Tag>
+		<English>&#x4FDD;&#x5B58;&#x6570;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4FDD;&#x5B58;&#x6570;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_STOP_SHORTCUT</Tag>
+		<English>ALT + CTRL + SHIFT + G &#x505C;&#x6B62;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>ALT + CTRL + SHIFT + G &#x505C;&#x6B62;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_REGNERATING</Tag>
+		<English>&#x6B63;&#x5728;&#x91CD;&#x65B0;&#x751F;&#x6210;&#x5730;&#x56FE;&#x2026;&#x2026;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6B63;&#x5728;&#x91CD;&#x65B0;&#x751F;&#x6210;&#x5730;&#x56FE;&#x2026;&#x2026;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_SAVING</Tag>
+		<English>&#x6B63;&#x5728;&#x4FDD;&#x5B58;&#x6E38;&#x620F;&#x2026;&#x2026;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6B63;&#x5728;&#x4FDD;&#x5B58;&#x6E38;&#x620F;&#x2026;&#x2026;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_ALREADY_RUNNING</Tag>
+		<English>[COLOR_WARNING_TEXT]MapFinder &#x5DF2;&#x5728;&#x8FD0;&#x884C;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]MapFinder &#x5DF2;&#x5728;&#x8FD0;&#x884C;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_NOT_RUNNING</Tag>
+		<English>[COLOR_WARNING_TEXT]MapFinder &#x672A;&#x5728;&#x8FD0;&#x884C;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]MapFinder &#x672A;&#x5728;&#x8FD0;&#x884C;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAPFINDER_STOPPED</Tag>
+		<English>MapFinder &#x5DF2;&#x505C;&#x6B62;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>MapFinder &#x5DF2;&#x505C;&#x6B62;</Chinese>
+	</TEXT>
+</Civ4GameText>

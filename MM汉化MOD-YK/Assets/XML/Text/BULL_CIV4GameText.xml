@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CITY_BAR_CTRL_BASE_VALUES</Tag>
+		<English>[NEWLINE]&#x6309;&#x4F4F; &amp;lt;CTRL&amp;gt; &#x67E5;&#x770B;&#x57FA;&#x7840;&#x6570;&#x503C;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE]&#x6309;&#x4F4F; &amp;lt;CTRL&amp;gt; &#x67E5;&#x770B;&#x57FA;&#x7840;&#x6570;&#x503C;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_BAR_FOOD_GROW</Tag>
+		<English>[NEWLINE]%d1 [ICON_FOOD]/&#x56DE;&#x5408;[NEWLINE]&#x589E;&#x957F;&#xFF1A;%d2/%d3 [ICON_FOOD]&#xFF08;%d4 [NUM4:Turn:Turns]&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE]%d1 [ICON_FOOD]/&#x56DE;&#x5408;[NEWLINE]&#x589E;&#x957F;&#xFF1A;%d2/%d3 [ICON_FOOD]&#xFF08;%d4 [NUM4:Turn:Turns]&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_BAR_FOOD_STAGNATE</Tag>
+		<English>[NEWLINE]&#x505C;&#x6EDE;&#xFF1A;%d1/%d2 [ICON_FOOD]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE]&#x505C;&#x6EDE;&#xFF1A;%d1/%d2 [ICON_FOOD]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_BAR_FOOD_SHRINK</Tag>
+		<English>[NEWLINE]%d1 [ICON_BAD_FOOD]/&#x56DE;&#x5408;[NEWLINE][COLOR_YELLOW]&#x7F29;&#x51CF;&#xFF1A;%d2/%d3 [ICON_FOOD]&#xFF08;%d4 [NUM4:Turn:Turns]&#xFF09;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE]%d1 [ICON_BAD_FOOD]/&#x56DE;&#x5408;[NEWLINE][COLOR_YELLOW]&#x7F29;&#x51CF;&#xFF1A;%d2/%d3 [ICON_FOOD]&#xFF08;%d4 [NUM4:Turn:Turns]&#xFF09;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_BAR_FOOD_STARVE</Tag>
+		<English>[NEWLINE]%d1 [ICON_BAD_FOOD]/&#x56DE;&#x5408;[NEWLINE][COLOR_WARNING_TEXT]&#x9965;&#x8352;&#xFF1A;%d2/%d3 [ICON_FOOD][COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE]%d1 [ICON_BAD_FOOD]/&#x56DE;&#x5408;[NEWLINE][COLOR_WARNING_TEXT]&#x9965;&#x8352;&#xFF1A;%d2/%d3 [ICON_FOOD][COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_BAR_HAMMER_PRODUCTION_WITH_BASE</Tag>
+		<English>[NEWLINE]%d1 [ICON_PRODUCTION]/&#x56DE;&#x5408;&#xFF08;%d6 [ICON_PRODUCTION]/&#x56DE;&#x5408;&#xFF09;[NEWLINE]%s2&#xFF1A;%d3/%d4 [ICON_PRODUCTION]&#xFF08;%d5 [NUM5:Turn:Turns]&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE]%d1 [ICON_PRODUCTION]/&#x56DE;&#x5408;&#xFF08;%d6 [ICON_PRODUCTION]/&#x56DE;&#x5408;&#xFF09;[NEWLINE]%s2&#xFF1A;%d3/%d4 [ICON_PRODUCTION]&#xFF08;%d5 [NUM5:Turn:Turns]&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_BAR_FOOD_HAMMER_PRODUCTION_WITH_BASE</Tag>
+		<English>[NEWLINE]%d1 [ICON_FOOD] + %d2 [ICON_PRODUCTION]/&#x56DE;&#x5408;&#xFF08;%d7 [ICON_PRODUCTION]/&#x56DE;&#x5408;&#xFF09;[NEWLINE]%s3&#xFF1A;%d4/%d5 [ICON_PRODUCTION]&#xFF08;%d6 [NUM6:Turn:Turns]&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE]%d1 [ICON_FOOD] + %d2 [ICON_PRODUCTION]/&#x56DE;&#x5408;&#xFF08;%d7 [ICON_PRODUCTION]/&#x56DE;&#x5408;&#xFF09;[NEWLINE]%s3&#xFF1A;%d4/%d5 [ICON_PRODUCTION]&#xFF08;%d6 [NUM6:Turn:Turns]&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_BAR_BASE_PRODUCTION</Tag>
+		<English>[NEWLINE]%d1 [ICON_PRODUCTION]/&#x56DE;&#x5408;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE]%d1 [ICON_PRODUCTION]/&#x56DE;&#x5408;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_BAR_BASE_PRODUCTION_WITH_OVERFLOW</Tag>
+		<English>[NEWLINE]%d1 [ICON_PRODUCTION]&#xFF08;%d2 [ICON_PRODUCTION]/&#x56DE;&#x5408;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE]%d1 [ICON_PRODUCTION]&#xFF08;%d2 [ICON_PRODUCTION]/&#x56DE;&#x5408;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_BAR_CULTURE_NO_LEVEL</Tag>
+		<English>[NEWLINE][ICON_CULTURE]: %d1/%d2</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][ICON_CULTURE]: %d1/%d2</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_FINANCIAL_ADVISOR_DOMESTIC_TRADE</Tag>
+		<English>&#x56FD;&#x5185;&#x8D38;&#x6613;&#x8DEF;&#x7EBF;&#x5E26;&#x6765;&#x7684;&#x603B;&#x5546;&#x4E1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x56FD;&#x5185;&#x8D38;&#x6613;&#x8DEF;&#x7EBF;&#x5E26;&#x6765;&#x7684;&#x603B;&#x5546;&#x4E1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_FINANCIAL_ADVISOR_FOREIGN_TRADE</Tag>
+		<English>&#x5BF9;&#x5916;&#x8D38;&#x6613;&#x8DEF;&#x7EBF;&#x5E26;&#x6765;&#x7684;&#x603B;&#x5546;&#x4E1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5BF9;&#x5916;&#x8D38;&#x6613;&#x8DEF;&#x7EBF;&#x5E26;&#x6765;&#x7684;&#x603B;&#x5546;&#x4E1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_FINANCIAL_ADVISOR_SPECIALISTS</Tag>
+		<English>&#x4E13;&#x5BB6;&#x5E26;&#x6765;&#x7684;&#x603B;&#x91D1;&#x94B1;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E13;&#x5BB6;&#x5E26;&#x6765;&#x7684;&#x603B;&#x91D1;&#x94B1;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_FINANCIAL_ADVISOR_SPECIALIST_GOLD</Tag>
+		<English>[NEWLINE]%d1[ICON_GOLD]: %s3 (%d2)</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE]%d1[ICON_GOLD]: %s3 (%d2)</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_FINANCIAL_ADVISOR_SPECIALIST_TOTAL_GOLD</Tag>
+		<English>[NEWLINE]------------------------[NEWLINE]&#x4E13;&#x5BB6;&#x603B;&#x8BA1;&#xFF1A;%d1[ICON_GOLD]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE]------------------------[NEWLINE]&#x4E13;&#x5BB6;&#x603B;&#x8BA1;&#xFF1A;%d1[ICON_GOLD]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_YEAR_BUILT</Tag>
+		<English>&#x5EFA;&#x4E8E;&#x7B2C; %d1 &#x56DE;&#x5408;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5EFA;&#x4E8E;&#x7B2C; %d1 &#x56DE;&#x5408;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_DOUBLE_COMMERCE_NEXT_YEAR</Tag>
+		<English>[ICON_BULLET]&#x4E0B;&#x56DE;&#x5408; %s1_commerce_type &#x7FFB;&#x500D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x4E0B;&#x56DE;&#x5408; %s1_commerce_type &#x7FFB;&#x500D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_DOUBLE_COMMERCE_YEARS</Tag>
+		<English>[ICON_BULLET]%d2 &#x56DE;&#x5408;&#x540E; %s1_commerce_type &#x7FFB;&#x500D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]%d2 &#x56DE;&#x5408;&#x540E; %s1_commerce_type &#x7FFB;&#x500D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PRODUCTION_DECAY</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]&#x672C;&#x56DE;&#x5408;&#x5C06;&#x635F;&#x5931; %d1[ICON_PRODUCTION][COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_NEGATIVE_TEXT]&#x672C;&#x56DE;&#x5408;&#x5C06;&#x635F;&#x5931; %d1[ICON_PRODUCTION][COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PRODUCTION_DECAY_PRODUCING</Tag>
+		<English>[COLOR_WARNING_TEXT]&#x672C;&#x56DE;&#x5408;&#x82E5;&#x4E0D;&#x751F;&#x4EA7;&#xFF0C;&#x5C06;&#x635F;&#x5931; %d1[ICON_PRODUCTION][COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]&#x672C;&#x56DE;&#x5408;&#x82E5;&#x4E0D;&#x751F;&#x4EA7;&#xFF0C;&#x5C06;&#x635F;&#x5931; %d1[ICON_PRODUCTION][COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PRODUCTION_DECAY_PRODUCING_PRODUCTION_DISABLED</Tag>
+		<English>[COLOR_WARNING_TEXT]&#x751F;&#x4EA7;&#x6062;&#x590D;&#x540E;&#x82E5;&#x4E0D;&#x7ACB;&#x5373;&#x751F;&#x4EA7;&#xFF0C;&#x5C06;&#x635F;&#x5931; %d1[ICON_PRODUCTION][COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]&#x751F;&#x4EA7;&#x6062;&#x590D;&#x540E;&#x82E5;&#x4E0D;&#x7ACB;&#x5373;&#x751F;&#x4EA7;&#xFF0C;&#x5C06;&#x635F;&#x5931; %d1[ICON_PRODUCTION][COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PRODUCTION_DECAY_TURNS</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]&#x5C06;&#x5728; %d2 [NUM2:turn:turns]&#x5185;&#x635F;&#x5931; %d1[ICON_PRODUCTION][COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_NEGATIVE_TEXT]&#x5C06;&#x5728; %d2 [NUM2:turn:turns]&#x5185;&#x635F;&#x5931; %d1[ICON_PRODUCTION][COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PRODUCTION_DECAY_TURNS_PRODUCING</Tag>
+		<English>[COLOR_WARNING_TEXT]&#x82E5;&#x8FDE;&#x7EED; %d2 [NUM2:turn:turns]&#x4E0D;&#x751F;&#x4EA7;&#xFF0C;&#x5C06;&#x635F;&#x5931; %d1[ICON_PRODUCTION][COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]&#x82E5;&#x8FDE;&#x7EED; %d2 [NUM2:turn:turns]&#x4E0D;&#x751F;&#x4EA7;&#xFF0C;&#x5C06;&#x635F;&#x5931; %d1[ICON_PRODUCTION][COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PRODUCTION_DECAY_TURNS_PRODUCING_PRODUCTION_DISABLED</Tag>
+		<English>[COLOR_WARNING_TEXT]&#x751F;&#x4EA7;&#x6062;&#x590D;&#x540E;&#x82E5;&#x8FDE;&#x7EED; %d2 [NUM2:turn:turns]&#x4E0D;&#x751F;&#x4EA7;&#xFF0C;&#x5C06;&#x635F;&#x5931; %d1[ICON_PRODUCTION][COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]&#x751F;&#x4EA7;&#x6062;&#x590D;&#x540E;&#x82E5;&#x8FDE;&#x7EED; %d2 [NUM2:turn:turns]&#x4E0D;&#x751F;&#x4EA7;&#xFF0C;&#x5C06;&#x635F;&#x5931; %d1[ICON_PRODUCTION][COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AT_WAR_WITH</Tag>
+		<English>[ICON_BULLET][COLOR_YELLOW]&#x4E0E; %s1_player &#x4EA4;&#x6218;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_YELLOW]&#x4E0E; %s1_player &#x4EA4;&#x6218;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AT_WAR_WITH_YOU</Tag>
+		<English>[ICON_BULLET][COLOR_YELLOW]&#x4F60;&#x6B63;&#x5904;&#x4E8E;&#x4EA4;&#x6218;&#x72B6;&#x6001;&#xFF01;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_YELLOW]&#x4F60;&#x6B63;&#x5904;&#x4E8E;&#x4EA4;&#x6218;&#x72B6;&#x6001;&#xFF01;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEACE_TREATY_WITH</Tag>
+		<English>[ICON_BULLET][COLOR_CYAN]&#x4E0E; %s1_player &#x7B7E;&#x6709;&#x548C;&#x5E73;&#x6761;&#x7EA6;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_CYAN]&#x4E0E; %s1_player &#x7B7E;&#x6709;&#x548C;&#x5E73;&#x6761;&#x7EA6;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEACE_TREATY_WITH_YOU</Tag>
+		<English>[ICON_BULLET][COLOR_CYAN]&#x4F60;&#x7B7E;&#x6709;&#x4E00;&#x4EFD;&#x548C;&#x5E73;&#x6761;&#x7EA6;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_CYAN]&#x4F60;&#x7B7E;&#x6709;&#x4E00;&#x4EFD;&#x548C;&#x5E73;&#x6761;&#x7EA6;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WORST_ENEMY_OF</Tag>
+		<English>[ICON_BULLET][COLOR_YELLOW]%s1_player &#x7684;&#x5934;&#x53F7;&#x654C;&#x4EBA;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_YELLOW]%s1_player &#x7684;&#x5934;&#x53F7;&#x654C;&#x4EBA;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WORST_ENEMY_IS</Tag>
+		<English>[ICON_BULLET][COLOR_YELLOW]%s1_player &#x662F;&#x5934;&#x53F7;&#x654C;&#x4EBA;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_YELLOW]%s1_player &#x662F;&#x5934;&#x53F7;&#x654C;&#x4EBA;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WORST_ENEMY_IS_YOU</Tag>
+		<English>[ICON_BULLET][COLOR_YELLOW]&#x4F60;&#x662F;&#x5934;&#x53F7;&#x654C;&#x4EBA;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_YELLOW]&#x4F60;&#x662F;&#x5934;&#x53F7;&#x654C;&#x4EBA;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSIVE_PACT_WITH</Tag>
+		<English>[ICON_BULLET][COLOR_BLUE]&#x4E0E; %s1_player &#x7B7E;&#x6709;&#x9632;&#x5FA1;&#x534F;&#x5B9A;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_BLUE]&#x4E0E; %s1_player &#x7B7E;&#x6709;&#x9632;&#x5FA1;&#x534F;&#x5B9A;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSIVE_PACT_WITH_YOU</Tag>
+		<English>[ICON_BULLET][COLOR_BLUE]&#x4F60;&#x7B7E;&#x6709;&#x4E00;&#x4EFD;&#x9632;&#x5FA1;&#x534F;&#x5B9A;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_BLUE]&#x4F60;&#x7B7E;&#x6709;&#x4E00;&#x4EFD;&#x9632;&#x5FA1;&#x534F;&#x5B9A;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WARPLAN_TARGET_IS</Tag>
+		<English>[ICON_BULLET][COLOR_CYAN]&#x9488;&#x5BF9; %s1_player &#x7684;&#x4F5C;&#x6218;&#x8BA1;&#x5212;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_CYAN]&#x9488;&#x5BF9; %s1_player &#x7684;&#x4F5C;&#x6218;&#x8BA1;&#x5212;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WARPLAN_TARGET_IS_YOU</Tag>
+		<English>[ICON_BULLET][COLOR_CYAN]&#x4F60;&#x662F;&#x4F5C;&#x6218;&#x76EE;&#x6807;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_CYAN]&#x4F60;&#x662F;&#x4F5C;&#x6218;&#x76EE;&#x6807;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WARPLAN_LIMITED_TARGET_IS</Tag>
+		<English>[ICON_BULLET][COLOR_CYAN]&#x9488;&#x5BF9; %s1_player &#x7684;&#x6709;&#x9650;&#x4F5C;&#x6218;&#x8BA1;&#x5212;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_CYAN]&#x9488;&#x5BF9; %s1_player &#x7684;&#x6709;&#x9650;&#x4F5C;&#x6218;&#x8BA1;&#x5212;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WARPLAN_LIMITED_TARGET_IS_YOU</Tag>
+		<English>[ICON_BULLET][COLOR_CYAN]&#x4F60;&#x662F;&#x6709;&#x9650;&#x4F5C;&#x6218;&#x76EE;&#x6807;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_CYAN]&#x4F60;&#x662F;&#x6709;&#x9650;&#x4F5C;&#x6218;&#x76EE;&#x6807;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WARPLAN_TARGET_OF_YOU</Tag>
+		<English>[ICON_BULLET][COLOR_CYAN]&#x4F60;&#x6B63;&#x5728;&#x5907;&#x6218;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_CYAN]&#x4F60;&#x6B63;&#x5728;&#x5907;&#x6218;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_SPEEDS_UP</Tag>
+		<English>[NEWLINE][ICON_BULLET]&#x52A0;&#x901F;[SPACE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][ICON_BULLET]&#x52A0;&#x901F;[SPACE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_SPED_UP_BY</Tag>
+		<English>[NEWLINE][ICON_BULLET]&#x88AB;&#x52A0;&#x901F;&#xFF0C;&#x6765;&#x6E90;[SPACE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][ICON_BULLET]&#x88AB;&#x52A0;&#x901F;&#xFF0C;&#x6765;&#x6E90;[SPACE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTUAL_EFFECTS</Tag>
+		<English>&#x5B9E;&#x9645;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5B9E;&#x9645;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_SET_RATE</Tag>
+		<English>&#x5C06; %s1_CmrcType &#x6BD4;&#x7387;&#x8BBE;&#x4E3A; %d2_Value%%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C06; %s1_CmrcType &#x6BD4;&#x7387;&#x8BBE;&#x4E3A; %d2_Value%%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LATLONG</Tag>
+		<English>%d1&#xB0;%d2'[SPACE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%d1&#xB0;%d2'[SPACE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LATLONG_NORTH</Tag>
+		<English>&#x5317;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5317;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LATLONG_EAST</Tag>
+		<English>&#x4E1C;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E1C;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LATLONG_SOUTH</Tag>
+		<English>&#x5357;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5357;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LATLONG_WEST</Tag>
+		<English>&#x897F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x897F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_WORKED_TILES_YIELD</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA;&#x5DE5;&#x4F5C;&#x5730;&#x5757;&#x7684; %D1%F2</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA;&#x5DE5;&#x4F5C;&#x5730;&#x5757;&#x7684; %D1%F2</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_TOTAL_YIELD</Tag>
+		<English>-----------------------[NEWLINE]%s1_yield_type &#x603B;&#x8BA1;&#xFF1A;%d2%F3</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>-----------------------[NEWLINE]%s1_yield_type &#x603B;&#x8BA1;&#xFF1A;%d2%F3</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_EATEN_FOOD</Tag>
+		<English>[ICON_BULLET]%D1[ICON_EATENFOOD] &#x4F9B;&#x517B;&#x4EBA;&#x53E3;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]%D1[ICON_EATENFOOD] &#x4F9B;&#x517B;&#x4EBA;&#x53E3;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_SPOILED_FOOD</Tag>
+		<English>[ICON_BULLET]%D1[ICON_EATENFOOD] &#x7528;&#x4E8E;&#x5065;&#x5EB7;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]%D1[ICON_EATENFOOD] &#x7528;&#x4E8E;&#x5065;&#x5EB7;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_BASE_FOOD_PRODUCED</Tag>
+		<English>-----------------------[NEWLINE]&#x57FA;&#x7840;&#x98DF;&#x7269;&#x4EA7;&#x51FA;&#xFF1A;%d1[ICON_FOOD]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>-----------------------[NEWLINE]&#x57FA;&#x7840;&#x98DF;&#x7269;&#x4EA7;&#x51FA;&#xFF1A;%d1[ICON_FOOD]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_TOTAL_FOOD_PRODUCED</Tag>
+		<English>-----------------------[NEWLINE]&#x98DF;&#x7269;&#x603B;&#x4EA7;&#x51FA;&#xFF1A;%d1[ICON_FOOD]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>-----------------------[NEWLINE]&#x98DF;&#x7269;&#x603B;&#x4EA7;&#x51FA;&#xFF1A;%d1[ICON_FOOD]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_TOTAL_FOOD_CONSUMED</Tag>
+		<English>-----------------------[NEWLINE]&#x98DF;&#x7269;&#x603B;&#x6D88;&#x8017;&#xFF1A;%d1[ICON_EATENFOOD]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>-----------------------[NEWLINE]&#x98DF;&#x7269;&#x603B;&#x6D88;&#x8017;&#xFF1A;%d1[ICON_EATENFOOD]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_NET_FOOD_GROW</Tag>
+		<English>&#x51C0;&#x98DF;&#x7269;&#xFF1A;%D1[ICON_FOOD]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x51C0;&#x98DF;&#x7269;&#xFF1A;%D1[ICON_FOOD]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_NET_FOOD_SHRINK</Tag>
+		<English>&#x51C0;&#x98DF;&#x7269;&#xFF1A;[COLOR_NEGATIVE_TEXT]%D1[COLOR_REVERT][ICON_BAD_FOOD]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x51C0;&#x98DF;&#x7269;&#xFF1A;[COLOR_NEGATIVE_TEXT]%D1[COLOR_REVERT][ICON_BAD_FOOD]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_NET_FOOD_STAGNATE</Tag>
+		<English>&#x51C0;&#x98DF;&#x7269;&#xFF1A;+0[ICON_FOOD]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x51C0;&#x98DF;&#x7269;&#xFF1A;+0[ICON_FOOD]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_NET_FOOD_PRODUCTION</Tag>
+		<English>&#x51C0;&#x98DF;&#x7269;&#xFF1A;%D1[ICON_FOOD] &#x7528;&#x4E8E; %s2_production_type</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x51C0;&#x98DF;&#x7269;&#xFF1A;%D1[ICON_FOOD] &#x7528;&#x4E8E; %s2_production_type</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_COMMERCE_SUBTOTAL_YIELD_FLOAT</Tag>
+		<English>-----------------------[NEWLINE]&#x57FA;&#x7840; %s1_commerce_type&#xFF1A;%s2%F3</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>-----------------------[NEWLINE]&#x57FA;&#x7840; %s1_commerce_type&#xFF1A;%s2%F3</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_SLIDER_PERCENT_FLOAT</Tag>
+		<English>-----------------------[NEWLINE]%d2[ICON_COMMERCE] &#x7684; %d1%% = %s3%F4</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>-----------------------[NEWLINE]%d2[ICON_COMMERCE] &#x7684; %d1%% = %s3%F4</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_COMMERCE_FINAL_YIELD_FLOAT</Tag>
+		<English>-----------------------[NEWLINE]%s1_commerce_type &#x603B;&#x8BA1;&#xFF1A;%s2%F3</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>-----------------------[NEWLINE]%s1_commerce_type &#x603B;&#x8BA1;&#xFF1A;%s2%F3</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_BUILDING_DEFENSE</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA;&#x5EFA;&#x7B51;&#x7684; %D1%%[ICON_DEFENSE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA;&#x5EFA;&#x7B51;&#x7684; %D1%%[ICON_DEFENSE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_CULTURE_DEFENSE</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA;&#x6587;&#x5316;&#x7684; %D1%%[ICON_DEFENSE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA;&#x6587;&#x5316;&#x7684; %D1%%[ICON_DEFENSE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_CULTURE_DEFENSE_PARTIAL</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA;&#x6587;&#x5316;&#x7684; %D1%%[ICON_DEFENSE]&#xFF08;%d2%%&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA;&#x6587;&#x5316;&#x7684; %D1%%[ICON_DEFENSE]&#xFF08;%d2%%&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_WONDER_DEFENSE</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA;&#x5947;&#x8FF9;&#x7684; %D1%%[ICON_DEFENSE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA;&#x5947;&#x8FF9;&#x7684; %D1%%[ICON_DEFENSE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_TOTAL_DEFENSE</Tag>
+		<English>&#x603B;&#x9632;&#x5FA1;&#xFF1A;%D1%%[ICON_DEFENSE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x603B;&#x9632;&#x5FA1;&#xFF1A;%D1%%[ICON_DEFENSE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_DEFENSE_DAMAGE</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA;&#x8F70;&#x51FB;&#x7684; %D1%%[ICON_DEFENSE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA;&#x8F70;&#x51FB;&#x7684; %D1%%[ICON_DEFENSE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_NET_DEFENSE</Tag>
+		<English>&#x51C0;&#x9632;&#x5FA1;&#xFF1A;%D1%%[ICON_DEFENSE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x51C0;&#x9632;&#x5FA1;&#xFF1A;%D1%%[ICON_DEFENSE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_TOTAL_BOMBARD_DEFENSE</Tag>
+		<English>&#x603B;&#x8F70;&#x51FB;&#x9632;&#x5FA1;&#xFF1A;%d1%%[ICON_DEFENSE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x603B;&#x8F70;&#x51FB;&#x9632;&#x5FA1;&#xFF1A;%d1%%[ICON_DEFENSE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HURRY_OVERFLOW</Tag>
+		<English>[ICON_BULLET]%s1 &#x6EA2;&#x51FA;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]%s1 &#x6EA2;&#x51FA;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_TRADE_HEADING</Tag>
+		<English>&#x8D38;&#x6613;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8D38;&#x6613;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_DOMESTIC_TRADE_HEADING</Tag>
+		<English>&#x56FD;&#x5185;&#x8D38;&#x6613;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x56FD;&#x5185;&#x8D38;&#x6613;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_FOREIGN_TRADE_HEADING</Tag>
+		<English>&#x4E0E; %s2_CivName &#x7684; %s1_PlyrName &#x901A;&#x5546;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E0E; %s2_CivName &#x7684; %s1_PlyrName &#x901A;&#x5546;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_CANNOT_TRADE_HEADING</Tag>
+		<English>&#x65E0;&#x6CD5;&#x4E0E; %s2_CivName &#x7684; %s1_PlyrName &#x901A;&#x5546;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;&#x6CD5;&#x4E0E; %s2_CivName &#x7684; %s1_PlyrName &#x901A;&#x5546;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_TOTAL_TRADE_YIELD</Tag>
+		<English>[NEWLINE]&#x603B;&#x4EA7;&#x51FA;&#xFF1A;%s1[ICON_COMMERCE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE]&#x603B;&#x4EA7;&#x51FA;&#xFF1A;%s1[ICON_COMMERCE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_TOTAL_TRADE_ROUTES</Tag>
+		<English>[NEWLINE]&#x8DEF;&#x7EBF;&#x6570;&#x91CF;&#xFF1A;%d1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE]&#x8DEF;&#x7EBF;&#x6570;&#x91CF;&#xFF1A;%d1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_AVERAGE_TRADE_YIELD</Tag>
+		<English>[NEWLINE]&#x5E73;&#x5747;&#x4EA7;&#x51FA;&#xFF1A;%s1[ICON_COMMERCE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE]&#x5E73;&#x5747;&#x4EA7;&#x51FA;&#xFF1A;%s1[ICON_COMMERCE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_CANNOT_TRADE_DEAD</Tag>
+		<English>[NEWLINE][ICON_BULLET]&#x4ED6;&#x4EEC;&#x5DF2;&#x706D;&#x4EA1;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][ICON_BULLET]&#x4ED6;&#x4EEC;&#x5DF2;&#x706D;&#x4EA1;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_CANNOT_TRADE_NETWORK_NOT_CONNECTED</Tag>
+		<English>[NEWLINE][ICON_BULLET]&#x4F60;&#x4EEC;&#x7684;&#x8D38;&#x6613;&#x7F51;&#x7EDC;&#x672A;&#x8FDE;&#x901A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][ICON_BULLET]&#x4F60;&#x4EEC;&#x7684;&#x8D38;&#x6613;&#x7F51;&#x7EDC;&#x672A;&#x8FDE;&#x901A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_CANNOT_TRADE_CLOSED_BORDERS</Tag>
+		<English>[NEWLINE][ICON_BULLET]&#x4F60;&#x5C1A;&#x672A;&#x7B7E;&#x8BA2;&#x5F00;&#x653E;&#x8FB9;&#x754C;&#x534F;&#x8BAE;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][ICON_BULLET]&#x4F60;&#x5C1A;&#x672A;&#x7B7E;&#x8BA2;&#x5F00;&#x653E;&#x8FB9;&#x754C;&#x534F;&#x8BAE;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_CANNOT_TRADE_FOREIGN_YOU</Tag>
+		<English>[NEWLINE][ICON_BULLET]&#x4F60;&#x7684;&#x653F;&#x7B56;&#x4E0D;&#x5141;&#x8BB8;&#x5BF9;&#x5916;&#x8D38;&#x6613;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][ICON_BULLET]&#x4F60;&#x7684;&#x653F;&#x7B56;&#x4E0D;&#x5141;&#x8BB8;&#x5BF9;&#x5916;&#x8D38;&#x6613;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_CANNOT_TRADE_FOREIGN_THEM</Tag>
+		<English>[NEWLINE][ICON_BULLET]&#x4ED6;&#x4EEC;&#x7684;&#x653F;&#x7B56;&#x4E0D;&#x5141;&#x8BB8;&#x5BF9;&#x5916;&#x8D38;&#x6613;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][ICON_BULLET]&#x4ED6;&#x4EEC;&#x7684;&#x653F;&#x7B56;&#x4E0D;&#x5141;&#x8BB8;&#x5BF9;&#x5916;&#x8D38;&#x6613;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_EXPERIENCE</Tag>
+		<English>%d1 &#x7ECF;&#x9A8C;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%d1 &#x7ECF;&#x9A8C;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_PROMOTIONS</Tag>
+		<English>%d1[ICON_STAR]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%d1[ICON_STAR]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_FREE_EXPERIENCE</Tag>
+		<English>[ICON_BULLET][COLOR_POSITIVE_TEXT]&#x6765;&#x81EA;&#x57CE;&#x5E02;&#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_POSITIVE_TEXT]&#x6765;&#x81EA;&#x57CE;&#x5E02;&#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_UNITCOMBAT_FREE_EXPERIENCE</Tag>
+		<English>[ICON_BULLET][COLOR_POSITIVE_TEXT]&#x57CE;&#x5E02;&#x4E3A; %s2_UnitCombatName &#x63D0;&#x4F9B;&#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_POSITIVE_TEXT]&#x57CE;&#x5E02;&#x4E3A; %s2_UnitCombatName &#x63D0;&#x4F9B;&#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLAYER_FREE_EXPERIENCE</Tag>
+		<English>[ICON_BULLET][COLOR_POSITIVE_TEXT]&#x6765;&#x81EA;&#x5947;&#x8FF9;&#x4E0E;&#x653F;&#x7B56;&#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_POSITIVE_TEXT]&#x6765;&#x81EA;&#x5947;&#x8FF9;&#x4E0E;&#x653F;&#x7B56;&#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_FREE_EXPERIENCE</Tag>
+		<English>[ICON_BULLET][COLOR_POSITIVE_TEXT]&#x6765;&#x81EA;&#x4E13;&#x5BB6;&#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_POSITIVE_TEXT]&#x6765;&#x81EA;&#x4E13;&#x5BB6;&#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FREE_EXPERIENCE</Tag>
+		<English>[ICON_BULLET][COLOR_POSITIVE_TEXT]&#x6765;&#x81EA; %s2_building &#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_POSITIVE_TEXT]&#x6765;&#x81EA; %s2_building &#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NO_BUILDING_FREE_EXPERIENCE</Tag>
+		<English>[ICON_BULLET][COLOR_NEGATIVE_TEXT]&#x62E5;&#x6709; %s2_building &#x65F6;&#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_NEGATIVE_TEXT]&#x62E5;&#x6709; %s2_building &#x65F6;&#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STATE_RELIGION_FREE_EXPERIENCE</Tag>
+		<English>[ICON_BULLET][COLOR_POSITIVE_TEXT]&#x6765;&#x81EA;&#x56FD;&#x6559;&#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_POSITIVE_TEXT]&#x6765;&#x81EA;&#x56FD;&#x6559;&#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NO_STATE_RELIGION_FREE_EXPERIENCE</Tag>
+		<English>[ICON_BULLET][COLOR_NEGATIVE_TEXT]&#x62E5;&#x6709;&#x56FD;&#x6559;&#x65F6;&#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_NEGATIVE_TEXT]&#x62E5;&#x6709;&#x56FD;&#x6559;&#x65F6;&#x7684; %D1 &#x7ECF;&#x9A8C;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_CITY_HAS_CONSCRIPTED</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]&#x672C;&#x56DE;&#x5408;&#x8BE5;&#x57CE;&#x5E02;&#x65E0;&#x6CD5;&#x518D;&#x5F81;&#x53EC;&#x5355;&#x4F4D;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_NEGATIVE_TEXT]&#x672C;&#x56DE;&#x5408;&#x8BE5;&#x57CE;&#x5E02;&#x65E0;&#x6CD5;&#x518D;&#x5F81;&#x53EC;&#x5355;&#x4F4D;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_CONSCRIPT_UNITS_LEFT</Tag>
+		<English>&#x672C;&#x56DE;&#x5408;&#x4F60;&#x53EF;&#x5F81;&#x53EC; %d1 [NUM1:unit:units]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x672C;&#x56DE;&#x5408;&#x4F60;&#x53EF;&#x5F81;&#x53EC; %d1 [NUM1:unit:units]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_NO_CONSCRIPT_UNITS_LEFT</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]&#x672C;&#x56DE;&#x5408;&#x4F60;&#x65E0;&#x6CD5;&#x518D;&#x5F81;&#x53EC;&#x4EFB;&#x4F55;&#x5355;&#x4F4D;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_NEGATIVE_TEXT]&#x672C;&#x56DE;&#x5408;&#x4F60;&#x65E0;&#x6CD5;&#x518D;&#x5F81;&#x53EC;&#x4EFB;&#x4F55;&#x5355;&#x4F4D;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_PRECLEARING_FEATURE_BONUS</Tag>
+		<English>&#x6E05;&#x9664; %s1_FeatName &#x5C06;&#x4E3A; %s3_CityName &#x5E26;&#x6765; %d2_Num [ICON_PRODUCTION]&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6E05;&#x9664; %s1_FeatName &#x5C06;&#x4E3A; %s3_CityName &#x5E26;&#x6765; %d2_Num [ICON_PRODUCTION]&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_CHANGE_IN_CITY</Tag>
+		<English>[ICON_BULLET]%s2_CityName &#x4E2D;&#x7684; %s1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]%s2_CityName &#x4E2D;&#x7684; %s1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SAME_UNITS_TYPE</Tag>
+		<English>[SPACE]&#xFF08;&#x6309; &amp;lt;ALT&amp;gt; &#x9009;&#x53D6;&#x5F53;&#x524D;&#x5355;&#x4F4D;&#x7C7B;&#x578B;&#x7684;&#x5168;&#x90E8;&#x5355;&#x4F4D;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[SPACE]&#xFF08;&#x6309; &amp;lt;ALT&amp;gt; &#x9009;&#x53D6;&#x5F53;&#x524D;&#x5355;&#x4F4D;&#x7C7B;&#x578B;&#x7684;&#x5168;&#x90E8;&#x5355;&#x4F4D;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_ROUTE_TOTAL_FRACTIONAL_PROFIT</Tag>
+		<English>%s1 [ICON_COMMERCE]&#xFF1A;&#x603B;&#x6536;&#x76CA;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s1 [ICON_COMMERCE]&#xFF1A;&#x603B;&#x6536;&#x76CA;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_ROUTE_MOD_CIVIC</Tag>
+		<English>%D2%%&#xFF1A;&#x6765;&#x81EA; %s1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%D2%%&#xFF1A;&#x6765;&#x81EA; %s1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_ROUTE_MOD_TRAIT</Tag>
+		<English>%D2%%&#xFF1A;&#x6765;&#x81EA; %s1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%D2%%&#xFF1A;&#x6765;&#x81EA; %s1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_TRADE_YIELD_MODIFIERS</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6765;&#x81EA;&#x8D38;&#x6613;&#x8DEF;&#x7EBF;&#x7684; %D1%%%F2_yield&#xFF08;[ICON_TRADE]&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6765;&#x81EA;&#x8D38;&#x6613;&#x8DEF;&#x7EBF;&#x7684; %D1%%%F2_yield&#xFF08;[ICON_TRADE]&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_ROUTE_TOTAL_FRACTIONAL</Tag>
+		<English>%s1 [ICON_COMMERCE]&#xFF1A;&#x603B;&#x8BA1;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s1 [ICON_COMMERCE]&#xFF1A;&#x603B;&#x8BA1;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CHEATERS_NEVER_PROSPER</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]&#x4F60;&#x5DF2;&#x9009;&#x53D6;&#x8FC7;&#x514D;&#x8D39;&#x79D1;&#x6280;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_NEGATIVE_TEXT]&#x4F60;&#x5DF2;&#x9009;&#x53D6;&#x8FC7;&#x514D;&#x8D39;&#x79D1;&#x6280;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MOD_FRACTRADE</Tag>
+		<English>&#x5C0F;&#x6570;&#x8D38;&#x6613;&#x8DEF;&#x7EBF;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C0F;&#x6570;&#x8D38;&#x6613;&#x8DEF;&#x7EBF;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MOD_SENTRY</Tag>
+		<English>&#x5168;&#x65B0;&#x8B66;&#x6212;&#x52A8;&#x4F5C;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5168;&#x65B0;&#x8B66;&#x6212;&#x52A8;&#x4F5C;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MOD_GOVWORKERS</Tag>
+		<English>&#x57CE;&#x5E02;&#x603B;&#x7763;&#x5EFA;&#x9020;&#x5DE5;&#x4EBA;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x57CE;&#x5E02;&#x603B;&#x7763;&#x5EFA;&#x9020;&#x5DE5;&#x4EBA;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MOD_AIAUTOPLAY</Tag>
+		<English>AI &#x81EA;&#x52A8;&#x6E38;&#x73A9;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>AI &#x81EA;&#x52A8;&#x6E38;&#x73A9;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MOD_GWARM</Tag>
+		<English>&#x5168;&#x7403;&#x53D8;&#x6696;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5168;&#x7403;&#x53D8;&#x6696;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MOD_SHAM_SPOILER</Tag>
+		<English>&#x663E;&#x793A;&#x9690;&#x85CF;&#x6001;&#x5EA6;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x663E;&#x793A;&#x9690;&#x85CF;&#x6001;&#x5EA6;</Chinese>
+	</TEXT>
+</Civ4GameText>

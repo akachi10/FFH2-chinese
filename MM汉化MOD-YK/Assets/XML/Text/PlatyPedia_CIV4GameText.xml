@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_HIDE_INACTIVE</Tag>
+		<English>&#x9690;&#x85CF;&#x672A;&#x542F;&#x7528;&#x9879;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9690;&#x85CF;&#x672A;&#x542F;&#x7528;&#x9879;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_CATEGORY_ROUTE</Tag>
+		<English>&#x8DEF;&#x7EBF;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8DEF;&#x7EBF;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_DOMAIN</Tag>
+		<English>&#x9886;&#x57DF;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9886;&#x57DF;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_PEDIA_NATIONAL_STUFF</Tag>
+		<English>&#x56FD;&#x5BB6; %s1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x56FD;&#x5BB6; %s1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_PEDIA_TEAM_STUFF</Tag>
+		<English>&#x56E2;&#x961F; %s1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x56E2;&#x961F; %s1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_PEDIA_WORLD_STUFF</Tag>
+		<English>&#x4E16;&#x754C; %s1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E16;&#x754C; %s1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_PEDIA_NON_COMBAT</Tag>
+		<English>&#x975E;&#x6218;&#x6597;&#x5355;&#x4F4D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x975E;&#x6218;&#x6597;&#x5355;&#x4F4D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLOT_HILLS</Tag>
+		<English>&#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLOT_FLATLANDS</Tag>
+		<English>&#x5E73;&#x539F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5E73;&#x539F;</Chinese>
+	</TEXT>
+</Civ4GameText>

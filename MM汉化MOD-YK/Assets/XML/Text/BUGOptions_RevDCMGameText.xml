@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_REVDCM__REVDCMRESET_TEXT</Tag>
+		<English>&#x5C06;&#x9009;&#x9879;&#x91CD;&#x7F6E;&#x4E3A;&#x9ED8;&#x8BA4;&#x503C;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C06;&#x9009;&#x9879;&#x91CD;&#x7F6E;&#x4E3A;&#x9ED8;&#x8BA4;&#x503C;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_REVDCM__REVDCMRESET_HOVER</Tag>
+		<English>&#x5C06;&#x6240;&#x6709;&#x9009;&#x9879;&#x91CD;&#x7F6E;&#x56DE;&#x6A21;&#x7EC4;&#x9ED8;&#x8BA4;&#x503C;&#xFF08;&#x6E38;&#x620F;&#x5185;&#x7ACB;&#x5373;&#x751F;&#x6548;&#xFF0C;&#x4F46;&#x9700;&#x91CD;&#x65B0;&#x52A0;&#x8F7D; BUG &#x9009;&#x9879;&#x754C;&#x9762;&#x624D;&#x80FD;&#x5728;&#x89C6;&#x89C9;&#x4E0A;&#x786E;&#x8BA4;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C06;&#x6240;&#x6709;&#x9009;&#x9879;&#x91CD;&#x7F6E;&#x56DE;&#x6A21;&#x7EC4;&#x9ED8;&#x8BA4;&#x503C;&#xFF08;&#x6E38;&#x620F;&#x5185;&#x7ACB;&#x5373;&#x751F;&#x6548;&#xFF0C;&#x4F46;&#x9700;&#x91CD;&#x65B0;&#x52A0;&#x8F7D; BUG &#x9009;&#x9879;&#x754C;&#x9762;&#x624D;&#x80FD;&#x5728;&#x89C6;&#x89C9;&#x4E0A;&#x786E;&#x8BA4;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_REVDCM__REVDCMHIDDENATTITUDE_TEXT</Tag>
+		<English>&#x663E;&#x793A; AI &#x8BE6;&#x7EC6;&#x6001;&#x5EA6;&#x4FE1;&#x606F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x663E;&#x793A; AI &#x8BE6;&#x7EC6;&#x6001;&#x5EA6;&#x4FE1;&#x606F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_REVDCM__REVDCMHIDDENATTITUDE_HOVER</Tag>
+		<English>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x542F;&#x7528; DaveMcW &#x5236;&#x4F5C;&#x7684;&#x9690;&#x85CF;&#x6001;&#x5EA6;&#x6A21;&#x7EC4;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x542F;&#x7528; DaveMcW &#x5236;&#x4F5C;&#x7684;&#x9690;&#x85CF;&#x6001;&#x5EA6;&#x6A21;&#x7EC4;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_REVDCM__OC_RESPAWN_HOLY_CITIES_TEXT</Tag>
+		<English>&#x5723;&#x57CE;&#x8FC1;&#x79FB;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5723;&#x57CE;&#x8FC1;&#x79FB;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_REVDCM__OC_RESPAWN_HOLY_CITIES_HOVER</Tag>
+		<English>&#x5141;&#x8BB8;&#x5B97;&#x6559;&#x5BA1;&#x5224;&#x6E05;&#x6D17;&#x5723;&#x57CE;&#xFF1B;&#x82E5;&#x67D0;&#x4E2A;&#x6587;&#x660E;&#x62E5;&#x6709;&#x4E24;&#x5EA7;&#x4FE1;&#x5949;&#x88AB;&#x6E05;&#x6D17;&#x5723;&#x57CE;&#x4E4B;&#x5B97;&#x6559;&#x7684;&#x57CE;&#x5E02;&#xFF0C;&#x5219;&#x5723;&#x57CE;&#x5C06;&#x8FC1;&#x79FB;&#x81F3;&#x8BE5;&#x5904;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5141;&#x8BB8;&#x5B97;&#x6559;&#x5BA1;&#x5224;&#x6E05;&#x6D17;&#x5723;&#x57CE;&#xFF1B;&#x82E5;&#x67D0;&#x4E2A;&#x6587;&#x660E;&#x62E5;&#x6709;&#x4E24;&#x5EA7;&#x4FE1;&#x5949;&#x88AB;&#x6E05;&#x6D17;&#x5723;&#x57CE;&#x4E4B;&#x5B97;&#x6559;&#x7684;&#x57CE;&#x5E02;&#xFF0C;&#x5219;&#x5723;&#x57CE;&#x5C06;&#x8FC1;&#x79FB;&#x81F3;&#x8BE5;&#x5904;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_REVDCM__LIMITED_RELIGIONS_EXCEPTIONS_TEXT</Tag>
+		<English>&#x6709;&#x9650;&#x5B97;&#x6559;&#x4F8B;&#x5916;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6709;&#x9650;&#x5B97;&#x6559;&#x4F8B;&#x5916;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_REVDCM__LIMITED_RELIGIONS_EXCEPTIONS_HOVER</Tag>
+		<English>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x5373;&#x4FBF;&#x542F;&#x7528;&#x6709;&#x9650;&#x5B97;&#x6559;&#xFF0C;&#x5355;&#x57CE;&#x6587;&#x660E;&#x4E0E;&#x53DB;&#x519B;&#x4ECD;&#x53EF;&#x521B;&#x7ACB;&#x591A;&#x79CD;&#x5B97;&#x6559;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x5373;&#x4FBF;&#x542F;&#x7528;&#x6709;&#x9650;&#x5B97;&#x6559;&#xFF0C;&#x5355;&#x57CE;&#x6587;&#x660E;&#x4E0E;&#x53DB;&#x519B;&#x4ECD;&#x53EF;&#x521B;&#x7ACB;&#x591A;&#x79CD;&#x5B97;&#x6559;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_REVDCM__OC_LIMITED_RELIGIONS_TEXT</Tag>
+		<English>&#x6709;&#x9650;&#x5B97;&#x6559;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6709;&#x9650;&#x5B97;&#x6559;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_REVDCM__OC_LIMITED_RELIGIONS_HOVER</Tag>
+		<English>&#x4E00;&#x4E2A;&#x6587;&#x660E;&#x53EA;&#x80FD;&#x521B;&#x7ACB;&#x4E00;&#x79CD;&#x5B97;&#x6559;&#xFF0C;&#x56E0;&#x800C;&#x53EA;&#x62E5;&#x6709;&#x4E00;&#x5EA7;&#x5723;&#x57CE;&#xFF08;&#x9664;&#x975E;&#x901A;&#x8FC7;&#x5F81;&#x670D;&#x83B7;&#x5F97;&#x66F4;&#x591A;&#xFF09;&#xFF1B;&#x8FD9;&#x4F1A;&#x4F7F;&#x5404;&#x5B97;&#x6559;&#x5728;&#x6E38;&#x620F;&#x4E2D;&#x4F20;&#x64AD;&#x5F97;&#x66F4;&#x5747;&#x8861;&#xFF0C;&#x4ECE;&#x800C;&#x5236;&#x9020;&#x66F4;&#x591A;&#x5916;&#x4EA4;&#x4E0A;&#x7684;&#x5B97;&#x6559;&#x7D27;&#x5F20;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E00;&#x4E2A;&#x6587;&#x660E;&#x53EA;&#x80FD;&#x521B;&#x7ACB;&#x4E00;&#x79CD;&#x5B97;&#x6559;&#xFF0C;&#x56E0;&#x800C;&#x53EA;&#x62E5;&#x6709;&#x4E00;&#x5EA7;&#x5723;&#x57CE;&#xFF08;&#x9664;&#x975E;&#x901A;&#x8FC7;&#x5F81;&#x670D;&#x83B7;&#x5F97;&#x66F4;&#x591A;&#xFF09;&#xFF1B;&#x8FD9;&#x4F1A;&#x4F7F;&#x5404;&#x5B97;&#x6559;&#x5728;&#x6E38;&#x620F;&#x4E2D;&#x4F20;&#x64AD;&#x5F97;&#x66F4;&#x5747;&#x8861;&#xFF0C;&#x4ECE;&#x800C;&#x5236;&#x9020;&#x66F4;&#x591A;&#x5916;&#x4EA4;&#x4E0A;&#x7684;&#x5B97;&#x6559;&#x7D27;&#x5F20;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_REVDCM__CHOOSE_RELIGION_TEXT</Tag>
+		<English>&#x9009;&#x62E9;&#x5B97;&#x6559;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9009;&#x62E9;&#x5B97;&#x6559;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_REVDCM__CHOOSE_RELIGION_HOVER</Tag>
+		<English>&#x4E0E;&#x6E38;&#x620F;&#x9009;&#x9879;&#x7248;&#x672C;&#x4F5C;&#x7528;&#x76F8;&#x540C;&#xFF0C;&#x533A;&#x522B;&#x5728;&#x4E8E;&#x4F60;&#x4E0D;&#x4EC5;&#x53EF;&#x9009;&#x62E9;&#x81EA;&#x5DF1;&#x521B;&#x7ACB;&#x7684;&#x4FE1;&#x4EF0;&#xFF0C;&#x8FD8;&#x53EF;&#x9009;&#x62E9; AI &#x7684;&#x4FE1;&#x4EF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E0E;&#x6E38;&#x620F;&#x9009;&#x9879;&#x7248;&#x672C;&#x4F5C;&#x7528;&#x76F8;&#x540C;&#xFF0C;&#x533A;&#x522B;&#x5728;&#x4E8E;&#x4F60;&#x4E0D;&#x4EC5;&#x53EF;&#x9009;&#x62E9;&#x81EA;&#x5DF1;&#x521B;&#x7ACB;&#x7684;&#x4FE1;&#x4EF0;&#xFF0C;&#x8FD8;&#x53EF;&#x9009;&#x62E9; AI &#x7684;&#x4FE1;&#x4EF0;</Chinese>
+	</TEXT>
+</Civ4GameText>

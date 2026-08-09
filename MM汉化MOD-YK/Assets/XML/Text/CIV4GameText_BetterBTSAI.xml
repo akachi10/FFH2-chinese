@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_MISC_SHIFT_ALT_PREPARE_WAR</Tag>
+		<English>&#xFF08;&amp;lt;SHIFT&gt;+&amp;lt;ALT&gt; &#x5207;&#x6362;&#x6218;&#x4E89;&#x8BA1;&#x5212;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#xFF08;&amp;lt;SHIFT&gt;+&amp;lt;ALT&gt; &#x5207;&#x6362;&#x6218;&#x4E89;&#x8BA1;&#x5212;&#xFF09;</Chinese>
+	</TEXT>
+</Civ4GameText>

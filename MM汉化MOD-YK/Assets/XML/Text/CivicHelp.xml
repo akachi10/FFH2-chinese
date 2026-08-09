@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_PREREQ_WAR</Tag>
+		<English>[COLOR_RED]&#x5FC5;&#x987B;&#x5904;&#x4E8E;&#x6218;&#x4E89;&#x72B6;&#x6001;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_RED]&#x5FC5;&#x987B;&#x5904;&#x4E8E;&#x6218;&#x4E89;&#x72B6;&#x6001;[COLOR_REVERT]</Chinese>
+	</TEXT>
+</Civ4GameText>

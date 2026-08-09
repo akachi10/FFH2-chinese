@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_TURNS_UNTIL_50_PERCENT_NATIONALITY</Tag>
+		<English>&#x8DDD; 50% %s1&amp;#x003a; %d2 &#x7684;&#x56DE;&#x5408;&#x6570;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8DDD; 50% %s1&amp;#x003a; %d2 &#x7684;&#x56DE;&#x5408;&#x6570;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOLD_PER_CITY</Tag>
+		<English>%d1[ICON_GOLD]/&#x57CE;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%d1[ICON_GOLD]/&#x57CE;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NEXT_GOLD</Tag>
+		<English>&#x9700; %d1[ICON_GOLD]/&#x57CE; &#x4EE5;&#x8FBE;&#x6210; %s2</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9700; %d1[ICON_GOLD]/&#x57CE; &#x4EE5;&#x8FBE;&#x6210; %s2</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_FEATURE_REQUIRE_RESIST</Tag>
+		<English>[NEWLINE][ICON_BULLET]&#x5355;&#x4F4D;&#x987B;&#x5BF9; %s2 &#x4F24;&#x5BB3;&#x62E5;&#x6709; %d1%% &#x6297;&#x6027;&#x65B9;&#x53EF;&#x8FDB;&#x5165;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][ICON_BULLET]&#x5355;&#x4F4D;&#x987B;&#x5BF9; %s2 &#x4F24;&#x5BB3;&#x62E5;&#x6709; %d1%% &#x6297;&#x6027;&#x65B9;&#x53EF;&#x8FDB;&#x5165;&#x3002;</Chinese>
+	</TEXT>
+</Civ4GameText>

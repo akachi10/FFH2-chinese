@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_RUTHLESS_AI</Tag>
+		<English>&#x65E0;&#x60C5; AI</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;&#x60C5; AI</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_RUTHLESS_AI_HELP</Tag>
+		<English>AI &#x4EE5;&#x53D6;&#x80DC;&#x4E3A;&#x8981;&#xFF0C;&#x5728;&#x5F88;&#x5927;&#x7A0B;&#x5EA6;&#x4E0A;&#x65E0;&#x89C6;&#x6001;&#x5EA6;&#x597D;&#x6076;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>AI &#x4EE5;&#x53D6;&#x80DC;&#x4E3A;&#x8981;&#xFF0C;&#x5728;&#x5F88;&#x5927;&#x7A0B;&#x5EA6;&#x4E0A;&#x65E0;&#x89C6;&#x6001;&#x5EA6;&#x597D;&#x6076;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_EXPERIMENTAL_AI</Tag>
+		<English>&#x66F4;&#x4F73;&#x6269;&#x5F20; AI&#xFF08;&#x5B9E;&#x9A8C;&#x6027;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x66F4;&#x4F73;&#x6269;&#x5F20; AI&#xFF08;&#x5B9E;&#x9A8C;&#x6027;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_EXPERIMENTAL_AI_HELP</Tag>
+		<English>&#x5C0F;&#x5E45;&#x8C03;&#x6574;&#xFF0C;&#x5E2E;&#x52A9; AI &#x66F4;&#x597D;&#x5730;&#x6269;&#x5F20;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C0F;&#x5E45;&#x8C03;&#x6574;&#xFF0C;&#x5E2E;&#x52A9; AI &#x66F4;&#x597D;&#x5730;&#x6269;&#x5F20;&#x3002;</Chinese>
+	</TEXT>
+</Civ4GameText>

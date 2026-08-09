@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_REFUSES_TO_TALK</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]%s1 &#x62D2;&#x7EDD;&#x8C08;&#x5224;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_NEGATIVE_TEXT]%s1 &#x62D2;&#x7EDD;&#x8C08;&#x5224;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_WILLING_TO_TALK</Tag>
+		<English>[COLOR_POSITIVE_TEXT]%s1 &#x613F;&#x610F;&#x8C08;&#x5224;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_POSITIVE_TEXT]%s1 &#x613F;&#x610F;&#x8C08;&#x5224;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_YOU_WORST_ENEMY</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]&#x4F60;&#x662F; %s1 &#x7684;&#x5934;&#x53F7;&#x5927;&#x654C;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_NEGATIVE_TEXT]&#x4F60;&#x662F; %s1 &#x7684;&#x5934;&#x53F7;&#x5927;&#x654C;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_WORST_ENEMY</Tag>
+		<English>[COLOR_YIELD_FOOD]%s2 &#x662F; %s1 &#x7684;&#x5934;&#x53F7;&#x5927;&#x654C;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_YIELD_FOOD]%s2 &#x662F; %s1 &#x7684;&#x5934;&#x53F7;&#x5927;&#x654C;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_SWITCH_WORST_ENEMY_FROM_YOU</Tag>
+		<English>[COLOR_YIELD_FOOD]%s2 &#x6210;&#x4E3A; %s1 &#x65B0;&#x7684;&#x5934;&#x53F7;&#x5927;&#x654C;&#xFF08;&#x539F;&#x5148;&#x662F;&#x4F60;&#xFF09;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_YIELD_FOOD]%s2 &#x6210;&#x4E3A; %s1 &#x65B0;&#x7684;&#x5934;&#x53F7;&#x5927;&#x654C;&#xFF08;&#x539F;&#x5148;&#x662F;&#x4F60;&#xFF09;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_SWITCH_WORST_ENEMY_TO_YOU</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]&#x4F60;&#x6210;&#x4E3A; %s1 &#x65B0;&#x7684;&#x5934;&#x53F7;&#x5927;&#x654C;&#xFF08;&#x539F;&#x5148;&#x662F; %s2&#xFF09;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_NEGATIVE_TEXT]&#x4F60;&#x6210;&#x4E3A; %s1 &#x65B0;&#x7684;&#x5934;&#x53F7;&#x5927;&#x654C;&#xFF08;&#x539F;&#x5148;&#x662F; %s2&#xFF09;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_SWITCH_WORST_ENEMY</Tag>
+		<English>[COLOR_YIELD_FOOD]%s2 &#x6210;&#x4E3A; %s1 &#x65B0;&#x7684;&#x5934;&#x53F7;&#x5927;&#x654C;&#xFF08;&#x539F;&#x5148;&#x662F; %s3&#xFF09;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_YIELD_FOOD]%s2 &#x6210;&#x4E3A; %s1 &#x65B0;&#x7684;&#x5934;&#x53F7;&#x5927;&#x654C;&#xFF08;&#x539F;&#x5148;&#x662F; %s3&#xFF09;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_NO_WORST_ENEMY</Tag>
+		<English>[COLOR_POSITIVE_TEXT]%s2 &#x4E0D;&#x518D;&#x662F; %s1 &#x7684;&#x5934;&#x53F7;&#x5927;&#x654C;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_POSITIVE_TEXT]%s2 &#x4E0D;&#x518D;&#x662F; %s1 &#x7684;&#x5934;&#x53F7;&#x5927;&#x654C;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_YOU_NO_WORST_ENEMY</Tag>
+		<English>[COLOR_POSITIVE_TEXT]&#x4F60;&#x4E0D;&#x518D;&#x662F; %s1 &#x7684;&#x5934;&#x53F7;&#x5927;&#x654C;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_POSITIVE_TEXT]&#x4F60;&#x4E0D;&#x518D;&#x662F; %s1 &#x7684;&#x5934;&#x53F7;&#x5927;&#x654C;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_GOLD_TRADE</Tag>
+		<English>[COLOR_YIELD_COMMERCE]%s1 &#x6709; %d2 &#x9EC4;&#x91D1;&#x53EF;&#x4F9B;&#x4EA4;&#x6613;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_YIELD_COMMERCE]%s1 &#x6709; %d2 &#x9EC4;&#x91D1;&#x53EF;&#x4F9B;&#x4EA4;&#x6613;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_GOLD_PER_TURN_TRADE</Tag>
+		<English>[COLOR_YIELD_COMMERCE]%s1 &#x6709;&#x6BCF;&#x56DE;&#x5408; %d2 &#x9EC4;&#x91D1;&#x53EF;&#x4F9B;&#x4EA4;&#x6613;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_YIELD_COMMERCE]%s1 &#x6709;&#x6BCF;&#x56DE;&#x5408; %d2 &#x9EC4;&#x91D1;&#x53EF;&#x4F9B;&#x4EA4;&#x6613;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_PENDING_GROWTH</Tag>
+		<English>[COLOR_YIELD_FOOD]%s1 &#x5C06;&#x5728;&#x4E0B;&#x56DE;&#x5408;&#x589E;&#x957F;&#x81F3; %d2 &#x7EA7;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_YIELD_FOOD]%s1 &#x5C06;&#x5728;&#x4E0B;&#x56DE;&#x5408;&#x589E;&#x957F;&#x81F3; %d2 &#x7EA7;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_PENDING_SHRINKAGE</Tag>
+		<English>[COLOR_WARNING_TEXT]%s1 &#x5C06;&#x5728;&#x4E0B;&#x56DE;&#x5408;&#x7F29;&#x51CF;&#x81F3; %d2 &#x7EA7;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]%s1 &#x5C06;&#x5728;&#x4E0B;&#x56DE;&#x5408;&#x7F29;&#x51CF;&#x81F3; %d2 &#x7EA7;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_PENDING_UNHEALTHY</Tag>
+		<English>[COLOR_WARNING_TEXT]%s1 &#x5C06;&#x5728;&#x4E0B;&#x56DE;&#x5408;&#x53D8;&#x5F97;&#x4E0D;&#x536B;&#x751F;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]%s1 &#x5C06;&#x5728;&#x4E0B;&#x56DE;&#x5408;&#x53D8;&#x5F97;&#x4E0D;&#x536B;&#x751F;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_PENDING_HEALTHY</Tag>
+		<English>[COLOR_POSITIVE_TEXT]%s1 &#x5C06;&#x5728;&#x4E0B;&#x56DE;&#x5408;&#x53D8;&#x5F97;&#x536B;&#x751F;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_POSITIVE_TEXT]%s1 &#x5C06;&#x5728;&#x4E0B;&#x56DE;&#x5408;&#x53D8;&#x5F97;&#x536B;&#x751F;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_PENDING_UNHAPPY</Tag>
+		<English>[COLOR_WARNING_TEXT]%s1 &#x5C06;&#x5728;&#x4E0B;&#x56DE;&#x5408;&#x53D8;&#x5F97;&#x4E0D;&#x6EE1;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]%s1 &#x5C06;&#x5728;&#x4E0B;&#x56DE;&#x5408;&#x53D8;&#x5F97;&#x4E0D;&#x6EE1;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_PENDING_HAPPY</Tag>
+		<English>[COLOR_POSITIVE_TEXT]%s1 &#x5C06;&#x5728;&#x4E0B;&#x56DE;&#x5408;&#x53D8;&#x5F97;&#x6EE1;&#x610F;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_POSITIVE_TEXT]%s1 &#x5C06;&#x5728;&#x4E0B;&#x56DE;&#x5408;&#x53D8;&#x5F97;&#x6EE1;&#x610F;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_UNHEALTHY</Tag>
+		<English>[COLOR_WARNING_TEXT]%s1 &#x5DF2;&#x53D8;&#x5F97;&#x4E0D;&#x536B;&#x751F;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]%s1 &#x5DF2;&#x53D8;&#x5F97;&#x4E0D;&#x536B;&#x751F;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_HEALTHY</Tag>
+		<English>[COLOR_POSITIVE_TEXT]%s1 &#x5DF2;&#x53D8;&#x5F97;&#x536B;&#x751F;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_POSITIVE_TEXT]%s1 &#x5DF2;&#x53D8;&#x5F97;&#x536B;&#x751F;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_UNHAPPY</Tag>
+		<English>[COLOR_WARNING_TEXT]%s1 &#x5DF2;&#x53D8;&#x5F97;&#x4E0D;&#x6EE1;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]%s1 &#x5DF2;&#x53D8;&#x5F97;&#x4E0D;&#x6EE1;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_HAPPY</Tag>
+		<English>[COLOR_POSITIVE_TEXT]%s1 &#x5DF2;&#x53D8;&#x5F97;&#x6EE1;&#x610F;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_POSITIVE_TEXT]%s1 &#x5DF2;&#x53D8;&#x5F97;&#x6EE1;&#x610F;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_GROWTH</Tag>
+		<English>[COLOR_YIELD_FOOD]%s1 &#x5DF2;&#x589E;&#x957F;&#x81F3; %d2 &#x7EA7;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_YIELD_FOOD]%s1 &#x5DF2;&#x589E;&#x957F;&#x81F3; %d2 &#x7EA7;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_SHRINKAGE</Tag>
+		<English>[COLOR_WARNING_TEXT]%s1 &#x5DF2;&#x7F29;&#x51CF;&#x81F3; %d2 &#x7EA7;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]%s1 &#x5DF2;&#x7F29;&#x51CF;&#x81F3; %d2 &#x7EA7;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_PENDING_PACIFIED</Tag>
+		<English>[COLOR_POSITIVE_TEXT]%s1 &#x5C06;&#x5728;&#x4E0B;&#x56DE;&#x5408;&#x6062;&#x590D;&#x5E73;&#x5B9A;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_POSITIVE_TEXT]%s1 &#x5C06;&#x5728;&#x4E0B;&#x56DE;&#x5408;&#x6062;&#x590D;&#x5E73;&#x5B9A;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_PACIFIED</Tag>
+		<English>[COLOR_POSITIVE_TEXT]%s1 &#x5DF2;&#x6062;&#x590D;&#x5E73;&#x5B9A;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_POSITIVE_TEXT]%s1 &#x5DF2;&#x6062;&#x590D;&#x5E73;&#x5B9A;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_CAN_HURRY_POP</Tag>
+		<English>[COLOR_YIELD_FOOD]%s1 &#x53EF;&#x82B1;&#x8D39; %d3[ICON_ANGRYPOP] &#x52A0;&#x901F;&#x5EFA;&#x9020; %s2&#xFF0C;&#x4EA7;&#x751F; %d4[ICON_PRODUCTION] &#x6EA2;&#x51FA;&#xFF0C;&#x5E76;&#x5728; %d5 &#x56DE;&#x5408;&#x5185; +1[ICON_UNHAPPY]&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_YIELD_FOOD]%s1 &#x53EF;&#x82B1;&#x8D39; %d3[ICON_ANGRYPOP] &#x52A0;&#x901F;&#x5EFA;&#x9020; %s2&#xFF0C;&#x4EA7;&#x751F; %d4[ICON_PRODUCTION] &#x6EA2;&#x51FA;&#xFF0C;&#x5E76;&#x5728; %d5 &#x56DE;&#x5408;&#x5185; +1[ICON_UNHAPPY]&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_CAN_HURRY_POP_PLUS_GOLD</Tag>
+		<English>[COLOR_YIELD_FOOD]%s1 &#x53EF;&#x82B1;&#x8D39; %d3[ICON_ANGRYPOP] &#x52A0;&#x901F;&#x5EFA;&#x9020; %s2&#xFF0C;&#x4EA7;&#x751F; %d4[ICON_PRODUCTION] &#x6EA2;&#x51FA;&#xFF0C;&#x5411;&#x56FD;&#x5E93;&#x589E;&#x6DFB; %d6[ICON_GOLD]&#xFF0C;&#x5E76;&#x5728; %d5 &#x56DE;&#x5408;&#x5185; +1[ICON_UNHAPPY]&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_YIELD_FOOD]%s1 &#x53EF;&#x82B1;&#x8D39; %d3[ICON_ANGRYPOP] &#x52A0;&#x901F;&#x5EFA;&#x9020; %s2&#xFF0C;&#x4EA7;&#x751F; %d4[ICON_PRODUCTION] &#x6EA2;&#x51FA;&#xFF0C;&#x5411;&#x56FD;&#x5E93;&#x589E;&#x6DFB; %d6[ICON_GOLD]&#xFF0C;&#x5E76;&#x5728; %d5 &#x56DE;&#x5408;&#x5185; +1[ICON_UNHAPPY]&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV4LERTS_ON_CITY_CAN_HURRY_GOLD</Tag>
+		<English>[COLOR_YIELD_FOOD]%s1 &#x53EF;&#x82B1;&#x8D39; %d3[ICON_GOLD] &#x52A0;&#x901F;&#x5EFA;&#x9020; %s2&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_YIELD_FOOD]%s1 &#x53EF;&#x82B1;&#x8D39; %d3[ICON_GOLD] &#x52A0;&#x901F;&#x5EFA;&#x9020; %s2&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+</Civ4GameText>

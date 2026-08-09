@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_ADVANCED_TACTICS</Tag>
+		<English>&#x9AD8;&#x7EA7;&#x6218;&#x672F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9AD8;&#x7EA7;&#x6218;&#x672F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAME_OPTION_ADVANCED_TACTICS_HELP</Tag>
+		<English>&#x589E;&#x52A0;&#x65B0;&#x7684;&#x6218;&#x6597;&#x7ED3;&#x679C;&#x3001;&#x5916;&#x4EA4;&#x9009;&#x9879;&#x4E0E;&#x5927;&#x5C06;&#x519B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x589E;&#x52A0;&#x65B0;&#x7684;&#x6218;&#x6597;&#x7ED3;&#x679C;&#x3001;&#x5916;&#x4EA4;&#x9009;&#x9879;&#x4E0E;&#x5927;&#x5C06;&#x519B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WEHAVECAPTUREDSOMETHING</Tag>
+		<English>&#x6211;&#x4EEC;&#x4FD8;&#x83B7;&#x4E86; %s1&#xFF01;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6211;&#x4EEC;&#x4FD8;&#x83B7;&#x4E86; %s1&#xFF01;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WEHAVELOSTSOMETHING</Tag>
+		<English>&#x6211;&#x4EEC;&#x7684; %s1 &#x88AB;&#x4FD8;&#x83B7;&#x4E86;&#xFF01;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6211;&#x4EEC;&#x7684; %s1 &#x88AB;&#x4FD8;&#x83B7;&#x4E86;&#xFF01;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_WARPRIZES_SUCCESS</Tag>
+		<English>&#x6211;&#x4EEC;&#x4FD8;&#x83B7;&#x4E86; %s1&#xFF01;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6211;&#x4EEC;&#x4FD8;&#x83B7;&#x4E86; %s1&#xFF01;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_WARPRIZES_FAILURE</Tag>
+		<English>&#x6211;&#x4EEC;&#x7684; %s1 &#x88AB;&#x4FD8;&#x83B7;&#x4E86;&#xFF01;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6211;&#x4EEC;&#x7684; %s1 &#x88AB;&#x4FD8;&#x83B7;&#x4E86;&#xFF01;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_GREAT_GENERAL_SPLIT</Tag>
+		<English>&#x5206;&#x79BB;&#x5927;&#x5C06;&#x519B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5206;&#x79BB;&#x5927;&#x5C06;&#x519B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_GENERAL_KILLED</Tag>
+		<English>&#x4E00;&#x4F4D;&#x5927;&#x5C06;&#x519B;&#x9635;&#x4EA1;&#x4E86;&#xFF01;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E00;&#x4F4D;&#x5927;&#x5C06;&#x519B;&#x9635;&#x4EA1;&#x4E86;&#xFF01;</Chinese>
+	</TEXT>
+</Civ4GameText>

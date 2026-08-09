@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CDA_COL_FEATURES_CAPITAL</Tag>
+		<English>[ICON_BULLET]&#x9996;&#x90FD;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x9996;&#x90FD;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CDA_COL_FEATURES_GOV_CENTER</Tag>
+		<English>[ICON_BULLET]&#x653F;&#x5E9C;&#x4E2D;&#x5FC3;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x653F;&#x5E9C;&#x4E2D;&#x5FC3;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CDA_COL_FEATURES_NAT_WONDER</Tag>
+		<English>[ICON_BULLET]&#x56FD;&#x5BB6;&#x5947;&#x89C2;&#xFF1A;%s1_building</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x56FD;&#x5BB6;&#x5947;&#x89C2;&#xFF1A;%s1_building</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CDA_COL_FEATURES_OCCUPIED</Tag>
+		<English>[ICON_BULLET]&#x88AB;&#x5360;&#x9886;&#xFF0C;&#x8FD8;&#x5269; %d1 [NUM1:&#x56DE;&#x5408;:&#x56DE;&#x5408;]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x88AB;&#x5360;&#x9886;&#xFF0C;&#x8FD8;&#x5269; %d1 [NUM1:&#x56DE;&#x5408;:&#x56DE;&#x5408;]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CDA_COL_FEATURES_DISORDER</Tag>
+		<English>[ICON_BULLET]&#x52A8;&#x4E71;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x52A8;&#x4E71;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CDA_COL_FEATURES_TRADE</Tag>
+		<English>[ICON_BULLET]&#x4E0E;&#x5176;&#x4ED6;&#x57CE;&#x5E02;&#x901A;&#x5546;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x4E0E;&#x5176;&#x4ED6;&#x57CE;&#x5E02;&#x901A;&#x5546;</Chinese>
+	</TEXT>
+</Civ4GameText>

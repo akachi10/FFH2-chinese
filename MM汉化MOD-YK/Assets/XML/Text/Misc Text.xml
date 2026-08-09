@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_LANGUAGE_5</Tag>
+		<English>&#x52FF;&#x9009;&#x6B64;&#x9879;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x52FF;&#x9009;&#x6B64;&#x9879;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNTIL</Tag>
+		<English>&#x76F4;&#x5230;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x76F4;&#x5230;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CULTURE_GARRISON_VALUE</Tag>
+		<English>[ICON_BULLET]&#x9A7B;&#x519B;&#x4EF7;&#x503C;&#xFF1A;%d1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x9A7B;&#x519B;&#x4EF7;&#x503C;&#xFF1A;%d1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_PUPPET_STATE_LEGITIMIZED</Tag>
+		<English>%s1_CivName &#x5DF2;&#x88AB;&#x627F;&#x8BA4;&#x4E3A;&#x4E00;&#x4E2A;&#x5408;&#x6CD5;&#x56FD;&#x5BB6;&#xFF01;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s1_CivName &#x5DF2;&#x88AB;&#x627F;&#x8BA4;&#x4E3A;&#x4E00;&#x4E2A;&#x5408;&#x6CD5;&#x56FD;&#x5BB6;&#xFF01;</Chinese>
+	</TEXT>
+</Civ4GameText>

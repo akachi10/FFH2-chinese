@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_ASSERTS_ENABLED</Tag>
+		<English>&#x5DF2;&#x542F;&#x7528;&#x65AD;&#x8A00;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5DF2;&#x542F;&#x7528;&#x65AD;&#x8A00;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEBUG_BUILD</Tag>
+		<English>&#x8C03;&#x8BD5;&#x7248;&#x672C;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8C03;&#x8BD5;&#x7248;&#x672C;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MESSAGE_DIFFICULTY</Tag>
+		<English>&#x96BE;&#x5EA6;- %s1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x96BE;&#x5EA6;- %s1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MESSAGE_DIFFICULTY_CHANGE</Tag>
+		<English>(%d1 [NUM1:turn:turns])</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>(%d1 [NUM1:turn:turns])</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MESSAGE_DIFFICULTY_CHANGE_FLEX_INCR</Tag>
+		<English>&#xFF08;&#x5F39;&#x6027; %d1 &#x56DE;&#x5408;&#xFF0C;&#x9012;&#x589E; %d2 &#x56DE;&#x5408;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#xFF08;&#x5F39;&#x6027; %d1 &#x56DE;&#x5408;&#xFF0C;&#x9012;&#x589E; %d2 &#x56DE;&#x5408;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_SCREEN_CITY_CULTURE</Tag>
+		<English>%d1 &#x5EA7;&#x62E5;&#x6709; %s2 &#x6587;&#x5316;&#x7684;&#x57CE;&#x5E02;&#xFF08;%d3&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%d1 &#x5EA7;&#x62E5;&#x6709; %s2 &#x6587;&#x5316;&#x7684;&#x57CE;&#x5E02;&#xFF08;%d3&#xFF09;</Chinese>
+	</TEXT>
+</Civ4GameText>

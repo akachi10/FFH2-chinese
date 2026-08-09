@@ -1,0 +1,6 @@
+{
+  "log_directory": "$USERPROFILE\\Documents\\My Games\\Beyond the Sword\\Logs\\FFH2SaveDiagnostics",
+  "report_directory": "$USERPROFILE\\Documents\\My Games\\Beyond the Sword\\Logs\\FFH2SaveDiagnostics\\reports",
+  "num_unit_infos_fallback": 589,
+  "max_players": 51
+}

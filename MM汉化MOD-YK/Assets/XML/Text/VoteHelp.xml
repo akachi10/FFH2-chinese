@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_NO_ACTIVE_VOTE_SOURCES</Tag>
+		<English>&#x65E0;&#x6D3B;&#x8DC3;&#x7684;&#x8BAE;&#x4F1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;&#x6D3B;&#x8DC3;&#x7684;&#x8BAE;&#x4F1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SECRETARY_GENERAL_UNKNOWN</Tag>
+		<English>&#x672A;&#x77E5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x672A;&#x77E5;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SECRETARY_GENERAL_VACANT</Tag>
+		<English>&#x7A7A;&#x7F3A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x7A7A;&#x7F3A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TURNS_UNTIL_NEXT_VOTE</Tag>
+		<English>&#x8DDD;&#x4E0B;&#x6B21;&#x6295;&#x7968;&#x7684;&#x56DE;&#x5408;&#x6570;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8DDD;&#x4E0B;&#x6B21;&#x6295;&#x7968;&#x7684;&#x56DE;&#x5408;&#x6570;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MSG_VOTE_PASSED</Tag>
+		<English>%s1_council &#x7684;&#x6210;&#x5458;&#x901A;&#x8FC7;&#x4E86;&#x51B3;&#x8BAE; %s2_resolution&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s1_council &#x7684;&#x6210;&#x5458;&#x901A;&#x8FC7;&#x4E86;&#x51B3;&#x8BAE; %s2_resolution&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MSG_VOTE_REJECTED</Tag>
+		<English>%s1_council &#x7684;&#x6210;&#x5458;&#x5426;&#x51B3;&#x4E86;&#x51B3;&#x8BAE; %s2_resolution&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s1_council &#x7684;&#x6210;&#x5458;&#x5426;&#x51B3;&#x4E86;&#x51B3;&#x8BAE; %s2_resolution&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MSG_VOTE_PASSED_AGAIN</Tag>
+		<English>%s1_council &#x7684;&#x6210;&#x5458;&#x786E;&#x8BA4;&#x4E86;&#x51B3;&#x8BAE; %s2_resolution&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s1_council &#x7684;&#x6210;&#x5458;&#x786E;&#x8BA4;&#x4E86;&#x51B3;&#x8BAE; %s2_resolution&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MSG_VOTE_REPEALED</Tag>
+		<English>%s1_council &#x7684;&#x6210;&#x5458;&#x5E9F;&#x9664;&#x4E86;&#x51B3;&#x8BAE; %s2_resolution&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s1_council &#x7684;&#x6210;&#x5458;&#x5E9F;&#x9664;&#x4E86;&#x51B3;&#x8BAE; %s2_resolution&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_REQUIRED_VOTES</Tag>
+		<English>[ICON_BULLET]&#x9700;&#x8981; %d2 &#x5F20;&#x603B;&#x7968;&#x6570;&#x4E2D;&#x7684; %d1 &#x5F20;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x9700;&#x8981; %d2 &#x5F20;&#x603B;&#x7968;&#x6570;&#x4E2D;&#x7684; %d1 &#x5F20;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_POPULATION_THRESHOLD</Tag>
+		<English>[ICON_BULLET]&#x9700;&#x8981;&#x5168;&#x90E8;&#x7968;&#x6570;&#x7684; %d1%%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x9700;&#x8981;&#x5168;&#x90E8;&#x7968;&#x6570;&#x7684; %d1%%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_MIN_VOTERS</Tag>
+		<English>[ICON_BULLET]&#x9700;&#x8981;&#x81F3;&#x5C11; %d1 &#x540D;&#x6295;&#x7968;&#x6210;&#x5458;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x9700;&#x8981;&#x81F3;&#x5C11; %d1 &#x540D;&#x6295;&#x7968;&#x6210;&#x5458;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_ALL_PLAYERS</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x73A9;&#x5BB6;&#x90FD;&#x5FC5;&#x987B;&#x662F;&#x6295;&#x7968;&#x6210;&#x5458;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x73A9;&#x5BB6;&#x90FD;&#x5FC5;&#x987B;&#x662F;&#x6295;&#x7968;&#x6210;&#x5458;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_CIV_VOTING</Tag>
+		<English>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x6210;&#x5458;&#x62E5;&#x6709;&#x4E00;&#x7968;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x6210;&#x5458;&#x62E5;&#x6709;&#x4E00;&#x7968;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_CIV_VOTING_RELIGION</Tag>
+		<English>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x62E5;&#x6709; %F2_Religion &#x57CE;&#x5E02;&#x7684;&#x6210;&#x5458;&#x62E5;&#x6709;&#x4E00;&#x7968;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x62E5;&#x6709; %F2_Religion &#x57CE;&#x5E02;&#x7684;&#x6210;&#x5458;&#x62E5;&#x6709;&#x4E00;&#x7968;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_CITY_VOTING</Tag>
+		<English>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x6210;&#x5458;&#x6BCF;&#x5EA7;&#x57CE;&#x5E02;&#x62E5;&#x6709;&#x4E00;&#x7968;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x6210;&#x5458;&#x6BCF;&#x5EA7;&#x57CE;&#x5E02;&#x62E5;&#x6709;&#x4E00;&#x7968;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_CITY_VOTING_RELIGION</Tag>
+		<English>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x6210;&#x5458;&#x6BCF;&#x5EA7; %F2_Religion &#x57CE;&#x5E02;&#x62E5;&#x6709;&#x4E00;&#x7968;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x6210;&#x5458;&#x6BCF;&#x5EA7; %F2_Religion &#x57CE;&#x5E02;&#x62E5;&#x6709;&#x4E00;&#x7968;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_POP_VOTING</Tag>
+		<English>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x6210;&#x5458;&#x6BCF;&#x70B9;&#x4EBA;&#x53E3;&#x62E5;&#x6709;&#x4E00;&#x7968;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x6210;&#x5458;&#x6BCF;&#x70B9;&#x4EBA;&#x53E3;&#x62E5;&#x6709;&#x4E00;&#x7968;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_POP_VOTING_RELIGION</Tag>
+		<English>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x6210;&#x5458;&#x6BCF;&#x70B9; %F2_Religion &#x4EBA;&#x53E3;&#x62E5;&#x6709;&#x4E00;&#x7968;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x6210;&#x5458;&#x6BCF;&#x70B9; %F2_Religion &#x4EBA;&#x53E3;&#x62E5;&#x6709;&#x4E00;&#x7968;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_STATE_RELIGION_VOTE_PERCENT</Tag>
+		<English>[ICON_BULLET]&#x62E5;&#x6709;&#x6B63;&#x786E;&#x56FD;&#x6559;&#x7684;&#x73A9;&#x5BB6;&#x591A;&#x83B7;&#x5F97; %D1%% &#x7684;&#x7968;&#x6570;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x62E5;&#x6709;&#x6B63;&#x786E;&#x56FD;&#x6559;&#x7684;&#x73A9;&#x5BB6;&#x591A;&#x83B7;&#x5F97; %D1%% &#x7684;&#x7968;&#x6570;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_SEC_GEN_ELECTION</Tag>
+		<English>[ICON_BULLET]&#x9009;&#x4E3E; %s1&#xFF08;&#x53EF;&#x63D0;&#x51FA;&#x51B3;&#x8BAE;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x9009;&#x4E3E; %s1&#xFF08;&#x53EF;&#x63D0;&#x51FA;&#x51B3;&#x8BAE;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_VICTORY</Tag>
+		<English>[ICON_BULLET]&#x4F7F;&#x4E00;&#x540D;&#x73A9;&#x5BB6;&#x8D62;&#x5F97;&#x5916;&#x4EA4;&#x80DC;&#x5229;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x4F7F;&#x4E00;&#x540D;&#x73A9;&#x5BB6;&#x8D62;&#x5F97;&#x5916;&#x4EA4;&#x80DC;&#x5229;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_TRADE_ROUTES</Tag>
+		<English>[ICON_BULLET]&#x4E3A;&#x6240;&#x6709;&#x73A9;&#x5BB6;&#x63D0;&#x4F9B; %D1 &#x6761;&#x8D38;&#x6613;&#x8DEF;&#x7EBF;&#xFF08;[ICON_TRADE]&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x4E3A;&#x6240;&#x6709;&#x73A9;&#x5BB6;&#x63D0;&#x4F9B; %D1 &#x6761;&#x8D38;&#x6613;&#x8DEF;&#x7EBF;&#xFF08;[ICON_TRADE]&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_NO_NUKES</Tag>
+		<English>[ICON_BULLET]&#x7981;&#x6B62;&#x6838;&#x6B66;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x7981;&#x6B62;&#x6838;&#x6B66;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FREE_TRADE</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x73A9;&#x5BB6;&#x4E4B;&#x95F4;&#x7684;&#x8D38;&#x6613;&#x8DEF;&#x7EBF;&#xFF08;[ICON_TRADE]&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x73A9;&#x5BB6;&#x4E4B;&#x95F4;&#x7684;&#x8D38;&#x6613;&#x8DEF;&#x7EBF;&#xFF08;[ICON_TRADE]&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_NO_BONUS</Tag>
+		<English>[ICON_BULLET]&#x7981;&#x6B62;&#x6240;&#x6709;&#x6210;&#x5458;&#x4F7F;&#x7528; %F1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x7981;&#x6B62;&#x6240;&#x6709;&#x6210;&#x5458;&#x4F7F;&#x7528; %F1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FORCE_CIVIC</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x90FD;&#x5FC5;&#x987B;&#x91C7;&#x7528; [LINK=literal]%s1[\LINK]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x90FD;&#x5FC5;&#x987B;&#x91C7;&#x7528; [LINK=literal]%s1[\LINK]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_ENABLES_ABILITY</Tag>
+		<English>[ICON_BULLET]&#x542F;&#x7528;&#x80FD;&#x529B; [LINK=literal]%s1[\LINK]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x542F;&#x7528;&#x80FD;&#x529B; [LINK=literal]%s1[\LINK]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_ENABLES_SPELL</Tag>
+		<English>[ICON_BULLET]&#x542F;&#x7528;&#x6CD5;&#x672F; [LINK=literal]%s1[\LINK]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x542F;&#x7528;&#x6CD5;&#x672F; [LINK=literal]%s1[\LINK]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_DEFENSIVE_PACT</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x5F7C;&#x6B64;&#x7B7E;&#x8BA2;&#x9632;&#x5FA1;&#x540C;&#x76DF;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x5F7C;&#x6B64;&#x7B7E;&#x8BA2;&#x9632;&#x5FA1;&#x540C;&#x76DF;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_OPEN_BORDERS</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x5F7C;&#x6B64;&#x7B7E;&#x8BA2;&#x5F00;&#x653E;&#x8FB9;&#x5883;&#x534F;&#x8BAE;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x5F7C;&#x6B64;&#x7B7E;&#x8BA2;&#x5F00;&#x653E;&#x8FB9;&#x5883;&#x534F;&#x8BAE;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FORCE_PEACE</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x5176;&#x4ED6;&#x6210;&#x5458;&#x4E0E; %s1 &#x7B7E;&#x8BA2;&#x548C;&#x5E73;&#x6761;&#x7EA6;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x5176;&#x4ED6;&#x6210;&#x5458;&#x4E0E; %s1 &#x7B7E;&#x8BA2;&#x548C;&#x5E73;&#x6761;&#x7EA6;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FORCE_PEACE_SOMEONE</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x5176;&#x4ED6;&#x6210;&#x5458;&#x4E0E;&#x4E00;&#x540D;&#x9009;&#x5B9A;&#x6210;&#x5458;&#x7B7E;&#x8BA2;&#x548C;&#x5E73;&#x6761;&#x7EA6;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x5176;&#x4ED6;&#x6210;&#x5458;&#x4E0E;&#x4E00;&#x540D;&#x9009;&#x5B9A;&#x6210;&#x5458;&#x7B7E;&#x8BA2;&#x548C;&#x5E73;&#x6761;&#x7EA6;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FORCE_NO_TRADE</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x53D6;&#x6D88;&#x4E0E; %s1 &#x7684;&#x6240;&#x6709;&#x534F;&#x8BAE;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x53D6;&#x6D88;&#x4E0E; %s1 &#x7684;&#x6240;&#x6709;&#x534F;&#x8BAE;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FORCE_NO_TRADE_SOMEONE</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x53D6;&#x6D88;&#x4E0E;&#x4E00;&#x540D;&#x9009;&#x5B9A;&#x7684;&#x975E;&#x6210;&#x5458;&#x7684;&#x6240;&#x6709;&#x534F;&#x8BAE;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x53D6;&#x6D88;&#x4E0E;&#x4E00;&#x540D;&#x9009;&#x5B9A;&#x7684;&#x975E;&#x6210;&#x5458;&#x7684;&#x6240;&#x6709;&#x534F;&#x8BAE;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FORCE_WAR</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x5411; %s1 &#x5BA3;&#x6218;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x5411; %s1 &#x5BA3;&#x6218;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_FORCE_WAR_SOMEONE</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x5411;&#x4E00;&#x540D;&#x9009;&#x5B9A;&#x7684;&#x975E;&#x6210;&#x5458;&#x5BA3;&#x6218;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x5411;&#x4E00;&#x540D;&#x9009;&#x5B9A;&#x7684;&#x975E;&#x6210;&#x5458;&#x5BA3;&#x6218;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_NO_OUTSIDE_TECH_TRADES</Tag>
+		<English>[ICON_BULLET]&#x6210;&#x5458;&#x4E0D;&#x5F97;&#x4E0E;&#x975E;&#x6210;&#x5458;&#x4EA4;&#x6613;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6210;&#x5458;&#x4E0D;&#x5F97;&#x4E0E;&#x975E;&#x6210;&#x5458;&#x4EA4;&#x6613;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_CULTURE_NEEDS_EMPTY_RADIUS</Tag>
+		<English>[ICON_BULLET]&#x65E0;&#x6CD5;&#x901A;&#x8FC7;&#x6587;&#x5316;&#x593A;&#x53D6;&#x5176;&#x4ED6;&#x6210;&#x5458;&#x7684;&#x9886;&#x571F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x65E0;&#x6CD5;&#x901A;&#x8FC7;&#x6587;&#x5316;&#x593A;&#x53D6;&#x5176;&#x4ED6;&#x6210;&#x5458;&#x7684;&#x9886;&#x571F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_RECEIVE_UNIT_COST</Tag>
+		<English>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x80FD;&#x652F;&#x4ED8; %d1 %F2 &#x7684;&#x6210;&#x5458;&#x83B7;&#x5F97; [LINK=literal]%s3[\LINK]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x80FD;&#x652F;&#x4ED8; %d1 %F2 &#x7684;&#x6210;&#x5458;&#x83B7;&#x5F97; [LINK=literal]%s3[\LINK]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_RECEIVE_UNIT</Tag>
+		<English>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x6210;&#x5458;&#x83B7;&#x5F97; %s1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6BCF;&#x4E2A;&#x6210;&#x5458;&#x83B7;&#x5F97; %s1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_CRIME</Tag>
+		<English>[ICON_BULLET]&#x4F7F;&#x5168;&#x7403;&#x72AF;&#x7F6A;&#x7387; %D1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x4F7F;&#x5168;&#x7403;&#x72AF;&#x7F6A;&#x7387; %D1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_REASSIGN_CITY</Tag>
+		<English>[ICON_BULLET]&#x91CD;&#x65B0;&#x5206;&#x914D;&#x4E00;&#x5EA7;&#x57CE;&#x5E02;&#x7684;&#x5F52;&#x5C5E;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x91CD;&#x65B0;&#x5206;&#x914D;&#x4E00;&#x5EA7;&#x57CE;&#x5E02;&#x7684;&#x5F52;&#x5C5E;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_REASSIGN_CITY_FROM_TO</Tag>
+		<English>[ICON_BULLET]&#x5C06; %s1 &#x7684;&#x5F52;&#x5C5E;&#x4ECE; %s2 &#x8F6C;&#x79FB;&#x7ED9; %s3</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x5C06; %s1 &#x7684;&#x5F52;&#x5C5E;&#x4ECE; %s2 &#x8F6C;&#x79FB;&#x7ED9; %s3</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VOTE_HELP_TRADE_MAP</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x5171;&#x4EAB;&#x5404;&#x81EA;&#x5F53;&#x524D;&#x7684;&#x4E16;&#x754C;&#x5730;&#x56FE;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x6210;&#x5458;&#x5171;&#x4EAB;&#x5404;&#x81EA;&#x5F53;&#x524D;&#x7684;&#x4E16;&#x754C;&#x5730;&#x56FE;</Chinese>
+	</TEXT>
+</Civ4GameText>

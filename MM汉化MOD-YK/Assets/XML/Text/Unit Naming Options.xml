@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__ENABLED_TEXT</Tag>
+		<English>&#x542F;&#x7528;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x542F;&#x7528;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__ENABLED_HOVER</Tag>
+		<English>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x4F7F;&#x7528;&#x672C;&#x6807;&#x7B7E;&#x9875;&#x53CA; INI &#x6587;&#x4EF6;&#x4E2D;&#x7684;&#x683C;&#x5F0F;&#x6765;&#x4E3A;&#x73A9;&#x5BB6;&#x7684;&#x5355;&#x4F4D;&#x547D;&#x540D;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x4F7F;&#x7528;&#x672C;&#x6807;&#x7B7E;&#x9875;&#x53CA; INI &#x6587;&#x4EF6;&#x4E2D;&#x7684;&#x683C;&#x5F0F;&#x6765;&#x4E3A;&#x73A9;&#x5BB6;&#x7684;&#x5355;&#x4F4D;&#x547D;&#x540D;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__USEADVANCED_TEXT</Tag>
+		<English>&#x4F7F;&#x7528;&#x9AD8;&#x7EA7;&#x65B9;&#x6CD5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4F7F;&#x7528;&#x9AD8;&#x7EA7;&#x65B9;&#x6CD5;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__USEADVANCED_HOVER</Tag>
+		<English>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x5C06;&#x4F7F;&#x7528; 'Adv Unit Naming.ini' &#x6587;&#x4EF6;&#x4E2D;&#x7684;&#x9AD8;&#x7EA7;&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF08;Era_UnitClass &#x9009;&#x9879;&#x53C2;&#x89C1;&#x8BE5; ini &#x6587;&#x4EF6;&#xFF09;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x5C06;&#x4F7F;&#x7528; 'Adv Unit Naming.ini' &#x6587;&#x4EF6;&#x4E2D;&#x7684;&#x9AD8;&#x7EA7;&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF08;Era_UnitClass &#x9009;&#x9879;&#x53C2;&#x89C1;&#x8BE5; ini &#x6587;&#x4EF6;&#xFF09;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__DEFAULT_TEXT</Tag>
+		<English>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x9ED8;&#x8BA4;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x9ED8;&#x8BA4;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__DEFAULT_HOVER</Tag>
+		<English>&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF08;&#x8BE6;&#x89C1;&#x5E2E;&#x52A9;&#x6587;&#x4EF6;&#xFF09;&#x3002;&#x540D;&#x79F0;&#x53EF;&#x7531;&#x7EAF;&#x6587;&#x672C;&#x4E0E;&#x51FA;&#x73B0;&#x5728;&#x6210;&#x5BF9;&#x8131;&#x5B57;&#x7B26;&#xFF08;^&#xFF09;&#x4E4B;&#x95F4;&#x7684;&#x683C;&#x5F0F;&#x4EE3;&#x7801;&#x7EC4;&#x5408;&#x800C;&#x6210;&#x3002;[NEWLINE][ICON_BULLET]&#x4F8B;&#x5982; "^cv^ ^ut^ from ^ct^" --&gt; "&#x6CE2;&#x58EB;&#x987F;&#x7684;&#x7F8E;&#x5229;&#x575A;&#x5F13;&#x624B;"[NEWLINE][BOLD]&#x901A;&#x7528;&#x4EE3;&#x7801;[\BOLD][NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]civ4[COLOR_REVERT] - &#x4F7F;&#x7528;&#x5185;&#x7F6E;&#x7684; Civ4 &#x540D;&#x79F0;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]rd[COLOR_REVERT] - &#x968F;&#x673A;&#x540D;&#x79F0;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]rc[COLOR_REVERT] - &#x968F;&#x673A;&#x7684;&#x6587;&#x660E;&#x76F8;&#x5173;&#x540D;&#x79F0;[NEWLINE][BOLD]&#x5355;&#x4F4D;&#x4FE1;&#x606F;&#x4EE3;&#x7801;[\BOLD][NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]ct[COLOR_REVERT] - &#x5EFA;&#x9020;&#x8BE5;&#x5355;&#x4F4D;&#x7684;&#x57CE;&#x5E02;&#xFF08;&#x4F8B;&#x5982;&#x6CE2;&#x58EB;&#x987F;&#xFF09;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cv[COLOR_REVERT] - &#x5EFA;&#x9020;&#x8BE5;&#x5355;&#x4F4D;&#x7684;&#x6587;&#x660E;&#x7684;&#x5F62;&#x5BB9;&#x8BCD;&#x5F62;&#x5F0F;&#xFF08;&#x4F8B;&#x5982;&#x7F8E;&#x5229;&#x575A;&#xFF09;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]ut[COLOR_REVERT] - &#x5355;&#x4F4D;&#x7C7B;&#x578B;&#xFF08;&#x4F8B;&#x5982;&#x5F13;&#x624B;&#xFF09;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cb[COLOR_REVERT] - &#x6218;&#x6597;&#x7C7B;&#x578B;&#xFF08;&#x4F8B;&#x5982;&#x8FD1;&#x6218;&#xFF09;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]dm[COLOR_REVERT] - &#x9886;&#x57DF;&#x7C7B;&#x578B;&#xFF08;&#x4F8B;&#x5982;&#x6C34;&#x57DF;&#xFF09;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]ld[COLOR_REVERT] - &#x5EFA;&#x9020;&#x8BE5;&#x5355;&#x4F4D;&#x7684;&#x9886;&#x8896;&#xFF08;&#x4F8B;&#x5982;&#x7F57;&#x65AF;&#x798F;&#xFF09;[NEWLINE][BOLD]&#x8BA1;&#x6570;&#x4EE3;&#x7801;[\BOLD][NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cnt[f][COLOR_REVERT] - &#x8DE8;&#x6240;&#x6709;&#x5355;&#x4F4D;&#x8BA1;&#x6570;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cntu[f][COLOR_REVERT] - &#x6309;&#x5355;&#x4F4D;&#x7C7B;&#x578B;&#x8BA1;&#x6570;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cntct[f][COLOR_REVERT] - &#x6309;&#x57CE;&#x5E02;&#x8BA1;&#x6570;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cntuct[f][COLOR_REVERT] - &#x6309;&#x5355;&#x4F4D;/&#x57CE;&#x5E02;&#x7EC4;&#x5408;&#x8BA1;&#x6570;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cntc[f][COLOR_REVERT] - &#x6309;&#x6218;&#x6597;&#x7C7B;&#x578B;&#x8BA1;&#x6570;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cntd[f][COLOR_REVERT] - &#x6309;&#x9886;&#x57DF;&#x8BA1;&#x6570;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]tt1[f][x:y][COLOR_REVERT] - &#x8BA1;&#x6570;&#x81F3;&#x4E00;&#x4E2A;&#x5728; x &#x4E0E; y &#x4E4B;&#x95F4;&#x9009;&#x53D6;&#x7684;&#x6570;&#x5B57;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]tt1[f][x][COLOR_REVERT] - &#x4ECE; x &#x5F00;&#x59CB;&#x8BA1;&#x6570;&#xFF0C;&#x6BCF;&#x6B21; tt1 &#x4EE3;&#x7801;&#x88AB;&#x91CD;&#x7F6E;&#x65F6;&#x9012;&#x589E;[NEWLINE][NEWLINE]* [f] &#x4E2D;&#x7684; f &#x4E3A; s, A, a, p, g, n, o, r &#x4E4B;&#x4E00;&#xFF08;&#x8BE6;&#x89C1;&#x5E2E;&#x52A9;&#x6587;&#x4EF6;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF08;&#x8BE6;&#x89C1;&#x5E2E;&#x52A9;&#x6587;&#x4EF6;&#xFF09;&#x3002;&#x540D;&#x79F0;&#x53EF;&#x7531;&#x7EAF;&#x6587;&#x672C;&#x4E0E;&#x51FA;&#x73B0;&#x5728;&#x6210;&#x5BF9;&#x8131;&#x5B57;&#x7B26;&#xFF08;^&#xFF09;&#x4E4B;&#x95F4;&#x7684;&#x683C;&#x5F0F;&#x4EE3;&#x7801;&#x7EC4;&#x5408;&#x800C;&#x6210;&#x3002;[NEWLINE][ICON_BULLET]&#x4F8B;&#x5982; "^cv^ ^ut^ from ^ct^" --&gt; "&#x6CE2;&#x58EB;&#x987F;&#x7684;&#x7F8E;&#x5229;&#x575A;&#x5F13;&#x624B;"[NEWLINE][BOLD]&#x901A;&#x7528;&#x4EE3;&#x7801;[\BOLD][NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]civ4[COLOR_REVERT] - &#x4F7F;&#x7528;&#x5185;&#x7F6E;&#x7684; Civ4 &#x540D;&#x79F0;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]rd[COLOR_REVERT] - &#x968F;&#x673A;&#x540D;&#x79F0;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]rc[COLOR_REVERT] - &#x968F;&#x673A;&#x7684;&#x6587;&#x660E;&#x76F8;&#x5173;&#x540D;&#x79F0;[NEWLINE][BOLD]&#x5355;&#x4F4D;&#x4FE1;&#x606F;&#x4EE3;&#x7801;[\BOLD][NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]ct[COLOR_REVERT] - &#x5EFA;&#x9020;&#x8BE5;&#x5355;&#x4F4D;&#x7684;&#x57CE;&#x5E02;&#xFF08;&#x4F8B;&#x5982;&#x6CE2;&#x58EB;&#x987F;&#xFF09;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cv[COLOR_REVERT] - &#x5EFA;&#x9020;&#x8BE5;&#x5355;&#x4F4D;&#x7684;&#x6587;&#x660E;&#x7684;&#x5F62;&#x5BB9;&#x8BCD;&#x5F62;&#x5F0F;&#xFF08;&#x4F8B;&#x5982;&#x7F8E;&#x5229;&#x575A;&#xFF09;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]ut[COLOR_REVERT] - &#x5355;&#x4F4D;&#x7C7B;&#x578B;&#xFF08;&#x4F8B;&#x5982;&#x5F13;&#x624B;&#xFF09;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cb[COLOR_REVERT] - &#x6218;&#x6597;&#x7C7B;&#x578B;&#xFF08;&#x4F8B;&#x5982;&#x8FD1;&#x6218;&#xFF09;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]dm[COLOR_REVERT] - &#x9886;&#x57DF;&#x7C7B;&#x578B;&#xFF08;&#x4F8B;&#x5982;&#x6C34;&#x57DF;&#xFF09;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]ld[COLOR_REVERT] - &#x5EFA;&#x9020;&#x8BE5;&#x5355;&#x4F4D;&#x7684;&#x9886;&#x8896;&#xFF08;&#x4F8B;&#x5982;&#x7F57;&#x65AF;&#x798F;&#xFF09;[NEWLINE][BOLD]&#x8BA1;&#x6570;&#x4EE3;&#x7801;[\BOLD][NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cnt[f][COLOR_REVERT] - &#x8DE8;&#x6240;&#x6709;&#x5355;&#x4F4D;&#x8BA1;&#x6570;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cntu[f][COLOR_REVERT] - &#x6309;&#x5355;&#x4F4D;&#x7C7B;&#x578B;&#x8BA1;&#x6570;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cntct[f][COLOR_REVERT] - &#x6309;&#x57CE;&#x5E02;&#x8BA1;&#x6570;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cntuct[f][COLOR_REVERT] - &#x6309;&#x5355;&#x4F4D;/&#x57CE;&#x5E02;&#x7EC4;&#x5408;&#x8BA1;&#x6570;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cntc[f][COLOR_REVERT] - &#x6309;&#x6218;&#x6597;&#x7C7B;&#x578B;&#x8BA1;&#x6570;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]cntd[f][COLOR_REVERT] - &#x6309;&#x9886;&#x57DF;&#x8BA1;&#x6570;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]tt1[f][x:y][COLOR_REVERT] - &#x8BA1;&#x6570;&#x81F3;&#x4E00;&#x4E2A;&#x5728; x &#x4E0E; y &#x4E4B;&#x95F4;&#x9009;&#x53D6;&#x7684;&#x6570;&#x5B57;[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]tt1[f][x][COLOR_REVERT] - &#x4ECE; x &#x5F00;&#x59CB;&#x8BA1;&#x6570;&#xFF0C;&#x6BCF;&#x6B21; tt1 &#x4EE3;&#x7801;&#x88AB;&#x91CD;&#x7F6E;&#x65F6;&#x9012;&#x589E;[NEWLINE][NEWLINE]* [f] &#x4E2D;&#x7684; f &#x4E3A; s, A, a, p, g, n, o, r &#x4E4B;&#x4E00;&#xFF08;&#x8BE6;&#x89C1;&#x5E2E;&#x52A9;&#x6587;&#x4EF6;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_AIR_TEXT</Tag>
+		<English>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[AIR]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[AIR]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_AIR_HOVER</Tag>
+		<English>&#x4E3A; 'AIR' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E3A; 'AIR' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_ARCHER_TEXT</Tag>
+		<English>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[ARCHER]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[ARCHER]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_ARCHER_HOVER</Tag>
+		<English>&#x4E3A; 'ARCHER' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E3A; 'ARCHER' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_ARMOR_TEXT</Tag>
+		<English>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[ARMOR]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[ARMOR]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_ARMOR_HOVER</Tag>
+		<English>&#x4E3A; 'ARMOR' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E3A; 'ARMOR' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_GUN_TEXT</Tag>
+		<English>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[GUN]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[GUN]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_GUN_HOVER</Tag>
+		<English>&#x4E3A; 'GUN' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E3A; 'GUN' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_HELICOPTER_TEXT</Tag>
+		<English>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[HELICOPTER]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[HELICOPTER]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_HELICOPTER_HOVER</Tag>
+		<English>&#x4E3A; 'HELICOPTER' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E3A; 'HELICOPTER' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_MELEE_TEXT</Tag>
+		<English>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[MELEE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[MELEE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_MELEE_HOVER</Tag>
+		<English>&#x4E3A; 'MELEE' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E3A; 'MELEE' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_MOUNTED_TEXT</Tag>
+		<English>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[MOUNTED]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[MOUNTED]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_MOUNTED_HOVER</Tag>
+		<English>&#x4E3A; 'MOUNTED' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E3A; 'MOUNTED' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_TEXT</Tag>
+		<English>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[NAVAL]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[NAVAL]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NAVAL_HOVER</Tag>
+		<English>&#x4E3A; 'NAVAL' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E3A; 'NAVAL' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NONE_TEXT</Tag>
+		<English>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[None]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[None]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_NONE_HOVER</Tag>
+		<English>&#x4E3A; 'None' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E3A; 'None' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_RECON_TEXT</Tag>
+		<English>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[RECON]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[RECON]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_RECON_HOVER</Tag>
+		<English>&#x4E3A; 'RECON' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E3A; 'RECON' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_SIEGE_TEXT</Tag>
+		<English>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[SIEGE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[SIEGE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_SIEGE_HOVER</Tag>
+		<English>&#x4E3A; 'SIEGE' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E3A; 'SIEGE' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_DISCIPLE_TEXT</Tag>
+		<English>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[DISCIPLE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[DISCIPLE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_DISCIPLE_HOVER</Tag>
+		<English>&#x4E3A; 'DISCIPLE' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E3A; 'DISCIPLE' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_ADEPT_TEXT</Tag>
+		<English>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[ADEPT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[ADEPT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_ADEPT_HOVER</Tag>
+		<English>&#x4E3A; 'ADEPT' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E3A; 'ADEPT' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_ANIMAL_TEXT</Tag>
+		<English>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[ANIMAL]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF1A;&#x6218;&#x6597;[ANIMAL]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_ANIMAL_HOVER</Tag>
+		<English>&#x4E3A; 'ANIMAL' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E3A; 'ANIMAL' &#x6218;&#x6597;&#x5355;&#x4F4D;&#x8F93;&#x5165;&#x7528;&#x6237;&#x81EA;&#x5B9A;&#x4E49;&#x7684;&#x547D;&#x540D;&#x89C4;&#x8303;&#x3002;</Chinese>
+	</TEXT>
+</Civ4GameText>

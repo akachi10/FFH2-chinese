@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_CATEGORY_EVENT</Tag>
+		<English>&#x4E8B;&#x4EF6;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E8B;&#x4EF6;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_CATEGORY_EVENTAGE</Tag>
+		<English>&#x65F6;&#x4EE3;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65F6;&#x4EE3;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_CATEGORY_GREAT_PERSONS</Tag>
+		<English>&#x4F1F;&#x4EBA;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4F1F;&#x4EBA;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_CATEGORY_CONCEPT_DCM</Tag>
+		<English>DCM &#x6982;&#x5FF5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>DCM &#x6982;&#x5FF5;</Chinese>
+	</TEXT>
+</Civ4GameText>

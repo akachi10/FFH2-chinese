@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_AUTOSAVE__CREATESTARTSAVE_TEXT</Tag>
+		<English>&#x5F00;&#x5C40;&#x5B58;&#x6863;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5F00;&#x5C40;&#x5B58;&#x6863;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_AUTOSAVE__CREATESTARTSAVE_HOVER</Tag>
+		<English>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x5728;&#xFF08;&#x91CD;&#x65B0;&#xFF09;&#x751F;&#x6210;&#x5730;&#x56FE;&#x540E;&#x521B;&#x5EFA;&#x4E00;&#x4E2A;&#x5B58;&#x6863;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x5728;&#xFF08;&#x91CD;&#x65B0;&#xFF09;&#x751F;&#x6210;&#x5730;&#x56FE;&#x540E;&#x521B;&#x5EFA;&#x4E00;&#x4E2A;&#x5B58;&#x6863;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_AUTOSAVE__CREATEENDSAVE_TEXT</Tag>
+		<English>&#x7ED3;&#x5C40;&#x5B58;&#x6863;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x7ED3;&#x5C40;&#x5B58;&#x6863;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_AUTOSAVE__CREATEENDSAVE_HOVER</Tag>
+		<English>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x5728;&#x6E38;&#x620F;&#x80DC;&#x5229;&#xFF0F;&#x5931;&#x8D25;&#x65F6;&#x521B;&#x5EFA;&#x4E00;&#x4E2A;&#x5B58;&#x6863;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x5728;&#x6E38;&#x620F;&#x80DC;&#x5229;&#xFF0F;&#x5931;&#x8D25;&#x65F6;&#x521B;&#x5EFA;&#x4E00;&#x4E2A;&#x5B58;&#x6863;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_AUTOSAVE__CREATEEXITSAVE_TEXT</Tag>
+		<English>&#x9000;&#x51FA;&#x5B58;&#x6863;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9000;&#x51FA;&#x5B58;&#x6863;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_AUTOSAVE__CREATEEXITSAVE_HOVER</Tag>
+		<English>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x5F53;&#x4F60;&#x901A;&#x8FC7;&#x83DC;&#x5355;&#x7684;&#x201C;&#x9000;&#x51FA;&#x5230;&#x684C;&#x9762;&#x201D;&#x6216;&#x201C;&#x9000;&#x51FA;&#x5230;&#x4E3B;&#x83DC;&#x5355;&#x201D;&#x547D;&#x4EE4;&#x9000;&#x51FA;&#x65F6;&#x521B;&#x5EFA;&#x4E00;&#x4E2A;&#x5B58;&#x6863;&#x3002;[COLOR_YELLOW]&#x82E5;&#x6309; ALT + F4&#xFF0C;&#x6E38;&#x620F;&#x4E0D;&#x4F1A;&#x81EA;&#x52A8;&#x4FDD;&#x5B58;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x5F53;&#x4F60;&#x901A;&#x8FC7;&#x83DC;&#x5355;&#x7684;&#x201C;&#x9000;&#x51FA;&#x5230;&#x684C;&#x9762;&#x201D;&#x6216;&#x201C;&#x9000;&#x51FA;&#x5230;&#x4E3B;&#x83DC;&#x5355;&#x201D;&#x547D;&#x4EE4;&#x9000;&#x51FA;&#x65F6;&#x521B;&#x5EFA;&#x4E00;&#x4E2A;&#x5B58;&#x6863;&#x3002;[COLOR_YELLOW]&#x82E5;&#x6309; ALT + F4&#xFF0C;&#x6E38;&#x620F;&#x4E0D;&#x4F1A;&#x81EA;&#x52A8;&#x4FDD;&#x5B58;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_AUTOSAVE__USEPLAYERNAME_TEXT</Tag>
+		<English>&#x4F7F;&#x7528;&#x73A9;&#x5BB6;&#x540D;&#x79F0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4F7F;&#x7528;&#x73A9;&#x5BB6;&#x540D;&#x79F0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_AUTOSAVE__USEPLAYERNAME_HOVER</Tag>
+		<English>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x5B58;&#x6863;&#x540D;&#x79F0;&#x4F7F;&#x7528;&#x4F60;&#x7684;&#x73A9;&#x5BB6;&#x540D;&#x79F0;&#x5E76;&#x9644;&#x5E26;&#x56DE;&#x5408;&#x5E74;&#x4EFD;&#x3002;&#x5426;&#x5219;&#x540D;&#x79F0;&#x7531;&#x9886;&#x8896;&#x540D;&#x3001;&#x96BE;&#x5EA6;&#x3001;&#x5730;&#x56FE;&#x5927;&#x5C0F;&#x3001;&#x5730;&#x56FE;&#x7C7B;&#x578B;&#x3001;&#x901F;&#x5EA6;&#x3001;&#x65F6;&#x4EE3;&#x3001;&#x5E74;&#x4EFD;&#x3001;&#x6C14;&#x5019;&#x548C;&#x6D77;&#x5E73;&#x9762;&#x5404;&#x53D6; 3 &#x4E2A;&#x5B57;&#x6BCD;&#x62FC;&#x63A5;&#x800C;&#x6210;&#x3002;&#x6B64;&#x8BBE;&#x7F6E;&#x4E0D;&#x5F71;&#x54CD; MapFinder &#x5B58;&#x6863;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x52FE;&#x9009;&#x540E;&#xFF0C;&#x5B58;&#x6863;&#x540D;&#x79F0;&#x4F7F;&#x7528;&#x4F60;&#x7684;&#x73A9;&#x5BB6;&#x540D;&#x79F0;&#x5E76;&#x9644;&#x5E26;&#x56DE;&#x5408;&#x5E74;&#x4EFD;&#x3002;&#x5426;&#x5219;&#x540D;&#x79F0;&#x7531;&#x9886;&#x8896;&#x540D;&#x3001;&#x96BE;&#x5EA6;&#x3001;&#x5730;&#x56FE;&#x5927;&#x5C0F;&#x3001;&#x5730;&#x56FE;&#x7C7B;&#x578B;&#x3001;&#x901F;&#x5EA6;&#x3001;&#x65F6;&#x4EE3;&#x3001;&#x5E74;&#x4EFD;&#x3001;&#x6C14;&#x5019;&#x548C;&#x6D77;&#x5E73;&#x9762;&#x5404;&#x53D6; 3 &#x4E2A;&#x5B57;&#x6BCD;&#x62FC;&#x63A5;&#x800C;&#x6210;&#x3002;&#x6B64;&#x8BBE;&#x7F6E;&#x4E0D;&#x5F71;&#x54CD; MapFinder &#x5B58;&#x6863;&#x3002;</Chinese>
+	</TEXT>
+</Civ4GameText>

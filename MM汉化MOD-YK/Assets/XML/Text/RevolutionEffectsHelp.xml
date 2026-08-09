@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_PER_TURN</Tag>
+		<English>[ICON_BULLET]&#x6BCF;&#x56DE;&#x5408; %D1[ICON_INSTABILITY]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6BCF;&#x56DE;&#x5408; %D1[ICON_INSTABILITY]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_PER_TURN_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6BCF;&#x56DE;&#x5408; %D1[ICON_INSTABILITY]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6BCF;&#x56DE;&#x5408; %D1[ICON_INSTABILITY]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_HOLY_CITY_OWNED</Tag>
+		<English>[ICON_BULLET]&#x82E5;&#x6211;&#x65B9;&#x62E5;&#x6709;&#x81EA;&#x5DF1;&#x7684;&#x5723;&#x57CE;&#xFF0C;&#x6BCF;&#x56DE;&#x5408; %D1[ICON_INSTABILITY]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x82E5;&#x6211;&#x65B9;&#x62E5;&#x6709;&#x81EA;&#x5DF1;&#x7684;&#x5723;&#x57CE;&#xFF0C;&#x6BCF;&#x56DE;&#x5408; %D1[ICON_INSTABILITY]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_HOLY_CITY_OWNED_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x82E5;&#x6211;&#x65B9;&#x62E5;&#x6709;&#x81EA;&#x5DF1;&#x7684;&#x5723;&#x57CE;&#xFF0C;&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6BCF;&#x56DE;&#x5408; %D1[ICON_INSTABILITY]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x82E5;&#x6211;&#x65B9;&#x62E5;&#x6709;&#x81EA;&#x5DF1;&#x7684;&#x5723;&#x57CE;&#xFF0C;&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6BCF;&#x56DE;&#x5408; %D1[ICON_INSTABILITY]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_HOLY_CITY_HEATHEN_OWNED</Tag>
+		<English>[ICON_BULLET]&#x82E5;&#x5F02;&#x6559;&#x5F92;&#x62E5;&#x6709;&#x6211;&#x65B9;&#x5723;&#x57CE;&#xFF0C;&#x6BCF;&#x56DE;&#x5408; %D1[ICON_INSTABILITY]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x82E5;&#x5F02;&#x6559;&#x5F92;&#x62E5;&#x6709;&#x6211;&#x65B9;&#x5723;&#x57CE;&#xFF0C;&#x6BCF;&#x56DE;&#x5408; %D1[ICON_INSTABILITY]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_HOLY_CITY_HEATHEN_OWNED_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x82E5;&#x5F02;&#x6559;&#x5F92;&#x62E5;&#x6709;&#x6211;&#x65B9;&#x5723;&#x57CE;&#xFF0C;&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6BCF;&#x56DE;&#x5408; %D1[ICON_INSTABILITY]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x82E5;&#x5F02;&#x6559;&#x5F92;&#x62E5;&#x6709;&#x6211;&#x65B9;&#x5723;&#x57CE;&#xFF0C;&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6BCF;&#x56DE;&#x5408; %D1[ICON_INSTABILITY]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_UN_OR_HAPPINESS_MOD</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA; [ICON_HAPPY]/[ICON_UNHAPPY] &#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA; [ICON_HAPPY]/[ICON_UNHAPPY] &#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_UN_OR_HAPPINESS_MOD_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA; [ICON_HAPPY]/[ICON_UNHAPPY] &#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA; [ICON_HAPPY]/[ICON_UNHAPPY] &#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_HAPPINESS_MOD</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA; [ICON_HAPPY] &#x7684;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA; [ICON_HAPPY] &#x7684;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_HAPPINESS_MOD_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA; [ICON_HAPPY] &#x7684;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA; [ICON_HAPPY] &#x7684;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_UNHAPPINESS_MOD</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA; [ICON_UNHAPPY] &#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA; [ICON_UNHAPPY] &#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_UNHAPPINESS_MOD_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA; [ICON_UNHAPPY] &#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA; [ICON_UNHAPPY] &#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_HAPPINESS_CAP_CHANGE</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA; [ICON_HAPPY] &#x7684;&#x6700;&#x5927;&#x7A33;&#x5B9A; %D1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA; [ICON_HAPPY] &#x7684;&#x6700;&#x5927;&#x7A33;&#x5B9A; %D1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_HAPPINESS_CAP_CHANGE_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA; [ICON_HAPPY] &#x7684;&#x6700;&#x5927;&#x7A33;&#x5B9A; %D1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA; [ICON_HAPPY] &#x7684;&#x6700;&#x5927;&#x7A33;&#x5B9A; %D1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_LOCATION_MOD</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA;&#x8DDD;&#x79BB;&#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA;&#x8DDD;&#x79BB;&#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_LOCATION_MOD_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x8DDD;&#x79BB;&#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x8DDD;&#x79BB;&#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_RELIGION_MOD</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA; [ICON_RELIGION] &#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA; [ICON_RELIGION] &#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_RELIGION_MOD_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA; [ICON_RELIGION] &#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA; [ICON_RELIGION] &#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_GOOD_RELIGION_MOD</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA;&#x56FD;&#x6559; [ICON_RELIGION] &#x7684;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA;&#x56FD;&#x6559; [ICON_RELIGION] &#x7684;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_GOOD_RELIGION_MOD_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x56FD;&#x6559; [ICON_RELIGION] &#x7684;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x56FD;&#x6559; [ICON_RELIGION] &#x7684;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_BAD_RELIGION_MOD</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA;&#x975E;&#x56FD;&#x6559; [ICON_RELIGION] &#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA;&#x975E;&#x56FD;&#x6559; [ICON_RELIGION] &#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_BAD_RELIGION_MOD_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x975E;&#x56FD;&#x6559; [ICON_RELIGION] &#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x975E;&#x56FD;&#x6559; [ICON_RELIGION] &#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_NATIONALITY</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA;&#x6C11;&#x65CF;&#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA;&#x6C11;&#x65CF;&#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_NATIONALITY_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x6C11;&#x65CF;&#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x6C11;&#x65CF;&#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_GARRISON_MOD</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA;&#x9A7B;&#x519B;&#x7684;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA;&#x9A7B;&#x519B;&#x7684;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_GARRISON_MOD_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x9A7B;&#x519B;&#x7684;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x9A7B;&#x519B;&#x7684;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_GARRISON_CAP_CHANGE</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA;&#x9A7B;&#x519B;&#x7684;&#x6700;&#x5927;&#x7A33;&#x5B9A; %D1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA;&#x9A7B;&#x519B;&#x7684;&#x6700;&#x5927;&#x7A33;&#x5B9A; %D1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_GARRISON_CAP_CHANGE_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x9A7B;&#x519B;&#x7684;&#x6700;&#x5927;&#x7A33;&#x5B9A; %D1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x9A7B;&#x519B;&#x7684;&#x6700;&#x5927;&#x7A33;&#x5B9A; %D1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_DISORDER_MOD</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA;&#x52A8;&#x4E71;&#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA;&#x52A8;&#x4E71;&#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_DISORDER_MOD_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x52A8;&#x4E71;&#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x52A8;&#x4E71;&#x7684;&#x4E0D;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_CRIME_MOD</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA;&#x72AF;&#x7F6A;&#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA;&#x72AF;&#x7F6A;&#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_CRIME_MOD_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x72AF;&#x7F6A;&#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA;&#x72AF;&#x7F6A;&#x7684;&#xFF08;&#x4E0D;&#xFF09;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_CULTURE_RATE_MOD</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA; [ICON_CULTURE] &#x7684;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA; [ICON_CULTURE] &#x7684;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_CULTURE_RATE_MOD_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA; [ICON_CULTURE] &#x7684;&#x7A33;&#x5B9A; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA; [ICON_CULTURE] &#x7684;&#x7A33;&#x5B9A; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_CULTURE_RATE_CAP_CHANGE</Tag>
+		<English>[ICON_BULLET]&#x6765;&#x81EA; [ICON_CULTURE] &#x7684;&#x6700;&#x5927;&#x7A33;&#x5B9A; %D1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6765;&#x81EA; [ICON_CULTURE] &#x7684;&#x6700;&#x5927;&#x7A33;&#x5B9A; %D1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HELP_REV_IDX_CULTURE_RATE_CAP_CHANGE_ALL_CITIES</Tag>
+		<English>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA; [ICON_CULTURE] &#x7684;&#x6700;&#x5927;&#x7A33;&#x5B9A; %D1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6240;&#x6709;&#x57CE;&#x5E02;&#x6765;&#x81EA; [ICON_CULTURE] &#x7684;&#x6700;&#x5927;&#x7A33;&#x5B9A; %D1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_REV_VIOLENT_MOD</Tag>
+		<English>[ICON_BULLET]&#x66B4;&#x529B;&#x9769;&#x547D;&#x4E0B;&#x9650;&#x9608;&#x503C; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x66B4;&#x529B;&#x9769;&#x547D;&#x4E0B;&#x9650;&#x9608;&#x503C; %D1%</Chinese>
+	</TEXT>
+</Civ4GameText>

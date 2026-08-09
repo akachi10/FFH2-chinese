@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIQUE_BUILDINGS_AND_PROJECTS</Tag>
+		<English>&#x72EC;&#x7279;&#x5EFA;&#x7B51;/&#x4EEA;&#x5F0F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x72EC;&#x7279;&#x5EFA;&#x7B51;/&#x4EEA;&#x5F0F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_OTHER_FEATURES</Tag>
+		<English>&#x5176;&#x4ED6;&#x7279;&#x6027;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5176;&#x4ED6;&#x7279;&#x6027;</Chinese>
+	</TEXT>
+</Civ4GameText>

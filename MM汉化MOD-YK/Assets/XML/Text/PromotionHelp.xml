@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_EXPIRES_END_OF_TURN</Tag>
+		<English>[ICON_BULLET]&#x56DE;&#x5408;&#x7ED3;&#x675F;&#x65F6;&#x6D88;&#x9000;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x56DE;&#x5408;&#x7ED3;&#x675F;&#x65F6;&#x6D88;&#x9000;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_HELP_INVISIBLE</Tag>
+		<English>[ICON_BULLET]&#x4F7F;&#x5355;&#x4F4D;&#x9690;&#x5F62;&#xFF08;&#x57CE;&#x5E02;&#x4E2D;&#x9664;&#x5916;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x4F7F;&#x5355;&#x4F4D;&#x9690;&#x5F62;&#xFF08;&#x57CE;&#x5E02;&#x4E2D;&#x9664;&#x5916;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MIN_LEVEL</Tag>
+		<English>[ICON_BULLET]&#x9700;&#x8981; %d1 &#x7EA7;&#x6216;&#x66F4;&#x9AD8;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x9700;&#x8981; %d1 &#x7EA7;&#x6216;&#x66F4;&#x9AD8;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GARRISON_REV_IDX</Tag>
+		<English>[ICON_BULLET]&#x9A7B;&#x624E;&#x4E8E;&#x57CE;&#x5E02;&#x65F6; %D1[ICON_INSTABILITY]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x9A7B;&#x624E;&#x4E8E;&#x57CE;&#x5E02;&#x65F6; %D1[ICON_INSTABILITY]</Chinese>
+	</TEXT>
+</Civ4GameText>

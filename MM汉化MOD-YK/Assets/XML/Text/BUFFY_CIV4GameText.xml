@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUFFY_INVALID_HOF_GOTM</Tag>
+		<English>[COLOR_WARNING_TEXT]&#x8B66;&#x544A;&#xFF1A;[COLOR_REVERT]&#x672C;&#x5C40;&#x6E38;&#x620F;&#x4E0D;&#x9002;&#x7528;&#x4E8E; HOF &#x6216; GOTM&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]&#x8B66;&#x544A;&#xFF1A;[COLOR_REVERT]&#x672C;&#x5C40;&#x6E38;&#x620F;&#x4E0D;&#x9002;&#x7528;&#x4E8E; HOF &#x6216; GOTM&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFY_INVALID_HOF</Tag>
+		<English>[COLOR_WARNING_TEXT]HOF &#x8B66;&#x544A;&#xFF1A;[COLOR_REVERT]&#x672C;&#x5C40;&#x6E38;&#x620F;&#x4E0D;&#x9002;&#x7528;&#x4E8E; HOF&#x3002;&#x8BE6;&#x89C1;&#x80DC;&#x5229;&#x754C;&#x9762;&#x7684;&#x201C;&#x8BBE;&#x7F6E;&#x201D;&#x9875;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]HOF &#x8B66;&#x544A;&#xFF1A;[COLOR_REVERT]&#x672C;&#x5C40;&#x6E38;&#x620F;&#x4E0D;&#x9002;&#x7528;&#x4E8E; HOF&#x3002;&#x8BE6;&#x89C1;&#x80DC;&#x5229;&#x754C;&#x9762;&#x7684;&#x201C;&#x8BBE;&#x7F6E;&#x201D;&#x9875;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_NOT_VALID</Tag>
+		<English>&#x672C;&#x5C40;&#x6E38;&#x620F;&#x4E0D;&#x9002;&#x7528;&#x4E8E; HOF&#x3002;&#x8BF7;&#x67E5;&#x770B;&#x4E0B;&#x65B9;&#x65B9;&#x6846;&#x4E2D;[COLOR_WARNING_TEXT]&#x9AD8;&#x4EAE;&#x6807;&#x51FA;[COLOR_REVERT]&#x7684;&#x5177;&#x4F53;&#x65E0;&#x6548;&#x8BBE;&#x7F6E;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x672C;&#x5C40;&#x6E38;&#x620F;&#x4E0D;&#x9002;&#x7528;&#x4E8E; HOF&#x3002;&#x8BF7;&#x67E5;&#x770B;&#x4E0B;&#x65B9;&#x65B9;&#x6846;&#x4E2D;[COLOR_WARNING_TEXT]&#x9AD8;&#x4EAE;&#x6807;&#x51FA;[COLOR_REVERT]&#x7684;&#x5177;&#x4F53;&#x65E0;&#x6548;&#x8BBE;&#x7F6E;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING</Tag>
+		<English>HOF &#x8B66;&#x544A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>HOF &#x8B66;&#x544A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_MAC</Tag>
+		<English>[COLOR_WARNING_TEXT]Mac &#x73A9;&#x5BB6;&#x65E0;&#x6CD5;&#x63D0;&#x4EA4; HoF &#x8BB0;&#x5F55;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]Mac &#x73A9;&#x5BB6;&#x65E0;&#x6CD5;&#x63D0;&#x4EA4; HoF &#x8BB0;&#x5F55;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_NO_TEAMS</Tag>
+		<English>[COLOR_WARNING_TEXT]&#x4E0D;&#x5141;&#x8BB8;&#x7EC4;&#x961F;&#x6E38;&#x620F;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]&#x4E0D;&#x5141;&#x8BB8;&#x7EC4;&#x961F;&#x6E38;&#x620F;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_MULT_LEADERS</Tag>
+		<English>[COLOR_WARNING_TEXT]%s1 &#x5DF2;&#x88AB;&#x9009;&#x62E9; %d2 &#x6B21;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]%s1 &#x5DF2;&#x88AB;&#x9009;&#x62E9; %d2 &#x6B21;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_TOO_FEW_OPPONENTS</Tag>
+		<English>[COLOR_WARNING_TEXT]%s2 &#x9700;&#x8981; %d1 &#x540D;&#x6216;&#x66F4;&#x591A;&#x5BF9;&#x624B;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]%s2 &#x9700;&#x8981; %d1 &#x540D;&#x6216;&#x66F4;&#x591A;&#x5BF9;&#x624B;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_TOO_MANY_OPPONENTS</Tag>
+		<English>[COLOR_WARNING_TEXT]%s2 &#x9700;&#x8981; %d1 &#x540D;&#x6216;&#x66F4;&#x5C11;&#x5BF9;&#x624B;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]%s2 &#x9700;&#x8981; %d1 &#x540D;&#x6216;&#x66F4;&#x5C11;&#x5BF9;&#x624B;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_INSTALL_LOCATION</Tag>
+		<English>[COLOR_WARNING_TEXT]BUFFY &#x5FC5;&#x987B;&#x5B89;&#x88C5;&#x5230;&#xFF1A;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]BUFFY &#x5FC5;&#x987B;&#x5B89;&#x88C5;&#x5230;&#xFF1A;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_MULTI_PLAYER_NOT_ALLOWED</Tag>
+		<English>[COLOR_WARNING_TEXT]&#x4E0D;&#x5141;&#x8BB8;&#x591A;&#x4EBA;&#x6E38;&#x620F;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]&#x4E0D;&#x5141;&#x8BB8;&#x591A;&#x4EBA;&#x6E38;&#x620F;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_DLL_MISSING</Tag>
+		<English>[COLOR_WARNING_TEXT]BUFFY DLL &#x7F3A;&#x5931;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]BUFFY DLL &#x7F3A;&#x5931;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_SKIPPED</Tag>
+		<English>[COLOR_WARNING_TEXT]&#x5DF2;&#x8DF3;&#x8FC7;&#x6821;&#x9A8C;&#x548C;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]&#x5DF2;&#x8DF3;&#x8FC7;&#x6821;&#x9A8C;&#x548C;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_MISSING</Tag>
+		<English>[COLOR_WARNING_TEXT]&#x6821;&#x9A8C;&#x548C; CRC &#x7F3A;&#x5931;&#x3002;&#x672C;&#x5C40;&#x6E38;&#x620F;&#x65E0;&#x6CD5;&#x4F7F;&#x7528;&#x3002;&#x82E5;&#x672A;&#x52FE;&#x9009;&#xFF0C;&#x8BF7;&#x68C0;&#x67E5;&#x201C;&#x9501;&#x5B9A;&#x5DF2;&#x4FEE;&#x6539;&#x8D44;&#x4EA7;&#x201D;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]&#x6821;&#x9A8C;&#x548C; CRC &#x7F3A;&#x5931;&#x3002;&#x672C;&#x5C40;&#x6E38;&#x620F;&#x65E0;&#x6CD5;&#x4F7F;&#x7528;&#x3002;&#x82E5;&#x672A;&#x52FE;&#x9009;&#xFF0C;&#x8BF7;&#x68C0;&#x67E5;&#x201C;&#x9501;&#x5B9A;&#x5DF2;&#x4FEE;&#x6539;&#x8D44;&#x4EA7;&#x201D;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_DIFFERENT</Tag>
+		<English>[COLOR_WARNING_TEXT]&#x8D44;&#x4EA7;&#x4E0E;&#x6807;&#x51C6;&#x5B89;&#x88C5;&#x4E0D;&#x540C;&#x3002;&#x8BF7;&#x8054;&#x7CFB; HOF &#x5DE5;&#x4F5C;&#x4EBA;&#x5458;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]&#x8D44;&#x4EA7;&#x4E0E;&#x6807;&#x51C6;&#x5B89;&#x88C5;&#x4E0D;&#x540C;&#x3002;&#x8BF7;&#x8054;&#x7CFB; HOF &#x5DE5;&#x4F5C;&#x4EBA;&#x5458;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_FAILED</Tag>
+		<English>[COLOR_WARNING_TEXT]&#x6821;&#x9A8C; CRC &#x5931;&#x8D25;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]&#x6821;&#x9A8C; CRC &#x5931;&#x8D25;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_VICTORY_CONDITIONS</Tag>
+		<English>[COLOR_WARNING_TEXT]&#x5FC5;&#x987B;&#x542F;&#x7528;&#x6240;&#x6709;&#x80DC;&#x5229;&#x6761;&#x4EF6;&#x3002;&#x4EE5;&#x4E0B;&#x6761;&#x4EF6;&#x7F3A;&#x5931;&#xFF1A;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]&#x5FC5;&#x987B;&#x542F;&#x7528;&#x6240;&#x6709;&#x80DC;&#x5229;&#x6761;&#x4EF6;&#x3002;&#x4EE5;&#x4E0B;&#x6761;&#x4EF6;&#x7F3A;&#x5931;&#xFF1A;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_REQUIRED</Tag>
+		<English>[COLOR_WARNING_TEXT]&#xFF08;&#x5FC5;&#x9700;&#xFF09;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]&#xFF08;&#x5FC5;&#x9700;&#xFF09;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_NOT_ALLOWED</Tag>
+		<English>[COLOR_WARNING_TEXT]&#xFF08;&#x4E0D;&#x5141;&#x8BB8;&#xFF09;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]&#xFF08;&#x4E0D;&#x5141;&#x8BB8;&#xFF09;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUFFYWARNING_BALANCED_RESOUCES_NOT_ALLOWED</Tag>
+		<English>[COLOR_WARNING_TEXT]&#x4E0D;&#x5141;&#x8BB8;&#x5E73;&#x8861;&#x8D44;&#x6E90;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_WARNING_TEXT]&#x4E0D;&#x5141;&#x8BB8;&#x5E73;&#x8861;&#x8D44;&#x6E90;[COLOR_REVERT]</Chinese>
+	</TEXT>
+</Civ4GameText>

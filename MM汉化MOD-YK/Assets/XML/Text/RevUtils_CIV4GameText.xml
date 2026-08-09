@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_MOD_REVUTILS_CAPTURE</Tag>
+		<English>&#x968F;&#x7740;&#x4F60;&#x653B;&#x5360; %s&#xFF0C;&#x57CE;&#x4E2D;&#x5BF9;&#x53DB;&#x4E71;&#x7684;&#x652F;&#x6301;&#x9AD8;&#x6DA8;&#x2026;&#x2026;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x7740;&#x4F60;&#x653B;&#x5360; %s&#xFF0C;&#x57CE;&#x4E2D;&#x5BF9;&#x53DB;&#x4E71;&#x7684;&#x652F;&#x6301;&#x9AD8;&#x6DA8;&#x2026;&#x2026;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MOD_REVUTILS_CONTROL</Tag>
+		<English>&#x53DB;&#x519B; %s &#x5DF2;&#x63A7;&#x5236;&#x4E86; %s&#xFF01;[NEWLINE]&#x5BF9;&#x53DB;&#x4E71;&#x7684;&#x652F;&#x6301;&#x9AD8;&#x6DA8;&#x2026;&#x2026;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x53DB;&#x519B; %s &#x5DF2;&#x63A7;&#x5236;&#x4E86; %s&#xFF01;[NEWLINE]&#x5BF9;&#x53DB;&#x4E71;&#x7684;&#x652F;&#x6301;&#x9AD8;&#x6DA8;&#x2026;&#x2026;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MOD_REVUTILS_WARNING</Tag>
+		<English>&#x8B66;&#x544A;&#xFF1A;&#x4F20;&#x5165;&#x4E86;&#x4E00;&#x4E2A;&#x65E0;&#x533A;&#x57DF;&#x5730;&#x5757;&#xFF01;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8B66;&#x544A;&#xFF1A;&#x4F20;&#x5165;&#x4E86;&#x4E00;&#x4E2A;&#x65E0;&#x533A;&#x57DF;&#x5730;&#x5757;&#xFF01;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MOD_REVUTILS_ERROR1</Tag>
+		<English>&#x9519;&#x8BEF;&#xFF1A;&#x672A;&#x80FD;&#x5728;&#x65B0;&#x73A9;&#x5BB6;&#x4E2D;&#x8BBE;&#x7F6E;&#x4EBA;&#x7C7B;&#x6807;&#x5FD7;&#x3002;[NEWLINE]&#x4F60;&#x5927;&#x6982;&#x9700;&#x8981;&#x91CD;&#x65B0;&#x8F7D;&#x5165;&#x5B58;&#x6863;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9519;&#x8BEF;&#xFF1A;&#x672A;&#x80FD;&#x5728;&#x65B0;&#x73A9;&#x5BB6;&#x4E2D;&#x8BBE;&#x7F6E;&#x4EBA;&#x7C7B;&#x6807;&#x5FD7;&#x3002;[NEWLINE]&#x4F60;&#x5927;&#x6982;&#x9700;&#x8981;&#x91CD;&#x65B0;&#x8F7D;&#x5165;&#x5B58;&#x6863;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MOD_REVUTILS_ERROR2</Tag>
+		<English>&#x9519;&#x8BEF;&#xFF1A;&#x672A;&#x80FD;&#x5728;&#x65E7;&#x73A9;&#x5BB6;&#x4E2D;&#x6E05;&#x9664;&#x4EBA;&#x7C7B;&#x6807;&#x5FD7;&#x3002;[NEWLINE]&#x4F60;&#x5927;&#x6982;&#x9700;&#x8981;&#x91CD;&#x65B0;&#x8F7D;&#x5165;&#x5B58;&#x6863;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9519;&#x8BEF;&#xFF1A;&#x672A;&#x80FD;&#x5728;&#x65E7;&#x73A9;&#x5BB6;&#x4E2D;&#x6E05;&#x9664;&#x4EBA;&#x7C7B;&#x6807;&#x5FD7;&#x3002;[NEWLINE]&#x4F60;&#x5927;&#x6982;&#x9700;&#x8981;&#x91CD;&#x65B0;&#x8F7D;&#x5165;&#x5B58;&#x6863;&#x3002;</Chinese>
+	</TEXT>
+</Civ4GameText>

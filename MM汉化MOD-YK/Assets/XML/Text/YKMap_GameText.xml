@@ -1,0 +1,3702 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag> 0 sealevel low-no separation</Tag>
+		<English> 0 &#x4F4E;&#x6D77;&#x5E73;&#x9762;-&#x65E0;&#x5206;&#x9694;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 0 &#x4F4E;&#x6D77;&#x5E73;&#x9762;-&#x65E0;&#x5206;&#x9694;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 1 pangea</Tag>
+		<English> 1 &#x5757;&#x76D8;&#x53E4;&#x5927;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 1 &#x5757;&#x76D8;&#x53E4;&#x5927;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 1 single coast separation</Tag>
+		<English> 1 &#x5355;&#x5C42;&#x6D77;&#x5CB8;&#x5206;&#x9694;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 1 &#x5355;&#x5C42;&#x6D77;&#x5CB8;&#x5206;&#x9694;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 1% peaks</Tag>
+		<English> 1% &#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 1% &#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 2 coasts touch</Tag>
+		<English> 2 &#x6D77;&#x5CB8;&#x76F8;&#x63A5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 2 &#x6D77;&#x5CB8;&#x76F8;&#x63A5;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 2 huge lands</Tag>
+		<English> 2 &#x5757;&#x5DE8;&#x578B;&#x9646;&#x5730;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 2 &#x5757;&#x5DE8;&#x578B;&#x9646;&#x5730;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 2% hills</Tag>
+		<English> 2% &#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 2% &#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 2% peaks</Tag>
+		<English> 2% &#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 2% &#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 3 frequent coast crossing</Tag>
+		<English> 3 &#x9891;&#x7E41;&#x8DE8;&#x8D8A;&#x6D77;&#x5CB8;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 3 &#x9891;&#x7E41;&#x8DE8;&#x8D8A;&#x6D77;&#x5CB8;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 3 large lands</Tag>
+		<English> 3 &#x5757;&#x5927;&#x578B;&#x9646;&#x5730;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 3 &#x5757;&#x5927;&#x578B;&#x9646;&#x5730;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 3% peaks</Tag>
+		<English> 3% &#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 3% &#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 32 (duel)</Tag>
+		<English> 32&#xFF08;&#x51B3;&#x6597;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 32&#xFF08;&#x51B3;&#x6597;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 4 continents</Tag>
+		<English> 4 &#x5757;&#x5927;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 4 &#x5757;&#x5927;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 4 sealevel medium-rare coast crossing</Tag>
+		<English> 4 &#x4E2D;&#x6D77;&#x5E73;&#x9762;-&#x5C11;&#x8DE8;&#x8D8A;&#x6D77;&#x5CB8;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 4 &#x4E2D;&#x6D77;&#x5E73;&#x9762;-&#x5C11;&#x8DE8;&#x8D8A;&#x6D77;&#x5CB8;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 4% hills</Tag>
+		<English> 4% &#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 4% &#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 4% peaks</Tag>
+		<English> 4% &#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 4% &#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 40 (tiny)</Tag>
+		<English> 40&#xFF08;&#x5FAE;&#x578B;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 40&#xFF08;&#x5FAE;&#x578B;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 48 (small)</Tag>
+		<English> 48&#xFF08;&#x5C0F;&#x578B;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 48&#xFF08;&#x5C0F;&#x578B;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 48 (tiny)</Tag>
+		<English> 48&#xFF08;&#x5FAE;&#x578B;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 48&#xFF08;&#x5FAE;&#x578B;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 5 continents</Tag>
+		<English> 5 &#x5757;&#x5927;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 5 &#x5757;&#x5927;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 5 no coastal crossing</Tag>
+		<English> 5 &#x65E0;&#x6CD5;&#x8DE8;&#x8D8A;&#x6D77;&#x5CB8;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 5 &#x65E0;&#x6CD5;&#x8DE8;&#x8D8A;&#x6D77;&#x5CB8;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 5% peaks</Tag>
+		<English> 5% &#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 5% &#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 6 continents</Tag>
+		<English> 6 &#x5757;&#x5927;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 6 &#x5757;&#x5927;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 6 developing culture touch</Tag>
+		<English> 6 &#x53D1;&#x5C55;&#x6587;&#x5316;&#x5708;&#x76F8;&#x63A5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 6 &#x53D1;&#x5C55;&#x6587;&#x5316;&#x5708;&#x76F8;&#x63A5;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 6% hills</Tag>
+		<English> 6% &#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 6% &#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 6% peaks</Tag>
+		<English> 6% &#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 6% &#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 64 (small)</Tag>
+		<English> 64&#xFF08;&#x5C0F;&#x578B;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 64&#xFF08;&#x5C0F;&#x578B;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 64 (standard)</Tag>
+		<English> 64&#xFF08;&#x6807;&#x51C6;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 64&#xFF08;&#x6807;&#x51C6;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 7 continents</Tag>
+		<English> 7 &#x5757;&#x5927;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 7 &#x5757;&#x5927;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 7 sealevel high</Tag>
+		<English> 7 &#x9AD8;&#x6D77;&#x5E73;&#x9762;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 7 &#x9AD8;&#x6D77;&#x5E73;&#x9762;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 7% peaks</Tag>
+		<English> 7% &#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 7% &#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 8 continents</Tag>
+		<English> 8 &#x5757;&#x5927;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 8 &#x5757;&#x5927;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 8 refined culture touch</Tag>
+		<English> 8 &#x6210;&#x719F;&#x6587;&#x5316;&#x5708;&#x76F8;&#x63A5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 8 &#x6210;&#x719F;&#x6587;&#x5316;&#x5708;&#x76F8;&#x63A5;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 8% hills</Tag>
+		<English> 8% &#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 8% &#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 8% peaks</Tag>
+		<English> 8% &#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 8% &#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 80 (large)</Tag>
+		<English> 80&#xFF08;&#x5927;&#x578B;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 80&#xFF08;&#x5927;&#x578B;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 88 (standard)</Tag>
+		<English> 88&#xFF08;&#x6807;&#x51C6;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 88&#xFF08;&#x6807;&#x51C6;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 9 refined+influential touch</Tag>
+		<English> 9 &#x6210;&#x719F;+&#x5F71;&#x54CD;&#x6587;&#x5316;&#x5708;&#x76F8;&#x63A5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 9 &#x6210;&#x719F;+&#x5F71;&#x54CD;&#x6587;&#x5316;&#x5708;&#x76F8;&#x63A5;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 9% peaks</Tag>
+		<English> 9% &#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 9% &#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag> 96 (huge)</Tag>
+		<English> 96&#xFF08;&#x5DE8;&#x5927;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese> 96&#xFF08;&#x5DE8;&#x5927;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>1 per 2 players</Tag>
+		<English>&#x6BCF; 2 &#x540D;&#x73A9;&#x5BB6; 1 &#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6BCF; 2 &#x540D;&#x73A9;&#x5BB6; 1 &#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>1 per 3 players</Tag>
+		<English>&#x6BCF; 3 &#x540D;&#x73A9;&#x5BB6; 1 &#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6BCF; 3 &#x540D;&#x73A9;&#x5BB6; 1 &#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>1 per 4 players</Tag>
+		<English>&#x6BCF; 4 &#x540D;&#x73A9;&#x5BB6; 1 &#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6BCF; 4 &#x540D;&#x73A9;&#x5BB6; 1 &#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>1 per player</Tag>
+		<English>&#x6BCF;&#x540D;&#x73A9;&#x5BB6; 1 &#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6BCF;&#x540D;&#x73A9;&#x5BB6; 1 &#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>10 influential culture touch</Tag>
+		<English>10 &#x5F71;&#x54CD;&#x6587;&#x5316;&#x5708;&#x76F8;&#x63A5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>10 &#x5F71;&#x54CD;&#x6587;&#x5316;&#x5708;&#x76F8;&#x63A5;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>10% hills</Tag>
+		<English>10% &#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>10% &#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>10% less Peaks</Tag>
+		<English>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 10%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 10%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>10% peaks</Tag>
+		<English>10% &#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>10% &#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>11 influential+legendary touch</Tag>
+		<English>11 &#x5F71;&#x54CD;+&#x4F20;&#x5947;&#x6587;&#x5316;&#x5708;&#x76F8;&#x63A5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>11 &#x5F71;&#x54CD;+&#x4F20;&#x5947;&#x6587;&#x5316;&#x5708;&#x76F8;&#x63A5;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>112 (giant)</Tag>
+		<English>112&#xFF08;&#x8D85;&#x5DE8;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>112&#xFF08;&#x8D85;&#x5DE8;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>112 (large)</Tag>
+		<English>112&#xFF08;&#x5927;&#x578B;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>112&#xFF08;&#x5927;&#x578B;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>12 islands</Tag>
+		<English>12 &#x5EA7;&#x5C9B;&#x5C7F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>12 &#x5EA7;&#x5C9B;&#x5C7F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>12 legendary culture touch</Tag>
+		<English>12 &#x4F20;&#x5947;&#x6587;&#x5316;&#x5708;&#x76F8;&#x63A5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>12 &#x4F20;&#x5947;&#x6587;&#x5316;&#x5708;&#x76F8;&#x63A5;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>12% hills</Tag>
+		<English>12% &#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>12% &#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>12% peaks</Tag>
+		<English>12% &#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>12% &#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>128 (gigantic)</Tag>
+		<English>128&#xFF08;&#x6781;&#x5DE8;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>128&#xFF08;&#x6781;&#x5DE8;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>128 (huge)</Tag>
+		<English>128&#xFF08;&#x5DE8;&#x5927;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>128&#xFF08;&#x5DE8;&#x5927;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>13 no culture touch</Tag>
+		<English>13 &#x6587;&#x5316;&#x5708;&#x4E0D;&#x76F8;&#x63A5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>13 &#x6587;&#x5316;&#x5708;&#x4E0D;&#x76F8;&#x63A5;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>14% hills</Tag>
+		<English>14% &#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>14% &#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>15% peaks</Tag>
+		<English>15% &#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>15% &#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>16% hills</Tag>
+		<English>16% &#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>16% &#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>160 (giant)</Tag>
+		<English>160&#xFF08;&#x8D85;&#x5DE8;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>160&#xFF08;&#x8D85;&#x5DE8;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>176 (gigantic)</Tag>
+		<English>176&#xFF08;&#x6781;&#x5DE8;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>176&#xFF08;&#x6781;&#x5DE8;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>18 isles</Tag>
+		<English>18 &#x5EA7;&#x5C0F;&#x5C9B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>18 &#x5EA7;&#x5C0F;&#x5C9B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>18% hills</Tag>
+		<English>18% &#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>18% &#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>18% peaks</Tag>
+		<English>18% &#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>18% &#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>1:1 (Square map)</Tag>
+		<English>1:1&#xFF08;&#x6B63;&#x65B9;&#x5F62;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>1:1&#xFF08;&#x6B63;&#x65B9;&#x5F62;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>1:2 (BUGGY)</Tag>
+		<English>1:2&#xFF08;&#x6709; BUG&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>1:2&#xFF08;&#x6709; BUG&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>2 per player</Tag>
+		<English>&#x6BCF;&#x540D;&#x73A9;&#x5BB6; 2 &#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6BCF;&#x540D;&#x73A9;&#x5BB6; 2 &#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>20% hills</Tag>
+		<English>20% &#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>20% &#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>20% less Peaks</Tag>
+		<English>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 20%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 20%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>20% peaks</Tag>
+		<English>20% &#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>20% &#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>24 isles</Tag>
+		<English>24 &#x5EA7;&#x5C0F;&#x5C9B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>24 &#x5EA7;&#x5C0F;&#x5C9B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>24% peaks</Tag>
+		<English>24% &#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>24% &#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>25% hills</Tag>
+		<English>25% &#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>25% &#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>2:1 (Wide map)</Tag>
+		<English>2:1&#xFF08;&#x6A2A;&#x5BBD;&#x5730;&#x56FE;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>2:1&#xFF08;&#x6A2A;&#x5BBD;&#x5730;&#x56FE;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>2:3 (Tall map)</Tag>
+		<English>2:3&#xFF08;&#x7AD6;&#x957F;&#x5730;&#x56FE;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>2:3&#xFF08;&#x7AD6;&#x957F;&#x5730;&#x56FE;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>3 per player</Tag>
+		<English>&#x6BCF;&#x540D;&#x73A9;&#x5BB6; 3 &#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6BCF;&#x540D;&#x73A9;&#x5BB6; 3 &#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>30% hills</Tag>
+		<English>30% &#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>30% &#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>30% less Peaks</Tag>
+		<English>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 30%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 30%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>35% hills</Tag>
+		<English>35% &#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>35% &#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>36 islets</Tag>
+		<English>36 &#x5EA7;&#x7901;&#x5C9B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>36 &#x5EA7;&#x7901;&#x5C9B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>3:2 (Earth-like)</Tag>
+		<English>3:2&#xFF08;&#x7C7B;&#x5730;&#x7403;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>3:2&#xFF08;&#x7C7B;&#x5730;&#x7403;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>3:3 (Big square)</Tag>
+		<English>3:3&#xFF08;&#x5927;&#x6B63;&#x65B9;&#x5F62;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>3:3&#xFF08;&#x5927;&#x6B63;&#x65B9;&#x5F62;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>4 per player</Tag>
+		<English>&#x6BCF;&#x540D;&#x73A9;&#x5BB6; 4 &#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6BCF;&#x540D;&#x73A9;&#x5BB6; 4 &#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>40% hills</Tag>
+		<English>40% &#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>40% &#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>40% less Peaks</Tag>
+		<English>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 40%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 40%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>40% ocean</Tag>
+		<English>40% &#x6D77;&#x6D0B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>40% &#x6D77;&#x6D0B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>50% hills</Tag>
+		<English>50% &#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>50% &#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>50% less Peaks</Tag>
+		<English>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 50%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 50%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>50% ocean</Tag>
+		<English>50% &#x6D77;&#x6D0B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>50% &#x6D77;&#x6D0B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>60% less Peaks</Tag>
+		<English>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 60%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 60%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>60% ocean</Tag>
+		<English>60% &#x6D77;&#x6D0B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>60% &#x6D77;&#x6D0B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>65% ocean</Tag>
+		<English>65% &#x6D77;&#x6D0B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>65% &#x6D77;&#x6D0B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>70% less Peaks</Tag>
+		<English>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 70%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 70%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>70% ocean</Tag>
+		<English>70% &#x6D77;&#x6D0B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>70% &#x6D77;&#x6D0B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>75% ocean</Tag>
+		<English>75% &#x6D77;&#x6D0B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>75% &#x6D77;&#x6D0B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>7:1 (Ringworld)</Tag>
+		<English>7:1&#xFF08;&#x73AF;&#x5F62;&#x4E16;&#x754C;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>7:1&#xFF08;&#x73AF;&#x5F62;&#x4E16;&#x754C;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>80% less Peaks</Tag>
+		<English>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 80%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 80%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>80% ocean</Tag>
+		<English>80% &#x6D77;&#x6D0B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>80% &#x6D77;&#x6D0B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>85% ocean</Tag>
+		<English>85% &#x6D77;&#x6D0B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>85% &#x6D77;&#x6D0B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>90% less Peaks</Tag>
+		<English>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 90%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#x51CF;&#x5C11; 90%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>90% ocean</Tag>
+		<English>90% &#x6D77;&#x6D0B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>90% &#x6D77;&#x6D0B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>95% ocean</Tag>
+		<English>95% &#x6D77;&#x6D0B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>95% &#x6D77;&#x6D0B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>99% ocean</Tag>
+		<English>99% &#x6D77;&#x6D0B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>99% &#x6D77;&#x6D0B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>A little</Tag>
+		<English>&#x4E00;&#x70B9;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E00;&#x70B9;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>A little (faster mapgen)</Tag>
+		<English>&#x4E00;&#x70B9;&#x8010;&#x5FC3;&#xFF08;&#x751F;&#x6210;&#x8F83;&#x5FEB;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E00;&#x70B9;&#x8010;&#x5FC3;&#xFF08;&#x751F;&#x6210;&#x8F83;&#x5FEB;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Advanced Terrain</Tag>
+		<English>&#x8FDB;&#x9636;&#x5730;&#x5F62;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8FDB;&#x9636;&#x5730;&#x5F62;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>All (x &amp; y)</Tag>
+		<English>&#x5168;&#x73AF;&#x7ED5;&#xFF08;x &#x4E0E; y&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5168;&#x73AF;&#x7ED5;&#xFF08;x &#x4E0E; y&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Allow</Tag>
+		<English>&#x5141;&#x8BB8;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5141;&#x8BB8;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Allow Pangaeas</Tag>
+		<English>&#x5141;&#x8BB8;&#x76D8;&#x53E4;&#x5927;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5141;&#x8BB8;&#x76D8;&#x53E4;&#x5927;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Allow forests on mountains</Tag>
+		<English>&#x5C71;&#x4E0A;&#x5141;&#x8BB8;&#x68EE;&#x6797;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x4E0A;&#x5141;&#x8BB8;&#x68EE;&#x6797;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Ancient City Ruins</Tag>
+		<English>&#x8FDC;&#x53E4;&#x57CE;&#x5E02;&#x5E9F;&#x589F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8FDC;&#x53E4;&#x57CE;&#x5E02;&#x5E9F;&#x589F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Bonus Balancing:</Tag>
+		<English>&#x8D44;&#x6E90;&#x5E73;&#x8861;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8D44;&#x6E90;&#x5E73;&#x8861;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Bonus Density:</Tag>
+		<English>&#x8D44;&#x6E90;&#x5BC6;&#x5EA6;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8D44;&#x6E90;&#x5BC6;&#x5EA6;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Bonus Placement:</Tag>
+		<English>&#x8D44;&#x6E90;&#x6446;&#x653E;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8D44;&#x6E90;&#x6446;&#x653E;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Break Pangaeas</Tag>
+		<English>&#x6253;&#x6563;&#x76D8;&#x53E4;&#x5927;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6253;&#x6563;&#x76D8;&#x53E4;&#x5927;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Chokepoints aplenty</Tag>
+		<English>&#x904D;&#x5730;&#x9698;&#x53E3;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x904D;&#x5730;&#x9698;&#x53E3;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Civ placement</Tag>
+		<English>&#x6587;&#x660E;&#x6446;&#x653E;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6587;&#x660E;&#x6446;&#x653E;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Coastal Waters:</Tag>
+		<English>&#x8FD1;&#x6D77;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8FD1;&#x6D77;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Cohesion</Tag>
+		<English>&#x5927;&#x9646;&#x805A;&#x5408;&#x5EA6;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5927;&#x9646;&#x805A;&#x5408;&#x5EA6;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Continent amount</Tag>
+		<English>&#x5927;&#x9646;&#x6570;&#x91CF;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5927;&#x9646;&#x6570;&#x91CF;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Continents</Tag>
+		<English>&#x591A;&#x5757;&#x5927;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x591A;&#x5757;&#x5927;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Continents:</Tag>
+		<English>&#x5927;&#x9646;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5927;&#x9646;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Cylinder World (X Wrap)</Tag>
+		<English>&#x5706;&#x67F1;&#x4E16;&#x754C;&#xFF08;X &#x73AF;&#x7ED5;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5706;&#x67F1;&#x4E16;&#x754C;&#xFF08;X &#x73AF;&#x7ED5;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Cylindrical</Tag>
+		<English>&#x5706;&#x67F1;&#xFF08;&#x6A2A;&#x5411;&#x73AF;&#x7ED5;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5706;&#x67F1;&#xFF08;&#x6A2A;&#x5411;&#x73AF;&#x7ED5;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Desert Chance</Tag>
+		<English>&#x6C99;&#x6F20;&#x51E0;&#x7387;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6C99;&#x6F20;&#x51E0;&#x7387;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>East-West (x)</Tag>
+		<English>&#x4E1C;&#x897F;&#x73AF;&#x7ED5;&#xFF08;x&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E1C;&#x897F;&#x73AF;&#x7ED5;&#xFF08;x&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Everyone on same landmass</Tag>
+		<English>&#x6240;&#x6709;&#x4EBA;&#x540C;&#x4E00;&#x5757;&#x5927;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6240;&#x6709;&#x4EBA;&#x540C;&#x4E00;&#x5757;&#x5927;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Extremely (nicer map)</Tag>
+		<English>&#x6781;&#x6709;&#x8010;&#x5FC3;&#xFF08;&#x5730;&#x56FE;&#x66F4;&#x7CBE;&#x7F8E;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6781;&#x6709;&#x8010;&#x5FC3;&#xFF08;&#x5730;&#x56FE;&#x66F4;&#x7CBE;&#x7F8E;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Features:</Tag>
+		<English>&#x5730;&#x8C8C;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5730;&#x8C8C;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Few</Tag>
+		<English>&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Few (faster)</Tag>
+		<English>&#x5C11;&#xFF08;&#x66F4;&#x5FEB;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C11;&#xFF08;&#x66F4;&#x5FEB;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Fewer</Tag>
+		<English>&#x8F83;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8F83;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Fix continent split</Tag>
+		<English>&#x4FEE;&#x6B63;&#x5927;&#x9646;&#x5207;&#x5206;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4FEE;&#x6B63;&#x5927;&#x9646;&#x5207;&#x5206;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Flat</Tag>
+		<English>&#x5E73;&#x9762;&#xFF08;&#x4E0D;&#x73AF;&#x7ED5;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5E73;&#x9762;&#xFF08;&#x4E0D;&#x73AF;&#x7ED5;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Flat (Default)</Tag>
+		<English>&#x5E73;&#x9762;&#xFF08;&#x9ED8;&#x8BA4;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5E73;&#x9762;&#xFF08;&#x9ED8;&#x8BA4;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Flat World (default)</Tag>
+		<English>&#x5E73;&#x9762;&#x4E16;&#x754C;&#xFF08;&#x9ED8;&#x8BA4;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5E73;&#x9762;&#x4E16;&#x754C;&#xFF08;&#x9ED8;&#x8BA4;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Forbid</Tag>
+		<English>&#x7981;&#x6B62;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x7981;&#x6B62;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Forest Density</Tag>
+		<English>&#x68EE;&#x6797;&#x5BC6;&#x5EA6;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x68EE;&#x6797;&#x5BC6;&#x5EA6;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Forest/Jungle:</Tag>
+		<English>&#x68EE;&#x6797;/&#x4E1B;&#x6797;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x68EE;&#x6797;/&#x4E1B;&#x6797;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Full Flavor (Default)</Tag>
+		<English>&#x5B8C;&#x6574;&#x7279;&#x8272;&#x51FA;&#x751F;&#xFF08;&#x9ED8;&#x8BA4;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5B8C;&#x6574;&#x7279;&#x8272;&#x51FA;&#x751F;&#xFF08;&#x9ED8;&#x8BA4;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Full Flavor + Units on same tile</Tag>
+		<English>&#x5B8C;&#x6574;&#x7279;&#x8272;&#x51FA;&#x751F; + &#x5355;&#x4F4D;&#x540C;&#x683C;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5B8C;&#x6574;&#x7279;&#x8272;&#x51FA;&#x751F; + &#x5355;&#x4F4D;&#x540C;&#x683C;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Full of resources</Tag>
+		<English>&#x8D44;&#x6E90;&#x904D;&#x5730;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8D44;&#x6E90;&#x904D;&#x5730;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Goodies:</Tag>
+		<English>&#x90E8;&#x843D;&#x6751;&#x843D;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x90E8;&#x843D;&#x6751;&#x843D;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Great Plains (Converts deserts to plains based on temperature)</Tag>
+		<English>&#x5927;&#x5E73;&#x539F;&#xFF08;&#x6309;&#x6E29;&#x5EA6;&#x5C06;&#x6C99;&#x6F20;&#x8F6C;&#x4E3A;&#x5E73;&#x539F;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5927;&#x5E73;&#x539F;&#xFF08;&#x6309;&#x6E29;&#x5EA6;&#x5C06;&#x6C99;&#x6F20;&#x8F6C;&#x4E3A;&#x5E73;&#x539F;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>High</Tag>
+		<English>&#x9AD8;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9AD8;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Hills:</Tag>
+		<English>&#x4E18;&#x9675;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E18;&#x9675;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Increased</Tag>
+		<English>&#x589E;&#x52A0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x589E;&#x52A0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Jungle Chance</Tag>
+		<English>&#x4E1B;&#x6797;&#x51E0;&#x7387;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E1B;&#x6797;&#x51E0;&#x7387;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Keep New World empty</Tag>
+		<English>&#x65B0;&#x5927;&#x9646;&#x4FDD;&#x6301;&#x65E0;&#x4EBA;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65B0;&#x5927;&#x9646;&#x4FDD;&#x6301;&#x65E0;&#x4EBA;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Lakes</Tag>
+		<English>&#x6E56;&#x6CCA;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6E56;&#x6CCA;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Land Mass Type</Tag>
+		<English>&#x9646;&#x5757;&#x7C7B;&#x578B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9646;&#x5757;&#x7C7B;&#x578B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Land Style:</Tag>
+		<English>&#x9646;&#x5730;&#x5F62;&#x6001;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9646;&#x5730;&#x5F62;&#x6001;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Like Perfect World</Tag>
+		<English>&#x5B8C;&#x7F8E;&#x4E16;&#x754C;&#x5F0F;&#x5206;&#x5E03;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5B8C;&#x7F8E;&#x4E16;&#x754C;&#x5F0F;&#x5206;&#x5E03;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Limited Flavor</Tag>
+		<English>&#x6709;&#x9650;&#x7279;&#x8272;&#x51FA;&#x751F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6709;&#x9650;&#x7279;&#x8272;&#x51FA;&#x751F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Limited Flavor + Units on same tile</Tag>
+		<English>&#x6709;&#x9650;&#x7279;&#x8272;&#x51FA;&#x751F; + &#x5355;&#x4F4D;&#x540C;&#x683C;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6709;&#x9650;&#x7279;&#x8272;&#x51FA;&#x751F; + &#x5355;&#x4F4D;&#x540C;&#x683C;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Lots</Tag>
+		<English>&#x5927;&#x91CF;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5927;&#x91CF;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Lots (Easier for player)</Tag>
+		<English>&#x5927;&#x91CF;&#xFF08;&#x73A9;&#x5BB6;&#x66F4;&#x8F7B;&#x677E;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5927;&#x91CF;&#xFF08;&#x73A9;&#x5BB6;&#x66F4;&#x8F7B;&#x677E;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Lots (slow)</Tag>
+		<English>&#x5927;&#x91CF;&#xFF08;&#x66F4;&#x6162;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5927;&#x91CF;&#xFF08;&#x66F4;&#x6162;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Low</Tag>
+		<English>&#x4F4E;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4F4E;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Many</Tag>
+		<English>&#x8BB8;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8BB8;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Map ratio</Tag>
+		<English>&#x5730;&#x56FE;&#x957F;&#x5BBD;&#x6BD4;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5730;&#x56FE;&#x957F;&#x5BBD;&#x6BD4;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Map resources</Tag>
+		<English>&#x5730;&#x56FE;&#x8D44;&#x6E90;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5730;&#x56FE;&#x8D44;&#x6E90;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Map seed</Tag>
+		<English>&#x5730;&#x56FE;&#x79CD;&#x5B50;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5730;&#x56FE;&#x79CD;&#x5B50;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Mars Theme:</Tag>
+		<English>&#x706B;&#x661F;&#x4E3B;&#x9898;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x706B;&#x661F;&#x4E3B;&#x9898;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Medium</Tag>
+		<English>&#x4E2D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E2D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Minimal Flavor</Tag>
+		<English>&#x6700;&#x5C11;&#x7279;&#x8272;&#x51FA;&#x751F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6700;&#x5C11;&#x7279;&#x8272;&#x51FA;&#x751F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Minimal Flavor + Units on same tile</Tag>
+		<English>&#x6700;&#x5C11;&#x7279;&#x8272;&#x51FA;&#x751F; + &#x5355;&#x4F4D;&#x540C;&#x683C;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6700;&#x5C11;&#x7279;&#x8272;&#x51FA;&#x751F; + &#x5355;&#x4F4D;&#x540C;&#x683C;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Moderate</Tag>
+		<English>&#x9002;&#x4E2D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9002;&#x4E2D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Moderate (Default)</Tag>
+		<English>&#x9002;&#x4E2D;&#xFF08;&#x9ED8;&#x8BA4;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9002;&#x4E2D;&#xFF08;&#x9ED8;&#x8BA4;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>More</Tag>
+		<English>&#x8F83;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8F83;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Mountain Ranges</Tag>
+		<English>&#x8FDE;&#x7EF5;&#x5C71;&#x8109;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8FDE;&#x7EF5;&#x5C71;&#x8109;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Mountains</Tag>
+		<English>&#x5C71;&#x8109;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x8109;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>New World Rules</Tag>
+		<English>&#x65B0;&#x5927;&#x9646;&#x89C4;&#x5219;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65B0;&#x5927;&#x9646;&#x89C4;&#x5219;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>No</Tag>
+		<English>&#x5426;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5426;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>No Desert</Tag>
+		<English>&#x65E0;&#x6C99;&#x6F20;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;&#x6C99;&#x6F20;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>No Jungles</Tag>
+		<English>&#x65E0;&#x4E1B;&#x6797;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;&#x4E1B;&#x6797;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>No Peaks</Tag>
+		<English>&#x65E0;&#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;&#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>No Softening (default)</Tag>
+		<English>&#x4E0D;&#x524A;&#x51CF;&#xFF08;&#x9ED8;&#x8BA4;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E0D;&#x524A;&#x51CF;&#xFF08;&#x9ED8;&#x8BA4;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>No Tundra</Tag>
+		<English>&#x65E0;&#x51BB;&#x571F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;&#x51BB;&#x571F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>None</Tag>
+		<English>&#x65E0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>None (Player equal to AI)</Tag>
+		<English>&#x65E0;&#xFF08;&#x73A9;&#x5BB6;&#x4E0E; AI &#x540C;&#x7B49;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;&#xFF08;&#x73A9;&#x5BB6;&#x4E0E; AI &#x540C;&#x7B49;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>North-South (y)</Tag>
+		<English>&#x5357;&#x5317;&#x73AF;&#x7ED5;&#xFF08;y&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5357;&#x5317;&#x73AF;&#x7ED5;&#xFF08;y&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Not very (Faster mapgen)</Tag>
+		<English>&#x4E0D;&#x592A;&#x8010;&#x5FC3;&#xFF08;&#x751F;&#x6210;&#x6700;&#x5FEB;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E0D;&#x592A;&#x8010;&#x5FC3;&#xFF08;&#x751F;&#x6210;&#x6700;&#x5FEB;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Ocean:</Tag>
+		<English>&#x6D77;&#x6D0B;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6D77;&#x6D0B;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Off</Tag>
+		<English>&#x5173;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5173;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Off (no changes based on civs in the game)</Tag>
+		<English>&#x5173;&#xFF08;&#x4E0D;&#x968F;&#x5C40;&#x5185;&#x6587;&#x660E;&#x8C03;&#x6574;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5173;&#xFF08;&#x4E0D;&#x968F;&#x5C40;&#x5185;&#x6587;&#x660E;&#x8C03;&#x6574;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>On (Place ancient city ruin clusters)</Tag>
+		<English>&#x5F00;&#xFF08;&#x653E;&#x7F6E;&#x8FDC;&#x53E4;&#x57CE;&#x5E02;&#x5E9F;&#x589F;&#x7FA4;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5F00;&#xFF08;&#x653E;&#x7F6E;&#x8FDC;&#x53E4;&#x57CE;&#x5E02;&#x5E9F;&#x589F;&#x7FA4;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>On (minimal effects)</Tag>
+		<English>&#x5F00;&#xFF08;&#x5F71;&#x54CD;&#x6700;&#x5C0F;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5F00;&#xFF08;&#x5F71;&#x54CD;&#x6700;&#x5C0F;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>On (modify climate selection)</Tag>
+		<English>&#x5F00;&#xFF08;&#x5FAE;&#x8C03;&#x6C14;&#x5019;&#x9009;&#x62E9;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5F00;&#xFF08;&#x5FAE;&#x8C03;&#x6C14;&#x5019;&#x9009;&#x62E9;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>On (override climate selection)</Tag>
+		<English>&#x5F00;&#xFF08;&#x8986;&#x76D6;&#x6C14;&#x5019;&#x9009;&#x62E9;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5F00;&#xFF08;&#x8986;&#x76D6;&#x6C14;&#x5019;&#x9009;&#x62E9;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>On (place Ancient Forests)</Tag>
+		<English>&#x5F00;&#xFF08;&#x653E;&#x7F6E;&#x8FDC;&#x53E4;&#x68EE;&#x6797;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5F00;&#xFF08;&#x653E;&#x7F6E;&#x8FDC;&#x53E4;&#x68EE;&#x6797;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>On (place Kelp, Ancient Forest, Haunted Lands)</Tag>
+		<English>&#x5F00;&#xFF08;&#x653E;&#x7F6E;&#x6D77;&#x85FB;&#x3001;&#x8FDC;&#x53E4;&#x68EE;&#x6797;&#x3001;&#x95F9;&#x9B3C;&#x4E4B;&#x5730;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5F00;&#xFF08;&#x653E;&#x7F6E;&#x6D77;&#x85FB;&#x3001;&#x8FDC;&#x53E4;&#x68EE;&#x6797;&#x3001;&#x95F9;&#x9B3C;&#x4E4B;&#x5730;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Override Height:</Tag>
+		<English>&#x5F3A;&#x5236;&#x9AD8;&#x5EA6;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5F3A;&#x5236;&#x9AD8;&#x5EA6;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Override Separation:</Tag>
+		<English>&#x5F3A;&#x5236;&#x5206;&#x9694;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5F3A;&#x5236;&#x5206;&#x9694;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Override Width:</Tag>
+		<English>&#x5F3A;&#x5236;&#x5BBD;&#x5EA6;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5F3A;&#x5236;&#x5BBD;&#x5EA6;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Pangaea Rule</Tag>
+		<English>&#x76D8;&#x53E4;&#x5927;&#x9646;&#x89C4;&#x5219;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x76D8;&#x53E4;&#x5927;&#x9646;&#x89C4;&#x5219;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Pangaea Rules</Tag>
+		<English>&#x76D8;&#x53E4;&#x5927;&#x9646;&#x89C4;&#x5219;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x76D8;&#x53E4;&#x5927;&#x9646;&#x89C4;&#x5219;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Pangea</Tag>
+		<English>&#x76D8;&#x53E4;&#x5927;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x76D8;&#x53E4;&#x5927;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Patience amount</Tag>
+		<English>&#x751F;&#x6210;&#x8010;&#x5FC3;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x751F;&#x6210;&#x8010;&#x5FC3;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Peaks</Tag>
+		<English>&#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Peaks:</Tag>
+		<English>&#x5C71;&#x5CF0;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>PerfectWorld style</Tag>
+		<English>&#x5B8C;&#x7F8E;&#x4E16;&#x754C;&#x98CE;&#x683C;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5B8C;&#x7F8E;&#x4E16;&#x754C;&#x98CE;&#x683C;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Plains Chance</Tag>
+		<English>&#x5E73;&#x539F;&#x51E0;&#x7387;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5E73;&#x539F;&#x51E0;&#x7387;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Player bonus resources</Tag>
+		<English>&#x73A9;&#x5BB6;&#x8865;&#x507F;&#x8D44;&#x6E90;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x73A9;&#x5BB6;&#x8865;&#x507F;&#x8D44;&#x6E90;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Preset #1 (Totestra)</Tag>
+		<English>&#x9884;&#x8BBE; #1&#xFF08;Totestra&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9884;&#x8BBE; #1&#xFF08;Totestra&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Preset #2 (Cephalo)</Tag>
+		<English>&#x9884;&#x8BBE; #2&#xFF08;Cephalo&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9884;&#x8BBE; #2&#xFF08;Cephalo&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Preset #3 (Caulixtla)</Tag>
+		<English>&#x9884;&#x8BBE; #3&#xFF08;Caulixtla&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9884;&#x8BBE; #3&#xFF08;Caulixtla&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Preset #4 (En Dotter 1)</Tag>
+		<English>&#x9884;&#x8BBE; #4&#xFF08;En Dotter 1&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9884;&#x8BBE; #4&#xFF08;En Dotter 1&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Preset #5 (En Dotter 2)</Tag>
+		<English>&#x9884;&#x8BBE; #5&#xFF08;En Dotter 2&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9884;&#x8BBE; #5&#xFF08;En Dotter 2&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Random</Tag>
+		<English>&#x968F;&#x673A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Random map that creates a region of a fantasy type world where much of the world is unknown and irrelevant. It allows terrain to be created on a smaller, more detailed scale than planetary maps.</Tag>
+		<English>&#x968F;&#x673A;&#x5730;&#x56FE;&#xFF1A;&#x751F;&#x6210;&#x4E00;&#x7247;&#x5947;&#x5E7B;&#x4E16;&#x754C;&#x4E2D;&#x7684;&#x533A;&#x57DF;&#xFF0C;&#x4E16;&#x754C;&#x7684;&#x5927;&#x90E8;&#x5206;&#x672A;&#x77E5;&#x800C;&#x65E0;&#x5173;&#x7D27;&#x8981;&#x3002;&#x5B83;&#x80FD;&#x4EE5;&#x6BD4;&#x884C;&#x661F;&#x5730;&#x56FE;&#x66F4;&#x5C0F;&#x3001;&#x66F4;&#x7CBE;&#x7EC6;&#x7684;&#x5C3A;&#x5EA6;&#x523B;&#x753B;&#x5730;&#x5F62;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A;&#x5730;&#x56FE;&#xFF1A;&#x751F;&#x6210;&#x4E00;&#x7247;&#x5947;&#x5E7B;&#x4E16;&#x754C;&#x4E2D;&#x7684;&#x533A;&#x57DF;&#xFF0C;&#x4E16;&#x754C;&#x7684;&#x5927;&#x90E8;&#x5206;&#x672A;&#x77E5;&#x800C;&#x65E0;&#x5173;&#x7D27;&#x8981;&#x3002;&#x5B83;&#x80FD;&#x4EE5;&#x6BD4;&#x884C;&#x661F;&#x5730;&#x56FE;&#x66F4;&#x5C0F;&#x3001;&#x66F4;&#x7CBE;&#x7EC6;&#x7684;&#x5C3A;&#x5EA6;&#x523B;&#x753B;&#x5730;&#x5F62;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Random map that simulates earth-like plate tectonics, geostrophic and monsoon winds and rainfall.</Tag>
+		<English>&#x968F;&#x673A;&#x5730;&#x56FE;&#xFF1A;&#x6A21;&#x62DF;&#x7C7B;&#x5730;&#x884C;&#x661F;&#x7684;&#x677F;&#x5757;&#x6784;&#x9020;&#x3001;&#x5730;&#x8F6C;&#x98CE;&#x3001;&#x5B63;&#x98CE;&#x4E0E;&#x964D;&#x96E8;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A;&#x5730;&#x56FE;&#xFF1A;&#x6A21;&#x62DF;&#x7C7B;&#x5730;&#x884C;&#x661F;&#x7684;&#x677F;&#x5757;&#x6784;&#x9020;&#x3001;&#x5730;&#x8F6C;&#x98CE;&#x3001;&#x5B63;&#x98CE;&#x4E0E;&#x964D;&#x96E8;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Randomly Placed</Tag>
+		<English>&#x968F;&#x673A;&#x6446;&#x653E;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A;&#x6446;&#x653E;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Reduce Mountains</Tag>
+		<English>&#x51CF;&#x5C11;&#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x51CF;&#x5C11;&#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Reduced</Tag>
+		<English>&#x51CF;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x51CF;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Resource Poor</Tag>
+		<English>&#x8D44;&#x6E90;&#x8D2B;&#x4E4F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8D44;&#x6E90;&#x8D2B;&#x4E4F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Resources evenly spread</Tag>
+		<English>&#x8D44;&#x6E90;&#x5747;&#x5300;&#x5206;&#x5E03;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8D44;&#x6E90;&#x5747;&#x5300;&#x5206;&#x5E03;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Rich</Tag>
+		<English>&#x8D44;&#x6E90;&#x4E30;&#x5BCC;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8D44;&#x6E90;&#x4E30;&#x5BCC;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Rivers and Lakes</Tag>
+		<English>&#x6CB3;&#x6D41;&#x4E0E;&#x6E56;&#x6CCA;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6CB3;&#x6D41;&#x4E0E;&#x6E56;&#x6CCA;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Rivers/Lakes:</Tag>
+		<English>&#x6CB3;&#x6D41;/&#x6E56;&#x6CCA;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6CB3;&#x6D41;/&#x6E56;&#x6CCA;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Sands of Mars</Tag>
+		<English>&#x706B;&#x661F;&#x6D41;&#x6C99;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x706B;&#x661F;&#x6D41;&#x6C99;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Shape</Tag>
+		<English>&#x5F62;&#x72B6;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5F62;&#x72B6;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Smart Climate</Tag>
+		<English>&#x667A;&#x80FD;&#x6C14;&#x5019;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x667A;&#x80FD;&#x6C14;&#x5019;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap All Coastal</Tag>
+		<English>SmartMap &#x5168;&#x90E8;&#x6CBF;&#x6D77;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x5168;&#x90E8;&#x6CBF;&#x6D77;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap All Inland</Tag>
+		<English>SmartMap &#x5168;&#x90E8;&#x5185;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x5168;&#x90E8;&#x5185;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap Clump Both</Tag>
+		<English>SmartMap &#x53CC;&#x7C7B;&#x6210;&#x7C07;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x53CC;&#x7C7B;&#x6210;&#x7C07;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap Clump Happy</Tag>
+		<English>SmartMap &#x5E78;&#x798F;&#x8D44;&#x6E90;&#x6210;&#x7C07;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x5E78;&#x798F;&#x8D44;&#x6E90;&#x6210;&#x7C07;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap Clump Health</Tag>
+		<English>SmartMap &#x5065;&#x5EB7;&#x8D44;&#x6E90;&#x6210;&#x7C07;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x5065;&#x5EB7;&#x8D44;&#x6E90;&#x6210;&#x7C07;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap Crazy</Tag>
+		<English>SmartMap &#x75AF;&#x72C2;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x75AF;&#x72C2;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap Few</Tag>
+		<English>SmartMap &#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap Insane</Tag>
+		<English>SmartMap &#x75AF;&#x9B54;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x75AF;&#x9B54;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap Many</Tag>
+		<English>SmartMap &#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap New World</Tag>
+		<English>SmartMap &#x65B0;&#x5927;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x65B0;&#x5927;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap New World Coastal</Tag>
+		<English>SmartMap &#x65B0;&#x5927;&#x9646;&#x6CBF;&#x6D77;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x65B0;&#x5927;&#x9646;&#x6CBF;&#x6D77;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap New World Inland</Tag>
+		<English>SmartMap &#x65B0;&#x5927;&#x9646;&#x5185;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x65B0;&#x5927;&#x9646;&#x5185;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap Normal</Tag>
+		<English>SmartMap &#x6807;&#x51C6;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x6807;&#x51C6;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap Player Coastal</Tag>
+		<English>SmartMap &#x73A9;&#x5BB6;&#x6CBF;&#x6D77;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x73A9;&#x5BB6;&#x6CBF;&#x6D77;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap Player Inland</Tag>
+		<English>SmartMap &#x73A9;&#x5BB6;&#x5185;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x73A9;&#x5BB6;&#x5185;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap Strict</Tag>
+		<English>SmartMap &#x4E25;&#x683C;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x4E25;&#x683C;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap extra grass</Tag>
+		<English>SmartMap &#x591A;&#x8349;&#x539F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x591A;&#x8349;&#x539F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap extra plains</Tag>
+		<English>SmartMap &#x591A;&#x5E73;&#x539F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x591A;&#x5E73;&#x539F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap no desert</Tag>
+		<English>SmartMap &#x65E0;&#x6C99;&#x6F20;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x65E0;&#x6C99;&#x6F20;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap no snow</Tag>
+		<English>SmartMap &#x65E0;&#x96EA;&#x539F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x65E0;&#x96EA;&#x539F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap no snow/desert</Tag>
+		<English>SmartMap &#x65E0;&#x96EA;&#x539F;/&#x6C99;&#x6F20;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x65E0;&#x96EA;&#x539F;/&#x6C99;&#x6F20;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap no snow/desert/tundra</Tag>
+		<English>SmartMap &#x65E0;&#x96EA;&#x539F;/&#x6C99;&#x6F20;/&#x51BB;&#x571F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x65E0;&#x96EA;&#x539F;/&#x6C99;&#x6F20;/&#x51BB;&#x571F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap only grass</Tag>
+		<English>SmartMap &#x4EC5;&#x8349;&#x539F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x4EC5;&#x8349;&#x539F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>SmartMap only plains</Tag>
+		<English>SmartMap &#x4EC5;&#x5E73;&#x539F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>SmartMap &#x4EC5;&#x5E73;&#x539F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Some</Tag>
+		<English>&#x4E00;&#x4E9B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E00;&#x4E9B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Somewhat</Tag>
+		<English>&#x4E00;&#x822C;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E00;&#x822C;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Spherical</Tag>
+		<English>&#x7403;&#x9762;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x7403;&#x9762;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Standard (Default)</Tag>
+		<English>&#x6807;&#x51C6;&#xFF08;&#x9ED8;&#x8BA4;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6807;&#x51C6;&#xFF08;&#x9ED8;&#x8BA4;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Start Anywhere</Tag>
+		<English>&#x4EFB;&#x610F;&#x51FA;&#x751F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4EFB;&#x610F;&#x51FA;&#x751F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Start Placement:</Tag>
+		<English>&#x51FA;&#x751F;&#x6446;&#x653E;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x51FA;&#x751F;&#x6446;&#x653E;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Start anywhere reasonable</Tag>
+		<English>&#x4EFB;&#x610F;&#x5408;&#x7406;&#x4F4D;&#x7F6E;&#x51FA;&#x751F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4EFB;&#x610F;&#x5408;&#x7406;&#x4F4D;&#x7F6E;&#x51FA;&#x751F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Start in Old World</Tag>
+		<English>&#x51FA;&#x751F;&#x5728;&#x65E7;&#x5927;&#x9646;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x51FA;&#x751F;&#x5728;&#x65E7;&#x5927;&#x9646;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Starting Plot Rules</Tag>
+		<English>&#x51FA;&#x751F;&#x70B9;&#x89C4;&#x5219;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x51FA;&#x751F;&#x70B9;&#x89C4;&#x5219;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Starts</Tag>
+		<English>&#x51FA;&#x751F;&#x70B9;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x51FA;&#x751F;&#x70B9;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Team Neighbors</Tag>
+		<English>&#x961F;&#x53CB;&#x76F8;&#x90BB;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x961F;&#x53CB;&#x76F8;&#x90BB;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Team Placement:</Tag>
+		<English>&#x56E2;&#x961F;&#x6446;&#x653E;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x56E2;&#x961F;&#x6446;&#x653E;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Team Randomly Placed</Tag>
+		<English>&#x961F;&#x4F0D;&#x968F;&#x673A;&#x6446;&#x653E;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x961F;&#x4F0D;&#x968F;&#x673A;&#x6446;&#x653E;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Team Separated</Tag>
+		<English>&#x961F;&#x53CB;&#x5206;&#x79BB;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x961F;&#x53CB;&#x5206;&#x79BB;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Team Start</Tag>
+		<English>&#x56E2;&#x961F;&#x51FA;&#x751F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x56E2;&#x961F;&#x51FA;&#x751F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Terraformed Mars</Tag>
+		<English>&#x6539;&#x9020;&#x540E;&#x7684;&#x706B;&#x661F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6539;&#x9020;&#x540E;&#x7684;&#x706B;&#x661F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Terrain:</Tag>
+		<English>&#x5730;&#x5F62;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5730;&#x5F62;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>This only shows up in the Play Now menu, and I dont want this script there</Tag>
+		<English>&#x8BE5;&#x8BF4;&#x660E;&#x53EA;&#x51FA;&#x73B0;&#x5728;&#x201C;&#x7ACB;&#x5373;&#x6E38;&#x620F;&#x201D;&#x83DC;&#x5355;&#x4E2D;&#xFF0C;&#x4F5C;&#x8005;&#x4E0D;&#x5E0C;&#x671B;&#x672C;&#x811A;&#x672C;&#x51FA;&#x73B0;&#x5728;&#x90A3;&#x91CC;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8BE5;&#x8BF4;&#x660E;&#x53EA;&#x51FA;&#x73B0;&#x5728;&#x201C;&#x7ACB;&#x5373;&#x6E38;&#x620F;&#x201D;&#x83DC;&#x5355;&#x4E2D;&#xFF0C;&#x4F5C;&#x8005;&#x4E0D;&#x5E0C;&#x671B;&#x672C;&#x811A;&#x672C;&#x51FA;&#x73B0;&#x5728;&#x90A3;&#x91CC;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Toric w/ ice band</Tag>
+		<English>&#x73AF;&#x9762;&#xFF08;&#x5E26;&#x51B0;&#x5E26;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x73AF;&#x9762;&#xFF08;&#x5E26;&#x51B0;&#x5E26;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Toroidal</Tag>
+		<English>&#x73AF;&#x9762;&#xFF08;&#x53CC;&#x5411;&#x73AF;&#x7ED5;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x73AF;&#x9762;&#xFF08;&#x53CC;&#x5411;&#x73AF;&#x7ED5;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Toroidal World (X and Y Wrap)</Tag>
+		<English>&#x73AF;&#x9762;&#x4E16;&#x754C;&#xFF08;X &#x4E0E; Y &#x73AF;&#x7ED5;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x73AF;&#x9762;&#x4E16;&#x754C;&#xFF08;X &#x4E0E; Y &#x73AF;&#x7ED5;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Tundra Chance</Tag>
+		<English>&#x51BB;&#x571F;&#x51E0;&#x7387;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x51BB;&#x571F;&#x51E0;&#x7387;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Use Erebus Starting Plot Finder (default)</Tag>
+		<English>&#x4F7F;&#x7528;&#x57C3;&#x96F7;&#x5E03;&#x65AF;&#x51FA;&#x751F;&#x70B9;&#x641C;&#x5BFB;&#x5668;&#xFF08;&#x9ED8;&#x8BA4;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4F7F;&#x7528;&#x57C3;&#x96F7;&#x5E03;&#x65AF;&#x51FA;&#x751F;&#x70B9;&#x641C;&#x5BFB;&#x5668;&#xFF08;&#x9ED8;&#x8BA4;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Use Original Civilization IV Method</Tag>
+		<English>&#x4F7F;&#x7528;&#x6587;&#x660E;IV&#x539F;&#x7248;&#x65B9;&#x5F0F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4F7F;&#x7528;&#x6587;&#x660E;IV&#x539F;&#x7248;&#x65B9;&#x5F0F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Use truly random resources</Tag>
+		<English>&#x5B8C;&#x5168;&#x968F;&#x673A;&#x8D44;&#x6E90;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5B8C;&#x5168;&#x968F;&#x673A;&#x8D44;&#x6E90;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Very High</Tag>
+		<English>&#x5F88;&#x9AD8;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5F88;&#x9AD8;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Very few</Tag>
+		<English>&#x6781;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6781;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Wannabe archipalego</Tag>
+		<English>&#x4F2A;&#x7FA4;&#x5C9B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4F2A;&#x7FA4;&#x5C9B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Way too many</Tag>
+		<English>&#x591A;&#x5F97;&#x79BB;&#x8C31;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x591A;&#x5F97;&#x79BB;&#x8C31;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>World Warp</Tag>
+		<English>&#x4E16;&#x754C;&#x73AF;&#x7ED5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E16;&#x754C;&#x73AF;&#x7ED5;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>World Wrap</Tag>
+		<English>&#x4E16;&#x754C;&#x73AF;&#x7ED5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E16;&#x754C;&#x73AF;&#x7ED5;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Wrap Option</Tag>
+		<English>&#x73AF;&#x7ED5;&#x9009;&#x9879;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x73AF;&#x7ED5;&#x9009;&#x9879;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Wrap land</Tag>
+		<English>&#x9646;&#x5730;&#x73AF;&#x7ED5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x9646;&#x5730;&#x73AF;&#x7ED5;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Wrap:</Tag>
+		<English>&#x73AF;&#x7ED5;&#xFF1A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x73AF;&#x7ED5;&#xFF1A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>Yes</Tag>
+		<English>&#x662F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x662F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>africa</Tag>
+		<English>&#x975E;&#x6D32;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x975E;&#x6D32;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>asia</Tag>
+		<English>&#x4E9A;&#x6D32;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E9A;&#x6D32;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>australia</Tag>
+		<English>&#x6FB3;&#x6D32;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6FB3;&#x6D32;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>balanced, normal range</Tag>
+		<English>&#x5E73;&#x8861;&#xFF08;&#x6B63;&#x5E38;&#x8303;&#x56F4;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5E73;&#x8861;&#xFF08;&#x6B63;&#x5E38;&#x8303;&#x56F4;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>balanced, wider range</Tag>
+		<English>&#x5E73;&#x8861;&#xFF08;&#x66F4;&#x5BBD;&#x8303;&#x56F4;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5E73;&#x8861;&#xFF08;&#x66F4;&#x5BBD;&#x8303;&#x56F4;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>big ocean</Tag>
+		<English>&#x5927;&#x6D77;&#x6D0B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5927;&#x6D77;&#x6D0B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>central sea</Tag>
+		<English>&#x4E2D;&#x592E;&#x5185;&#x6D77;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E2D;&#x592E;&#x5185;&#x6D77;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>corner sea</Tag>
+		<English>&#x89D2;&#x843D;&#x6D77;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x89D2;&#x843D;&#x6D77;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>don't override</Tag>
+		<English>&#x4E0D;&#x5F3A;&#x5236;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E0D;&#x5F3A;&#x5236;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>earth</Tag>
+		<English>&#x5730;&#x7403;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5730;&#x7403;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>edge sea</Tag>
+		<English>&#x8FB9;&#x7F18;&#x6D77;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8FB9;&#x7F18;&#x6D77;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>europe</Tag>
+		<English>&#x6B27;&#x6D32;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6B27;&#x6D32;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>expanded</Tag>
+		<English>&#x6269;&#x5C55;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6269;&#x5C55;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few great lakes</Tag>
+		<English>&#x5927;&#x6E56;&#x8F83;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5927;&#x6E56;&#x8F83;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few hills</Tag>
+		<English>&#x4E18;&#x9675;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E18;&#x9675;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few peaks</Tag>
+		<English>&#x5C71;&#x5CF0;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few peaks no block</Tag>
+		<English>&#x5C71;&#x5CF0;&#x5C11;&#xFF08;&#x4E0D;&#x963B;&#x8DEF;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#x5C11;&#xFF08;&#x4E0D;&#x963B;&#x8DEF;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few rivers, few lakes</Tag>
+		<English>&#x6CB3;&#x6D41;&#x5C11;&#x3001;&#x6E56;&#x6CCA;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6CB3;&#x6D41;&#x5C11;&#x3001;&#x6E56;&#x6CCA;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few rivers, many lakes</Tag>
+		<English>&#x6CB3;&#x6D41;&#x5C11;&#x3001;&#x6E56;&#x6CCA;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6CB3;&#x6D41;&#x5C11;&#x3001;&#x6E56;&#x6CCA;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few rivers, normal lakes</Tag>
+		<English>&#x6CB3;&#x6D41;&#x5C11;&#x3001;&#x6E56;&#x6CCA;&#x6B63;&#x5E38;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6CB3;&#x6D41;&#x5C11;&#x3001;&#x6E56;&#x6CCA;&#x6B63;&#x5E38;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few strat, few happy, few other</Tag>
+		<English>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few strat, few happy, many other</Tag>
+		<English>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few strat, few happy, norm other</Tag>
+		<English>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few strat, many happy, few other</Tag>
+		<English>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few strat, many happy, many other</Tag>
+		<English>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few strat, many happy, norm other</Tag>
+		<English>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few strat, norm happy, few other</Tag>
+		<English>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few strat, norm happy, many other</Tag>
+		<English>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>few strat, norm happy, norm other</Tag>
+		<English>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x5C11;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>great lakes</Tag>
+		<English>&#x5927;&#x6E56;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5927;&#x6E56;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>great plains</Tag>
+		<English>&#x5927;&#x5E73;&#x539F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5927;&#x5E73;&#x539F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>heavy forest, heavy jungle</Tag>
+		<English>&#x68EE;&#x6797;&#x8302;&#x5BC6;&#x3001;&#x4E1B;&#x6797;&#x8302;&#x5BC6;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x68EE;&#x6797;&#x8302;&#x5BC6;&#x3001;&#x4E1B;&#x6797;&#x8302;&#x5BC6;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>heavy forest, light jungle</Tag>
+		<English>&#x68EE;&#x6797;&#x8302;&#x5BC6;&#x3001;&#x4E1B;&#x6797;&#x7A00;&#x758F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x68EE;&#x6797;&#x8302;&#x5BC6;&#x3001;&#x4E1B;&#x6797;&#x7A00;&#x758F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>heavy forest, normal jungle</Tag>
+		<English>&#x68EE;&#x6797;&#x8302;&#x5BC6;&#x3001;&#x4E1B;&#x6797;&#x6B63;&#x5E38;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x68EE;&#x6797;&#x8302;&#x5BC6;&#x3001;&#x4E1B;&#x6797;&#x6B63;&#x5E38;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>high levels of all</Tag>
+		<English>&#x5168;&#x90E8;&#x504F;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5168;&#x90E8;&#x504F;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>least round, extreme fragments</Tag>
+		<English>&#x6700;&#x4E0D;&#x89C4;&#x6574;&#x3001;&#x6781;&#x591A;&#x788E;&#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6700;&#x4E0D;&#x89C4;&#x6574;&#x3001;&#x6781;&#x591A;&#x788E;&#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>least round, heavy fragments</Tag>
+		<English>&#x6700;&#x4E0D;&#x89C4;&#x6574;&#x3001;&#x5927;&#x91CF;&#x788E;&#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6700;&#x4E0D;&#x89C4;&#x6574;&#x3001;&#x5927;&#x91CF;&#x788E;&#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>least round, many fragments</Tag>
+		<English>&#x6700;&#x4E0D;&#x89C4;&#x6574;&#x3001;&#x8F83;&#x591A;&#x788E;&#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6700;&#x4E0D;&#x89C4;&#x6574;&#x3001;&#x8F83;&#x591A;&#x788E;&#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>least round, no fragments</Tag>
+		<English>&#x6700;&#x4E0D;&#x89C4;&#x6574;&#x3001;&#x65E0;&#x788E;&#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6700;&#x4E0D;&#x89C4;&#x6574;&#x3001;&#x65E0;&#x788E;&#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>least round, some fragments</Tag>
+		<English>&#x6700;&#x4E0D;&#x89C4;&#x6574;&#x3001;&#x5C11;&#x91CF;&#x788E;&#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6700;&#x4E0D;&#x89C4;&#x6574;&#x3001;&#x5C11;&#x91CF;&#x788E;&#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>light forest, heavy jungle</Tag>
+		<English>&#x68EE;&#x6797;&#x7A00;&#x758F;&#x3001;&#x4E1B;&#x6797;&#x8302;&#x5BC6;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x68EE;&#x6797;&#x7A00;&#x758F;&#x3001;&#x4E1B;&#x6797;&#x8302;&#x5BC6;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>light forest, light jungle</Tag>
+		<English>&#x68EE;&#x6797;&#x7A00;&#x758F;&#x3001;&#x4E1B;&#x6797;&#x7A00;&#x758F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x68EE;&#x6797;&#x7A00;&#x758F;&#x3001;&#x4E1B;&#x6797;&#x7A00;&#x758F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>light forest, normal jungle</Tag>
+		<English>&#x68EE;&#x6797;&#x7A00;&#x758F;&#x3001;&#x4E1B;&#x6797;&#x6B63;&#x5E38;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x68EE;&#x6797;&#x7A00;&#x758F;&#x3001;&#x4E1B;&#x6797;&#x6B63;&#x5E38;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>low levels of all</Tag>
+		<English>&#x5168;&#x90E8;&#x504F;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5168;&#x90E8;&#x504F;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many great lakes</Tag>
+		<English>&#x5927;&#x6E56;&#x8F83;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5927;&#x6E56;&#x8F83;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many hills</Tag>
+		<English>&#x4E18;&#x9675;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E18;&#x9675;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many peaks</Tag>
+		<English>&#x5C71;&#x5CF0;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many peaks no block</Tag>
+		<English>&#x5C71;&#x5CF0;&#x591A;&#xFF08;&#x4E0D;&#x963B;&#x8DEF;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#x591A;&#xFF08;&#x4E0D;&#x963B;&#x8DEF;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many rivers, few lakes</Tag>
+		<English>&#x6CB3;&#x6D41;&#x591A;&#x3001;&#x6E56;&#x6CCA;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6CB3;&#x6D41;&#x591A;&#x3001;&#x6E56;&#x6CCA;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many rivers, many lakes</Tag>
+		<English>&#x6CB3;&#x6D41;&#x591A;&#x3001;&#x6E56;&#x6CCA;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6CB3;&#x6D41;&#x591A;&#x3001;&#x6E56;&#x6CCA;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many rivers, normal lakes</Tag>
+		<English>&#x6CB3;&#x6D41;&#x591A;&#x3001;&#x6E56;&#x6CCA;&#x6B63;&#x5E38;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6CB3;&#x6D41;&#x591A;&#x3001;&#x6E56;&#x6CCA;&#x6B63;&#x5E38;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many strat, few happy, few other</Tag>
+		<English>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many strat, few happy, many other</Tag>
+		<English>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many strat, few happy, norm other</Tag>
+		<English>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many strat, many happy, few other</Tag>
+		<English>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many strat, many happy, many other</Tag>
+		<English>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many strat, many happy, norm other</Tag>
+		<English>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many strat, norm happy, few other</Tag>
+		<English>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many strat, norm happy, many other</Tag>
+		<English>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>many strat, norm happy, norm other</Tag>
+		<English>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x591A;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>minimal ocean</Tag>
+		<English>&#x6D77;&#x6D0B;&#x6781;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6D77;&#x6D0B;&#x6781;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>no continents (all fragments)</Tag>
+		<English>&#x65E0;&#x5927;&#x9646;&#xFF08;&#x5168;&#x4E3A;&#x788E;&#x5757;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;&#x5927;&#x9646;&#xFF08;&#x5168;&#x4E3A;&#x788E;&#x5757;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>no forest, no jungle</Tag>
+		<English>&#x65E0;&#x68EE;&#x6797;&#x3001;&#x65E0;&#x4E1B;&#x6797;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;&#x68EE;&#x6797;&#x3001;&#x65E0;&#x4E1B;&#x6797;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>no forest, normal jungle</Tag>
+		<English>&#x65E0;&#x68EE;&#x6797;&#x3001;&#x4E1B;&#x6797;&#x6B63;&#x5E38;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;&#x68EE;&#x6797;&#x3001;&#x4E1B;&#x6797;&#x6B63;&#x5E38;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>no hills</Tag>
+		<English>&#x65E0;&#x4E18;&#x9675;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;&#x4E18;&#x9675;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>no ocean</Tag>
+		<English>&#x65E0;&#x6D77;&#x6D0B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;&#x6D77;&#x6D0B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>no ocean, no lakes</Tag>
+		<English>&#x65E0;&#x6D77;&#x6D0B;&#x3001;&#x65E0;&#x6E56;&#x6CCA;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;&#x6D77;&#x6D0B;&#x3001;&#x65E0;&#x6E56;&#x6CCA;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>no peaks</Tag>
+		<English>&#x65E0;&#x5C71;&#x5CF0;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x65E0;&#x5C71;&#x5CF0;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>no wrap</Tag>
+		<English>&#x4E0D;&#x73AF;&#x7ED5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E0D;&#x73AF;&#x7ED5;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>no wrap - central pole</Tag>
+		<English>&#x4E0D;&#x73AF;&#x7ED5;&#xFF08;&#x4E2D;&#x592E;&#x6781;&#x70B9;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E0D;&#x73AF;&#x7ED5;&#xFF08;&#x4E2D;&#x592E;&#x6781;&#x70B9;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>norm strat, few happy, few other</Tag>
+		<English>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>norm strat, few happy, many other</Tag>
+		<English>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>norm strat, few happy, norm other</Tag>
+		<English>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x5C11;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>norm strat, many happy, few other</Tag>
+		<English>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>norm strat, many happy, many other</Tag>
+		<English>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>norm strat, many happy, norm other</Tag>
+		<English>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x591A;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>norm strat, norm happy, few other</Tag>
+		<English>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>norm strat, norm happy, many other</Tag>
+		<English>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>norm strat, norm happy, norm other</Tag>
+		<English>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6218;&#x7565;&#x4E2D;&#x3001;&#x5E78;&#x798F;&#x4E2D;&#x3001;&#x5176;&#x4ED6;&#x4E2D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>normal forest, heavy jungle</Tag>
+		<English>&#x68EE;&#x6797;&#x6B63;&#x5E38;&#x3001;&#x4E1B;&#x6797;&#x8302;&#x5BC6;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x68EE;&#x6797;&#x6B63;&#x5E38;&#x3001;&#x4E1B;&#x6797;&#x8302;&#x5BC6;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>normal forest, light jungle</Tag>
+		<English>&#x68EE;&#x6797;&#x6B63;&#x5E38;&#x3001;&#x4E1B;&#x6797;&#x7A00;&#x758F;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x68EE;&#x6797;&#x6B63;&#x5E38;&#x3001;&#x4E1B;&#x6797;&#x7A00;&#x758F;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>normal forest, no jungle</Tag>
+		<English>&#x68EE;&#x6797;&#x6B63;&#x5E38;&#x3001;&#x65E0;&#x4E1B;&#x6797;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x68EE;&#x6797;&#x6B63;&#x5E38;&#x3001;&#x65E0;&#x4E1B;&#x6797;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>normal forest, normal jungle</Tag>
+		<English>&#x68EE;&#x6797;&#x6B63;&#x5E38;&#x3001;&#x4E1B;&#x6797;&#x6B63;&#x5E38;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x68EE;&#x6797;&#x6B63;&#x5E38;&#x3001;&#x4E1B;&#x6797;&#x6B63;&#x5E38;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>normal hills</Tag>
+		<English>&#x4E18;&#x9675;&#x6807;&#x51C6;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4E18;&#x9675;&#x6807;&#x51C6;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>normal levels of all</Tag>
+		<English>&#x5168;&#x90E8;&#x6B63;&#x5E38;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5168;&#x90E8;&#x6B63;&#x5E38;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>normal ocean</Tag>
+		<English>&#x6807;&#x51C6;&#x6D77;&#x6D0B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6807;&#x51C6;&#x6D77;&#x6D0B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>normal peaks</Tag>
+		<English>&#x5C71;&#x5CF0;&#x6807;&#x51C6;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#x6807;&#x51C6;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>normal peaks no block</Tag>
+		<English>&#x5C71;&#x5CF0;&#x6807;&#x51C6;&#xFF08;&#x4E0D;&#x963B;&#x8DEF;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C71;&#x5CF0;&#x6807;&#x51C6;&#xFF08;&#x4E0D;&#x963B;&#x8DEF;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>normal rivers, few lakes</Tag>
+		<English>&#x6CB3;&#x6D41;&#x6B63;&#x5E38;&#x3001;&#x6E56;&#x6CCA;&#x5C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6CB3;&#x6D41;&#x6B63;&#x5E38;&#x3001;&#x6E56;&#x6CCA;&#x5C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>normal rivers, many lakes</Tag>
+		<English>&#x6CB3;&#x6D41;&#x6B63;&#x5E38;&#x3001;&#x6E56;&#x6CCA;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6CB3;&#x6D41;&#x6B63;&#x5E38;&#x3001;&#x6E56;&#x6CCA;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>normal rivers, normal lakes</Tag>
+		<English>&#x6CB3;&#x6D41;&#x6B63;&#x5E38;&#x3001;&#x6E56;&#x6CCA;&#x6B63;&#x5E38;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6CB3;&#x6D41;&#x6B63;&#x5E38;&#x3001;&#x6E56;&#x6CCA;&#x6B63;&#x5E38;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>north america</Tag>
+		<English>&#x5317;&#x7F8E;&#x6D32;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5317;&#x7F8E;&#x6D32;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>oasis</Tag>
+		<English>&#x7EFF;&#x6D32;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x7EFF;&#x6D32;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>random 1-12</Tag>
+		<English>&#x968F;&#x673A; 1-12</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A; 1-12</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>random 1-6</Tag>
+		<English>&#x968F;&#x673A; 1-6</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A; 1-6</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>random 2-5</Tag>
+		<English>&#x968F;&#x673A; 2-5</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A; 2-5</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>random 2-7</Tag>
+		<English>&#x968F;&#x673A; 2-7</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A; 2-7</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>random 24- 96</Tag>
+		<English>&#x968F;&#x673A; 24- 96</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A; 24- 96</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>random 3-8</Tag>
+		<English>&#x968F;&#x673A; 3-8</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A; 3-8</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>random 32-128</Tag>
+		<English>&#x968F;&#x673A; 32-128</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A; 32-128</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>random 4-12</Tag>
+		<English>&#x968F;&#x673A; 4-12</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A; 4-12</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>random 40-160</Tag>
+		<English>&#x968F;&#x673A; 40-160</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A; 40-160</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>random 48-192</Tag>
+		<English>&#x968F;&#x673A; 48-192</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A; 48-192</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>random sea</Tag>
+		<English>&#x968F;&#x673A;&#x5185;&#x6D77;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A;&#x5185;&#x6D77;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>single tile isles</Tag>
+		<English>&#x5355;&#x683C;&#x5C0F;&#x5C9B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5355;&#x683C;&#x5C0F;&#x5C9B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>small ocean</Tag>
+		<English>&#x5C0F;&#x6D77;&#x6D0B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5C0F;&#x6D77;&#x6D0B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>smartmap random pick</Tag>
+		<English>&#x968F;&#x673A;&#x6311;&#x9009;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x968F;&#x673A;&#x6311;&#x9009;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>somewhat round, extreme fragments</Tag>
+		<English>&#x8F83;&#x89C4;&#x6574;&#x3001;&#x6781;&#x591A;&#x788E;&#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8F83;&#x89C4;&#x6574;&#x3001;&#x6781;&#x591A;&#x788E;&#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>somewhat round, heavy fragments</Tag>
+		<English>&#x8F83;&#x89C4;&#x6574;&#x3001;&#x5927;&#x91CF;&#x788E;&#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8F83;&#x89C4;&#x6574;&#x3001;&#x5927;&#x91CF;&#x788E;&#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>somewhat round, many fragments</Tag>
+		<English>&#x8F83;&#x89C4;&#x6574;&#x3001;&#x8F83;&#x591A;&#x788E;&#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8F83;&#x89C4;&#x6574;&#x3001;&#x8F83;&#x591A;&#x788E;&#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>somewhat round, no fragments</Tag>
+		<English>&#x8F83;&#x89C4;&#x6574;&#x3001;&#x65E0;&#x788E;&#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8F83;&#x89C4;&#x6574;&#x3001;&#x65E0;&#x788E;&#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>somewhat round, some fragments</Tag>
+		<English>&#x8F83;&#x89C4;&#x6574;&#x3001;&#x5C11;&#x91CF;&#x788E;&#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8F83;&#x89C4;&#x6574;&#x3001;&#x5C11;&#x91CF;&#x788E;&#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>south america</Tag>
+		<English>&#x5357;&#x7F8E;&#x6D32;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5357;&#x7F8E;&#x6D32;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>standard</Tag>
+		<English>&#x6807;&#x51C6;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x6807;&#x51C6;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>use map data</Tag>
+		<English>&#x4F7F;&#x7528;&#x5730;&#x56FE;&#x6570;&#x636E;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x4F7F;&#x7528;&#x5730;&#x56FE;&#x6570;&#x636E;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>very high levels of all</Tag>
+		<English>&#x5168;&#x90E8;&#x6781;&#x591A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x5168;&#x90E8;&#x6781;&#x591A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>very round, extreme fragments</Tag>
+		<English>&#x975E;&#x5E38;&#x89C4;&#x6574;&#x3001;&#x6781;&#x591A;&#x788E;&#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x975E;&#x5E38;&#x89C4;&#x6574;&#x3001;&#x6781;&#x591A;&#x788E;&#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>very round, heavy fragments</Tag>
+		<English>&#x975E;&#x5E38;&#x89C4;&#x6574;&#x3001;&#x5927;&#x91CF;&#x788E;&#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x975E;&#x5E38;&#x89C4;&#x6574;&#x3001;&#x5927;&#x91CF;&#x788E;&#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>very round, many fragments</Tag>
+		<English>&#x975E;&#x5E38;&#x89C4;&#x6574;&#x3001;&#x8F83;&#x591A;&#x788E;&#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x975E;&#x5E38;&#x89C4;&#x6574;&#x3001;&#x8F83;&#x591A;&#x788E;&#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>very round, no fragments</Tag>
+		<English>&#x975E;&#x5E38;&#x89C4;&#x6574;&#x3001;&#x65E0;&#x788E;&#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x975E;&#x5E38;&#x89C4;&#x6574;&#x3001;&#x65E0;&#x788E;&#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>very round, some fragments</Tag>
+		<English>&#x975E;&#x5E38;&#x89C4;&#x6574;&#x3001;&#x5C11;&#x91CF;&#x788E;&#x5757;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x975E;&#x5E38;&#x89C4;&#x6574;&#x3001;&#x5C11;&#x91CF;&#x788E;&#x5757;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>wrap both</Tag>
+		<English>&#x53CC;&#x5411;&#x73AF;&#x7ED5;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x53CC;&#x5411;&#x73AF;&#x7ED5;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>wrap both - central pole</Tag>
+		<English>&#x53CC;&#x5411;&#x73AF;&#x7ED5;&#xFF08;&#x4E2D;&#x592E;&#x6781;&#x70B9;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x53CC;&#x5411;&#x73AF;&#x7ED5;&#xFF08;&#x4E2D;&#x592E;&#x6781;&#x70B9;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>wrap x</Tag>
+		<English>&#x73AF;&#x7ED5; x</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x73AF;&#x7ED5; x</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>wrap x - central pole</Tag>
+		<English>&#x73AF;&#x7ED5; x&#xFF08;&#x4E2D;&#x592E;&#x6781;&#x70B9;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x73AF;&#x7ED5; x&#xFF08;&#x4E2D;&#x592E;&#x6781;&#x70B9;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>wrap y</Tag>
+		<English>&#x73AF;&#x7ED5; y</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x73AF;&#x7ED5; y</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>wrap y - central pole</Tag>
+		<English>&#x73AF;&#x7ED5; y&#xFF08;&#x4E2D;&#x592E;&#x6781;&#x70B9;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x73AF;&#x7ED5; y&#xFF08;&#x4E2D;&#x592E;&#x6781;&#x70B9;&#xFF09;</Chinese>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FLESH_ROT</Tag>
+		<English>&#x8840;&#x8089;&#x8150;&#x8D25;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8840;&#x8089;&#x8150;&#x8D25;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FLESH_ROT_HELP</Tag>
+		<English>[NEWLINE][COLOR_WARNING_TEXT]&#x8840;&#x8089;&#x70BC;&#x6210;&#x672F;&#x9020;&#x51FA;&#x7684;&#x8EAF;&#x4F53;&#x5728;&#x4E0D;&#x65AD;&#x8150;&#x574F;&#xFF1A;&#x6BCF;&#x56DE;&#x5408;&#x5931;&#x53BB;5&#x70B9;&#x751F;&#x547D;&#xFF0C;&#x4E14;&#x6C38;&#x8FDC;&#x65E0;&#x6CD5;&#x81EA;&#x7136;&#x6062;&#x590D;&#xFF1B;&#x751F;&#x547D;&#x4F4E;&#x4E8E;50&#x65F6;&#xFF0C;&#x6BCF;&#x56DE;&#x5408;&#x518D;&#x5931;&#x53BB;1&#x70B9;&#x653B;&#x51FB;&#x529B;&#x3002;&#x552F;&#x6709;&#x541E;&#x566C;&#x751F;&#x8005;&#xFF08;&#x5E76;&#x5165;&#x8840;&#x8089;&#x5080;&#x5121;&#xFF0C;&#x6062;&#x590D;20&#x70B9;&#x751F;&#x547D;&#xFF09;&#x6216;&#x6218;&#x80DC;&#x654C;&#x4EBA;&#x541E;&#x98DF;&#x5176;&#x8840;&#x8089;&#xFF08;&#x6062;&#x590D;50&#x70B9;&#x751F;&#x547D;&#xFF09;&#x65B9;&#x80FD;&#x7EF4;&#x7CFB;&#x3002;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][COLOR_WARNING_TEXT]&#x8840;&#x8089;&#x70BC;&#x6210;&#x672F;&#x9020;&#x51FA;&#x7684;&#x8EAF;&#x4F53;&#x5728;&#x4E0D;&#x65AD;&#x8150;&#x574F;&#xFF1A;&#x6BCF;&#x56DE;&#x5408;&#x5931;&#x53BB;5&#x70B9;&#x751F;&#x547D;&#xFF0C;&#x4E14;&#x6C38;&#x8FDC;&#x65E0;&#x6CD5;&#x81EA;&#x7136;&#x6062;&#x590D;&#xFF1B;&#x751F;&#x547D;&#x4F4E;&#x4E8E;50&#x65F6;&#xFF0C;&#x6BCF;&#x56DE;&#x5408;&#x518D;&#x5931;&#x53BB;1&#x70B9;&#x653B;&#x51FB;&#x529B;&#x3002;&#x552F;&#x6709;&#x541E;&#x566C;&#x751F;&#x8005;&#xFF08;&#x5E76;&#x5165;&#x8840;&#x8089;&#x5080;&#x5121;&#xFF0C;&#x6062;&#x590D;20&#x70B9;&#x751F;&#x547D;&#xFF09;&#x6216;&#x6218;&#x80DC;&#x654C;&#x4EBA;&#x541E;&#x98DF;&#x5176;&#x8840;&#x8089;&#xFF08;&#x6062;&#x590D;50&#x70B9;&#x751F;&#x547D;&#xFF09;&#x65B9;&#x80FD;&#x7EF4;&#x7CFB;&#x3002;[COLOR_REVERT]</Chinese>
+	</TEXT>
+</Civ4GameText>

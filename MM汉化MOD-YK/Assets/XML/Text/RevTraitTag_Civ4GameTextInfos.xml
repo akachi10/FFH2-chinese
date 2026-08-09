@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_NONSTATE_RELIGIOUS_COMMERCE</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x975E;&#x56FD;&#x6559; [ICON_RELIGION] &#x4ECD;&#x4EA7;&#x51FA; [ICON_CULTURE]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x975E;&#x56FD;&#x6559; [ICON_RELIGION] &#x4ECD;&#x4EA7;&#x51FA; [ICON_CULTURE]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CAN_UPGRADE_ANYWHERE</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x53EF;&#x5728;&#x56FD;&#x754C;&#x4E4B;&#x5916;&#x5347;&#x7EA7;&#x5355;&#x4F4D;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x53EF;&#x5728;&#x56FD;&#x754C;&#x4E4B;&#x5916;&#x5347;&#x7EA7;&#x5355;&#x4F4D;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_REVIDX_LOCAL</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x672C;&#x5730;&#x53DB;&#x4E71;&#x6307;&#x6570;&#x60E9;&#x7F5A; %D1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x672C;&#x5730;&#x53DB;&#x4E71;&#x6307;&#x6570;&#x60E9;&#x7F5A; %D1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_REVIDX_NATIONAL</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x56FD;&#x5BB6;&#x9769;&#x547D;&#x7A33;&#x5B9A;&#x52A0;&#x6210; %D1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x56FD;&#x5BB6;&#x9769;&#x547D;&#x7A33;&#x5B9A;&#x52A0;&#x6210; %D1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_DISTANCE_MOD</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x53DB;&#x4E71;&#x6307;&#x6570;&#x57CE;&#x5E02;&#x8DDD;&#x79BB;&#x60E9;&#x7F5A;&#x53D8;&#x5316; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x53DB;&#x4E71;&#x6307;&#x6570;&#x57CE;&#x5E02;&#x8DDD;&#x79BB;&#x60E9;&#x7F5A;&#x53D8;&#x5316; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_REV_GOOD_HOLY_CITY</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6765;&#x81EA;&#x56FD;&#x6559; [ICON_RELIGION] &#x5723;&#x57CE;&#x7684;&#x53DB;&#x4E71;&#x6307;&#x6570;&#x52A0;&#x6210; %D1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6765;&#x81EA;&#x56FD;&#x6559; [ICON_RELIGION] &#x5723;&#x57CE;&#x7684;&#x53DB;&#x4E71;&#x6307;&#x6570;&#x52A0;&#x6210; %D1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_REV_BAD_HOLY_CITY</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6765;&#x81EA;&#x975E;&#x56FD;&#x6559; [ICON_RELIGION] &#x5723;&#x57CE;&#x7684;&#x53DB;&#x4E71;&#x6307;&#x6570;&#x60E9;&#x7F5A;&#x51CF;&#x5C11; %D1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6765;&#x81EA;&#x975E;&#x56FD;&#x6559; [ICON_RELIGION] &#x5723;&#x57CE;&#x7684;&#x53DB;&#x4E71;&#x6307;&#x6570;&#x60E9;&#x7F5A;&#x51CF;&#x5C11; %D1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_REV_NATIONALITY_MOD</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x57FA;&#x4E8E;&#x6C11;&#x65CF;&#x7684;&#x9769;&#x547D;&#x6548;&#x679C;&#x53D8;&#x5316; %s1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x57FA;&#x4E8E;&#x6C11;&#x65CF;&#x7684;&#x9769;&#x547D;&#x6548;&#x679C;&#x53D8;&#x5316; %s1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_BAD_RELIGION_MOD</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6765;&#x81EA;&#x975E;&#x56FD;&#x6559; [ICON_RELIGION] &#x7684;&#x9769;&#x547D;&#x60E9;&#x7F5A;&#x53D8;&#x5316; %s1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6765;&#x81EA;&#x975E;&#x56FD;&#x6559; [ICON_RELIGION] &#x7684;&#x9769;&#x547D;&#x60E9;&#x7F5A;&#x53D8;&#x5316; %s1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_GOOD_RELIGION_MOD</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6765;&#x81EA;&#x56FD;&#x6559; [ICON_RELIGION] &#x7684;&#x9769;&#x547D;&#x52A0;&#x6210; +%s1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][SPACE][SPACE][ICON_BULLET]&#x6765;&#x81EA;&#x56FD;&#x6559; [ICON_RELIGION] &#x7684;&#x9769;&#x547D;&#x52A0;&#x6210; +%s1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MAX_START_ERA</Tag>
+		<English>[NEWLINE][ICON_BULLET]&#x53EA;&#x80FD;&#x5728; %s1_Name &#x53CA;&#x66F4;&#x65E9;&#x7684;&#x5F00;&#x5C40;&#x5EFA;&#x9020;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][ICON_BULLET]&#x53EA;&#x80FD;&#x5728; %s1_Name &#x53CA;&#x66F4;&#x65E9;&#x7684;&#x5F00;&#x5C40;&#x5EFA;&#x9020;</Chinese>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_COST</Tag>
+		<English>[ICON_BULLET]&#x82B1;&#x8D39; %d1[ICON_GOLD]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x82B1;&#x8D39; %d1[ICON_GOLD]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_COST_CANNOT_PAY</Tag>
+		<English>[ICON_BULLET][COLOR_RED]&#x82B1;&#x8D39; %d1[COLOR_REVERT][ICON_GOLD]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_RED]&#x82B1;&#x8D39; %d1[COLOR_REVERT][ICON_GOLD]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_PROFIT</Tag>
+		<English>[ICON_BULLET]&#x83B7;&#x5F97; %d1[ICON_GOLD]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x83B7;&#x5F97; %d1[ICON_GOLD]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MESSAGE_SPELL_CAST</Tag>
+		<English>%s1_UnitName &#x65BD;&#x653E;&#x4E86; %s2</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s1_UnitName &#x65BD;&#x653E;&#x4E86; %s2</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MESSAGE_SPELL_MISCAST</Tag>
+		<English>%s1_UnitName &#x65BD;&#x6CD5;&#x5931;&#x8BEF;&#x4E86; %s2</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s1_UnitName &#x65BD;&#x6CD5;&#x5931;&#x8BEF;&#x4E86; %s2</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_IGNORE_HAS_CASTED</Tag>
+		<English>[ICON_BULLET]&#x672C;&#x56DE;&#x5408;&#x5373;&#x4FBF;&#x5DF2;&#x65BD;&#x653E;&#x8FC7;&#x53E6;&#x4E00;&#x9053;&#x6CD5;&#x672F;&#xFF0C;&#x4ECD;&#x53EF;&#x65BD;&#x653E;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x672C;&#x56DE;&#x5408;&#x5373;&#x4FBF;&#x5DF2;&#x65BD;&#x653E;&#x8FC7;&#x53E6;&#x4E00;&#x9053;&#x6CD5;&#x672F;&#xFF0C;&#x4ECD;&#x53EF;&#x65BD;&#x653E;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_PREREQ_CASTER_ALIVE</Tag>
+		<English>[ICON_BULLET]&#x65BD;&#x6CD5;&#x8005;&#x5FC5;&#x987B;&#x5B58;&#x6D3B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x65BD;&#x6CD5;&#x8005;&#x5FC5;&#x987B;&#x5B58;&#x6D3B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_PREREQ_CASTER_NO_DURATION</Tag>
+		<English>[ICON_BULLET]&#x65BD;&#x6CD5;&#x8005;&#x4E0D;&#x5F97;&#x4E3A;&#x4E34;&#x65F6;&#x5355;&#x4F4D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x65BD;&#x6CD5;&#x8005;&#x4E0D;&#x5F97;&#x4E3A;&#x4E34;&#x65F6;&#x5355;&#x4F4D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_VOTE_PREREQ</Tag>
+		<English>[ICON_BULLET]&#x9700;&#x8981;&#x51B3;&#x8BAE; %s1_vote</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x9700;&#x8981;&#x51B3;&#x8BAE; %s1_vote</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_PREREQ_POPULATION</Tag>
+		<English>[ICON_BULLET]&#x9700;&#x8981;&#x81F3;&#x5C11; %d1 &#x70B9;&#x4EBA;&#x53E3;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x9700;&#x8981;&#x81F3;&#x5C11; %d1 &#x70B9;&#x4EBA;&#x53E3;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_ADD_POPULATION</Tag>
+		<English>[ICON_BULLET]&#x4F7F;&#x57CE;&#x5E02;&#x4EBA;&#x53E3;&#x589E;&#x52A0; %d1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x4F7F;&#x57CE;&#x5E02;&#x4EBA;&#x53E3;&#x589E;&#x52A0; %d1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_REMOVE_POPULATION</Tag>
+		<English>[ICON_BULLET]&#x4F7F;&#x57CE;&#x5E02;&#x4EBA;&#x53E3;&#x51CF;&#x5C11; %d1</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x4F7F;&#x57CE;&#x5E02;&#x4EBA;&#x53E3;&#x51CF;&#x5C11; %d1</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_MISCAST_CHANCE</Tag>
+		<English>[ICON_BULLET]%d1% &#x7684;&#x51E0;&#x7387;&#x65BD;&#x6CD5;&#x5931;&#x8BEF;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]%d1% &#x7684;&#x51E0;&#x7387;&#x65BD;&#x6CD5;&#x5931;&#x8BEF;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_MISCAST_CHANCE_RANGE</Tag>
+		<English>[ICON_BULLET]%d1-%d2% &#x7684;&#x51E0;&#x7387;&#x65BD;&#x6CD5;&#x5931;&#x8BEF;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]%d1-%d2% &#x7684;&#x51E0;&#x7387;&#x65BD;&#x6CD5;&#x5931;&#x8BEF;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_MISCAST_CHANCE_MODIFY</Tag>
+		<English>[ICON_BULLET]&#x65BD;&#x6CD5;&#x5931;&#x8BEF;&#x7387; %D1%</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x65BD;&#x6CD5;&#x5931;&#x8BEF;&#x7387; %D1%</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TERRAFORM_TRANSFORMS</Tag>
+		<English>[ICON_BULLET]&#x5C06; [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT] &#x53D8;&#x4E3A; [COLOR_HIGHLIGHT_TEXT]%s2[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x5C06; [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT] &#x53D8;&#x4E3A; [COLOR_HIGHLIGHT_TEXT]%s2[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_STARTS_WAR_WITH</Tag>
+		<English>[ICON_BULLET][COLOR_NEGATIVE_TEXT]&#x4E0E; %s1_player &#x5F00;&#x6218;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET][COLOR_NEGATIVE_TEXT]&#x4E0E; %s1_player &#x5F00;&#x6218;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_ADD_PROMOTION_HEADER</Tag>
+		<English>[COLOR_ALT_HIGHLIGHT_TEXT]&#x664B;&#x5347;&#xFF1A;%s1[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_ALT_HIGHLIGHT_TEXT]&#x664B;&#x5347;&#xFF1A;%s1[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_CREATE_BUILDING_PRE_HEADER</Tag>
+		<English>[COLOR_BUILDING_TEXT]&#x5EFA;&#x7B51;&#xFF1A;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_BUILDING_TEXT]&#x5EFA;&#x7B51;&#xFF1A;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_CREATE_UNIT_PRE_HEADER</Tag>
+		<English>[COLOR_UNIT_TEXT]&#x5355;&#x4F4D;&#xFF1A;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_UNIT_TEXT]&#x5355;&#x4F4D;&#xFF1A;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_SUMMON_UNIT</Tag>
+		<English>[ICON_BULLET]&#x53EC;&#x5524;&#x4E00;&#x4E2A; [LINK=literal]%s1_unit[\LINK]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x53EC;&#x5524;&#x4E00;&#x4E2A; [LINK=literal]%s1_unit[\LINK]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_SUMMON_UNIT_MULTIPLE</Tag>
+		<English>[ICON_BULLET]&#x53EC;&#x5524; %D1 &#x4E2A; [LINK=literal]%s2_unitname[\LINK]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x53EC;&#x5524; %D1 &#x4E2A; [LINK=literal]%s2_unitname[\LINK]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_SUMMON_UNIT_PERMANENT</Tag>
+		<English>[SPACE]&#xFF08;&#x6C38;&#x4E45;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[SPACE]&#xFF08;&#x6C38;&#x4E45;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_SUMMON_UNIT_IMMOBILE</Tag>
+		<English>[NEWLINE][ICON_BULLET]&#x5355;&#x4F4D;&#x8D77;&#x59CB;&#x65F6;&#x65E0;&#x6CD5;&#x79FB;&#x52A8;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[NEWLINE][ICON_BULLET]&#x5355;&#x4F4D;&#x8D77;&#x59CB;&#x65F6;&#x65E0;&#x6CD5;&#x79FB;&#x52A8;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_HELP_HAS_ACTIVE_SUMMON</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]&#x6B64;&#x7C7B;&#x578B;&#x7684;&#x53EC;&#x5524;&#x540C;&#x65F6;&#x53EA;&#x80FD;&#x7EF4;&#x6301;&#x4E00;&#x4E2A;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_NEGATIVE_TEXT]&#x6B64;&#x7C7B;&#x578B;&#x7684;&#x53EC;&#x5524;&#x540C;&#x65F6;&#x53EA;&#x80FD;&#x7EF4;&#x6301;&#x4E00;&#x4E2A;[COLOR_REVERT]</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_HELP_SUMMONS_VS_SUMMONERS</Tag>
+		<English>&#xFF08;%d1/%d2 &#x4E2A;&#x53EC;&#x5524;&#x5355;&#x4F4D;&#x6D3B;&#x52A8;&#x4E2D;&#xFF09;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#xFF08;%d1/%d2 &#x4E2A;&#x53EC;&#x5524;&#x5355;&#x4F4D;&#x6D3B;&#x52A8;&#x4E2D;&#xFF09;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPELL_HELP_SUMMONS_VS_SUMMONERS_UNAVAILABLE</Tag>
+		<English>[COLOR_NEGATIVE_TEXT]&#xFF08;%d1/%d2 &#x4E2A;&#x53EC;&#x5524;&#x5355;&#x4F4D;&#x6D3B;&#x52A8;&#x4E2D;&#xFF09;[COLOR_REVERT]</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[COLOR_NEGATIVE_TEXT]&#xFF08;%d1/%d2 &#x4E2A;&#x53EC;&#x5524;&#x5355;&#x4F4D;&#x6D3B;&#x52A8;&#x4E2D;&#xFF09;[COLOR_REVERT]</Chinese>
+	</TEXT>
+</Civ4GameText>

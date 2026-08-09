@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_REV_SCREEN_CHANGE</Tag>
+		<English>&#x53D8;&#x5316;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x53D8;&#x5316;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_SCREEN_SCOREBOARD_MORE_CIVS</Tag>
+		<English>------- &#x66F4;&#x591A;&#xFF08; +%d &#x4E2A;&#x6587;&#x660E; &#xFF09;-------</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>------- &#x66F4;&#x591A;&#xFF08; +%d &#x4E2A;&#x6587;&#x660E; &#xFF09;-------</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REV_SCREEN_SCOREBOARD_LESS_CIVS</Tag>
+		<English>------ &#x66F4;&#x5C11;&#xFF08; &#x524D; %d &#x4E2A;&#x6587;&#x660E; &#xFF09;------</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>------ &#x66F4;&#x5C11;&#xFF08; &#x524D; %d &#x4E2A;&#x6587;&#x660E; &#xFF09;------</Chinese>
+	</TEXT>
+</Civ4GameText>

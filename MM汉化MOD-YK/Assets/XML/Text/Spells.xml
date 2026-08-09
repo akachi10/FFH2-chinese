@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>SPELL_SPRING_PUT_OUT_FLAMES</Tag>
+		<English>[ICON_BULLET]&#x6251;&#x706D; %d1 &#x4E2A;&#x5730;&#x5757;&#x4E0A;&#x7684;&#x70DF;&#x96FE;&#x6216;&#x706B;&#x7130;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x6251;&#x706D; %d1 &#x4E2A;&#x5730;&#x5757;&#x4E0A;&#x7684;&#x70DF;&#x96FE;&#x6216;&#x706B;&#x7130;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEAST_XP</Tag>
+		<English>[ICON_BULLET]&#x5355;&#x4F4D;&#x83B7;&#x5F97; %d1 &#x70B9;&#x7ECF;&#x9A8C;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]&#x5355;&#x4F4D;&#x83B7;&#x5F97; %d1 &#x70B9;&#x7ECF;&#x9A8C;&#x3002;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEAST_XP_MULTI</Tag>
+		<English>[ICON_BULLET]%d1 &#x4E2A;&#x5355;&#x4F4D;&#x83B7;&#x5F97; %d2-%d3 &#x70B9;&#x7ECF;&#x9A8C;&#x3002;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>[ICON_BULLET]%d1 &#x4E2A;&#x5355;&#x4F4D;&#x83B7;&#x5F97; %d2-%d3 &#x70B9;&#x7ECF;&#x9A8C;&#x3002;</Chinese>
+	</TEXT>
+</Civ4GameText>

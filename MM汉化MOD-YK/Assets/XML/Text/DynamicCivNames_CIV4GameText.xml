@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_DCN_DEFAULT</Tag>
+		<English>%s2_adj &#x5E1D;&#x56FD;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s2_adj &#x5E1D;&#x56FD;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_REFUGEES</Tag>
+		<English>%s2_adj &#x96BE;&#x6C11;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s2_adj &#x96BE;&#x6C11;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_THE_REBELS_OF</Tag>
+		<English>%s3_city &#x7684;&#x53DB;&#x519B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s3_city &#x7684;&#x53DB;&#x519B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_REBELS_OF</Tag>
+		<English>%s3_city &#x7684; %s2_adj &#x53DB;&#x519B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s3_city &#x7684; %s2_adj &#x53DB;&#x519B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_REBELS</Tag>
+		<English>%s2_adj &#x53DB;&#x519B;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s2_adj &#x53DB;&#x519B;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_TRIBE</Tag>
+		<English>%s2_adj &#x90E8;&#x65CF;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s2_adj &#x90E8;&#x65CF;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_ALLIANCE</Tag>
+		<English>&#x8054;&#x76DF;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x8054;&#x76DF;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_ORCISH_ADJECTIVE</Tag>
+		<English>&#x517D;&#x4EBA;&#x7684;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>&#x517D;&#x4EBA;&#x7684;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_CITY_STATES</Tag>
+		<English>%s2_adj &#x57CE;&#x90A6;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s2_adj &#x57CE;&#x90A6;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_CITY</Tag>
+		<English>%s3_capital &#x57CE;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s3_capital &#x57CE;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_FREE_CITY</Tag>
+		<English>%s3_capital &#x81EA;&#x7531;&#x57CE;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s3_capital &#x81EA;&#x7531;&#x57CE;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_KINGDOM</Tag>
+		<English>%s3_capital &#x738B;&#x56FD;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s3_capital &#x738B;&#x56FD;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_DEFAULT</Tag>
+		<English>%s4_leader &#x4E4B;&#x56FD;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s4_leader &#x4E4B;&#x56FD;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_VASSAL_CLAN</Tag>
+		<English>%s3_capital &#x90E8;&#x843D;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s3_capital &#x90E8;&#x843D;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_VASSAL_CALABIM_MASTER</Tag>
+		<English>%s3_capital &#x516C;&#x56FD;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s3_capital &#x516C;&#x56FD;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_VASSAL_MASTER_RELATED_THEOCRACY</Tag>
+		<English>%s3_capital &#x6559;&#x533A;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s3_capital &#x6559;&#x533A;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_VASSAL_SMALL_MASTER_RELATED_KINGDOM</Tag>
+		<English>%s3_capital &#x4F2F;&#x56FD;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s3_capital &#x4F2F;&#x56FD;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_VASSAL_MASTER_RELATED_KINGDOM</Tag>
+		<English>%s3_capital &#x516C;&#x7235;&#x9886;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s3_capital &#x516C;&#x7235;&#x9886;</Chinese>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DCN_MULTI_VASSAL_DEFAULT</Tag>
+		<English>%s3_capital &#x884C;&#x7701;</English>
+		<L1/>
+		<L2/>
+		<L3/>
+		<L4/>
+		<Chinese>%s3_capital &#x884C;&#x7701;</Chinese>
+	</TEXT>
+</Civ4GameText>
