@@ -747,13 +747,17 @@ iArda += iArdaResist
 
 **升级路径同样受限（重要，曾误判）**：`CvUnit::canUpgrade` → `hasUpgrade` → `getUpgradeCity` → **`CvCity::canUpgrade`**（FfH 把原版 `canTrain` 函数体改名而来，含全部常规检查）→ `CvPlayer::canTrain`（查 `StateReligion`）+ `CvPlot::canTrain`（查 `PrereqReligion` / `PrereqBuilding`）。**故升级也要过建筑与国教这两关**，不存在"造不了但能升"的绕过。唯一只在建造侧拦截、升级侧放行的字段是 `iMinLevel`（`CvCity::canTrain` 开头），它正是"只能升不能造"机制的实现。
 
-### 改动清单（17 个祭司）
+### 改动清单（12 个祭司）
 
-口径：**信徒用 Class 的教派，祭司跟随**。逐个换成该教信徒所用的同一个 Class。
+口径（用户 2026-08-08 收敛）：**只改 Class 下确实存在 `_HOSTILE` 版的教派**。首版曾按"信徒用 Class 则祭司跟随"改了 17 个，其中 5 个所属 Class 下并无敌对版，属无谓变更，**当日已还原**。
 
-秩序 / 天穹 / 守望者兄弟会 / 授环者 / 丰饶 / 卡拉莫夫符文 / 永恒结社 / 树叶 / 灰色议会 / 狐人 / 章鱼领主 / 埃苏斯议会 / 白手 / 不公管理者 / 混乱之子 / 灰烬帷幕 / 余烬军团
+| 教派 | 对应敌对版建筑 |
+|---|---|
+| 秩序 / 天穹 / 守望者兄弟会 / 卡拉莫夫符文 / 章鱼领主 / 灰烬帷幕 / 白手 | `BUILDING_TEMPLE_*_HOSTILE` |
+| 授环者 / 埃苏斯议会 / 不公管理者 / 混乱之子 / 余烬军团 | `BUILDING_ARTIFICERY_HOSTILE` / `APHOTIC_THRONE_HOSTILE` / `GAMBLING_HOUSE_HOSTILE` / `ARENA_HOSTILE` / `TOPHET_HOSTILE` |
 
-**未动**：
+**保持 `PrereqBuilding` 原样（6 个）**：
+- **无敌对版的 5 个** —— 丰饶（画廊）、永恒结社（圣物匣）、树叶、灰色议会、狐人。其 `BuildingClass` 下只有一个 Type，两种写法行为完全等价，改了也没有任何效果，故不改。
 - **莱兰祭司** —— 其信徒要 `BUILDING_LIBRARY`、祭司要 `BUILDING_ARCHIVE`，两级本就是不同建筑（递进链），且 `BUILDINGCLASS_ARCHIVE` 下无敌对版。改了没收益，只会凭空让"召唤师之环也能出莱兰祭司"。
 - **主教全部 22 个** —— `StateReligion` 保留，敌对教派仍升不了主教（用户要求的「主教要友好」天然成立）。
 

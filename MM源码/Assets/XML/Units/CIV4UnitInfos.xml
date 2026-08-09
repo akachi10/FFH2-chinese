@@ -20517,6 +20517,7 @@
 			</ReligionSpreads>
 			<ReligionType>RELIGION_HOUSE_OF_PLENTY</ReligionType>
 			<PrereqReligion>RELIGION_HOUSE_OF_PLENTY</PrereqReligion>
+			<PrereqBuilding>BUILDING_GALLERY</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_DRAMA</PrereqTech>
@@ -20582,7 +20583,6 @@
 			<iTier>3</iTier>
 			<PrereqAlignment>ALIGNMENT_GOOD</PrereqAlignment>
 			<bCanMoveLimitedBorders>1</bCanMoveLimitedBorders>
-			<PrereqBuildingClass>BUILDINGCLASS_GALLERY</PrereqBuildingClass>
 		</UnitInfo>
 		<UnitInfo>
 			<Class>UNITCLASS_DISCIPLE_PLENTY</Class>
@@ -22286,6 +22286,7 @@
 			</UnitAIs>
 			<ReligionType>RELIGION_ETERNAL_CABAL</ReligionType>
 			<PrereqReligion>RELIGION_ETERNAL_CABAL</PrereqReligion>
+			<PrereqBuilding>BUILDING_RELIQUARY</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 			</TechTypes>
@@ -22339,7 +22340,6 @@
 			<bNeverObsolete>1</bNeverObsolete>
 			<iCombatDefense>3</iCombatDefense>
 			<iTier>3</iTier>
-			<PrereqBuildingClass>BUILDINGCLASS_RELIQUARY</PrereqBuildingClass>
 			<DamageTypeCombats>
 				<DamageTypeCombat>
 					<DamageType>DAMAGE_HOLY</DamageType>
@@ -23318,6 +23318,7 @@
 			<ReligionType>RELIGION_FELLOWSHIP_OF_LEAVES</ReligionType>
 			<StateReligion/>
 			<PrereqReligion>RELIGION_FELLOWSHIP_OF_LEAVES</PrereqReligion>
+			<PrereqBuilding>BUILDING_TEMPLE_OF_LEAVES</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_WAY_OF_THE_FORESTS</PrereqTech>
@@ -23385,7 +23386,6 @@
 			<bNeverObsolete>1</bNeverObsolete>
 			<iCombatDefense>4</iCombatDefense>
 			<iTier>3</iTier>
-			<PrereqBuildingClass>BUILDINGCLASS_TEMPLE_OF_LEAVES</PrereqBuildingClass>
 			<DamageTypeCombats>
 				<DamageTypeCombat>
 					<DamageType>DAMAGE_POISON</DamageType>
@@ -23841,6 +23841,7 @@
 			</UnitAIs>
 			<ReligionType>RELIGION_GREY_COUNCIL</ReligionType>
 			<PrereqReligion>RELIGION_GREY_COUNCIL</PrereqReligion>
+			<PrereqBuilding>BUILDING_TEMPLE_GREY_COUNCIL</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_TRADE</PrereqTech>
@@ -23904,7 +23905,6 @@
 			<bNeverObsolete>1</bNeverObsolete>
 			<iCombatDefense>4</iCombatDefense>
 			<iTier>3</iTier>
-			<PrereqBuildingClass>BUILDINGCLASS_TEMPLE_GREY_COUNCIL</PrereqBuildingClass>
 			<DamageTypeCombats>
 			</DamageTypeCombats>
 		</UnitInfo>
@@ -24194,6 +24194,7 @@
 			<StateReligion></StateReligion>
 			<ReligionType>RELIGION_FOXMEN</ReligionType>
 			<PrereqReligion>RELIGION_FOXMEN</PrereqReligion>
+			<PrereqBuilding>BUILDING_TEMPLE_FOXMEN</PrereqBuilding>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
 			<TechTypes>
 				<PrereqTech>TECH_CARTOGRAPHY</PrereqTech>
@@ -24265,7 +24266,6 @@
 			<iCombatDefense>2</iCombatDefense>
 			<iTier>2</iTier>
 			<bCanMoveLimitedBorders>1</bCanMoveLimitedBorders>
-			<PrereqBuildingClass>BUILDINGCLASS_TEMPLE_FOXMEN</PrereqBuildingClass>
 			<DamageTypeCombats>
 				<DamageTypeCombat>
 					<DamageType>DAMAGE_LIGHTNING</DamageType>
