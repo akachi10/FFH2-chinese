@@ -1,0 +1,11 @@
+# Civ4 的 XML / Python 全部是 CRLF 行尾（MM源码 / Fall from Heaven 2 等目录）。
+# 关闭 git 的一切换行符自动转换：这些文件是与游戏目录做字节比对的对照基准，
+# 行尾一旦被改写，"仓库版 vs 游戏版" 的 diff 就失去意义，也会整篇爆红。
+# 与游戏目录仓库（Magister Modmod for FfH2）的 .gitattributes 同口径。
+* -text
+
+# 二进制显式标记，避免 git 尝试 diff/合并
+*.tga binary
+*.thm binary
+*.dll binary
+*.FPK binary
