@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+	Save-load diagnostics for corrupt CvUnit records.
+	The generated user configuration is Settings\Save Diagnostics.ini.
+-->
+<mod id="SaveDiagnostics"
+	module="SaveDiagnostics"
+	name="Save Diagnostics"
+	author="FFH2-chinese maintainers"
+	version="1.0"
+	date="2026-07-25">
+
+	<options id="SaveDiagnostics" file="Save Diagnostics.ini">
+		<section id="SaveDiagnostics">
+			<option id="Enabled" key="Enabled"
+					type="boolean" default="False"
+					get="isEnabled" set="setEnabled"
+					label="Enable save-load diagnostics"
+					help="Writes one unit inventory log whenever a save is loaded."/>
+			<option id="LogDirectory" key="Log Directory"
+					type="string" default="Default"
+					get="getLogDirectory" set="setLogDirectory"
+					label="Log directory"
+					help="Absolute path, environment-variable path, root-relative path, or Default."/>
+			<option id="PauseSeconds" key="Pause Seconds"
+					type="int" default="0"
+					get="getPauseSeconds" set="setPauseSeconds"
+					label="Pause seconds"
+					help="Pauses after writing the unit inventory so an external memory scanner can attach."/>
+			<option id="MaxFiles" key="Max Files"
+					type="int" default="20"
+					get="getMaxFiles" set="setMaxFiles"
+					label="Maximum retained files"
+					help="Keeps the newest diagnostic logs and removes older ones."/>
+		</section>
+	</options>
+</mod>

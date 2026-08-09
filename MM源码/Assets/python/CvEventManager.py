@@ -413,6 +413,13 @@ class CvEventManager:
 		return ""
 
 	def onLoadGame(self, argsList):
+		try:
+			import SaveDiagnostics
+			SaveDiagnostics.onLoadGame()
+		except:
+			print("SaveDiagnostics.onLoadGame failed")
+			import traceback
+			traceback.print_exc()
 		CvAdvisorUtils.resetNoLiberateCities()
 		return 0
 
@@ -1753,7 +1760,7 @@ class CvEventManager:
 				if pWinner.getDuration() == 0:
 					if pLoser.isHasPromotion(iCasswallawn):
 						if pWinner.getUnitCombatType() == gc.getInfoTypeForString('UNITCOMBAT_ADEPT'):
-							if CyGame().getSorenRandNum(7, str(pWinner.getName()) + ' Becomes Casswallawn in place of'+ str(pLoser.getName())) < 5:
+							if CyGame().getSorenRandNum(7, pWinner.getName().encode('latin_1','replace') + ' Becomes Casswallawn in place of'+ pLoser.getName().encode('latin_1','replace')) < 5:
 								CyInterface().addMessage(iPlayerW,True,25,CyTranslator().getText("TXT_KEY_MESSAGE_CASSWALLAWN_USURPED",()),'AS2D_FEATUREGROWTH',1,'Art/Interface/Buttons/Units/Gastrius.dds',ColorTypes(8),pWinner.getX(),pWinner.getY(),True,True)
 								CyInterface().addMessage(iPlayerL,True,25,CyTranslator().getText("TXT_KEY_MESSAGE_CASSWALLAWN_USURPED",()),'AS2D_FEATUREGROWTH',1,'Art/Interface/Buttons/Units/Gastrius.dds',ColorTypes(7),pWinner.getX(),pWinner.getY(),True,True)
 								infoLoser = gc.getUnitInfo(pLoser.getUnitType())
@@ -1767,7 +1774,7 @@ class CvEventManager:
 					if pLoser.isHasPromotion(iHero):
 						if pLoser.getDuration() == 0:
 							if not pWinner.isHasPromotion(iHero):
-								if CyGame().getSorenRandNum(7, "Hero " + str(pWinner.getName()) + ' slayer of '+ str(pLoser.getName())) < 1:
+								if CyGame().getSorenRandNum(7, "Hero " + pWinner.getName().encode('latin_1','replace') + ' slayer of '+ pLoser.getName().encode('latin_1','replace')) < 1:
 									pWinner.setHasPromotion(iHero, True)
 
 				if pWinner.isHasPromotion(gc.getInfoTypeForString('PROMOTION_MIMIC')):
@@ -1808,7 +1815,7 @@ class CvEventManager:
 								listProms.append(iProm)
 					if len(listProms) > 0:
 						iCount += 1
-						iProm = listProms[CyGame().getSorenRandNum(len(listProms), "Mimic" + str(pWinner.getName()) + ' slayer of '+ str(pLoser.getName()))]
+						iProm = listProms[CyGame().getSorenRandNum(len(listProms), "Mimic" + pWinner.getName().encode('latin_1','replace') + ' slayer of '+ pLoser.getName().encode('latin_1','replace'))]
 						infoProm = gc.getPromotionInfo(iProm)
 						pWinner.setHasPromotion(iProm, True)
 						CyInterface().addMessage(iPlayerW,True,25,CyTranslator().getText("TXT_KEY_MESSAGE_PROMOTION_STOLEN", (infoProm.getDescription(),)),'',1,infoProm.getButton(),ColorTypes(8),pWinner.getX(),pWinner.getY(),True,True)
@@ -1889,7 +1896,7 @@ class CvEventManager:
 					if iTypeWinner == gc.getInfoTypeForString('UNIT_EMRYS'):
 						if iUnitCombatLoser == gc.getInfoTypeForString('UNITCOMBAT_ADEPT'):
 							if not isLimitedUnitClass(pLoser.getUnitClassType()):
-								if CyGame().getSorenRandNum(100, str(pWinner.getName()) + ' recruits '+ str(pLoser.getName())) < 2*pWinner.getLevel() - pLoser.getLevel() +2*pWinner.getExperience() - pLoser.getExperience():
+								if CyGame().getSorenRandNum(100, pWinner.getName().encode('latin_1','replace') + ' recruits '+ pLoser.getName().encode('latin_1','replace')) < 2*pWinner.getLevel() - pLoser.getLevel() +2*pWinner.getExperience() - pLoser.getExperience():
 									newUnit = pPlayerW.initUnit(iTypeLoser, iX, iY, UnitAITypes.NO_UNITAI, DirectionTypes.NO_DIRECTION)
 									cf.removeAffinities(newUnit)
 									newUnit.finishMoves()
@@ -1943,7 +1950,7 @@ class CvEventManager:
 									elif iTypeLoser == gc.getInfoTypeForString('UNIT_RAVENOUS_WEREWOLF'):
 										iChance += 1
 									if iChance > 0:
-										if CyGame().getSorenRandNum(100, "Spread Lycanthropy" + str(pWinner.getName()) + ' slayer of '+ str(pLoser.getName())) < iChance:
+										if CyGame().getSorenRandNum(100, "Spread Lycanthropy" + pWinner.getName().encode('latin_1','replace') + ' slayer of '+ pLoser.getName().encode('latin_1','replace')) < iChance:
 											sName = pWinner.getName()
 											CyInterface().addMessage(iPlayerW,True,25,CyTranslator().getText("TXT_KEY_MESSAGE_SPREAD_LYCANTHROPY",(sName,)),'AS2D_FEATUREGROWTH',1,'Art/Interface/Buttons/Promotions/Werewolf.dds',ColorTypes(7),iX,iY,True,True)
 											CyInterface().addMessage(iPlayerL,True,25,CyTranslator().getText("TXT_KEY_MESSAGE_SPREAD_LYCANTHROPY",(sName,)),'AS2D_FEATUREGROWTH',1,'Art/Interface/Buttons/Promotions/Werewolf.dds',ColorTypes(8),iX,iY,True,True)
@@ -1974,7 +1981,7 @@ class CvEventManager:
 										iChance += 1
 									iChance *= 10
 									if iChance > 0:
-										if CyGame().getSorenRandNum(100, "Spread Lycanthropy " + str(pWinner.getName()) + ' slayer of '+ str(pLoser.getName())) < iChance:
+										if CyGame().getSorenRandNum(100, "Spread Lycanthropy " + pWinner.getName().encode('latin_1','replace') + ' slayer of '+ pLoser.getName().encode('latin_1','replace')) < iChance:
 											sName = pLoser.getName()
 											CyInterface().addMessage(iPlayerL,True,25,CyTranslator().getText("TXT_KEY_MESSAGE_SPREAD_LYCANTHROPY",(sName,)),'AS2D_FEATUREGROWTH',1,'Art/Interface/Buttons/Promotions/Werewolf.dds',ColorTypes(7),iX,iY,True,True)
 											CyInterface().addMessage(iPlayerW,True,25,CyTranslator().getText("TXT_KEY_MESSAGE_SPREAD_LYCANTHROPY",(sName,)),'AS2D_FEATUREGROWTH',1,'Art/Interface/Buttons/Promotions/Werewolf.dds',ColorTypes(8),iX,iY,True,True)
@@ -2014,7 +2021,7 @@ class CvEventManager:
 								if pLoser.canMoveInto(pWinner.plot(), True, True, False):
 	##								if unitX.getUnitCombatType() == iNaval:
 									if unitY.getUnitCombatType() == iNaval:
-										if CyGame().getSorenRandNum(100, "WarPrizes Naval" + str(pWinner.getName()) + ' slayer of '+ str(pLoser.getName())) <= 25:
+										if CyGame().getSorenRandNum(100, "WarPrizes Naval" + pWinner.getName().encode('latin_1','replace') + ' slayer of '+ pLoser.getName().encode('latin_1','replace')) <= 25:
 											newUnit = pPlayerW.initUnit(iTypeLoser, iX, iY, UnitAITypes.NO_UNITAI, DirectionTypes.NO_DIRECTION)
 											newUnit.finishMoves()
 											newUnit.setDamage(75, iPlayerW)
@@ -2659,7 +2666,7 @@ class CvEventManager:
 					bAuricAlive = True
 					if eTeam.isAtWar(pAuricPlayer.getTeam()):
 						if gc.getGame().getProjectCreatedCount(gc.getInfoTypeForString('PROJECT_THE_DRAW')) > 0:
-							if CyGame().getSorenRandNum(100, "Auric Revolt in " + str(pCity.getName())) < 15:
+							if CyGame().getSorenRandNum(100, "Auric Revolt in " + pCity.getName().encode('latin_1','replace')) < 15:
 								pCity.changeOccupationTimer(3)
 								pCity.changeHurryAngerTimer(1)
 								CyInterface().addMessage(player,True,25,CyTranslator().getText("TXT_KEY_MESSAGE_AURIC_REVOLT", ()),'',1,'Art/Interface/Buttons/Units/Auric Ascended.dds',ColorTypes(7),iX,iY,True,True)
@@ -2700,7 +2707,7 @@ class CvEventManager:
 									pLoopPlot.setImprovementType(-1)
 								iDistance = CyMap().calculatePathDistance(pLoopPlot, pPlot)
 								if iSnowOdds > iDistance > -1:
-									iTimer = CyGame().getSorenRandNum(iSnowOdds - iDistance, "Snowfall - Founding New Mulyr/Temple of the Hand in " + str(pCity.getName()))
+									iTimer = CyGame().getSorenRandNum(iSnowOdds - iDistance, "Snowfall - Founding New Mulyr/Temple of the Hand in " + pCity.getName().encode('latin_1','replace'))
 									if iTimer > 1:
 										if pLoopPlot.getTerrainType() in [iSnow, iGlacier]:
 											if pLoopPlot.isHasTempTerrain():
@@ -2900,7 +2907,7 @@ class CvEventManager:
 			StateBelief = pPlayer.getStateReligion()
 			for pyCity in PyPlayer(iPlayer).getCityList():
 				loopCity = pyCity.GetCy()
-				iRnd = CyGame().getSorenRandNum(2, "Purge of the Unfaithful in " + str(loopCity.getName()))
+				iRnd = CyGame().getSorenRandNum(2, "Purge of the Unfaithful in " + loopCity.getName().encode('latin_1','replace'))
 				if StateBelief == gc.getInfoTypeForString('RELIGION_THE_ORDER'):
 					iRnd -= 1
 				for iTarget in xrange(gc.getNumReligionInfos()):
@@ -3323,7 +3330,7 @@ class CvEventManager:
 						iPlot = -1
 						if pAuricPlayer.canFound(pLoopPlot.getX(), pLoopPlot.getY()):
 							if pLoopPlot.getNumUnits() == 0:
-								iPlot = CyGame().getSorenRandNum(50, "Place "+ str(pAuricPlayer.getName()))
+								iPlot = CyGame().getSorenRandNum(50, "Place "+ pAuricPlayer.getName().encode('latin_1','replace'))
 
 								iTerrain = pLoopPlot.getTerrainType()
 								if iTerrain == iGlacier:
@@ -4036,7 +4043,7 @@ class CvEventManager:
 										for i in xrange(jCult):
 											listRaces.append(jRace)
 							iChance = 40
-							if len(listRaces) > 0 and CyGame().getSorenRandNum(100, "Grigori Racial Diversity-Great Person- "+str(unit.getName())) <= iChance:
+							if len(listRaces) > 0 and CyGame().getSorenRandNum(100, "Grigori Racial Diversity-Great Person- "+unit.getName().encode('latin_1','replace')) <= iChance:
 
 								listRaces = [	gc.getInfoTypeForString('PROMOTION_ORC'),
 										gc.getInfoTypeForString('PROMOTION_ORC'),
@@ -4081,7 +4088,7 @@ class CvEventManager:
 								if iReligion == iStateReligion:
 									lReligions += [iReligion]
 					if len(lReligions) > 0:
-						iReligion = lReligions.pop(CyGame().getSorenRandNum(len(lReligions), "Religion Adoption "+str(unit.getName())))
+						iReligion = lReligions.pop(CyGame().getSorenRandNum(len(lReligions), "Religion Adoption "+unit.getName().encode('latin_1','replace')))
 						unit.setReligion(iReligion)
 				unit.setName(cf.MarnokNameGenerator(unit))
 			else:
@@ -4603,7 +4610,7 @@ class CvEventManager:
 											jRace = jCivInfo.getDefaultRace()
 											for i in xrange(jCult):
 												listRaces.append(jRace)
-									iRace = listRaces.pop(CyGame().getSorenRandNum(len(listRaces), "Tolerant Trait Racial Selection "+str(unit.getName())))
+									iRace = listRaces.pop(CyGame().getSorenRandNum(len(listRaces), "Tolerant Trait Racial Selection "+unit.getName().encode('latin_1','replace')))
 									if iRace != -1:
 										unit.setHasPromotion(iRace, True)
 
@@ -4658,7 +4665,7 @@ class CvEventManager:
 	##					lImprovements = range(gc.getNumImprovementInfos())
 						lImprovements = [gc.getInfoTypeForString('IMPROVEMENT_PALUS'),gc.getInfoTypeForString('IMPROVEMENT_PYRE_OF_THE_SERAPHIC'),gc.getInfoTypeForString('IMPROVEMENT_MAELSTROM'),gc.getInfoTypeForString('IMPROVEMENT_TARCHS_TOWER'), gc.getInfoTypeForString('IMPROVEMENT_BROKEN_SEPULCHER'), gc.getInfoTypeForString('IMPROVEMENT_GUARDIAN'),gc.getInfoTypeForString('IMPROVEMENT_POOL_OF_TEARS'), gc.getInfoTypeForString('IMPROVEMENT_REMNANTS_OF_PATRIA'), gc.getInfoTypeForString('IMPROVEMENT_TOMB_OF_SUCELLUS'), gc.getInfoTypeForString('IMPROVEMENT_DRAGON_BONES'), gc.getInfoTypeForString('IMPROVEMENT_SEVEN_PINES'),gc.getInfoTypeForString('IMPROVEMENT_RING_OF_CARCER'),gc.getInfoTypeForString('IMPROVEMENT_MIRROR_OF_HEAVEN'), gc.getInfoTypeForString('IMPROVEMENT_STANDING_STONES'), gc.getInfoTypeForString('IMPROVEMENT_ODIOS_PRISON'), gc.getInfoTypeForString('IMPROVEMENT_YGGDRASIL'),gc.getInfoTypeForString('IMPROVEMENT_AIFON_ISLE'),gc.getInfoTypeForString('IMPROVEMENT_WHISPERING_WOOD'),gc.getInfoTypeForString('IMPROVEMENT_BRADELINES_WELL'),gc.getInfoTypeForString('IMPROVEMENT_LETUM_FRIGUS'),gc.getInfoTypeForString('IMPROVEMENT_GRAVE_OF_ASMODAY'),gc.getInfoTypeForString('IMPROVEMENT_WODES_OAK'),gc.getInfoTypeForString('IMPROVEMENT_HERVES_MAUSOLEUM'),gc.getInfoTypeForString('IMPROVEMENT_TAPESTRY_HOUSE'), gc.getInfoTypeForString('IMPROVEMENT_CARNIVEANS_CRAG'), gc.getInfoTypeForString('IMPROVEMENT_TEMPLE_OF_ATONEMENT')]
 						while len(lImprovements) > 0:
-							iImprovement = lImprovements.pop(CyGame().getSorenRandNum(len(lImprovements), "Pilgrimage-Destination for "+ str(unit.getName())))
+							iImprovement = lImprovements.pop(CyGame().getSorenRandNum(len(lImprovements), "Pilgrimage-Destination for "+ unit.getName().encode('latin_1','replace')))
 							if iImprovement == -1:
 								continue
 	##						if not gc.getImprovementInfo(iImprovement).isUnique():
@@ -5006,7 +5013,7 @@ class CvEventManager:
 					if not isWorldUnitClass(unit.getUnitClassType()):
 						iReligion = iOne
 						if iRel != iReligion:
-							if CyGame().getSorenRandNum(33, "Martyr "+str(unit.getName())) <= 7:
+							if CyGame().getSorenRandNum(33, "Martyr "+unit.getName().encode('latin_1','replace')) <= 7:
 								unit.setReligion(iReligion)
 								iRel = iReligion
 								unit.setHasPromotion(gc.getInfoTypeForString('PROMOTION_MAGIC_RESISTANCE'), True)
@@ -5024,9 +5031,9 @@ class CvEventManager:
 		if pPlot.getImprovementType() in [gc.getInfoTypeForString('IMPROVEMENT_BARROW'), gc.getInfoTypeForString('IMPROVEMENT_GRAVEYARD'), gc.getInfoTypeForString('IMPROVEMENT_BRADELINES_WELL'),gc.getInfoTypeForString('IMPROVEMENT_LETUM_FRIGUS')]:
 			if iUnit == gc.getInfoTypeForString('UNIT_SLUAGH'):
 
-				iLevel =1+CyGame().getSorenRandNum(7, "Grave Sluagh level "+str(unit.getName()))
+				iLevel =1+CyGame().getSorenRandNum(7, "Grave Sluagh level "+unit.getName().encode('latin_1','replace'))
 				unit.setLevel(iLevel)
-				iExperience = unit.experienceNeeded() - CyGame().getSorenRandNum(iLevel, "Grave Sluagh experience " + str(unit.getName()))
+				iExperience = unit.experienceNeeded() - CyGame().getSorenRandNum(iLevel, "Grave Sluagh experience " + unit.getName().encode('latin_1','replace'))
 				unit.setExperience(iExperience, -1)
 
 
@@ -5362,7 +5369,7 @@ class CvEventManager:
 							iLevel -= 1
 
 				unit.setName(cf.MarnokNameGenerator(unit) + "'s Sluagh")
-				unit.setDuration(CyGame().getSorenRandNum(21, "Grave Sluagh Duration "+str(unit.getName())))
+				unit.setDuration(CyGame().getSorenRandNum(21, "Grave Sluagh Duration "+unit.getName().encode('latin_1','replace')))
 
 				if pPlot.getFeatureType() == gc.getInfoTypeForString('FEATURE_HALLOWED_GROUND'):
 					if cf.getUnitAlignment(unit) == gc.getInfoTypeForString('ALIGNMENT_EVIL'):
@@ -5597,7 +5604,7 @@ class CvEventManager:
 							listAffinities = list(set(listAffinities))
 							iAffinity = listAffinities[0]
 							if len(listAffinities) > 1:
-								iAffinity = listAffinities[CyGame().getSorenRandNum(len(listAffinities), "Religious Affinity type for " +str(unit.getName()))]
+								iAffinity = listAffinities[CyGame().getSorenRandNum(len(listAffinities), "Religious Affinity type for " +unit.getName().encode('latin_1','replace'))]
 
 							iMana = gc.getPromotionInfo(iAffinity).getBonusPrereq()
 							if iMana != -1:
@@ -5610,7 +5617,7 @@ class CvEventManager:
 										iMaxOdds /= 15
 										if infoUnit.getFreePromotions(iDivine2):
 											iMaxOdds /= 10
-									if CyGame().getSorenRandNum(iMaxOdds, "Religion Affinity - "+str(unit.getName())) < iNumMana:
+									if CyGame().getSorenRandNum(iMaxOdds, "Religion Affinity - "+unit.getName().encode('latin_1','replace')) < iNumMana:
 										unit.setHasPromotion(iAffinity, True)
 
 
@@ -5620,7 +5627,7 @@ class CvEventManager:
 					iMaxOdds = 500 + pPlayer.getUnitClassCount(iUnitClass)
 					if unit.isHasPromotion( iZeal):
 						iMaxOdds /= 2
-					if CyGame().getSorenRandNum(iMaxOdds, "Radiant Guard Affinity - "+str(unit.getName())) < iNumMana:
+					if CyGame().getSorenRandNum(iMaxOdds, "Radiant Guard Affinity - "+unit.getName().encode('latin_1','replace')) < iNumMana:
 						unit.setHasPromotion(gc.getInfoTypeForString('PROMOTION_AFFINITY_SUN'), True)
 
 
@@ -5668,12 +5675,12 @@ class CvEventManager:
 					iMaxOdds = 500 + pPlayer.getUnitClassCount(iUnitClass)
 					if unit.isHasPromotion( iZeal):
 						iMaxOdds /= 2
-					if CyGame().getSorenRandNum(iMaxOdds, "Angel of Death Affinity - "+str(unit.getName())) < iNumMana:
+					if CyGame().getSorenRandNum(iMaxOdds, "Angel of Death Affinity - "+unit.getName().encode('latin_1','replace')) < iNumMana:
 						unit.setHasPromotion(gc.getInfoTypeForString('PROMOTION_AFFINITY_DEATH_ARAWN'), True)
 
 
 			elif iUnit == gc.getInfoTypeForString('UNIT_DISCIPLE_OF_ACHERON'):
-				iNumMana = CyGame().getSorenRandNum(cf.getNumBonusEffective(iPlayer, gc.getInfoTypeForString('BONUS_MANA_FIRE'), unit), "Bhall Orc Affinity- "+str(unit.getName()))
+				iNumMana = CyGame().getSorenRandNum(cf.getNumBonusEffective(iPlayer, gc.getInfoTypeForString('BONUS_MANA_FIRE'), unit), "Bhall Orc Affinity- "+unit.getName().encode('latin_1','replace'))
 				if iNumMana > 1:
 					iMaxOdds = 500 + pPlayer.getUnitClassCount(iUnitClass)
 					if unit.isHasPromotion( iZeal):
@@ -5682,7 +5689,7 @@ class CvEventManager:
 						if pCity.getNumBuilding(gc.getInfoTypeForString('BUILDING_ETERNAL_FLAME')) > 0:
 							iMaxOdds /= 2
 					if pCity != -1:
-						if CyGame().getSorenRandNum(iMaxOdds, "Disciple of Acheron- "+str(unit.getName())) < iNumMana:
+						if CyGame().getSorenRandNum(iMaxOdds, "Disciple of Acheron- "+unit.getName().encode('latin_1','replace')) < iNumMana:
 							unit.setHasPromotion(gc.getInfoTypeForString('PROMOTION_AFFINITY_FIRE'), True)
 
 
@@ -6462,7 +6469,7 @@ class CvEventManager:
 					if pPlayer.getCivilizationType() in [gc.getInfoTypeForString('CIVILIZATION_KURIOTATES'), gc.getInfoTypeForString('CIVILIZATION_GRIGORI')]:
 						if unit.getRace() == -1:
 							iChance = 40
-							if CyGame().getSorenRandNum(100, "Grigori Racial Diversity "+ str(unit.getName())) <= iChance:
+							if CyGame().getSorenRandNum(100, "Grigori Racial Diversity "+ unit.getName().encode('latin_1','replace')) <= iChance:
 								listRaces = [-1]
 								jCult = city.calculateCulturePercent(iPlayer)
 								if jCult < 100:
@@ -6475,14 +6482,14 @@ class CvEventManager:
 											jRace = jCivInfo.getDefaultRace()
 											for i in xrange(jCult):
 												listRaces.append(jRace)
-									iRace = listRaces.pop(CyGame().getSorenRandNum(len(listRaces), "Grigori Racial Diversity-"+ str(unit.getName())))
+									iRace = listRaces.pop(CyGame().getSorenRandNum(len(listRaces), "Grigori Racial Diversity-"+ unit.getName().encode('latin_1','replace')))
 									if iRace != -1:
 										unit.setHasPromotion(iRace, True)
 
 				# End Advanced Tactics
 
 				if city.getNumRealBuilding(gc.getInfoTypeForString('BUILDING_TEMPLE_OF_THE_OVERLORDS_HOSTILE')) > 0:
-					if CyGame().getSorenRandNum(50, "Asylum "+ str(unit.getName())) <= 3:
+					if CyGame().getSorenRandNum(50, "Asylum "+ unit.getName().encode('latin_1','replace')) <= 3:
 						unit.setHasPromotion(gc.getInfoTypeForString('PROMOTION_CRAZED'), True)
 
 				if city.getNumRealBuilding(gc.getInfoTypeForString('BUILDING_TEMPLE_OF_THE_OVERLORDS')) > 0:
@@ -6521,50 +6528,50 @@ class CvEventManager:
 					unit.changeExperience(iXP, -1, False, False, True)
 
 		if city.getNumRealBuilding(gc.getInfoTypeForString('BUILDING_CHANCEL_OF_GUARDIANS')) > 0:
-			if CyGame().getSorenRandNum(100, "Chancel of Guardians "+ str(unit.getName())) < 20:
+			if CyGame().getSorenRandNum(100, "Chancel of Guardians "+ unit.getName().encode('latin_1','replace')) < 20:
 				unit.setHasPromotion(gc.getInfoTypeForString('PROMOTION_DEFENSIVE'), True)
 
 		if city.getNumRealBuilding(gc.getInfoTypeForString('BUILDING_TEMPLE_OF_THE_EMPYREAN_HOSTILE')) > 0:
 			if gc.getInfoTypeForString('ALIGNMENT_EVIL') == cf.getUnitAlignment(unit, True):
-				if CyGame().getSorenRandNum(100, "Temple of the EMpyrean Blind "+ str(unit.getName())) < 5:
+				if CyGame().getSorenRandNum(100, "Temple of the EMpyrean Blind "+ unit.getName().encode('latin_1','replace')) < 5:
 					unit.setHasPromotion(gc.getInfoTypeForString('PROMOTION_BLIND'), True)
 
 		if city.getNumRealBuilding(gc.getInfoTypeForString('BUILDING_TEMPLE_BROTHERHOOD_HOSTILE')) > 0:
-			if CyGame().getSorenRandNum(100, "Safehouse Pacified "+ str(unit.getName())) < 20:
+			if CyGame().getSorenRandNum(100, "Safehouse Pacified "+ unit.getName().encode('latin_1','replace')) < 20:
 				unit.setHasPromotion(gc.getInfoTypeForString('PROMOTION_PACIFIED'), True)
 
 		if city.getNumRealBuilding(gc.getInfoTypeForString('BUILDING_APHOTIC_THRONE_HOSTILE')) > 0:
-			if CyGame().getSorenRandNum(100, "Aphotic Throne Paranoia "+ str(unit.getName())) < 5:
+			if CyGame().getSorenRandNum(100, "Aphotic Throne Paranoia "+ unit.getName().encode('latin_1','replace')) < 5:
 				unit.setHasPromotion(gc.getInfoTypeForString('PROMOTION_PARANOID'), True)
 
 		if city.getNumRealBuilding(gc.getInfoTypeForString('BUILDING_GAMBLING_HOUSE_HOSTILE')) > 0:
-			if CyGame().getSorenRandNum(100, "Aphotic Throne Paranoia "+ str(unit.getName())) < 10:
+			if CyGame().getSorenRandNum(100, "Aphotic Throne Paranoia "+ unit.getName().encode('latin_1','replace')) < 10:
 				unit.setHasPromotion(gc.getInfoTypeForString('PROMOTION_MERCENARY'), True)
 
 		if city.getNumRealBuilding(gc.getInfoTypeForString('BUILDING_TEMPLE_OF_THE_HAND_HOSTILE')) > 0:
 			if unit.getReligion() == gc.getInfoTypeForString('RELIGION_WHITE_HAND'):
-				if CyGame().getSorenRandNum(100, "Temple of the Hand Cold"+ str(unit.getName())) < 20:
+				if CyGame().getSorenRandNum(100, "Temple of the Hand Cold"+ unit.getName().encode('latin_1','replace')) < 20:
 					unit.doDamageNoCaster(5, 90, gc.getInfoTypeForString('DAMAGE_COLD'), False)
 
 		if city.getNumRealBuilding(gc.getInfoTypeForString('BUILDING_ARENA_HOSTILE')) > 0:
-			if CyGame().getSorenRandNum(100, "Arena rebel "+ str(unit.getName())) < 20:
+			if CyGame().getSorenRandNum(100, "Arena rebel "+ unit.getName().encode('latin_1','replace')) < 20:
 				unit.setHasPromotion(gc.getInfoTypeForString('PROMOTION_REBEL'), True)
 				if unit.canCast(gc.getInfoTypeForString('SPELL_ARENA_BATTLE'), False):
 					unit.cast(gc.getInfoTypeForString('SPELL_ARENA_BATTLE'))
 
 		if city.getNumRealBuilding(gc.getInfoTypeForString('BUILDING_TEMPLE_OF_THE_VEIL_HOSTILE')) > 0:
-			if CyGame().getSorenRandNum(100, "Veil "+ str(unit.getName())) < 10:
+			if CyGame().getSorenRandNum(100, "Veil "+ unit.getName().encode('latin_1','replace')) < 10:
 				unit.setHasPromotion(gc.getInfoTypeForString('PROMOTION_POSSESSED'), True)
 
 		if city.getNumRealBuilding(gc.getInfoTypeForString('BUILDING_TOPHET')) > 0:
-			if CyGame().getSorenRandNum(100, "Tophet "+ str(unit.getName())) < 20:
+			if CyGame().getSorenRandNum(100, "Tophet "+ unit.getName().encode('latin_1','replace')) < 20:
 				unit.setHasPromotion(gc.getInfoTypeForString('PROMOTION_FIRE_RESISTANCE'), True)
 		if city.getNumRealBuilding(gc.getInfoTypeForString('BUILDING_TOPHET_HOSTILE')) > 0:
-			if CyGame().getSorenRandNum(100, "Tophet hostile fire"+ str(unit.getName())) < 20:
+			if CyGame().getSorenRandNum(100, "Tophet hostile fire"+ unit.getName().encode('latin_1','replace')) < 20:
 				unit.doDamageNoCaster(5, 90, gc.getInfoTypeForString('DAMAGE_FIRE'), False)
 
 		if city.getNumRealBuilding(gc.getInfoTypeForString('BUILDING_INTERSTICE_HOSTILE')) > 0:
-			if CyGame().getSorenRandNum(100, "Interstice "+ str(unit.getName())) < 5:
+			if CyGame().getSorenRandNum(100, "Interstice "+ unit.getName().encode('latin_1','replace')) < 5:
 				bWater = unit.getDomainType() == gc.getInfoTypeForString('DOMAIN_SEA')
 				iBestValue = 0
 				pBestPlot = -1
@@ -6572,7 +6579,7 @@ class CvEventManager:
 					iValue = 0
 					pTargetPlot = CyMap().plotByIndex(i)
 					if bWater == pTargetPlot.isWater():
-						iValue = CyGame().getSorenRandNum(1000, "Escape miscast move "+ str(unit.getName()))
+						iValue = CyGame().getSorenRandNum(1000, "Escape miscast move "+ unit.getName().encode('latin_1','replace'))
 						if not pTargetPlot.isOwned():
 							iValue += 1000
 						if pTargetPlot == pPlot:
@@ -6785,7 +6792,7 @@ class CvEventManager:
 										lUnits.append(pLoopUnit)
 
 					if len(lUnits) > 0:
-						pUnit = lUnits[CyGame().getSorenRandNum(len(lUnits), "Spirit Guide "+ str(unit.getName()))-1]
+						pUnit = lUnits[CyGame().getSorenRandNum(len(lUnits), "Spirit Guide "+ unit.getName().encode('latin_1','replace'))-1]
 						iXP /= 2
 						pUnit.changeExperience(iXP, -1, False, False, False)
 						unit.changeExperience(iXP * -1, -1, False, False, False)
@@ -7692,11 +7699,11 @@ class CvEventManager:
 				iNum = 0
 				if iMana != -1:
 					if eTeam.isBuildingClassMaxedOut(gc.getInfoTypeForString('BUILDINGCLASS_TOWER_OF_DIVINATION'),0):
-						iNum += 1 + CyGame().getSorenRandNum(max(0,cf.getNumBonusEffective(iPlayer, iMana))//pPlayer.getUnitClassCount(iUnitClass), "Tower Free Promotions "+ str(pUnit.getName()))
+						iNum += 1 + CyGame().getSorenRandNum(max(0,cf.getNumBonusEffective(iPlayer, iMana))//pPlayer.getUnitClassCount(iUnitClass), "Tower Free Promotions "+ pUnit.getName().encode('latin_1','replace'))
 				if iUnit in [gc.getInfoTypeForString('UNIT_ANGEL_OF_DEATH'),gc.getInfoTypeForString('UNIT_TOMB_WARDEN')]:
 					if eTeam.isBuildingClassMaxedOut(gc.getInfoTypeForString('BUILDINGCLASS_TOWER_OF_NECROMANCY'),0):
 						iMana = gc.getInfoTypeForString('BONUS_MANA_DEATH')
-						iNum += 1 + CyGame().getSorenRandNum(max(0,cf.getNumBonusEffective(iPlayer, iMana))//pPlayer.getUnitClassCount(iUnitClass), "Tower Free Promotions "+ str(pUnit.getName()))
+						iNum += 1 + CyGame().getSorenRandNum(max(0,cf.getNumBonusEffective(iPlayer, iMana))//pPlayer.getUnitClassCount(iUnitClass), "Tower Free Promotions "+ pUnit.getName().encode('latin_1','replace'))
 				if iNum > 0:
 					pUnit.changeFreePromotionPick(iNum)
 
@@ -7705,7 +7712,7 @@ class CvEventManager:
 				iMana = gc.getUnitInfo(pUnit.getUnitType()).getPrereqAndBonus()
 				if iMana != -1:
 					if eTeam.isBuildingClassMaxedOut(gc.getInfoTypeForString('BUILDINGCLASS_TOWER_OF_THE_ELEMENTS'),0):
-						iNum = 1 + CyGame().getSorenRandNum(max(0,cf.getNumBonusEffective(iPlayer, iMana))//pPlayer.getUnitClassCount(iUnitClass), "Tower Free Promotions "+ str(pUnit.getName()))
+						iNum = 1 + CyGame().getSorenRandNum(max(0,cf.getNumBonusEffective(iPlayer, iMana))//pPlayer.getUnitClassCount(iUnitClass), "Tower Free Promotions "+ pUnit.getName().encode('latin_1','replace'))
 						pUnit.changeFreePromotionPick(iNum)
 
 		elif iPromotion == gc.getInfoTypeForString('PROMOTION_UNDEAD'):
@@ -7714,7 +7721,7 @@ class CvEventManager:
 					iMana = gc.getUnitInfo(pUnit.getUnitType()).getPrereqAndBonus()
 					if iMana == -1:
 						iMana = gc.getInfoTypeForString('BONUS_MANA_DEATH')
-					iNum = 1 + CyGame().getSorenRandNum(max(0,cf.getNumBonusEffective(iPlayer, iMana))//pPlayer.getUnitClassCount(iUnitClass), "Tower Free Promotions "+ str(pUnit.getName()))
+					iNum = 1 + CyGame().getSorenRandNum(max(0,cf.getNumBonusEffective(iPlayer, iMana))//pPlayer.getUnitClassCount(iUnitClass), "Tower Free Promotions "+ pUnit.getName().encode('latin_1','replace'))
 					pUnit.changeFreePromotionPick(iNum)
 
 			if pPlot.isOwned():
@@ -10058,7 +10065,7 @@ class CvEventManager:
 
 
 
-		sName = "Inhabitant of " + str(city.getName()) + "'s Sluagh"
+		sName = "Inhabitant of " + city.getName().encode('latin_1','replace') + "'s Sluagh"
 		listRaces = []
 		iCulture = city.getCulture(iOwner)
 		iPop = city.getPopulation()

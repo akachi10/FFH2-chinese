@@ -629,7 +629,7 @@ class CustomFunctions:
 									'UNIT_IRON_GOLEM',
 									'UNIT_GARGOYLE',
 									'UNIT_AUTOMATON',
-									'UNIT_PRIEST_RINGGIVER'
+									'UNIT_PRIEST_RINGGIVER',
 									'UNIT_HIGH_PRIEST_RINGGIVER']
 
 
@@ -675,6 +675,10 @@ class CustomFunctions:
 		sPromo = lPromoList.pop(CyGame().getSorenRandNum(len(lPromoList), "Pick Promotion"))
 		iUnit = gc.getInfoTypeForString(sMonster)
 		iHenchman = gc.getInfoTypeForString(sHenchman)
+		iPromo = gc.getInfoTypeForString(sPromo)
+		if iUnit == -1 or iHenchman == -1 or iPromo == -1:
+			CvUtil.pyPrint("FFH2_LAIR_INVALID_TYPE_ABORT monster=%s unit=%d henchman=%s henchmanType=%d promotion=%s promotionType=%d x=%d y=%d" % (sMonster, iUnit, sHenchman, iHenchman, sPromo, iPromo, pPlot.getX(), pPlot.getY()))
+			return 0
 ##		pPlot2 = self.findClearPlot(-1, pPlot)
 ##		if pPlot2 != -1:
 ##			for i in xrange(pPlot.getNumUnits(), -1, -1):
@@ -696,7 +700,7 @@ class CustomFunctions:
 		iY = pPlot.getY()
 		newUnit = bPlayer.initUnit(iUnit, iX, iY, UnitAITypes.UNITAI_LAIRGUARDIAN, DirectionTypes.DIRECTION_SOUTH)
 		if newUnit != -1:
-			newUnit.setHasPromotion(gc.getInfoTypeForString(sPromo), True)
+			newUnit.setHasPromotion(iPromo, True)
 			newUnit.setHasPromotion(iExile, True)
 			newUnit.setHasPromotion(gc.getInfoTypeForString('PROMOTION_LAIR_GUARDIAN'), True)
 			newUnit.setName(self.MarnokNameGenerator(newUnit))
@@ -3136,7 +3140,7 @@ class CustomFunctions:
 				'PROMOTION_ARCANE',
 				'PROMOTION_CHANNELING1',
 				'PROMOTION_DIVINE',
-				'PROMOTION_EXTENSION1'
+				'PROMOTION_EXTENSION1',
 				'PROMOTION_ILLUSIONIST',
 				'PROMOTION_SUMMONER',
 				'PROMOTION_SUNDERED'
@@ -3175,7 +3179,7 @@ class CustomFunctions:
 ##				'PROMOTION_DEMON',
 				'PROMOTION_GOLEM',
 				'PROMOTION_ILLUSION',
-				'PROMOTION_ELEMENTAL'
+				'PROMOTION_ELEMENTAL',
 				'PROMOTION_UNDEAD',
 				'PROMOTION_VAMPIRE'
 				],
@@ -5875,7 +5879,8 @@ class CustomFunctions:
 						if CyGame().getGlobalCounter() > 20:
 							if (iCiv == iSvartalfar and iCiv2 == iLjosalfar) or (iCiv2 == iSvartalfar and iCiv == iLjosalfar):
 								if CyGame().getPlayerRank(iPlayer) > CyGame().getPlayerRank(iPlayer2):
-									self.startWar(iPlayer, iPlayer2, WarPlanTypes.WARPLAN_TOTAL)
+									if pPlayer.AI_getAttitude(iPlayer2) <= AttitudeTypes.ATTITUDE_ANNOYED: # YK-MOD gaizao-12: elf forced war only when attitude Annoyed or worse
+										self.startWar(iPlayer, iPlayer2, WarPlanTypes.WARPLAN_TOTAL)
 						if pPlayer.getAlignment() == iEvil:
 							if CyGame().getGlobalCounter() > 40 or iCiv in [iInfernal, iDoviello]:
 								if eTeam.getAtWarCount(True) == 0 and CyGame().getPlayerRank(iPlayer2) > CyGame().getPlayerRank(iPlayer):

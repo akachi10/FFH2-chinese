@@ -176,11 +176,20 @@ class WBBuildingScreen:
 			iBuildingClass = BuildingInfo.getBuildingClassType()
 
 			if CvPlatyBuilderScreen.bHideInactive:
-				if gc.getCivilizationInfo(pCity.getCivilizationType()).getCivilizationBuildings(iBuildingClass) != i: continue
+				# YK-MOD gaizao-18: hidden (bGraphicalOnly) buildings such as the _HOSTILE temple variants
+				# share a BuildingClass with their friendly version, so getCivilizationBuildings() never
+				# matches them and they could not be added/removed in the World Builder at all.
+				# Let them through, plus anything this city actually owns.
+				if gc.getCivilizationInfo(pCity.getCivilizationType()).getCivilizationBuildings(iBuildingClass) != i:
+					if not BuildingInfo.isGraphicalOnly() and pCity.getNumRealBuilding(i) == 0: continue
 			sDesc = BuildingInfo.getDescription()
 			lAll.append([sDesc, i])
 			if BuildingInfo.isGraphicalOnly():
 				lHidden.append([sDesc, i])
+				# YK-MOD gaizao-18: hidden religion buildings (the _HOSTILE temple variants) are also
+				# listed under the religion filter, next to their friendly counterparts.
+				if BuildingInfo.getReligionType() != -1:
+					lReligion.append([sDesc, i])
 			else:
 				if isLimitedWonderClass(iBuildingClass):
 					lWonder.append([sDesc, i])

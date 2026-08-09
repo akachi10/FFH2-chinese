@@ -139,6 +139,7 @@
 	<load mod="Plot List Enhancements"/>
 	
 	<load mod="Autolog"/>
+	<load mod="Save Diagnostics"/>
 	<load mod="Reminder"/>  <!-- requires Autolog -->
 	<load mod="Civ4lerts"/>
 	<load mod="MoreCiv4lerts"/>

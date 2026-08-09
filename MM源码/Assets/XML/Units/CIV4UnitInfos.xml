@@ -9390,9 +9390,9 @@
 			<iXPValueAttack>8</iXPValueAttack>
 			<iXPValueDefense>4</iXPValueDefense>
 			<iBombardRate>20</iBombardRate>
-			<SpecialCargo>SPECIALUNIT_BIRD</SpecialCargo>
-			<DomainCargo>DOMAIN_AIR</DomainCargo>
-			<iCargo>1</iCargo>
+			<SpecialCargo>NONE</SpecialCargo>
+			<DomainCargo>NONE</DomainCargo>
+			<iCargo>3</iCargo>
 			<iAsset>10</iAsset>
 			<iPower>15</iPower>
 			<UnitMeshGroups>
@@ -9457,9 +9457,9 @@
 			<iXPValueAttack>8</iXPValueAttack>
 			<iXPValueDefense>4</iXPValueDefense>
 			<iBombardRate>30</iBombardRate>
-			<SpecialCargo>SPECIALUNIT_BIRD</SpecialCargo>
-			<DomainCargo>DOMAIN_AIR</DomainCargo>
-			<iCargo>1</iCargo>
+			<SpecialCargo>NONE</SpecialCargo>
+			<DomainCargo>NONE</DomainCargo>
+			<iCargo>3</iCargo>
 			<iAsset>18</iAsset>
 			<iPower>25</iPower>
 			<UnitMeshGroups>

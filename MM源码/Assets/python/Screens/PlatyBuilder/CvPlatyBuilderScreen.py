@@ -1366,7 +1366,10 @@ class CvWorldBuilderScreen:
 				ItemInfo = gc.getBuildingInfo(i)
 				iClass = ItemInfo.getBuildingClassType()
 				if bHideInactive:
-					if gc.getCivilizationInfo(iCivilization).getCivilizationBuildings(iClass) != i: continue
+					# YK-MOD gaizao-18: same as WBBuildingScreen - never filter out hidden (bGraphicalOnly)
+					# buildings, or the _HOSTILE temple variants stay unreachable in the World Builder.
+					if gc.getCivilizationInfo(iCivilization).getCivilizationBuildings(iClass) != i:
+						if not ItemInfo.isGraphicalOnly(): continue
 
 				sDesc = ItemInfo.getDescription()
 				if self.iSelectClass == 0:
