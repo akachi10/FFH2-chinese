@@ -44,6 +44,8 @@
 
 | 改造 23 | 2026-08-08 | 阿尔达两项修订：① 灰色议会对其他宗教的惩罚 −1 → **−3**（42 处，改造 21 削过头的回调；其自身 +10 仍不动）；② **等级加成退回整数除法** `getLevel() / 2`（原 `/ 2.0`），`iArda` 恢复全程整数，连带拆除改造 22 为兜底浮点而加的 3 处 `int()` 补丁——修掉悬浮提示里 `1110048768`（= 浮点 42.5 的位模式）这类天书数字 | MM `CvSpellInterface.py`（+ 仓库同步） | `.bak-mod-20260808-180325`（改造22态）/ `.bak-mod-20260808-180535`（灰议−3 后） |
 
+| 改造 24 | 2026-08-08 | 阿尔达「阶+经验」加成改为**纯抗性**：不再于开头直接累加，改为所有修正算完后按缺口封顶补 `min(阶+经验, max(0, 41 - iArda))`。无减益时封顶 41（与基数 40 同为 ARDA4 档，档位零增益）；仅当被压到 41 以下才补，最多补回 41。提示文本同步改为显示封顶后的真实生效值 | MM `CvSpellInterface.py`（+ 仓库同步） | `.bak-mod-20260808-185229` |
+
 > 路径缩写：FFH2 = `C:\Civilization4\Beyond the Sword\Mods\Fall from Heaven 2\Assets\XML\...`；MM = `C:\Civilization4\Beyond the Sword\Mods\Magister Modmod for FfH2\Assets\XML\...`；BtS = `C:\Civilization4\Beyond the Sword\`。
 
 ## 游戏目录 git 仓库（改造版本管理）
