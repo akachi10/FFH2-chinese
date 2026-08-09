@@ -59,6 +59,11 @@
 - **git 身份**：本机原先没有配任何 `user.name` / `user.email`，`git commit` 会直接 fatal 退出。已在**该仓库本地**配 `zsts` / `akache.tao@gmail.com`（`--local`，不影响其它仓库）。换机器或重建仓库时需重配。
 - **主 DLL 纳入跟踪**：`Assets\CvGameCoreDLL.dll`（改造 20 打过二进制补丁）用 `!/Assets/CvGameCoreDLL.dll` 单独放行；**不**跟踪 `CvGameCoreDLL_Assert.dll`（6.5MB 调试版，从未改动），`.bak-orig-*` / `.bak-mod-*` 备份也仍被排除。`.gitattributes` 加了 `*.dll binary`，避免 git 尝试 diff/合并。注意：6MB 二进制每提交一版就在仓库里留一份完整副本，改 DLL 要有节制；`MM玩法改造\tools\` 下的补丁脚本（带字节校验与 `--revert`）仍是首选的复现与回滚手段。
 
+### 台账仓库（`FFH2-chinese`）自身的 git
+
+- 同样由 session 管理提交；本地身份已配 `zsts` / `akache.tao@gmail.com`（此前也是空的，会 fatal）。
+- **`.gitattributes` 已补（2026-08-08，`* -text`）**：此前该仓库没有这个文件，Git for Windows 默认 `autocrlf=true` 把入库文件的 CRLF **剥成 LF**——实测 `MM源码` 的 `CvSpellInterface.py` 磁盘 1,732,857 字节、blob 只有 1,693,234，差值 39,623 正好等于 CRLF 行数。这会让「仓库版 vs 游戏版」的字节比对失去意义。**历史提交（`5cc7576` 起）里存的仍是 LF 版本，未追溯改写**；做字节对照时要么用磁盘文件，要么先确认 blob 行尾。
+
 ### 与 `MM源码` 的分工
 
 `<repo>\MM源码` 是**上游英文原版**的快照，不是游戏目录的镜像，**不需要再同步**。它的作用是当对照基准——例如靠「仓库版 vs 游戏版」的字节差判断某项改动是否真的落地。已知两边天然不同的地方：游戏侧的 `Text\*` 是汉化后的（`Magister_CIV4GameText_FFH2.xml` 1.31MB → 5.17MB），`Text\YKBase_*` 系列与 `Assets\Config\` 整批只存在于游戏侧。
