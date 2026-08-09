@@ -2997,8 +2997,19 @@ def effectArda(pCaster):
 		# infoRel = gc.getReligionInfo(iReligionCaster)
 		# sIconDesc = u"%c" %(infoRel.getChar())
 		# szBuffer = localText.getText("TXT_KEY_TXT_ARDA_FROM", (iArda, sIconDesc, )) + localText.getText("[ICON_BULLET]", ( )) + szBuffer
-		# gaizao 24: rank/level bonus only offsets penalties, capped at base+1 (41)
-		iArdaResist = min(iRankArda + iLevelArda, max(0, 41 - iArda))
+		# gaizao 25: rank/level bonus with diminishing returns by base arda
+		# <40 full, 40s x0.8, 50s x0.6, 60s x0.4, 70s x0.2, 80+ none
+		iArdaResist = iRankArda + iLevelArda
+		if iArda >= 80:
+			iArdaResist = 0
+		elif iArda >= 70:
+			iArdaResist = iArdaResist * 2 / 10
+		elif iArda >= 60:
+			iArdaResist = iArdaResist * 4 / 10
+		elif iArda >= 50:
+			iArdaResist = iArdaResist * 6 / 10
+		elif iArda >= 40:
+			iArdaResist = iArdaResist * 8 / 10
 		iArda += iArdaResist
 		listArdas = [	
 						gc.getInfoTypeForString('PROMOTION_ARDA0'),
@@ -4325,8 +4336,19 @@ def helpEffectArda(lpUnits, eSpell):
 		infoRel = gc.getReligionInfo(iReligionCaster)
 		sIconDesc = u"%c" %(infoRel.getChar())
 		szBuffer = localText.getText("TXT_KEY_TXT_ARDA_FROM", (iArda, sIconDesc, )) + localText.getText("[ICON_BULLET]", ( )) + szBuffer
-		# gaizao 24: rank/level bonus only offsets penalties, capped at base+1 (41)
-		iArdaResist = min(iRankArda + iLevelArda, max(0, 41 - iArda))
+		# gaizao 25: rank/level bonus with diminishing returns by base arda
+		# <40 full, 40s x0.8, 50s x0.6, 60s x0.4, 70s x0.2, 80+ none
+		iArdaResist = iRankArda + iLevelArda
+		if iArda >= 80:
+			iArdaResist = 0
+		elif iArda >= 70:
+			iArdaResist = iArdaResist * 2 / 10
+		elif iArda >= 60:
+			iArdaResist = iArdaResist * 4 / 10
+		elif iArda >= 50:
+			iArdaResist = iArdaResist * 6 / 10
+		elif iArda >= 40:
+			iArdaResist = iArdaResist * 8 / 10
 		iArda += iArdaResist
 		if iArdaResist != 0:
 			szBuffer += localText.getText("TXT_KEY_TXT_ARDA_FROM", (iArdaResist, pCaster.getName(), ))

@@ -46,6 +46,8 @@
 
 | 改造 24 | 2026-08-08 | 阿尔达「阶+经验」加成改为**纯抗性**：不再于开头直接累加，改为所有修正算完后按缺口封顶补 `min(阶+经验, max(0, 41 - iArda))`。无减益时封顶 41（与基数 40 同为 ARDA4 档，档位零增益）；仅当被压到 41 以下才补，最多补回 41。提示文本同步改为显示封顶后的真实生效值 | MM `CvSpellInterface.py`（+ 仓库同步） | `.bak-mod-20260808-185229` |
 
+| 改造 25 | 2026-08-08 | 阿尔达「阶+经验」加成改为**按基础值分段衰减**（取代改造 24 的硬封顶 41）：不含加成的 iArda `<40` 全额、`40s ×0.8`、`50s ×0.6`、`60s ×0.4`、`70s ×0.2`、`≥80` 归零；整数乘除（`*8/10`）不引回浮点。意图是让被压制的祭司（尤其敌对教派）拿满加成，处境好的不再白拿 | MM `CvSpellInterface.py`（+ 仓库同步） | `.bak-mod-20260808-194006` |
+
 > 路径缩写：FFH2 = `C:\Civilization4\Beyond the Sword\Mods\Fall from Heaven 2\Assets\XML\...`；MM = `C:\Civilization4\Beyond the Sword\Mods\Magister Modmod for FfH2\Assets\XML\...`；BtS = `C:\Civilization4\Beyond the Sword\`。
 
 ## 游戏目录 git 仓库（改造版本管理）
