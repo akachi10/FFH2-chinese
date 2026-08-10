@@ -50,6 +50,8 @@
 
 | 改造 26 | 2026-08-08 | 敌对版神殿可造祭司：**12 个**（确有敌对版的教派）祭司的 `PrereqBuilding`（认具体 Type，写死友好版）改为 `PrereqBuildingClass`（认 BuildingClass，友好/敌对同类通吃）——与**信徒既有写法对齐**（信徒本就用 Class，故敌对神殿一直能出信徒）。**仅改确有 `_HOSTILE` 版的 12 个**；无敌对版的 5 个（丰饶/永恒结社/树叶/灰议/狐人，其 Class 下只有一个 Type、两种写法等价）与莱兰（信徒要图书馆、祭司要档案馆，本就是不同建筑的递进链）一律保持 `PrereqBuilding` 原样，不留无谓变更。主教不动，`StateReligion` 仍要求国教对口，敌对教派升不了主教 | MM `CIV4UnitInfos.xml`（+ 仓库同步） | `.bak-mod-20260808-202434` |
 
+| 改造 27 | 2026-08-09 | 商船（`UNITCLASS_MERCHANTMAN`）改为国家单位，每方同时最多 **2** 艘（`iMaxPlayerInstances` −1 → 2）。动机：贸易任务收益在马拉松+跨海下可达 1.1 万金/次而买船仅 1800，「每回合买船跑贸易」成印钞机；限量而非砍收益，保留正常玩法手感 | MM `CIV4UnitClassInfos.xml`（+ 仓库同步） | `.bak-orig-20260809-232547`、`.bak-mod-20260809-232547` |
+
 > 路径缩写：FFH2 = `C:\Civilization4\Beyond the Sword\Mods\Fall from Heaven 2\Assets\XML\...`；MM = `C:\Civilization4\Beyond the Sword\Mods\Magister Modmod for FfH2\Assets\XML\...`；BtS = `C:\Civilization4\Beyond the Sword\`。
 
 ## 游戏目录 git 仓库（改造版本管理）

@@ -779,6 +779,64 @@ iArda += iArdaResist
 - **生效**：单位前提为运行时查表，**旧档即时生效**，无需新开局。
 - **回滚**：还原 `.bak-mod-20260808-202434`。
 
+## 改造 27：商船改为国家单位（同时最多 2 艘）
+
+- **日期**：2026-08-09 23:25（Asia/Shanghai）
+- **动机**：用户实测发现「每回合买商船跑贸易」是印钞机——买船约 1800 金，一次跨海贸易约 8000–11000 金，净赚近万，且贸易后单位销毁（`CvUnit::trade()` 末尾 `kill(true)`），可无限循环。
+
+### 贸易金币的完整公式（已逐层追源码核实）
+
+```
+getBaseTradeProfit  : p = min(目标城人口 × 50, 首都到目标城距离 × 地图TradeProfitPercent)
+                      p = p × 20 / 100          # TRADE_PROFIT_PERCENT
+                      p = max(100, p)
+calculateTradeProfit: profit = p × totalTradeModifier / 10000
+getTradeGold        : gold = (iBaseTrade + iTradeMultiplier × profit) × 游戏速度UnitTradePercent / 100
+```
+
+关键参数与放大项：
+
+| 项 | 值 | 说明 |
+|---|---|---|
+| 距离基准 | **首都** | `getTradeGold` 取 `getCapitalCity()`，与商船位置、实际商路无关；迁都会改变收益 |
+| 地图 `TradeProfitPercent` | 极大档 **30** | 决斗 80 → 极大 30，图越大系数越小 |
+| `totalTradeModifier` | 基准 100 | +`OVERSEAS_TRADE_MODIFIER` **100**（跨大陆，即增幅 50%）、+`CAPITAL_TRADE_MODIFIER` 25（连通首都）等 |
+| 游戏速度 | 马拉松 **300%** | 史诗 150 / 普通 100 / 快速 67 |
+| 商船 | `iBaseTrade` 100 / `iTradeMultiplier` 200 | 赌徒仅 10/20（1/10），大商人 500/300 |
+
+用户实测「商船 8000、同地点赌徒 800」与本公式吻合（10 倍差即两单位参数差）。
+
+**漏洞成因**：距离按**首都**算，但船可以从紧邻目标城的己方城市下水——收益与航行成本脱节。在目标城旁建城当造船港即可每回合兑现一次。
+
+### 方案选择
+
+| 方案 | 结论 |
+|---|---|
+| 禁止购买 | **不可行**。单位无 `bNoHurry` 字段（那是建筑的），`canHurry`/`canHurryUnit` 无按单位类型的判定，也**无 Python 回调钩子** |
+| 改距离算法为「首都与最近己方城市的平均」 | **否决**。`getBaseTradeProfit` 在 DLL 内，需**新增循环与运算**（找 code cave、手写机器码），远难于改造 20 那种「改分支为跳转」的 6 字节补丁 |
+| 砍 `iTradeMultiplier` / `TRADE_PROFIT_PERCENT` / `OVERSEAS_TRADE_MODIFIER` | 可行但影响面大（后两者全局，波及大商人与赌徒） |
+| **限制同时存在数量**（采用） | 用户定。保留单次收益手感，只堵「无限刷」 |
+
+### 改动
+
+`Assets/XML/Units/CIV4UnitClassInfos.xml` · `UNITCLASS_MERCHANTMAN`：
+
+```xml
+<iMaxPlayerInstances>-1</iMaxPlayerInstances>   →   <iMaxPlayerInstances>2</iMaxPlayerInstances>
+```
+
+- **字段位置注意**：该限制属 **`CvUnitClassInfo`**，写在 `CIV4UnitClassInfos.xml`，**不是** `CIV4UnitInfos.xml`（后者查不到此元素）。
+- 元素**本就存在**（原值 -1），仅改值不插入，无 schema 顺序风险。
+- 判定链：`CvPlayer::canTrain` → `isUnitClassMaxedOut` → 先 `isNationalUnitClass()` 过滤，再比 `getUnitClassCount() >= getMaxPlayerInstances()`。设了非 -1 值即成为「国家单位」。
+- 先例：MM 内 `UNITCLASS_GUARDIAN_VINES` 已用 `player=7`，另有 213 个条目（多为 EQUIPMENTCLASS）在用这套机制。
+- **走私船（`UNIT_SMUGGLER`，同为 100/200 参数）未动**，用户未提及；如需一并限制，改其 UnitClass 同一字段即可。
+
+- **文件**：游戏 `<MM>\Assets\XML\Units\CIV4UnitClassInfos.xml`（170,877 → 170,876 字节）；仓库 `MM源码` 同步。
+- **备份**：`.bak-orig-20260809-232547`（原版存证，首次改此文件）、`.bak-mod-20260809-232547`。
+- **校验**：两份 `ElementTree` 解析 PASS；CRLF 4,066 行、裸 LF 0；全文件 `<iMaxPlayerInstances>2</iMaxPlayerInstances>` 恰 1 处。
+- **⚠ 生效**：`isUnitClassMaxedOut` 读的是 `getUnitClassCount()`，该计数器**随存档存取**——**旧档很可能不生效，需新开局**（与 iDefense / iFreeSpecialist 同类）。待实测确认。
+- **回滚**：还原 `.bak-mod-20260809-232547`，或把值改回 -1。
+
 ## 历史参考（2019 年 FFH 时代的改造，见 `C:\wm4.back\安装顺序.txt`）
 
 - 地图尺寸：`CIV4WorldInfo.xml` + 地图脚本 `getGridSize`（Terra 大网格 / Pangaea 小一档）
